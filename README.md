@@ -9,8 +9,8 @@
         </tr>
         <tr>
             <td>Dirawat</td>
-            <td align="center">1855 </td>
-            <td align="center">170 </td>
+            <td align="center">1874 </td>
+            <td align="center">179 </td>
             <td align="center">65 </td>
         </tr>
         <tr>
@@ -27,8 +27,8 @@
         </tr>
         <tr>
             <td>Jumlah</td>
-            <td align="center">2020</td>
-            <td align="center">195</td>
+            <td align="center">2040</td>
+            <td align="center">204</td>
             <td align="center">80</td>
 		</tr>
     </table>
