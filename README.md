@@ -9,14 +9,14 @@
         </tr>
         <tr>
             <td>Dirawat</td>
-            <td align="center">1885 </td>
-            <td align="center">197 </td>
+            <td align="center">1889 </td>
+            <td align="center">201 </td>
             <td align="center">65 </td>
         </tr>
         <tr>
             <td>Sehat/Sembuh</td>
             <td align="center">166 </td>
-            <td align="center">12 </td>
+            <td align="center">14 </td>
             <td align="center">9 </td>
         </tr>
         <tr>
@@ -27,8 +27,8 @@
         </tr>
         <tr>
             <td>Jumlah</td>
-            <td align="center">2051</td>
-            <td align="center">223</td>
+            <td align="center">2055</td>
+            <td align="center">229</td>
             <td align="center">80</td>
 		</tr>
     </table>
