@@ -1,6 +1,6 @@
 # cov-sulsel (Auto Update)
 
-<b>Data Sebaran Covid19 - Wilayah Sulawesi Selatan</b> <br>
+<b>Data Sebaran Covid-19 Wilayah Sulsel</b> <br>
 1.	Kota Makassar<br>
 2.	Kota Palopo<br>
 3.	Kota Parepare<br>
