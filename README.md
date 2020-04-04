@@ -9,7 +9,7 @@
         </tr>
         <tr>
             <td>Dirawat</td>
-            <td align="center">1905 </td>
+            <td align="center">1906 </td>
             <td align="center">206 </td>
             <td align="center">65 </td>
         </tr>
@@ -22,13 +22,13 @@
         <tr>
             <td>Meninggal</td>
             <td align="center">0</td>
-            <td align="center">13 </td>
+            <td align="center">15 </td>
             <td align="center">6 </td>
         </tr>
         <tr>
             <td>Jumlah</td>
             <td align="center">2072</td>
-            <td align="center">233</td>
+            <td align="center">235</td>
             <td align="center">80</td>
 		</tr>
     </table>
