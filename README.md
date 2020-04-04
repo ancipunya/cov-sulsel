@@ -2,13 +2,12 @@
 
 #### Data update terakhir
 
-| PASIEN | ODP | PDP | POSITIF | LINK |
-| ---- | -------- | ---- | ---- |  ---- |
-| Dirawat | 1943  | 206  | 65  | https://anci.web.id/cor/odp_detail.html |
-| Sehat/Sembuh | 166  | 14  | 9  | https://anci.web.id/cor/pdp_detail.html |
-| Meninggal | 0 | 15  | 6  | https://anci.web.id/cor/positif_detail.html |
-| ---- | -------- | ---- | ---- |  ---- |
-| JUMLAH | 2109 | 235 | 80 | https://anci.web.id/cor/jumlah_sulsel.html |
+| PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
+| ---- | -------- | ---- | ---- |  ---- | ---- |
+| ODP | 1943  | 166  | 0 | 2109 | https://anci.web.id/cor/odp_detail.html |
+| PDP | 206  | 14  | 15  | 235 | https://anci.web.id/cor/pdp_detail.html |
+| POSITIF | 65  | 9  | 6  | 80 | https://anci.web.id/cor/positif_detail.html |
+| JUMLAH | 2214 | 189 | 21 | 2424 | https://anci.web.id/cor/jumlah_sulsel.html |
 
  
 <br>
