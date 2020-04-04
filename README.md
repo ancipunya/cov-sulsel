@@ -1,31 +1,36 @@
 # covid19-sulsel (Auto Update)
 <br>
     <table>
-        <tr align="center">
-            <td width="200px">ODP</td>
-            <td width="200px">PDP</td>
-			<td width="200px">POSITIF</td>
+        <tr>
+		    <td></td>
+            <td>ODP</td>
+            <td>PDP</td>
+			<td>POSITIF</td>
         </tr>
-        <tr align="center">
-            <td><font size="100">1905</font></td>
-            <td><font size="100">172</font></td>
-            <td><font size="100">80</font></td>
+        <tr>
+            <td>Dirawat</td>
+            <td>1767  Org</td>
+            <td>150  Org</td>
+            <td>65  Org</td>
         </tr>
-        <tr align="center">
-            <td>1743  Dalam Pengawasan</td>
-            <td>162  Selesai Pengawasan</td>
-            <td>0 Meninggal</td>
+        <tr>
+            <td>Sehat/Sembuh</td>
+            <td>162  Org</td>
+            <td>12  Org</td>
+            <td>9  Org</td>
         </tr>
-        <tr align="center">
-            <td>150  Dirawat</td>
-            <td>12  Sehat</td>
-            <td>10  Meninggal</td>
+        <tr>
+            <td>Meninggal</td>
+            <td>0 Org</td>
+            <td>10  Org</td>
+            <td>6  Org</td>
         </tr>
-        <tr align="center">
-            <td>65  Dirawat</td>
-            <td>9  Sembuh</td>
-            <td>6  Meninggal</td>
-        </tr>
+        <tr>
+            <td>Jumlah</td>
+            <td>1929 Org</td>
+            <td>172 Org</td>
+            <td>80 Org</td>
+		</tr>
     </table>
 
 <br>
