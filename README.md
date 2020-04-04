@@ -12,19 +12,19 @@
             <td><font size="100">80</font></td>
         </tr>
         <tr align="center">
-            <td> Dalam Pengawasan</td>
-            <td> Selesai Pengawasan</td>
+            <td>1743  Dalam Pengawasan</td>
+            <td>162  Selesai Pengawasan</td>
             <td>0 Meninggal</td>
         </tr>
         <tr align="center">
-            <td> Dirawat</td>
-            <td> Sehat</td>
-            <td> Meninggal</td>
+            <td>150  Dirawat</td>
+            <td>12  Sehat</td>
+            <td>10  Meninggal</td>
         </tr>
         <tr align="center">
-            <td> Dirawat</td>
-            <td> Sembuh</td>
-            <td> Meninggal</td>
+            <td>65  Dirawat</td>
+            <td>9  Sembuh</td>
+            <td>6  Meninggal</td>
         </tr>
     </table>
 
