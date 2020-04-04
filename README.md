@@ -1,4 +1,16 @@
 # covid19-sulsel (Auto Update)
+
+#### Data update terakhir
+
+| PASIEN | ODP | PDP | POSITIF | LINK |
+| ---- | -------- | ---- | ---- |  ---- |
+| Dirawat | 1943  | 206  | 65  | https://anci.web.id/cor/odp_detail.html |
+| Sehat/Sembuh | 166  | 14  | 9  | https://anci.web.id/cor/pdp_detail.html |
+| Meninggal | 0 | 15  | 6  | https://anci.web.id/cor/positif_detail.html |
+| ---- | -------- | ---- | ---- |  ---- |
+| JUMLAH | 2109 | 235 | 80 | https://anci.web.id/cor/jumlah_sulsel.html |
+
+ 
 <br>
     <table>
         <tr>
