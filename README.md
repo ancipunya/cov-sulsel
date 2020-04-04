@@ -3,33 +3,33 @@
     <table>
         <tr>
 		    <td></td>
-            <td>ODP</td>
-            <td>PDP</td>
-			<td>POSITIF</td>
+            <td align="center">ODP</td>
+            <td align="center">PDP</td>
+			<td align="center">POSITIF</td>
         </tr>
         <tr>
             <td>Dirawat</td>
-            <td>1767  Org</td>
-            <td>150  Org</td>
-            <td>65  Org</td>
+            <td align="center">1783 </td>
+            <td align="center">150 </td>
+            <td align="center">65 </td>
         </tr>
         <tr>
             <td>Sehat/Sembuh</td>
-            <td>162  Org</td>
-            <td>12  Org</td>
-            <td>9  Org</td>
+            <td align="center">165 </td>
+            <td align="center">12 </td>
+            <td align="center">9 </td>
         </tr>
         <tr>
             <td>Meninggal</td>
-            <td>0 Org</td>
-            <td>10  Org</td>
-            <td>6  Org</td>
+            <td align="center">0</td>
+            <td align="center">10 </td>
+            <td align="center">6 </td>
         </tr>
         <tr>
             <td>Jumlah</td>
-            <td>1929 Org</td>
-            <td>172 Org</td>
-            <td>80 Org</td>
+            <td align="center">1948</td>
+            <td align="center">172</td>
+            <td align="center">80</td>
 		</tr>
     </table>
 
