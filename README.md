@@ -9,26 +9,26 @@
         </tr>
         <tr>
             <td>Dirawat</td>
-            <td align="center">1828 </td>
-            <td align="center">154 </td>
+            <td align="center">1855 </td>
+            <td align="center">170 </td>
             <td align="center">65 </td>
         </tr>
         <tr>
             <td>Sehat/Sembuh</td>
-            <td align="center">165 </td>
+            <td align="center">166 </td>
             <td align="center">12 </td>
             <td align="center">9 </td>
         </tr>
         <tr>
             <td>Meninggal</td>
             <td align="center">0</td>
-            <td align="center">12 </td>
+            <td align="center">13 </td>
             <td align="center">6 </td>
         </tr>
         <tr>
             <td>Jumlah</td>
-            <td align="center">1993</td>
-            <td align="center">178</td>
+            <td align="center">2020</td>
+            <td align="center">195</td>
             <td align="center">80</td>
 		</tr>
     </table>
