@@ -1,27 +1,33 @@
-# cov-sulsel (Auto Update)
+# covid19-sulsel (Auto Update)
+<br>
+    <table>
+        <tr align="center">
+            <td width="200px">ODP</td>
+            <td width="200px">PDP</td>
+			<td width="200px">POSITIF</td>
+        </tr>
+        <tr align="center">
+            <td><font size="100">1905</font></td>
+            <td><font size="100">172</font></td>
+            <td><font size="100">80</font></td>
+        </tr>
+        <tr align="center">
+            <td> Dalam Pengawasan</td>
+            <td> Selesai Pengawasan</td>
+            <td>0 Meninggal</td>
+        </tr>
+        <tr align="center">
+            <td> Dirawat</td>
+            <td> Sehat</td>
+            <td> Meninggal</td>
+        </tr>
+        <tr align="center">
+            <td> Dirawat</td>
+            <td> Sembuh</td>
+            <td> Meninggal</td>
+        </tr>
+    </table>
 
-<b>Data Sebaran Covid-19 Wilayah Sulsel</b> <br>
-1.	Kota Makassar<br>
-2.	Kota Palopo<br>
-3.	Kota Parepare<br>
-4.	Kabupaten Bantaeng<br>
-5.	Kabupaten Barru<br>
-6.	Kabupaten Bone<br>
-7.	Kabupaten Bulukumba<br>
-8.	Kabupaten Enrekang<br>
-9.	Kabupaten Gowa<br>
-10.	Kabupaten Jeneponto<br>	
-11.	Kabupaten Kepulauan Selayar<br>
-12.	Kabupaten Luwu<br>
-13.	Kabupaten Luwu Timur<br>
-14.	Kabupaten Luwu Utara<br>
-15.	Kabupaten Maros	<br>
-16.	Kabupaten Pangkajene Dan Kepulauan<br>
-17.	Kabupaten Pinrang<br>
-18.	Kabupaten Sidenreng Rappang<br>
-19.	Kabupaten Sinjai<br>
-20.	Kabupaten Soppeng<br>
-21.	Kabupaten Takalar<br>
-22.	Kabupaten Tana Toraja<br>
-23.	Kabupaten Toraja Utara<br>
-24.	Kabupaten Wajo<br>
+<br>
+<b>Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan</b> <br>
+Data diupdate otomatis setiap 15 Menit
