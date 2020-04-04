@@ -9,7 +9,7 @@
         </tr>
         <tr>
             <td>Dirawat</td>
-            <td align="center">1928 </td>
+            <td align="center">1929 </td>
             <td align="center">206 </td>
             <td align="center">65 </td>
         </tr>
@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td>Jumlah</td>
-            <td align="center">2094</td>
+            <td align="center">2095</td>
             <td align="center">235</td>
             <td align="center">80</td>
 		</tr>
