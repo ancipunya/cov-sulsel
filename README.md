@@ -3,14 +3,14 @@
     <table>
         <tr>
 		    <td></td>
-            <td align="center">ODP</td>
-            <td align="center">PDP</td>
-			<td align="center">POSITIF</td>
+            <td align="center"><b>ODP</b></td>
+            <td align="center"><b>PDP</b></td>
+			<td align="center"><b>POSITIF</b></td>
         </tr>
         <tr>
             <td>Dirawat</td>
             <td align="center">1889 </td>
-            <td align="center">201 </td>
+            <td align="center">202 </td>
             <td align="center">65 </td>
         </tr>
         <tr>
@@ -28,7 +28,7 @@
         <tr>
             <td>Jumlah</td>
             <td align="center">2055</td>
-            <td align="center">229</td>
+            <td align="center">230</td>
             <td align="center">80</td>
 		</tr>
     </table>
