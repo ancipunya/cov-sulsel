@@ -1,6 +1,11 @@
 # covid19-sulsel (Auto Update)
 
-#### Rekap Perkabupaten
+## Data diupdate pada : 05-04-2020 08:41:24
+
+#### Sumber data :
+[Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
+
+#### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
 |1|Kota Makassar|387|114|52|553|https://anci.web.id/cor/kota_makassar.html|
@@ -29,7 +34,7 @@
 |24|Kabupaten Wajo|50|1|0|51|https://anci.web.id/cor/kabupaten_wajo.html|
 |-|Jumlah Sulsel|2109|235|80|2424|https://anci.web.id/cor/jumlah_sulsel.html|
 
-#### Data update terakhir
+#### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
@@ -43,6 +48,5 @@
 
 Data diupdate otomatis setiap 15 Menit
 
-#### Sumber data :
-[Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
+
 
