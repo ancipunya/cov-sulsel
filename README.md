@@ -1,6 +1,6 @@
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 05-04-2020 11:17:15
+## Data diupdate pada : 05-04-2020 11:32:16
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -16,7 +16,7 @@
 |6|Kabupaten Bone|237|4|0|241|https://anci.web.id/cor/kabupaten_bone.html|
 |7|Kabupaten Bulukumba|108|9|1|118|https://anci.web.id/cor/kabupaten_bulukumba.html|
 |8|Kabupaten Enrekang|159|3|0|162|https://anci.web.id/cor/kabupaten_enrekang.html|
-|9|Kabupaten Gowa|103|25|13|141|https://anci.web.id/cor/kabupaten_gowa.html|
+|9|Kabupaten Gowa|103|27|13|143|https://anci.web.id/cor/kabupaten_gowa.html|
 |10|Kabupaten Jeneponto|19|4|0|23|https://anci.web.id/cor/kabupaten_jeneponto.html|
 |11|Kabupaten Kepulauan Selayar|39|1|0|40|https://anci.web.id/cor/kabupaten_kepulauan_selayar.html|
 |12|Kabupaten Luwu|34|2|0|36|https://anci.web.id/cor/kabupaten_luwu.html|
@@ -32,16 +32,16 @@
 |22|Kabupaten Tana Toraja|1|0|0|1|https://anci.web.id/cor/kabupaten_tana_toraja.html|
 |23|Kabupaten Toraja Utara|49|0|0|49|https://anci.web.id/cor/kabupaten_toraja_utara.html|
 |24|Kabupaten Wajo|50|1|0|51|https://anci.web.id/cor/kabupaten_wajo.html|
-|-|Jumlah Sulsel|2109|237|80|2426|https://anci.web.id/cor/jumlah_sulsel.html|
+|-|Jumlah Sulsel|2109|239|80|2428|https://anci.web.id/cor/jumlah_sulsel.html|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 1931  | 178  | 0 | 2109 | https://anci.web.id/cor/odp_detail.html |
-| PDP | 208  | 14  | 15  | 237 | https://anci.web.id/cor/pdp_detail.html |
+| ODP | 1918  | 191  | 0 | 2109 | https://anci.web.id/cor/odp_detail.html |
+| PDP | 210  | 14  | 15  | 239 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 65  | 9  | 6  | 80 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 2204 | 201 | 21 | 2426 | https://anci.web.id/cor/jumlah_sulsel.html |
+| JUMLAH | 2193 | 214 | 21 | 2428 | https://anci.web.id/cor/jumlah_sulsel.html |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
