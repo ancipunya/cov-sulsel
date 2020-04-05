@@ -56,7 +56,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 55,Pisang Utara,Ujung Pandang,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
 56,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,85 Tahun,Positif - Dirawat Pasien Positif
 57,Sambung Jawa,Mamajang,Kota Makassar,Laki-Laki,56 Tahun,Positif - Sembuh
-58,Jipang,Bontonompo Selatan,Kabupaten Gowa,Laki-Laki,50 Tahun,Positif - Dirawat Pasien Positif
+58,Jipang,Bontonompo Selatan,Kabupaten Gowa,Laki-Laki,50 Tahun,Positif - Sembuh
 59,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,43 Tahun,Positif - Sembuh
 60,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
 61,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,56 Tahun,Positif - Dirawat Pasien Positif
@@ -884,7 +884,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 883,Lara,Baebunta,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
 884,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,22 Tahun,ODP - Proses Pengawasan
 885,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Proses Pengawasan
-886,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Proses Pengawasan
+886,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 887,Arusu,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 888,Arusu,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
 889,Polejiwa,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Proses Pengawasan
@@ -2501,3 +2501,12 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2500,Lembang Patengko,Mengkendek,Kabupaten Tana Toraja,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
 2501,Kelurahan Bombongan,Makale,Kabupaten Tana Toraja,Perempuan,37 Tahun,ODP - Proses Pengawasan
 2502,Lembang Simbuang,Mengkendek,Kabupaten Tana Toraja,Perempuan,19 Tahun,ODP - Proses Pengawasan
+2503,Kelurahan Tampo Makale,Makale,Kabupaten Tana Toraja,Laki-Laki,46 Tahun,ODP - Proses Pengawasan
+2504,Kelurahan Salubarani,Gandang Batu Silanan,Kabupaten Tana Toraja,Perempuan,51 Tahun,ODP - Proses Pengawasan
+2505,Kelurahan Salubarani,Gandang Batu Silanan,Kabupaten Tana Toraja,Laki-Laki,61 Tahun,ODP - Proses Pengawasan
+2506,Kelurahan Lapandan,Makale,Kabupaten Tana Toraja,Perempuan,24 Tahun,ODP - Proses Pengawasan
+2507,Kelurahan Salubarani,Gandang Batu Silanan,Kabupaten Tana Toraja,-,52 Tahun,ODP - Proses Pengawasan
+2508,-,Gandang Batu Silanan,Kabupaten Tana Toraja,Perempuan,50 Tahun,ODP - Proses Pengawasan
+2509,Lembang Buntu Limbong,Gandang Batu Silanan,Kabupaten Tana Toraja,Perempuan,29 Tahun,ODP - Proses Pengawasan
+2510,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Perempuan,47 Tahun,ODP - Proses Pengawasan
+2511,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Perempuan,23 Tahun,ODP - Proses Pengawasan
