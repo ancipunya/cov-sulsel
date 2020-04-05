@@ -72,7 +72,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 71,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
 72,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Dirawat Pasien Positif
 73,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
-74,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,41 Tahun,Positif - Dirawat Pasien Positif
+74,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,70 Tahun,Positif - Dirawat Pasien Positif
 75,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
 76,Panambungan,Mariso,Kota Makassar,Perempuan,55 Tahun,Positif - Meninggal
 77,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
@@ -98,7 +98,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 97,Romangpolong,Somba Opu,Kabupaten Gowa,Laki-Laki,32 Tahun,PDP - Sehat
 98,Antang,Manggala,Kota Makassar,Laki-Laki,49 Tahun,PDP - Sehat
 99,Pettuadae,Turikale,Kabupaten Maros,Laki-Laki,56 Tahun,PDP - Sehat
-100,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Laki-Laki,33 Tahun,PDP - Dirawat PDP
+100,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Laki-Laki,33 Tahun,PDP - Sehat
 101,Baji Mappakasunggu,Mamajang,Kota Makassar,Perempuan,41 Tahun,PDP - Dirawat PDP
 102,Mangalli,Pallangga,Kabupaten Gowa,Laki-Laki,56 Tahun,PDP - Dirawat PDP
 103,Bumi Harapan,Bacukiki Barat,Kota Parepare,Perempuan,19 Tahun,PDP - Dirawat PDP
@@ -159,7 +159,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 158,Mangalli,Pallangga,Kabupaten Gowa,Laki-Laki,59 Tahun,PDP - Dirawat PDP
 159,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,47 Tahun,PDP - Dirawat PDP
 160,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,29 Tahun,PDP - Dirawat PDP
-161,Tappanjeng,Bantaeng,Kabupaten Bantaeng,Laki-Laki,33 Tahun,PDP - Dirawat PDP
+161,Tappanjeng,Bantaeng,Kabupaten Bantaeng,Laki-Laki,33 Tahun,PDP - Sehat
 162,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,-,PDP - Dirawat PDP
 163,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
 164,Panambungan,Mariso,Kota Makassar,Perempuan,39 Tahun,PDP - Dirawat PDP
