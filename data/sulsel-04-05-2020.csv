@@ -640,12 +640,12 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 639,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
 640,Nuha,Nuha,Kabupaten Luwu Timur,Perempuan,31 Tahun,ODP - Proses Pengawasan
 641,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
-642,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
-643,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,46 Tahun,ODP - Proses Pengawasan
-644,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
-645,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
-646,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
-647,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
+642,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,36 Tahun,ODP - Selesai Pengawasan
+643,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,46 Tahun,ODP - Selesai Pengawasan
+644,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,43 Tahun,ODP - Selesai Pengawasan
+645,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,41 Tahun,ODP - Selesai Pengawasan
+646,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
+647,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
 648,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
 649,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Proses Pengawasan
 650,Wawondula,Towuti,Kabupaten Luwu Timur,-,41 Tahun,ODP - Proses Pengawasan
@@ -657,7 +657,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 656,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 657,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 658,Jalajja,Burau,Kabupaten Luwu Timur,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
-659,Tomoni,Tomoni,Kabupaten Luwu Timur,Laki-Laki,61 Tahun,ODP - Proses Pengawasan
+659,Tomoni,Tomoni,Kabupaten Luwu Timur,Laki-Laki,61 Tahun,ODP - Selesai Pengawasan
 660,Baruga,Towuti,Kabupaten Luwu Timur,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
 661,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
 662,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,20 Tahun,ODP - Proses Pengawasan
@@ -672,9 +672,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 671,Kawata,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
 672,Kawata,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 673,Tabarano,Wasuponda,Kabupaten Luwu Timur,Perempuan,49 Tahun,ODP - Proses Pengawasan
-674,Malewang,Polombangkeng Utara,Kabupaten Takalar,Perempuan,57 Tahun,ODP - Proses Pengawasan
-675,Mattompodalle,Polombangkeng Utara,Kabupaten Takalar,Perempuan,68 Tahun,ODP - Proses Pengawasan
-676,Sabintang,Pattallassang,Kabupaten Takalar,Perempuan,47 Tahun,ODP - Proses Pengawasan
+674,Malewang,Polombangkeng Utara,Kabupaten Takalar,Perempuan,57 Tahun,ODP - Selesai Pengawasan
+675,Mattompodalle,Polombangkeng Utara,Kabupaten Takalar,Perempuan,68 Tahun,ODP - Selesai Pengawasan
+676,Sabintang,Pattallassang,Kabupaten Takalar,Perempuan,47 Tahun,ODP - Selesai Pengawasan
 677,Bontoramba,Somba Opu,Kabupaten Gowa,Perempuan,60 Tahun,ODP - Proses Pengawasan
 678,-,Lamasi Timur,Kabupaten Luwu,Perempuan,-,ODP - Proses Pengawasan
 679,-,Lamasi Timur,Kabupaten Luwu,Laki-Laki,9 Tahun,ODP - Proses Pengawasan
@@ -688,30 +688,30 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 687,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,26 Tahun,ODP - Selesai Pengawasan
 688,Lautang Benteng,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,38 Tahun,ODP - Selesai Pengawasan
 689,Lautang Benteng,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,ODP - Selesai Pengawasan
-690,Lakessi,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,62 Tahun,ODP - Proses Pengawasan
+690,Lakessi,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,62 Tahun,ODP - Selesai Pengawasan
 691,Arateng,Tellulimpo E,Kabupaten Sidenreng Rappang,Laki-Laki,80 Tahun,ODP - Selesai Pengawasan
 692,Arateng,Tellulimpo E,Kabupaten Sidenreng Rappang,-,66 Tahun,ODP - Selesai Pengawasan
 693,Arateng,Tellulimpo E,Kabupaten Sidenreng Rappang,Perempuan,64 Tahun,ODP - Selesai Pengawasan
 694,Arateng,Tellulimpo E,Kabupaten Sidenreng Rappang,Perempuan,65 Tahun,ODP - Selesai Pengawasan
-695,Amparita,Tellulimpo E,Kabupaten Sidenreng Rappang,Perempuan,86 Tahun,ODP - Proses Pengawasan
-696,Rappang,Panca Rijang,Kabupaten Sidenreng Rappang,Perempuan,47 Tahun,ODP - Proses Pengawasan
-697,Mojong,Watang Sidenreng,Kabupaten Sidenreng Rappang,Perempuan,70 Tahun,ODP - Proses Pengawasan
-698,Mojong,Watang Sidenreng,Kabupaten Sidenreng Rappang,Perempuan,67 Tahun,ODP - Proses Pengawasan
-699,Arawa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,55 Tahun,ODP - Proses Pengawasan
-700,Lakessi,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,57 Tahun,ODP - Proses Pengawasan
-701,Lakessi,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,55 Tahun,ODP - Proses Pengawasan
-702,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,75 Tahun,ODP - Proses Pengawasan
+695,Amparita,Tellulimpo E,Kabupaten Sidenreng Rappang,Perempuan,86 Tahun,ODP - Selesai Pengawasan
+696,Rappang,Panca Rijang,Kabupaten Sidenreng Rappang,Perempuan,47 Tahun,ODP - Selesai Pengawasan
+697,Mojong,Watang Sidenreng,Kabupaten Sidenreng Rappang,Perempuan,70 Tahun,ODP - Selesai Pengawasan
+698,Mojong,Watang Sidenreng,Kabupaten Sidenreng Rappang,Perempuan,67 Tahun,ODP - Selesai Pengawasan
+699,Arawa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,55 Tahun,ODP - Selesai Pengawasan
+700,Lakessi,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,57 Tahun,ODP - Selesai Pengawasan
+701,Lakessi,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,55 Tahun,ODP - Selesai Pengawasan
+702,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,75 Tahun,ODP - Selesai Pengawasan
 703,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,58 Tahun,ODP - Proses Pengawasan
 704,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,57 Tahun,ODP - Proses Pengawasan
 705,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
-706,Rijang Pittu,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
-707,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,55 Tahun,ODP - Proses Pengawasan
+706,Rijang Pittu,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
+707,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,55 Tahun,ODP - Selesai Pengawasan
 708,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,52 Tahun,ODP - Proses Pengawasan
 709,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,35 Tahun,ODP - Proses Pengawasan
 710,Empagae,Watang Sidenreng,Kabupaten Sidenreng Rappang,Laki-Laki,53 Tahun,ODP - Proses Pengawasan
 711,Benteng Selatan,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,69 Tahun,ODP - Proses Pengawasan
 712,Benteng,Benteng,Kabupaten Kepulauan Selayar,Perempuan,19 Tahun,ODP - Proses Pengawasan
-713,-,Benteng,Kabupaten Kepulauan Selayar,Perempuan,17 Tahun,ODP - Proses Pengawasan
+713,-,Benteng,Kabupaten Kepulauan Selayar,Perempuan,17 Tahun,ODP - Selesai Pengawasan
 714,-,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,71 Tahun,ODP - Proses Pengawasan
 715,Benteng,Benteng,Kabupaten Kepulauan Selayar,Perempuan,2 Tahun,ODP - Selesai Pengawasan
 716,Benteng Utara,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,56 Tahun,ODP - Selesai Pengawasan
