@@ -16,14 +16,14 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 15,Pakatto,Bontomarannu,Kabupaten Gowa,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
 16,Paropo,Panakkukang,Kota Makassar,Laki-Laki,57 Tahun,Positif - Sembuh
 17,Rijang Pittu,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,45 Tahun,Positif - Sembuh
-18,Masale,Panakkukang,Kota Makassar,Perempuan,58 Tahun,Positif - Dirawat Pasien Positif
+18,Masale,Panakkukang,Kota Makassar,Perempuan,58 Tahun,Positif - Sembuh
 19,Masale,Panakkukang,Kota Makassar,Laki-Laki,61 Tahun,Positif - Sembuh
 20,Bontomasila,Gantarang,Kabupaten Bulukumba,Perempuan,22 Tahun,Positif - Sembuh
 21,Tenrigangkae,Mandai,Kabupaten Maros,Laki-Laki,62 Tahun,Positif - Sembuh
 22,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,-,Positif - Sembuh
 23,Maradekaya Selatan,Makassar,Kota Makassar,Laki-Laki,46 Tahun,Positif - Sembuh
 24,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,-,Positif - Dirawat Pasien Positif
-25,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,12 Tahun,Positif - Dirawat Pasien Positif
+25,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,12 Tahun,Positif - Sembuh
 26,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,26 Tahun,Positif - Dirawat Pasien Positif
 27,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,53 Tahun,Positif - Dirawat Pasien Positif
 28,Maricaya Selatan,Mamajang,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
@@ -1113,20 +1113,20 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1112,Kading,Barebbo,Kabupaten Bone,Perempuan,6 Tahun,ODP - Proses Pengawasan
 1113,Puncak Indah,Malili,Kabupaten Luwu Timur,Perempuan,29 Tahun,ODP - Proses Pengawasan
 1114,Ancu,Kajuara,Kabupaten Bone,Laki-Laki,74 Tahun,ODP - Proses Pengawasan
-1115,Kading,Barebbo,Kabupaten Bone,Perempuan,5 Tahun,ODP - Proses Pengawasan
+1115,Kading,Barebbo,Kabupaten Bone,Perempuan,5 Tahun,ODP - Selesai Pengawasan
 1116,Laiyolo,Bontosikuyu,Kabupaten Kepulauan Selayar,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
 1117,Manurung,Malili,Kabupaten Luwu Timur,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
 1118,Ancu,Kajuara,Kabupaten Bone,Perempuan,72 Tahun,ODP - Proses Pengawasan
-1119,Kading,Barebbo,Kabupaten Bone,Perempuan,5 Tahun,ODP - Proses Pengawasan
+1119,Kading,Barebbo,Kabupaten Bone,Perempuan,5 Tahun,ODP - Selesai Pengawasan
 1120,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,42 Tahun,ODP - Proses Pengawasan
 1121,Raja,Kajuara,Kabupaten Bone,Laki-Laki,7 Tahun,ODP - Proses Pengawasan
 1122,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,20 Tahun,ODP - Proses Pengawasan
 1123,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 1124,Raja,Kajuara,Kabupaten Bone,Perempuan,28 Tahun,ODP - Proses Pengawasan
-1125,Kading,Barebbo,Kabupaten Bone,Laki-Laki,3 Tahun,ODP - Proses Pengawasan
+1125,Kading,Barebbo,Kabupaten Bone,Laki-Laki,3 Tahun,ODP - Selesai Pengawasan
 1126,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,43 Tahun,ODP - Proses Pengawasan
 1127,Pompanua Riattang,Ajangale,Kabupaten Bone,Perempuan,17 Tahun,ODP - Proses Pengawasan
-1128,Kading,Barebbo,Kabupaten Bone,Perempuan,3 Tahun,ODP - Proses Pengawasan
+1128,Kading,Barebbo,Kabupaten Bone,Perempuan,3 Tahun,ODP - Selesai Pengawasan
 1129,Telle,Ajangale,Kabupaten Bone,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
 1130,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
 1131,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,46 Tahun,ODP - Proses Pengawasan
@@ -1203,12 +1203,12 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1202,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
 1203,Masumpu,Tanete Riattang,Kabupaten Bone,Perempuan,50 Tahun,ODP - Selesai Pengawasan
 1204,Welenreng,Cina,Kabupaten Bone,Perempuan,25 Tahun,ODP - Proses Pengawasan
-1205,Biru,Tanete Riattang,Kabupaten Bone,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
+1205,Biru,Tanete Riattang,Kabupaten Bone,Laki-Laki,37 Tahun,ODP - Selesai Pengawasan
 1206,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
 1207,Abbumpungeng,Cina,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
 1208,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-1209,Biru,Tanete Riattang,Kabupaten Bone,Perempuan,64 Tahun,ODP - Proses Pengawasan
-1210,Biru,Tanete Riattang,Kabupaten Bone,Perempuan,20 Tahun,ODP - Proses Pengawasan
+1209,Biru,Tanete Riattang,Kabupaten Bone,Perempuan,64 Tahun,ODP - Selesai Pengawasan
+1210,Biru,Tanete Riattang,Kabupaten Bone,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 1211,Pattiro Bajo,Sibulue,Kabupaten Bone,Perempuan,19 Tahun,ODP - Selesai Pengawasan
 1212,Walennae,Tanete Riattang,Kabupaten Bone,Perempuan,44 Tahun,ODP - Selesai Pengawasan
 1213,Pattiro Bajo,Sibulue,Kabupaten Bone,Laki-Laki,14 Tahun,ODP - Selesai Pengawasan
