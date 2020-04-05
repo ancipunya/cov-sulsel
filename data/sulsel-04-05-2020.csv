@@ -41,7 +41,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 40,Buakana,Rappocini,Kota Makassar,Perempuan,74 Tahun,Positif - Dirawat Pasien Positif
 41,Lembo,Tallo,Kota Makassar,Laki-Laki,40 Tahun,Positif - Dirawat Pasien Positif
 42,Maradekaya Utara,Makassar,Kota Makassar,Perempuan,65 Tahun,Positif - Dirawat Pasien Positif
-43,Bangkala,Manggala,Kota Makassar,Perempuan,36 Tahun,Positif - Dirawat Pasien Positif
+43,Bangkala,Manggala,Kota Makassar,Perempuan,36 Tahun,Positif - Sembuh
 44,Mangasa,Tamalate,Kota Makassar,Perempuan,53 Tahun,Positif - Dirawat Pasien Positif
 45,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,58 Tahun,Positif - Dirawat Pasien Positif
 46,Taeng,Pallangga,Kabupaten Gowa,Laki-Laki,39 Tahun,Positif - Dirawat Pasien Positif
@@ -52,7 +52,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 51,Minasa Baji,Bantimurung,Kabupaten Maros,Perempuan,23 Tahun,Positif - Dirawat Pasien Positif
 52,Maradekaya,Makassar,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
 53,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,54 Tahun,Positif - Dirawat Pasien Positif
-54,Magani,Nuha,Kabupaten Luwu Timur,Laki-Laki,68 Tahun,Positif - Dirawat Pasien Positif
+54,Magani,Nuha,Kabupaten Luwu Timur,Laki-Laki,68 Tahun,Positif - Sembuh
 55,Pisang Utara,Ujung Pandang,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
 56,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,85 Tahun,Positif - Dirawat Pasien Positif
 57,Sambung Jawa,Mamajang,Kota Makassar,Laki-Laki,56 Tahun,Positif - Sembuh
@@ -1326,16 +1326,16 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1325,Langi,Bontocani,Kabupaten Bone,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
 1326,Sanrego,Kahu,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 1327,Maroanging,Sibulue,Kabupaten Bone,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
-1328,Watangcani,Bontocani,Kabupaten Bone,Laki-Laki,74 Tahun,ODP - Proses Pengawasan
+1328,Watangcani,Bontocani,Kabupaten Bone,Laki-Laki,74 Tahun,ODP - Selesai Pengawasan
 1329,Maroanging,Sibulue,Kabupaten Bone,Perempuan,52 Tahun,ODP - Selesai Pengawasan
 1330,-,Wajo,Kota Makassar,-,-,ODP - Proses Pengawasan
 1331,Maroanging,Sibulue,Kabupaten Bone,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
-1332,Kahu,Bontocani,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+1332,Kahu,Bontocani,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1333,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,52 Tahun,ODP - Proses Pengawasan
 1334,Maroanging,Sibulue,Kabupaten Bone,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
 1335,Pattunuang,Wajo,Kota Makassar,Perempuan,-,ODP - Proses Pengawasan
 1336,Maroanging,Sibulue,Kabupaten Bone,Perempuan,21 Tahun,ODP - Selesai Pengawasan
-1337,Kahu,Bontocani,Kabupaten Bone,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+1337,Kahu,Bontocani,Kabupaten Bone,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1338,Maroanging,Sibulue,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 1339,Maroanging,Sibulue,Kabupaten Bone,Perempuan,22 Tahun,ODP - Proses Pengawasan
 1340,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
@@ -1357,11 +1357,11 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1356,Tadang Palie,Ulaweng,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 1357,Timungan Lompoa,Bontoala,Kota Makassar,Perempuan,34 Tahun,ODP - Proses Pengawasan
 1358,Lilina Ajangale,Ulaweng,Kabupaten Bone,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-1359,Maddanrengpulu,Patimpeng,Kabupaten Bone,Perempuan,58 Tahun,ODP - Proses Pengawasan
+1359,Maddanrengpulu,Patimpeng,Kabupaten Bone,Perempuan,58 Tahun,ODP - Selesai Pengawasan
 1360,Bonto Lebang,Mamajang,Kota Makassar,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-1361,Latellang,Patimpeng,Kabupaten Bone,Perempuan,65 Tahun,ODP - Proses Pengawasan
+1361,Latellang,Patimpeng,Kabupaten Bone,Perempuan,65 Tahun,ODP - Selesai Pengawasan
 1362,-,Mamajang,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
-1363,Patimpeng,Patimpeng,Kabupaten Bone,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
+1363,Patimpeng,Patimpeng,Kabupaten Bone,Laki-Laki,44 Tahun,ODP - Selesai Pengawasan
 1364,Masago,Patimpeng,Kabupaten Bone,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
 1365,Maddanrengpulu,Patimpeng,Kabupaten Bone,Perempuan,19 Tahun,ODP - Proses Pengawasan
 1366,Patimpeng,Patimpeng,Kabupaten Bone,Laki-Laki,63 Tahun,ODP - Proses Pengawasan
@@ -1372,7 +1372,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1371,-,-,Kota Makassar,Perempuan,-,ODP - Proses Pengawasan
 1372,Patimpeng,Patimpeng,Kabupaten Bone,Perempuan,21 Tahun,ODP - Proses Pengawasan
 1373,Rawamangun,Sukamaju,Kabupaten Luwu Utara,Perempuan,63 Tahun,ODP - Proses Pengawasan
-1374,Mattampa Walie,Mare,Kabupaten Bone,Perempuan,63 Tahun,ODP - Proses Pengawasan
+1374,Mattampa Walie,Mare,Kabupaten Bone,Perempuan,63 Tahun,ODP - Selesai Pengawasan
 1375,-,-,Kota Makassar,Perempuan,-,ODP - Proses Pengawasan
 1376,Sumaling,Mare,Kabupaten Bone,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
 1377,Sumaling,Mare,Kabupaten Bone,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
@@ -1381,7 +1381,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1380,Lappo Ase,Awangpone,Kabupaten Bone,Perempuan,64 Tahun,ODP - Proses Pengawasan
 1381,Mappalo Ulaweng,Awangpone,Kabupaten Bone,Perempuan,23 Tahun,ODP - Proses Pengawasan
 1382,Gaya Baru,Tellu Limpoe,Kabupaten Bone,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
-1383,Tellangkere,Tellu Limpoe,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+1383,Tellangkere,Tellu Limpoe,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1384,-,-,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
 1385,-,Tanete Riattang,Kabupaten Bone,Laki-Laki,48 Tahun,ODP - Proses Pengawasan
 1386,Tibojong,Tanete Riattang Timur,Kabupaten Bone,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
