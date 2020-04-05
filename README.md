@@ -1,6 +1,6 @@
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 05-04-2020 17:48:14
+## Data diupdate pada : 05-04-2020 18:02:27
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -38,10 +38,10 @@
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 1727  | 382  | 0 | 2109 | https://anci.web.id/cor/odp_detail.html |
+| ODP | 1716  | 393  | 0 | 2109 | https://anci.web.id/cor/odp_detail.html |
 | PDP | 212  | 19  | 13  | 244 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 56  | 18  | 7  | 81 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 1995 | 419 | 20 | 2434 | https://anci.web.id/cor/jumlah_sulsel.html |
+| JUMLAH | 1984 | 430 | 20 | 2434 | https://anci.web.id/cor/jumlah_sulsel.html |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
