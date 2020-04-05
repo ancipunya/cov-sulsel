@@ -1150,7 +1150,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1149,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
 1150,Wasuponda,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
 1151,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-1152,Kading,Barebbo,Kabupaten Bone,Perempuan,19 Tahun,ODP - Proses Pengawasan
+1152,Kading,Barebbo,Kabupaten Bone,Perempuan,19 Tahun,ODP - Selesai Pengawasan
 1153,-,-,Kabupaten Luwu Timur,Laki-Laki,69 Tahun,ODP - Proses Pengawasan
 1154,Wasuponda,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
 1155,Kading,Barebbo,Kabupaten Bone,Perempuan,37 Tahun,ODP - Proses Pengawasan
@@ -1262,9 +1262,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1261,Lallatang,Dua Boccoe,Kabupaten Bone,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
 1262,Majang,Tanete Riattang Barat,Kabupaten Bone,Perempuan,56 Tahun,ODP - Selesai Pengawasan
 1263,Barugae,Lamuru,Kabupaten Bone,-,-,ODP - Proses Pengawasan
-1264,Majang,Tanete Riattang Barat,Kabupaten Bone,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
+1264,Majang,Tanete Riattang Barat,Kabupaten Bone,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
 1265,Lallatang,Dua Boccoe,Kabupaten Bone,Perempuan,1 Tahun,ODP - Proses Pengawasan
-1266,Jeppee,Tanete Riattang Barat,Kabupaten Bone,Perempuan,47 Tahun,ODP - Proses Pengawasan
+1266,Jeppee,Tanete Riattang Barat,Kabupaten Bone,Perempuan,47 Tahun,ODP - Selesai Pengawasan
 1267,Lallatang,Dua Boccoe,Kabupaten Bone,Perempuan,23 Tahun,ODP - Proses Pengawasan
 1268,Barakkae,Lamuru,Kabupaten Bone,Perempuan,13 Tahun,ODP - Proses Pengawasan
 1269,Padacenga,Dua Boccoe,Kabupaten Bone,Perempuan,24 Tahun,ODP - Proses Pengawasan
@@ -1276,7 +1276,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1275,Tanabatue,Libureng,Kabupaten Bone,Perempuan,17 Tahun,ODP - Proses Pengawasan
 1276,Bulu Tempe,Tanete Riattang Barat,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
 1277,Tanabatue,Libureng,Kabupaten Bone,Perempuan,44 Tahun,ODP - Proses Pengawasan
-1278,Mampotu,Amali,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+1278,Mampotu,Amali,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 1279,Swadaya,Libureng,Kabupaten Bone,Perempuan,20 Tahun,ODP - Proses Pengawasan
 1280,Tacipong,Amali,Kabupaten Bone,Perempuan,19 Tahun,ODP - Proses Pengawasan
 1281,Poleonro,Lamuru,Kabupaten Bone,Laki-Laki,-,ODP - Proses Pengawasan
@@ -1303,31 +1303,31 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1302,Patangkai,Lappariaja,Kabupaten Bone,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
 1303,Ulo,Tellu Siattinge,Kabupaten Bone,Perempuan,25 Tahun,ODP - Proses Pengawasan
 1304,Ajjalireng,Tellu Siattinge,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-1305,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,14 Tahun,ODP - Proses Pengawasan
+1305,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,14 Tahun,ODP - Selesai Pengawasan
 1306,Patangkai,Lappariaja,Kabupaten Bone,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
 1307,Ajjalireng,Tellu Siattinge,Kabupaten Bone,Perempuan,21 Tahun,ODP - Proses Pengawasan
 1308,Pongka,Tellu Siattinge,Kabupaten Bone,Perempuan,17 Tahun,ODP - Proses Pengawasan
-1309,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
+1309,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,13 Tahun,ODP - Selesai Pengawasan
 1310,Patangkai,Lappariaja,Kabupaten Bone,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
 1311,-,Tamalanrea,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
-1312,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+1312,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
 1313,Sengeng Palie,Lappariaja,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 1314,Padatuo,Tonra,Kabupaten Bone,Perempuan,23 Tahun,ODP - Proses Pengawasan
 1315,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
 1316,Lili Riattang,Lappariaja,Kabupaten Bone,Perempuan,63 Tahun,ODP - Proses Pengawasan
 1317,Mappala,Rappocini,Kota Makassar,Perempuan,53 Tahun,ODP - Proses Pengawasan
-1318,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
+1318,Ajang Pulu,Sibulue,Kabupaten Bone,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
 1319,Padatuo,Tonra,Kabupaten Bone,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
-1320,Cinnong,Sibulue,Kabupaten Bone,Perempuan,46 Tahun,ODP - Proses Pengawasan
+1320,Cinnong,Sibulue,Kabupaten Bone,Perempuan,46 Tahun,ODP - Selesai Pengawasan
 1321,Bonto Padang,Kahu,Kabupaten Bone,Laki-Laki,5 Tahun,ODP - Proses Pengawasan
-1322,Kalibong,Sibulue,Kabupaten Bone,Perempuan,20 Tahun,ODP - Proses Pengawasan
+1322,Kalibong,Sibulue,Kabupaten Bone,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 1323,Biru,Kahu,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
 1324,Kalibong,Sibulue,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
 1325,Langi,Bontocani,Kabupaten Bone,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
 1326,Sanrego,Kahu,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-1327,Maroanging,Sibulue,Kabupaten Bone,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+1327,Maroanging,Sibulue,Kabupaten Bone,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 1328,Watangcani,Bontocani,Kabupaten Bone,Laki-Laki,74 Tahun,ODP - Proses Pengawasan
-1329,Maroanging,Sibulue,Kabupaten Bone,Perempuan,52 Tahun,ODP - Proses Pengawasan
+1329,Maroanging,Sibulue,Kabupaten Bone,Perempuan,52 Tahun,ODP - Selesai Pengawasan
 1330,-,Wajo,Kota Makassar,-,-,ODP - Proses Pengawasan
 1331,Maroanging,Sibulue,Kabupaten Bone,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
 1332,Kahu,Bontocani,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
