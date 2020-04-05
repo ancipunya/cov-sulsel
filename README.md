@@ -1,6 +1,6 @@
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 05-04-2020 08:41:24
+## Data diupdate pada : 05-04-2020 08:46:51
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -44,9 +44,8 @@
 | JUMLAH | 2214 | 189 | 21 | 2424 | https://anci.web.id/cor/jumlah_sulsel.html |
 
  
-<b>Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan</b> <br>
+#### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
 
-Data diupdate otomatis setiap 15 Menit
-
+Data diupdate otomatis setiap 15 Menit, mengacu pada [sumber data](https://covid19.sulselprov.go.id)
 
 
