@@ -1,6 +1,6 @@
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 05-04-2020 18:17:23
+## Data diupdate pada : 05-04-2020 18:32:21
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -29,19 +29,19 @@
 |19|Kabupaten Sinjai|117|7|0|124|https://anci.web.id/cor/kabupaten_sinjai.html|
 |20|Kabupaten Soppeng|30|3|0|33|https://anci.web.id/cor/kabupaten_soppeng.html|
 |21|Kabupaten Takalar|16|4|0|20|https://anci.web.id/cor/kabupaten_takalar.html|
-|22|Kabupaten Tana Toraja|25|2|0|27|https://anci.web.id/cor/kabupaten_tana_toraja.html|
+|22|Kabupaten Tana Toraja|34|2|0|36|https://anci.web.id/cor/kabupaten_tana_toraja.html|
 |23|Kabupaten Toraja Utara|49|0|0|49|https://anci.web.id/cor/kabupaten_toraja_utara.html|
 |24|Kabupaten Wajo|50|1|0|51|https://anci.web.id/cor/kabupaten_wajo.html|
-|-|Jumlah Sulsel|2157|263|82|2502|https://anci.web.id/cor/jumlah_sulsel.html|
+|-|Jumlah Sulsel|2166|263|82|2511|https://anci.web.id/cor/jumlah_sulsel.html|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 1750  | 407  | 0 | 2157 | https://anci.web.id/cor/odp_detail.html |
+| ODP | 1758  | 408  | 0 | 2166 | https://anci.web.id/cor/odp_detail.html |
 | PDP | 231  | 19  | 13  | 263 | https://anci.web.id/cor/pdp_detail.html |
-| POSITIF | 57  | 18  | 7  | 82 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 2038 | 444 | 20 | 2502 | https://anci.web.id/cor/jumlah_sulsel.html |
+| POSITIF | 56  | 19  | 7  | 82 | https://anci.web.id/cor/positif_detail.html |
+| JUMLAH | 2045 | 446 | 20 | 2511 | https://anci.web.id/cor/jumlah_sulsel.html |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
