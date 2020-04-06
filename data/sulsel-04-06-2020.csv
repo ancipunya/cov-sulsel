@@ -62,227 +62,227 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 61,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,56 Tahun,Positif - Dirawat Pasien Positif
 62,Karunrung,Rappocini,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
 63,Ende,Wajo,Kota Makassar,Laki-Laki,66 Tahun,Positif - Dirawat Pasien Positif
-64,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,65 Tahun,Positif - Dirawat Pasien Positif
-65,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
-66,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
-67,Gunung Sari,Rappocini,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
-68,Maricaya,Makassar,Kota Makassar,Perempuan,44 Tahun,Positif - Dirawat Pasien Positif
-69,Pandang,Panakkukang,Kota Makassar,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
-70,P A I,Biring Kanaya,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
-71,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,36 Tahun,Positif - Dirawat Pasien Positif
-72,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,5 Tahun,Positif - Dirawat Pasien Positif
-73,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
-74,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Dirawat Pasien Positif
-75,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
-76,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,70 Tahun,Positif - Dirawat Pasien Positif
-77,Manggala,Manggala,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
-78,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
-79,Panambungan,Mariso,Kota Makassar,Perempuan,55 Tahun,Positif - Meninggal
-80,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
-81,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,51 Tahun,Positif - Meninggal
-82,Maricaya,Makassar,Kota Makassar,Perempuan,64 Tahun,Positif - Meninggal
-83,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,60 Tahun,Positif - Meninggal
-84,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
-85,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,73 Tahun,Positif - Meninggal
-86,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,53 Tahun,PDP - PDP Meninggal
-87,Bontomasila,Gantarang,Kabupaten Bulukumba,Laki-Laki,3 Tahun,PDP - PDP Meninggal
-88,Batangkaluku,Somba Opu,Kabupaten Gowa,Laki-Laki,56 Tahun,PDP - PDP Meninggal
-89,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,74 Tahun,PDP - PDP Meninggal
-90,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,63 Tahun,PDP - PDP Meninggal
-91,Mangasa,Tamalate,Kota Makassar,Perempuan,67 Tahun,PDP - PDP Meninggal
-92,Karuwisi,Panakkukang,Kota Makassar,Perempuan,69 Tahun,PDP - PDP Meninggal
-93,Manggala,Manggala,Kota Makassar,Laki-Laki,56 Tahun,PDP - PDP Meninggal
-94,Magani,Nuha,Kabupaten Luwu Timur,Perempuan,35 Tahun,PDP - PDP Meninggal
-95,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,PDP - PDP Meninggal
-96,Panambungan,Mariso,Kota Makassar,Laki-Laki,67 Tahun,PDP - PDP Meninggal
-97,Ballaparang,Rappocini,Kota Makassar,Perempuan,52 Tahun,PDP - PDP Meninggal
-98,Batua,Manggala,Kota Makassar,Perempuan,20 Tahun,PDP - PDP Meninggal
-99,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,39 Tahun,PDP - Sehat
-100,Romangpolong,Somba Opu,Kabupaten Gowa,Laki-Laki,32 Tahun,PDP - Sehat
-101,Antang,Manggala,Kota Makassar,Laki-Laki,49 Tahun,PDP - Sehat
-102,Pettuadae,Turikale,Kabupaten Maros,Laki-Laki,56 Tahun,PDP - Sehat
-103,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Laki-Laki,33 Tahun,PDP - Sehat
-104,Baji Mappakasunggu,Mamajang,Kota Makassar,Perempuan,41 Tahun,PDP - Dirawat PDP
-105,Mangalli,Pallangga,Kabupaten Gowa,Laki-Laki,56 Tahun,PDP - Dirawat PDP
-106,Bumi Harapan,Bacukiki Barat,Kota Parepare,Perempuan,19 Tahun,PDP - Dirawat PDP
-107,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,57 Tahun,PDP - Sehat
-108,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,61 Tahun,PDP - Dirawat PDP
-109,Paccekke,Soppeng Riaja,Kabupaten Barru,Laki-Laki,33 Tahun,PDP - Sehat
-110,-,-,Kabupaten Takalar,-,-,PDP - Dirawat PDP
-111,-,-,Kota Makassar,-,-,PDP - Dirawat PDP
-112,-,-,Kabupaten Pangkajene Dan Kepulauan,-,-,PDP - Dirawat PDP
-113,Buntu Sugi,Alla,Kabupaten Enrekang,Laki-Laki,28 Tahun,PDP - Dirawat PDP
-114,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,27 Tahun,PDP - Sehat
-115,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,59 Tahun,PDP - Sehat
-116,Talumae,Watang Sidenreng,Kabupaten Sidenreng Rappang,Laki-Laki,67 Tahun,PDP - Sehat
-117,Baraya,Bontoala,Kota Makassar,Perempuan,33 Tahun,PDP - Dirawat PDP
-118,Pisang Utara,Ujung Pandang,Kota Makassar,Perempuan,40 Tahun,PDP - Dirawat PDP
-119,Biringere,Sinjai Utara,Kabupaten Sinjai,Laki-Laki,33 Tahun,PDP - Dirawat PDP
-120,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,21 Tahun,PDP - Dirawat PDP
-121,Borong,Manggala,Kota Makassar,Perempuan,55 Tahun,PDP - Dirawat PDP
-122,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,45 Tahun,PDP - Dirawat PDP
-123,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,38 Tahun,PDP - Dirawat PDP
-124,-,-,Kabupaten Luwu Utara,-,-,PDP - Dirawat PDP
-125,-,-,Kabupaten Bone,-,-,PDP - Sehat
-126,Raja,Bua,Kabupaten Luwu,-,-,PDP - Dirawat PDP
-127,Panambungan,Mariso,Kota Makassar,-,-,PDP - Dirawat PDP
-128,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
-129,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
-130,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
-131,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
-132,Banta-Bantaeng,Rappocini,Kota Makassar,-,-,PDP - Dirawat PDP
-133,Samata,Somba Opu,Kabupaten Gowa,-,-,PDP - Dirawat PDP
-134,Tamalanrea Jaya,Tamalanrea,Kota Makassar,-,-,PDP - Dirawat PDP
-135,Manggala,Manggala,Kota Makassar,-,-,PDP - Dirawat PDP
-136,Borong,Manggala,Kota Makassar,-,-,PDP - Dirawat PDP
-137,Maccini Sombala,Tamalate,Kota Makassar,-,-,PDP - Dirawat PDP
-138,Tamalanrea,Tamalanrea,Kota Makassar,-,-,PDP - Dirawat PDP
-139,Melayu,Wajo,Kota Makassar,-,-,PDP - Dirawat PDP
-140,Bone,Masamba,Kabupaten Luwu Utara,-,-,PDP - Dirawat PDP
-141,Massila,Patimpeng,Kabupaten Bone,Laki-Laki,35 Tahun,PDP - Sehat
-142,Baraya,Bontoramba,Kabupaten Jeneponto,Laki-Laki,46 Tahun,PDP - Dirawat PDP
-143,Togo-Togo,Batang,Kabupaten Jeneponto,Perempuan,29 Tahun,PDP - Dirawat PDP
-144,Bontomatene,Turatea,Kabupaten Jeneponto,Perempuan,41 Tahun,PDP - Dirawat PDP
-145,Bontomanai,Rumbia,Kabupaten Jeneponto,Perempuan,21 Tahun,PDP - Dirawat PDP
-146,Awota,Keera,Kabupaten Wajo,Perempuan,22 Tahun,PDP - Dirawat PDP
-147,Bonto Tallasa,Simbang,Kabupaten Maros,Perempuan,67 Tahun,PDP - Dirawat PDP
-148,Daya,Biring Kanaya,Kota Makassar,Perempuan,35 Tahun,PDP - Dirawat PDP
-149,Manggala,Manggala,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
-150,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,24 Tahun,PDP - Dirawat PDP
-151,Gunung Sari,Rappocini,Kota Makassar,Perempuan,67 Tahun,PDP - Dirawat PDP
-152,Gunung Sari,Rappocini,Kota Makassar,Perempuan,46 Tahun,PDP - Dirawat PDP
-153,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,61 Tahun,PDP - Dirawat PDP
-154,Maricaya Selatan,Mamajang,Kota Makassar,Perempuan,-,PDP - Dirawat PDP
-155,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,-,PDP - Dirawat PDP
-156,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
-157,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,-,PDP - Dirawat PDP
-158,-,Angkona,Kabupaten Luwu Timur,Perempuan,55 Tahun,PDP - Dirawat PDP
-159,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
-160,Mamajang Dalam,Mamajang,Kota Makassar,Perempuan,30 Tahun,PDP - Dirawat PDP
-161,Mangalli,Pallangga,Kabupaten Gowa,Laki-Laki,59 Tahun,PDP - Dirawat PDP
-162,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,47 Tahun,PDP - Dirawat PDP
-163,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,29 Tahun,PDP - Dirawat PDP
-164,Tappanjeng,Bantaeng,Kabupaten Bantaeng,Laki-Laki,33 Tahun,PDP - Sehat
-165,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,-,PDP - Dirawat PDP
-166,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
-167,Panambungan,Mariso,Kota Makassar,Perempuan,39 Tahun,PDP - Dirawat PDP
-168,Bongaya,Tamalate,Kota Makassar,Perempuan,78 Tahun,PDP - Dirawat PDP
-169,Jongaya,Tamalate,Kota Makassar,Perempuan,32 Tahun,PDP - Dirawat PDP
-170,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,39 Tahun,PDP - Dirawat PDP
-171,Timampu,Towuti,Kabupaten Luwu Timur,Laki-Laki,15 Tahun,PDP - Dirawat PDP
-172,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,37 Tahun,PDP - Dirawat PDP
-173,Timampu,Towuti,Kabupaten Luwu Timur,Laki-Laki,8 Tahun,PDP - Sehat
-174,Lasiwala,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,19 Tahun,PDP - Dirawat PDP
-175,Wanio Timoreng,Panca Lautang,Kabupaten Sidenreng Rappang,Perempuan,22 Tahun,PDP - Dirawat PDP
-176,Tanrutedong,Duapitue,Kabupaten Sidenreng Rappang,Perempuan,58 Tahun,PDP - Dirawat PDP
-177,Bontoramba,Bontonompo Selatan,Kabupaten Gowa,Perempuan,60 Tahun,PDP - Dirawat PDP
-178,Bone,Masamba,Kabupaten Luwu Utara,Perempuan,6 Tahun,PDP - Dirawat PDP
-179,Baraya,Bontoala,Kota Makassar,Perempuan,22 Tahun,PDP - Dirawat PDP
-180,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,17 Tahun,PDP - Dirawat PDP
-181,Bontomasila,Gantarang,Kabupaten Bulukumba,Laki-Laki,24 Tahun,PDP - Dirawat PDP
-182,Borong,Manggala,Kota Makassar,Laki-Laki,3 Tahun,PDP - Dirawat PDP
-183,-,-,Kabupaten Maros,Laki-Laki,33 Tahun,PDP - Dirawat PDP
-184,Minasa Baji,Bantimurung,Kabupaten Maros,Perempuan,61 Tahun,PDP - Dirawat PDP
-185,Tamparang Keke,Mamajang,Kota Makassar,Perempuan,80 Tahun,PDP - Dirawat PDP
-186,Maricaya,Makassar,Kota Makassar,Perempuan,55 Tahun,PDP - Dirawat PDP
-187,Mamajang Dalam,Mamajang,Kota Makassar,Laki-Laki,46 Tahun,PDP - Dirawat PDP
-188,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,52 Tahun,PDP - Dirawat PDP
-189,Lumbewe,Burau,Kabupaten Luwu Timur,Laki-Laki,1 Tahun,PDP - Dirawat PDP
-190,Rawamangun,Sukamaju,Kabupaten Luwu Utara,Perempuan,63 Tahun,PDP - Dirawat PDP
-191,Maharayya,Bontomatene,Kabupaten Kepulauan Selayar,Laki-Laki,29 Tahun,PDP - Dirawat PDP
-192,Bone,Masamba,Kabupaten Luwu Utara,Perempuan,40 Tahun,PDP - Dirawat PDP
-193,Baku-Baku,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,PDP - Dirawat PDP
-194,Tulak Tallu,Sabbang,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,PDP - Dirawat PDP
-195,Polewali,Gantarang,Kabupaten Bulukumba,Laki-Laki,22 Tahun,PDP - Dirawat PDP
-196,Lembanna,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,58 Tahun,PDP - Dirawat PDP
-197,Manyampa,Ujung Loe,Kabupaten Bulukumba,Perempuan,73 Tahun,PDP - Dirawat PDP
-198,Bijawang,Ujung Loe,Kabupaten Bulukumba,Perempuan,21 Tahun,PDP - Dirawat PDP
-199,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,1 Tahun,PDP - Dirawat PDP
-200,Tamarunang,Somba Opu,Kabupaten Gowa,Laki-Laki,17 Tahun,PDP - Dirawat PDP
-201,Bontoala,Pallangga,Kabupaten Gowa,Laki-Laki,18 Tahun,PDP - Dirawat PDP
-202,Tonrorita,Biringbulu,Kabupaten Gowa,Perempuan,35 Tahun,PDP - Dirawat PDP
-203,Tompobalang,Somba Opu,Kabupaten Gowa,Laki-Laki,-,PDP - Dirawat PDP
-204,Tamparang Keke,Mamajang,Kota Makassar,-,-,PDP - Dirawat PDP
-205,Bonto Biraeng,Mamajang,Kota Makassar,-,-,PDP - Dirawat PDP
-206,-,-,Kota Makassar,-,-,PDP - Dirawat PDP
-207,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,37 Tahun,PDP - Dirawat PDP
-208,Bontokio,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,65 Tahun,PDP - Dirawat PDP
-209,Biring Ere,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,59 Tahun,PDP - Dirawat PDP
-210,Lemba,Lalabata,Kabupaten Soppeng,Laki-Laki,60 Tahun,PDP - Dirawat PDP
-211,Tetewatu,Lili Rilau,Kabupaten Soppeng,Laki-Laki,48 Tahun,PDP - Dirawat PDP
-212,Banti,Baraka,Kabupaten Enrekang,Laki-Laki,-,PDP - Dirawat PDP
-213,Romangpolong,Somba Opu,Kabupaten Gowa,Laki-Laki,1 Tahun,PDP - Dirawat PDP
-214,Bontoala,Pallangga,Kabupaten Gowa,Laki-Laki,38 Tahun,PDP - Dirawat PDP
-215,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,55 Tahun,PDP - Dirawat PDP
-216,Parang,Mamajang,Kota Makassar,Perempuan,70 Tahun,PDP - Dirawat PDP
-217,-,Burau,Kabupaten Luwu Timur,Perempuan,23 Tahun,PDP - Dirawat PDP
-218,Pasir Putih,Sinjai Borong,Kabupaten Sinjai,Perempuan,24 Tahun,PDP - Dirawat PDP
-219,Bongki,Sinjai Utara,Kabupaten Sinjai,Perempuan,37 Tahun,PDP - Dirawat PDP
-220,Samataring,Sinjai Timur,Kabupaten Sinjai,Perempuan,63 Tahun,PDP - Dirawat PDP
-221,Tibojong,Tanete Riattang Timur,Kabupaten Bone,Laki-Laki,20 Tahun,PDP - Dirawat PDP
-222,Lamaeto,Angkona,Kabupaten Luwu Timur,Perempuan,55 Tahun,PDP - Dirawat PDP
-223,-,-,Kabupaten Sinjai,Perempuan,49 Tahun,PDP - Dirawat PDP
-224,Raja,Kajuara,Kabupaten Bone,Perempuan,62 Tahun,PDP - Dirawat PDP
-225,Lampuawa,Sukamaju,Kabupaten Luwu Utara,Perempuan,21 Tahun,PDP - Dirawat PDP
-226,Minasa Baji,Bantimurung,Kabupaten Maros,Laki-Laki,26 Tahun,PDP - Dirawat PDP
-227,-,-,Kabupaten Maros,-,-,PDP - Dirawat PDP
-228,Bonto Tallasa,Simbang,Kabupaten Maros,Perempuan,60 Tahun,PDP - Dirawat PDP
-229,Bonto Marannu,Moncongloe,Kabupaten Maros,Perempuan,46 Tahun,PDP - Dirawat PDP
-230,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,54 Tahun,PDP - Dirawat PDP
-231,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,24 Tahun,PDP - Dirawat PDP
-232,-,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,6 Tahun,PDP - Dirawat PDP
-233,Dampang,Gantarang,Kabupaten Bulukumba,Perempuan,65 Tahun,PDP - Dirawat PDP
-234,Tanah Harapan,Rilau Ale,Kabupaten Bulukumba,Perempuan,18 Tahun,PDP - Dirawat PDP
-235,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,48 Tahun,PDP - Dirawat PDP
-236,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Laki-Laki,17 Tahun,PDP - Dirawat PDP
-237,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,40 Tahun,PDP - Dirawat PDP
-238,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,56 Tahun,PDP - Dirawat PDP
-239,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Laki-Laki,49 Tahun,PDP - Dirawat PDP
-240,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,31 Tahun,PDP - Dirawat PDP
-241,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,44 Tahun,PDP - Dirawat PDP
-242,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,51 Tahun,PDP - Dirawat PDP
-243,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,55 Tahun,PDP - Dirawat PDP
-244,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,40 Tahun,PDP - Dirawat PDP
-245,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,PDP - Dirawat PDP
-246,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,28 Tahun,PDP - Dirawat PDP
-247,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,43 Tahun,PDP - Dirawat PDP
+64,Bonto Tallasa,Simbang,Kabupaten Maros,Perempuan,60 Tahun,Positif - Dirawat Pasien Positif
+65,Bonto Marannu,Moncongloe,Kabupaten Maros,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
+66,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,65 Tahun,Positif - Dirawat Pasien Positif
+67,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
+68,Mangasa,Tamalate,Kota Makassar,Perempuan,67 Tahun,Positif - Dirawat Pasien Positif
+69,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
+70,Gunung Sari,Rappocini,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
+71,Maricaya,Makassar,Kota Makassar,Perempuan,44 Tahun,Positif - Dirawat Pasien Positif
+72,Pandang,Panakkukang,Kota Makassar,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
+73,P A I,Biring Kanaya,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
+74,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,36 Tahun,Positif - Dirawat Pasien Positif
+75,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,5 Tahun,Positif - Dirawat Pasien Positif
+76,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
+77,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Dirawat Pasien Positif
+78,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
+79,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,70 Tahun,Positif - Dirawat Pasien Positif
+80,Mariso,Mariso,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
+81,Bulogading,Ujung Pandang,Kota Makassar,Laki-Laki,59 Tahun,Positif - Dirawat Pasien Positif
+82,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
+83,Panambungan,Mariso,Kota Makassar,Laki-Laki,50 Tahun,Positif - Dirawat Pasien Positif
+84,Manggala,Manggala,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
+85,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
+86,Panambungan,Mariso,Kota Makassar,Perempuan,55 Tahun,Positif - Meninggal
+87,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
+88,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,51 Tahun,Positif - Meninggal
+89,Maricaya,Makassar,Kota Makassar,Perempuan,64 Tahun,Positif - Meninggal
+90,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,60 Tahun,Positif - Meninggal
+91,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
+92,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,73 Tahun,Positif - Meninggal
+93,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,53 Tahun,PDP - PDP Meninggal
+94,Bontomasila,Gantarang,Kabupaten Bulukumba,Laki-Laki,3 Tahun,PDP - PDP Meninggal
+95,Batangkaluku,Somba Opu,Kabupaten Gowa,Laki-Laki,56 Tahun,PDP - PDP Meninggal
+96,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,74 Tahun,PDP - PDP Meninggal
+97,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,63 Tahun,PDP - PDP Meninggal
+98,Karuwisi,Panakkukang,Kota Makassar,Perempuan,69 Tahun,PDP - PDP Meninggal
+99,Manggala,Manggala,Kota Makassar,Laki-Laki,56 Tahun,PDP - PDP Meninggal
+100,Magani,Nuha,Kabupaten Luwu Timur,Perempuan,35 Tahun,PDP - PDP Meninggal
+101,Panambungan,Mariso,Kota Makassar,Laki-Laki,67 Tahun,PDP - PDP Meninggal
+102,Ballaparang,Rappocini,Kota Makassar,Perempuan,52 Tahun,PDP - PDP Meninggal
+103,Batua,Manggala,Kota Makassar,Perempuan,20 Tahun,PDP - PDP Meninggal
+104,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,39 Tahun,PDP - Sehat
+105,Romangpolong,Somba Opu,Kabupaten Gowa,Laki-Laki,32 Tahun,PDP - Sehat
+106,Antang,Manggala,Kota Makassar,Laki-Laki,49 Tahun,PDP - Sehat
+107,Pettuadae,Turikale,Kabupaten Maros,Laki-Laki,56 Tahun,PDP - Sehat
+108,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Laki-Laki,33 Tahun,PDP - Sehat
+109,Baji Mappakasunggu,Mamajang,Kota Makassar,Perempuan,41 Tahun,PDP - Dirawat PDP
+110,Mangalli,Pallangga,Kabupaten Gowa,Laki-Laki,56 Tahun,PDP - Dirawat PDP
+111,Bumi Harapan,Bacukiki Barat,Kota Parepare,Perempuan,19 Tahun,PDP - Dirawat PDP
+112,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,57 Tahun,PDP - Sehat
+113,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,61 Tahun,PDP - Dirawat PDP
+114,Paccekke,Soppeng Riaja,Kabupaten Barru,Laki-Laki,33 Tahun,PDP - Sehat
+115,-,-,Kabupaten Takalar,-,-,PDP - Dirawat PDP
+116,-,-,Kota Makassar,-,-,PDP - Dirawat PDP
+117,-,-,Kabupaten Pangkajene Dan Kepulauan,-,-,PDP - Dirawat PDP
+118,Buntu Sugi,Alla,Kabupaten Enrekang,Laki-Laki,28 Tahun,PDP - Dirawat PDP
+119,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,27 Tahun,PDP - Sehat
+120,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,59 Tahun,PDP - Sehat
+121,Talumae,Watang Sidenreng,Kabupaten Sidenreng Rappang,Laki-Laki,67 Tahun,PDP - Sehat
+122,Baraya,Bontoala,Kota Makassar,Perempuan,33 Tahun,PDP - Dirawat PDP
+123,Pisang Utara,Ujung Pandang,Kota Makassar,Perempuan,40 Tahun,PDP - Dirawat PDP
+124,Biringere,Sinjai Utara,Kabupaten Sinjai,Laki-Laki,33 Tahun,PDP - Dirawat PDP
+125,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,21 Tahun,PDP - Dirawat PDP
+126,Borong,Manggala,Kota Makassar,Perempuan,55 Tahun,PDP - Dirawat PDP
+127,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,45 Tahun,PDP - Dirawat PDP
+128,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,38 Tahun,PDP - Dirawat PDP
+129,-,-,Kabupaten Luwu Utara,-,-,PDP - Dirawat PDP
+130,-,-,Kabupaten Bone,-,-,PDP - Sehat
+131,Raja,Bua,Kabupaten Luwu,-,-,PDP - Dirawat PDP
+132,Panambungan,Mariso,Kota Makassar,-,-,PDP - Dirawat PDP
+133,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
+134,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
+135,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
+136,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
+137,Banta-Bantaeng,Rappocini,Kota Makassar,-,-,PDP - Dirawat PDP
+138,Samata,Somba Opu,Kabupaten Gowa,-,-,PDP - Dirawat PDP
+139,Tamalanrea Jaya,Tamalanrea,Kota Makassar,-,-,PDP - Dirawat PDP
+140,Manggala,Manggala,Kota Makassar,-,-,PDP - Dirawat PDP
+141,Borong,Manggala,Kota Makassar,-,-,PDP - Dirawat PDP
+142,Maccini Sombala,Tamalate,Kota Makassar,-,-,PDP - Dirawat PDP
+143,Tamalanrea,Tamalanrea,Kota Makassar,-,-,PDP - Dirawat PDP
+144,Melayu,Wajo,Kota Makassar,-,-,PDP - Dirawat PDP
+145,Bone,Masamba,Kabupaten Luwu Utara,-,-,PDP - Dirawat PDP
+146,Massila,Patimpeng,Kabupaten Bone,Laki-Laki,35 Tahun,PDP - Sehat
+147,Baraya,Bontoramba,Kabupaten Jeneponto,Laki-Laki,46 Tahun,PDP - Dirawat PDP
+148,Togo-Togo,Batang,Kabupaten Jeneponto,Perempuan,29 Tahun,PDP - Dirawat PDP
+149,Bontomatene,Turatea,Kabupaten Jeneponto,Perempuan,41 Tahun,PDP - Dirawat PDP
+150,Bontomanai,Rumbia,Kabupaten Jeneponto,Perempuan,21 Tahun,PDP - Dirawat PDP
+151,Awota,Keera,Kabupaten Wajo,Perempuan,22 Tahun,PDP - Dirawat PDP
+152,Bonto Tallasa,Simbang,Kabupaten Maros,Perempuan,67 Tahun,PDP - Dirawat PDP
+153,Daya,Biring Kanaya,Kota Makassar,Perempuan,35 Tahun,PDP - Dirawat PDP
+154,Manggala,Manggala,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
+155,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,24 Tahun,PDP - Dirawat PDP
+156,Gunung Sari,Rappocini,Kota Makassar,Perempuan,67 Tahun,PDP - Dirawat PDP
+157,Gunung Sari,Rappocini,Kota Makassar,Perempuan,46 Tahun,PDP - Dirawat PDP
+158,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,61 Tahun,PDP - Dirawat PDP
+159,Maricaya Selatan,Mamajang,Kota Makassar,Perempuan,-,PDP - Dirawat PDP
+160,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,-,PDP - Dirawat PDP
+161,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
+162,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,-,PDP - Dirawat PDP
+163,-,Angkona,Kabupaten Luwu Timur,Perempuan,55 Tahun,PDP - Dirawat PDP
+164,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
+165,Mamajang Dalam,Mamajang,Kota Makassar,Perempuan,30 Tahun,PDP - Dirawat PDP
+166,Mangalli,Pallangga,Kabupaten Gowa,Laki-Laki,59 Tahun,PDP - Dirawat PDP
+167,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,47 Tahun,PDP - Dirawat PDP
+168,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,29 Tahun,PDP - Dirawat PDP
+169,Tappanjeng,Bantaeng,Kabupaten Bantaeng,Laki-Laki,33 Tahun,PDP - Sehat
+170,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,-,PDP - Dirawat PDP
+171,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,-,PDP - Dirawat PDP
+172,Panambungan,Mariso,Kota Makassar,Perempuan,39 Tahun,PDP - Dirawat PDP
+173,Bongaya,Tamalate,Kota Makassar,Perempuan,78 Tahun,PDP - Dirawat PDP
+174,Jongaya,Tamalate,Kota Makassar,Perempuan,32 Tahun,PDP - Dirawat PDP
+175,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,39 Tahun,PDP - Dirawat PDP
+176,Timampu,Towuti,Kabupaten Luwu Timur,Laki-Laki,15 Tahun,PDP - Dirawat PDP
+177,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,37 Tahun,PDP - Dirawat PDP
+178,Timampu,Towuti,Kabupaten Luwu Timur,Laki-Laki,8 Tahun,PDP - Sehat
+179,Lasiwala,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,19 Tahun,PDP - Dirawat PDP
+180,Wanio Timoreng,Panca Lautang,Kabupaten Sidenreng Rappang,Perempuan,22 Tahun,PDP - Dirawat PDP
+181,Tanrutedong,Duapitue,Kabupaten Sidenreng Rappang,Perempuan,58 Tahun,PDP - Dirawat PDP
+182,Bontoramba,Bontonompo Selatan,Kabupaten Gowa,Perempuan,60 Tahun,PDP - Dirawat PDP
+183,Bone,Masamba,Kabupaten Luwu Utara,Perempuan,6 Tahun,PDP - Dirawat PDP
+184,Baraya,Bontoala,Kota Makassar,Perempuan,22 Tahun,PDP - Dirawat PDP
+185,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,17 Tahun,PDP - Dirawat PDP
+186,Bontomasila,Gantarang,Kabupaten Bulukumba,Laki-Laki,24 Tahun,PDP - Dirawat PDP
+187,Borong,Manggala,Kota Makassar,Laki-Laki,3 Tahun,PDP - Dirawat PDP
+188,-,-,Kabupaten Maros,Laki-Laki,33 Tahun,PDP - Dirawat PDP
+189,Minasa Baji,Bantimurung,Kabupaten Maros,Perempuan,61 Tahun,PDP - Dirawat PDP
+190,Tamparang Keke,Mamajang,Kota Makassar,Perempuan,80 Tahun,PDP - Dirawat PDP
+191,Maricaya,Makassar,Kota Makassar,Perempuan,55 Tahun,PDP - Dirawat PDP
+192,Mamajang Dalam,Mamajang,Kota Makassar,Laki-Laki,46 Tahun,PDP - Dirawat PDP
+193,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,52 Tahun,PDP - Dirawat PDP
+194,Lumbewe,Burau,Kabupaten Luwu Timur,Laki-Laki,1 Tahun,PDP - Dirawat PDP
+195,Rawamangun,Sukamaju,Kabupaten Luwu Utara,Perempuan,63 Tahun,PDP - Dirawat PDP
+196,Maharayya,Bontomatene,Kabupaten Kepulauan Selayar,Laki-Laki,29 Tahun,PDP - Dirawat PDP
+197,Bone,Masamba,Kabupaten Luwu Utara,Perempuan,40 Tahun,PDP - Dirawat PDP
+198,Baku-Baku,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,PDP - Dirawat PDP
+199,Tulak Tallu,Sabbang,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,PDP - Dirawat PDP
+200,Polewali,Gantarang,Kabupaten Bulukumba,Laki-Laki,22 Tahun,PDP - Dirawat PDP
+201,Lembanna,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,58 Tahun,PDP - Dirawat PDP
+202,Manyampa,Ujung Loe,Kabupaten Bulukumba,Perempuan,73 Tahun,PDP - Dirawat PDP
+203,Bijawang,Ujung Loe,Kabupaten Bulukumba,Perempuan,21 Tahun,PDP - Dirawat PDP
+204,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,1 Tahun,PDP - Dirawat PDP
+205,Tamarunang,Somba Opu,Kabupaten Gowa,Laki-Laki,17 Tahun,PDP - Dirawat PDP
+206,Bontoala,Pallangga,Kabupaten Gowa,Laki-Laki,18 Tahun,PDP - Dirawat PDP
+207,Tonrorita,Biringbulu,Kabupaten Gowa,Perempuan,35 Tahun,PDP - Dirawat PDP
+208,Tompobalang,Somba Opu,Kabupaten Gowa,Laki-Laki,-,PDP - Dirawat PDP
+209,Tamparang Keke,Mamajang,Kota Makassar,-,-,PDP - Dirawat PDP
+210,Bonto Biraeng,Mamajang,Kota Makassar,-,-,PDP - Dirawat PDP
+211,-,-,Kota Makassar,-,-,PDP - Dirawat PDP
+212,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,37 Tahun,PDP - Dirawat PDP
+213,Bontokio,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,65 Tahun,PDP - Dirawat PDP
+214,Biring Ere,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,59 Tahun,PDP - Dirawat PDP
+215,Lemba,Lalabata,Kabupaten Soppeng,Laki-Laki,60 Tahun,PDP - Dirawat PDP
+216,Tetewatu,Lili Rilau,Kabupaten Soppeng,Laki-Laki,48 Tahun,PDP - Dirawat PDP
+217,Banti,Baraka,Kabupaten Enrekang,Laki-Laki,-,PDP - Dirawat PDP
+218,Romangpolong,Somba Opu,Kabupaten Gowa,Laki-Laki,1 Tahun,PDP - Dirawat PDP
+219,Bontoala,Pallangga,Kabupaten Gowa,Laki-Laki,38 Tahun,PDP - Dirawat PDP
+220,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,55 Tahun,PDP - Dirawat PDP
+221,Parang,Mamajang,Kota Makassar,Perempuan,70 Tahun,PDP - Dirawat PDP
+222,-,Burau,Kabupaten Luwu Timur,Perempuan,23 Tahun,PDP - Dirawat PDP
+223,Pasir Putih,Sinjai Borong,Kabupaten Sinjai,Perempuan,24 Tahun,PDP - Dirawat PDP
+224,Bongki,Sinjai Utara,Kabupaten Sinjai,Perempuan,37 Tahun,PDP - Dirawat PDP
+225,Samataring,Sinjai Timur,Kabupaten Sinjai,Perempuan,63 Tahun,PDP - Dirawat PDP
+226,Tibojong,Tanete Riattang Timur,Kabupaten Bone,Laki-Laki,20 Tahun,PDP - Dirawat PDP
+227,Lamaeto,Angkona,Kabupaten Luwu Timur,Perempuan,55 Tahun,PDP - Dirawat PDP
+228,-,-,Kabupaten Sinjai,Perempuan,49 Tahun,PDP - Dirawat PDP
+229,Raja,Kajuara,Kabupaten Bone,Perempuan,62 Tahun,PDP - Dirawat PDP
+230,Lampuawa,Sukamaju,Kabupaten Luwu Utara,Perempuan,21 Tahun,PDP - Dirawat PDP
+231,Minasa Baji,Bantimurung,Kabupaten Maros,Laki-Laki,26 Tahun,PDP - Dirawat PDP
+232,-,-,Kabupaten Maros,-,-,PDP - Dirawat PDP
+233,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,54 Tahun,PDP - Dirawat PDP
+234,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,24 Tahun,PDP - Dirawat PDP
+235,-,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,6 Tahun,PDP - Dirawat PDP
+236,Dampang,Gantarang,Kabupaten Bulukumba,Perempuan,65 Tahun,PDP - Dirawat PDP
+237,Tanah Harapan,Rilau Ale,Kabupaten Bulukumba,Perempuan,18 Tahun,PDP - Dirawat PDP
+238,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,48 Tahun,PDP - Dirawat PDP
+239,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Laki-Laki,17 Tahun,PDP - Dirawat PDP
+240,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,40 Tahun,PDP - Dirawat PDP
+241,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,56 Tahun,PDP - Dirawat PDP
+242,Lancirang,Pitu Riawa,Kabupaten Sidenreng Rappang,Laki-Laki,49 Tahun,PDP - Dirawat PDP
+243,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,31 Tahun,PDP - Dirawat PDP
+244,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,44 Tahun,PDP - Dirawat PDP
+245,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,51 Tahun,PDP - Dirawat PDP
+246,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,55 Tahun,PDP - Dirawat PDP
+247,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,40 Tahun,PDP - Dirawat PDP
 248,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,PDP - Dirawat PDP
-249,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,50 Tahun,PDP - Dirawat PDP
-250,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,54 Tahun,PDP - Dirawat PDP
-251,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,53 Tahun,PDP - Dirawat PDP
-252,Majelling Watang,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,43 Tahun,PDP - Dirawat PDP
-253,Batulappa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,PDP - Dirawat PDP
-254,Arawa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,21 Tahun,PDP - Dirawat PDP
-255,Batulappa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,48 Tahun,PDP - Dirawat PDP
-256,Lalong,Walenrang,Kabupaten Luwu,Perempuan,70 Tahun,PDP - Dirawat PDP
-257,Kapasa,Tamalanrea,Kota Makassar,Perempuan,50 Tahun,PDP - Dirawat PDP
-258,-,-,Kota Makassar,Perempuan,44 Tahun,PDP - Dirawat PDP
-259,Buntu Pema,Curio,Kabupaten Enrekang,Laki-Laki,27 Tahun,PDP - Dirawat PDP
-260,Pakatto,Bontomarannu,Kabupaten Gowa,Laki-Laki,57 Tahun,PDP - Dirawat PDP
-261,Pattongko,Tellu Limpoe,Kabupaten Sinjai,Laki-Laki,58 Tahun,PDP - Dirawat PDP
-262,Lette,Mariso,Kota Makassar,Perempuan,78 Tahun,PDP - Dirawat PDP
-263,Parang Tambung,Tamalate,Kota Makassar,Perempuan,84 Tahun,PDP - Dirawat PDP
-264,Masale,Panakkukang,Kota Makassar,Perempuan,37 Tahun,PDP - Dirawat PDP
-265,Maccini Gusung,Makassar,Kota Makassar,Laki-Laki,29 Tahun,PDP - Dirawat PDP
-266,Lariang Bangi,Makassar,Kota Makassar,Perempuan,64 Tahun,PDP - Dirawat PDP
-267,Antang,Manggala,Kota Makassar,Perempuan,40 Tahun,PDP - Dirawat PDP
-268,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,26 Tahun,PDP - Dirawat PDP
-269,Lette,Mariso,Kota Makassar,Laki-Laki,34 Tahun,PDP - Dirawat PDP
-270,Batua,Manggala,Kota Makassar,Perempuan,36 Tahun,PDP - Dirawat PDP
-271,Borong,Manggala,Kota Makassar,Laki-Laki,36 Tahun,PDP - Dirawat PDP
-272,Bangkala,Manggala,Kota Makassar,Laki-Laki,50 Tahun,PDP - Dirawat PDP
-273,Antang,Manggala,Kota Makassar,Laki-Laki,66 Tahun,PDP - Dirawat PDP
-274,Batua,Manggala,Kota Makassar,Perempuan,11 Tahun,PDP - Dirawat PDP
-275,Mariso,Mariso,Kota Makassar,Perempuan,50 Tahun,PDP - Dirawat PDP
-276,Bulogading,Ujung Pandang,Kota Makassar,Laki-Laki,59 Tahun,PDP - Dirawat PDP
-277,Karunrung,Rappocini,Kota Makassar,Laki-Laki,18 Tahun,PDP - Dirawat PDP
-278,Parang Tambung,Tamalate,Kota Makassar,Perempuan,4 Tahun,PDP - Dirawat PDP
-279,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,54 Tahun,PDP - Dirawat PDP
-280,P A I,Biring Kanaya,Kota Makassar,Perempuan,64 Tahun,PDP - Dirawat PDP
-281,Parang Tambung,Tamalate,Kota Makassar,Perempuan,47 Tahun,PDP - Dirawat PDP
-282,Parang Tambung,Tamalate,Kota Makassar,Perempuan,8 Tahun,PDP - Dirawat PDP
-283,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,62 Tahun,PDP - Dirawat PDP
-284,Panambungan,Mariso,Kota Makassar,Laki-Laki,50 Tahun,PDP - Dirawat PDP
+249,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,28 Tahun,PDP - Dirawat PDP
+250,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,43 Tahun,PDP - Dirawat PDP
+251,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,PDP - Dirawat PDP
+252,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,50 Tahun,PDP - Dirawat PDP
+253,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,54 Tahun,PDP - Dirawat PDP
+254,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,53 Tahun,PDP - Dirawat PDP
+255,Majelling Watang,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,43 Tahun,PDP - Dirawat PDP
+256,Batulappa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,PDP - Dirawat PDP
+257,Arawa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,21 Tahun,PDP - Dirawat PDP
+258,Batulappa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,48 Tahun,PDP - Dirawat PDP
+259,Lalong,Walenrang,Kabupaten Luwu,Perempuan,70 Tahun,PDP - Dirawat PDP
+260,Kapasa,Tamalanrea,Kota Makassar,Perempuan,50 Tahun,PDP - Dirawat PDP
+261,-,-,Kota Makassar,Perempuan,44 Tahun,PDP - Dirawat PDP
+262,Buntu Pema,Curio,Kabupaten Enrekang,Laki-Laki,27 Tahun,PDP - Dirawat PDP
+263,Pakatto,Bontomarannu,Kabupaten Gowa,Laki-Laki,57 Tahun,PDP - Dirawat PDP
+264,Pattongko,Tellu Limpoe,Kabupaten Sinjai,Laki-Laki,58 Tahun,PDP - Dirawat PDP
+265,Lette,Mariso,Kota Makassar,Perempuan,78 Tahun,PDP - Dirawat PDP
+266,Parang Tambung,Tamalate,Kota Makassar,Perempuan,84 Tahun,PDP - Dirawat PDP
+267,Masale,Panakkukang,Kota Makassar,Perempuan,37 Tahun,PDP - Dirawat PDP
+268,Maccini Gusung,Makassar,Kota Makassar,Laki-Laki,29 Tahun,PDP - Dirawat PDP
+269,Lariang Bangi,Makassar,Kota Makassar,Perempuan,64 Tahun,PDP - Dirawat PDP
+270,Antang,Manggala,Kota Makassar,Perempuan,40 Tahun,PDP - Dirawat PDP
+271,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,26 Tahun,PDP - Dirawat PDP
+272,Lette,Mariso,Kota Makassar,Laki-Laki,34 Tahun,PDP - Dirawat PDP
+273,Batua,Manggala,Kota Makassar,Perempuan,36 Tahun,PDP - Dirawat PDP
+274,Borong,Manggala,Kota Makassar,Laki-Laki,36 Tahun,PDP - Dirawat PDP
+275,Bangkala,Manggala,Kota Makassar,Laki-Laki,50 Tahun,PDP - Dirawat PDP
+276,Antang,Manggala,Kota Makassar,Laki-Laki,66 Tahun,PDP - Dirawat PDP
+277,Batua,Manggala,Kota Makassar,Perempuan,11 Tahun,PDP - Dirawat PDP
+278,Karunrung,Rappocini,Kota Makassar,Laki-Laki,18 Tahun,PDP - Dirawat PDP
+279,Parang Tambung,Tamalate,Kota Makassar,Perempuan,4 Tahun,PDP - Dirawat PDP
+280,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,54 Tahun,PDP - Dirawat PDP
+281,P A I,Biring Kanaya,Kota Makassar,Perempuan,64 Tahun,PDP - Dirawat PDP
+282,Parang Tambung,Tamalate,Kota Makassar,Perempuan,47 Tahun,PDP - Dirawat PDP
+283,Parang Tambung,Tamalate,Kota Makassar,Perempuan,8 Tahun,PDP - Dirawat PDP
+284,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,62 Tahun,PDP - Dirawat PDP
 285,Barombong,Tamalate,Kota Makassar,Laki-Laki,39 Tahun,PDP - Dirawat PDP
 286,Karunrung,Rappocini,Kota Makassar,Perempuan,42 Tahun,PDP - Dirawat PDP
 287,Lalatang,Tallo,Kota Makassar,Laki-Laki,52 Tahun,PDP - Dirawat PDP
