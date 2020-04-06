@@ -1,6 +1,6 @@
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 06-04-2020 17:32:27
+## Data diupdate pada : 06-04-2020 17:47:34
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -8,7 +8,7 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|400|129|60|589|https://anci.web.id/cor/kota_makassar.html|
+|1|Kota Makassar|399|128|62|589|https://anci.web.id/cor/kota_makassar.html|
 |2|Kota Palopo|67|1|0|68|https://anci.web.id/cor/kota_palopo.html|
 |3|Kota Parepare|31|1|0|32|https://anci.web.id/cor/kota_parepare.html|
 |4|Kabupaten Bantaeng|82|2|0|84|https://anci.web.id/cor/kabupaten_bantaeng.html|
@@ -19,7 +19,7 @@
 |9|Kabupaten Gowa|113|28|15|156|https://anci.web.id/cor/kabupaten_gowa.html|
 |10|Kabupaten Jeneponto|19|4|0|23|https://anci.web.id/cor/kabupaten_jeneponto.html|
 |11|Kabupaten Kepulauan Selayar|39|1|0|40|https://anci.web.id/cor/kabupaten_kepulauan_selayar.html|
-|12|Kabupaten Luwu|34|2|0|36|https://anci.web.id/cor/kabupaten_luwu.html|
+|12|Kabupaten Luwu|34|1|1|36|https://anci.web.id/cor/kabupaten_luwu.html|
 |13|Kabupaten Luwu Timur|253|12|1|266|https://anci.web.id/cor/kabupaten_luwu_timur.html|
 |14|Kabupaten Luwu Utara|71|8|0|79|https://anci.web.id/cor/kabupaten_luwu_utara.html|
 |15|Kabupaten Maros|111|7|9|127|https://anci.web.id/cor/kabupaten_maros.html|
@@ -32,15 +32,15 @@
 |22|Kabupaten Tana Toraja|99|2|0|101|https://anci.web.id/cor/kabupaten_tana_toraja.html|
 |23|Kabupaten Toraja Utara|49|0|0|49|https://anci.web.id/cor/kabupaten_toraja_utara.html|
 |24|Kabupaten Wajo|50|1|0|51|https://anci.web.id/cor/kabupaten_wajo.html|
-|-|Jumlah Sulsel|2279|266|92|2637|https://anci.web.id/cor/jumlah_sulsel.html|
+|-|Jumlah Sulsel|2278|264|95|2637|https://anci.web.id/cor/jumlah_sulsel.html|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 1616  | 663  | 0 | 2279 | https://anci.web.id/cor/odp_detail.html |
-| PDP | 234  | 21  | 11  | 266 | https://anci.web.id/cor/pdp_detail.html |
-| POSITIF | 66  | 19  | 7  | 92 | https://anci.web.id/cor/positif_detail.html |
+| ODP | 1615  | 663  | 0 | 2278 | https://anci.web.id/cor/odp_detail.html |
+| PDP | 232  | 21  | 11  | 264 | https://anci.web.id/cor/pdp_detail.html |
+| POSITIF | 69  | 19  | 7  | 95 | https://anci.web.id/cor/positif_detail.html |
 | JUMLAH | 1916 | 703 | 18 | 2637 | https://anci.web.id/cor/jumlah_sulsel.html |
 
  
