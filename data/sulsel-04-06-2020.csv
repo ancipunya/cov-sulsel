@@ -69,47 +69,47 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 68,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,55 Tahun,Positif - Dirawat Pasien Positif
 69,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,28 Tahun,Positif - Dirawat Pasien Positif
 70,Batulappa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,Positif - Dirawat Pasien Positif
-71,Lalong,Walenrang,Kabupaten Luwu,Perempuan,70 Tahun,Positif - Dirawat Pasien Positif
-72,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,65 Tahun,Positif - Dirawat Pasien Positif
-73,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
-74,Mangasa,Tamalate,Kota Makassar,Perempuan,67 Tahun,Positif - Dirawat Pasien Positif
-75,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
-76,Gunung Sari,Rappocini,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
-77,Maricaya,Makassar,Kota Makassar,Perempuan,44 Tahun,Positif - Dirawat Pasien Positif
-78,Pandang,Panakkukang,Kota Makassar,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
-79,P A I,Biring Kanaya,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
-80,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,36 Tahun,Positif - Dirawat Pasien Positif
-81,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,5 Tahun,Positif - Dirawat Pasien Positif
-82,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
-83,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Dirawat Pasien Positif
-84,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
-85,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,70 Tahun,Positif - Dirawat Pasien Positif
-86,Buakana,Rappocini,Kota Makassar,Laki-Laki,22 Tahun,Positif - Dirawat Pasien Positif
-87,Mariso,Mariso,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
-88,Bulogading,Ujung Pandang,Kota Makassar,Laki-Laki,59 Tahun,Positif - Dirawat Pasien Positif
-89,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
-90,Panambungan,Mariso,Kota Makassar,Laki-Laki,50 Tahun,Positif - Dirawat Pasien Positif
-91,Manggala,Manggala,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
-92,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,63 Tahun,Positif - Dirawat Pasien Positif
-93,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
-94,Maloku,Ujung Pandang,Kota Makassar,Laki-Laki,33 Tahun,Positif - Dirawat Pasien Positif
-95,Masale,Panakkukang,Kota Makassar,Perempuan,37 Tahun,Positif - Dirawat Pasien Positif
-96,Adatongeng,Turikale,Kabupaten Maros,Laki-Laki,71 Tahun,Positif - Dirawat Pasien Positif
-97,Kanjilo,Barombong,Kabupaten Gowa,Perempuan,17 Tahun,Positif - Dirawat Pasien Positif
-98,Minasa Baji,Bantimurung,Kabupaten Maros,Laki-Laki,26 Tahun,Positif - Dirawat Pasien Positif
-99,P A I,Biring Kanaya,Kota Makassar,Laki-Laki,66 Tahun,Positif - Dirawat Pasien Positif
-100,P A I,Biring Kanaya,Kota Makassar,Perempuan,68 Tahun,Positif - Dirawat Pasien Positif
-101,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,49 Tahun,Positif - Dirawat Pasien Positif
-102,Palalakkang,Galesong,Kabupaten Takalar,Laki-Laki,32 Tahun,Positif - Dirawat Pasien Positif
-103,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,48 Tahun,Positif - Dirawat Pasien Positif
-104,Amparita,Tellulimpo E,Kabupaten Sidenreng Rappang,Laki-Laki,61 Tahun,Positif - Dirawat Pasien Positif
-105,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,52 Tahun,Positif - Dirawat Pasien Positif
-106,Panambungan,Mariso,Kota Makassar,Perempuan,55 Tahun,Positif - Meninggal
-107,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
-108,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,51 Tahun,Positif - Meninggal
-109,Maricaya,Makassar,Kota Makassar,Perempuan,64 Tahun,Positif - Meninggal
-110,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,60 Tahun,Positif - Meninggal
-111,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
+71,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,65 Tahun,Positif - Dirawat Pasien Positif
+72,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
+73,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
+74,Gunung Sari,Rappocini,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
+75,Maricaya,Makassar,Kota Makassar,Perempuan,44 Tahun,Positif - Dirawat Pasien Positif
+76,Pandang,Panakkukang,Kota Makassar,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
+77,P A I,Biring Kanaya,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
+78,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,36 Tahun,Positif - Dirawat Pasien Positif
+79,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,5 Tahun,Positif - Dirawat Pasien Positif
+80,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
+81,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Dirawat Pasien Positif
+82,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
+83,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,70 Tahun,Positif - Dirawat Pasien Positif
+84,Buakana,Rappocini,Kota Makassar,Laki-Laki,22 Tahun,Positif - Dirawat Pasien Positif
+85,Mariso,Mariso,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
+86,Bulogading,Ujung Pandang,Kota Makassar,Laki-Laki,59 Tahun,Positif - Dirawat Pasien Positif
+87,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
+88,Panambungan,Mariso,Kota Makassar,Laki-Laki,50 Tahun,Positif - Dirawat Pasien Positif
+89,Manggala,Manggala,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
+90,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,63 Tahun,Positif - Dirawat Pasien Positif
+91,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
+92,Maloku,Ujung Pandang,Kota Makassar,Laki-Laki,33 Tahun,Positif - Dirawat Pasien Positif
+93,Masale,Panakkukang,Kota Makassar,Perempuan,37 Tahun,Positif - Dirawat Pasien Positif
+94,Adatongeng,Turikale,Kabupaten Maros,Laki-Laki,71 Tahun,Positif - Dirawat Pasien Positif
+95,Kanjilo,Barombong,Kabupaten Gowa,Perempuan,17 Tahun,Positif - Dirawat Pasien Positif
+96,Minasa Baji,Bantimurung,Kabupaten Maros,Laki-Laki,26 Tahun,Positif - Dirawat Pasien Positif
+97,P A I,Biring Kanaya,Kota Makassar,Laki-Laki,66 Tahun,Positif - Dirawat Pasien Positif
+98,P A I,Biring Kanaya,Kota Makassar,Perempuan,68 Tahun,Positif - Dirawat Pasien Positif
+99,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,49 Tahun,Positif - Dirawat Pasien Positif
+100,Palalakkang,Galesong,Kabupaten Takalar,Laki-Laki,32 Tahun,Positif - Dirawat Pasien Positif
+101,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,48 Tahun,Positif - Dirawat Pasien Positif
+102,Amparita,Tellulimpo E,Kabupaten Sidenreng Rappang,Laki-Laki,61 Tahun,Positif - Dirawat Pasien Positif
+103,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,52 Tahun,Positif - Dirawat Pasien Positif
+104,Panambungan,Mariso,Kota Makassar,Perempuan,55 Tahun,Positif - Meninggal
+105,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
+106,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,51 Tahun,Positif - Meninggal
+107,Maricaya,Makassar,Kota Makassar,Perempuan,64 Tahun,Positif - Meninggal
+108,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,60 Tahun,Positif - Meninggal
+109,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,58 Tahun,Positif - Meninggal
+110,Lalong,Walenrang,Kabupaten Luwu,Perempuan,70 Tahun,Positif - Meninggal
+111,Mangasa,Tamalate,Kota Makassar,Perempuan,67 Tahun,Positif - Meninggal
 112,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,73 Tahun,Positif - Meninggal
 113,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,53 Tahun,PDP - PDP Meninggal
 114,Bontomasila,Gantarang,Kabupaten Bulukumba,Laki-Laki,3 Tahun,PDP - PDP Meninggal
