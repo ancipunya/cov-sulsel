@@ -565,11 +565,11 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 564,Kaloling,Sinjai Timur,Kabupaten Sinjai,-,-,ODP - Selesai Pengawasan
 565,Pattongko,Sinjai Tengah,Kabupaten Sinjai,-,-,ODP - Selesai Pengawasan
 566,Aska,Sinjai Selatan,Kabupaten Sinjai,-,-,ODP - Selesai Pengawasan
-567,Bulupabbulu,Tempe,Kabupaten Wajo,-,-,ODP - Proses Pengawasan
-568,Watallipue,Tempe,Kabupaten Wajo,-,-,ODP - Proses Pengawasan
-569,Pantai Timur,Takkalalla,Kabupaten Wajo,-,-,ODP - Proses Pengawasan
-570,Marannu,Pitumpanua,Kabupaten Wajo,-,-,ODP - Proses Pengawasan
-571,Kalumeme,Ujung Bulu,Kabupaten Bulukumba,-,-,ODP - Proses Pengawasan
+567,Bulupabbulu,Tempe,Kabupaten Wajo,-,-,ODP - Selesai Pengawasan
+568,Watallipue,Tempe,Kabupaten Wajo,-,-,ODP - Selesai Pengawasan
+569,Pantai Timur,Takkalalla,Kabupaten Wajo,-,-,ODP - Selesai Pengawasan
+570,Marannu,Pitumpanua,Kabupaten Wajo,-,-,ODP - Selesai Pengawasan
+571,Kalumeme,Ujung Bulu,Kabupaten Bulukumba,-,-,ODP - Selesai Pengawasan
 572,Gunturu,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
 573,Polewali,Gantarang,Kabupaten Bulukumba,-,-,ODP - Proses Pengawasan
 574,Lampuawa,Sukamaju,Kabupaten Luwu Utara,-,-,ODP - Selesai Pengawasan
@@ -581,12 +581,12 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 580,Abulosibatang,Marusu,Kabupaten Maros,Laki-Laki,13 Tahun,ODP - Selesai Pengawasan
 581,Panambungan,Mariso,Kota Makassar,Perempuan,-,ODP - Selesai Pengawasan
 582,Panambungan,Mariso,Kota Makassar,Perempuan,27 Tahun,ODP - Selesai Pengawasan
-583,Karunrung,Rappocini,Kota Makassar,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
-584,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-585,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-586,Suwangga,Tallo,Kota Makassar,Perempuan,34 Tahun,ODP - Proses Pengawasan
-587,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,32 Tahun,ODP - Proses Pengawasan
-588,Parang,Mamajang,Kota Makassar,Perempuan,30 Tahun,ODP - Proses Pengawasan
+583,Karunrung,Rappocini,Kota Makassar,Laki-Laki,57 Tahun,ODP - Selesai Pengawasan
+584,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
+585,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
+586,Suwangga,Tallo,Kota Makassar,Perempuan,34 Tahun,ODP - Selesai Pengawasan
+587,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,32 Tahun,ODP - Selesai Pengawasan
+588,Parang,Mamajang,Kota Makassar,Perempuan,30 Tahun,ODP - Selesai Pengawasan
 589,Gunung Sari,Rappocini,Kota Makassar,Perempuan,18 Tahun,ODP - Selesai Pengawasan
 590,Melayu,Wajo,Kota Makassar,Perempuan,23 Tahun,ODP - Selesai Pengawasan
 591,Gunung Sari,Rappocini,Kota Makassar,Perempuan,18 Tahun,ODP - Selesai Pengawasan
@@ -609,20 +609,20 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 608,Balang Baru,Tamalate,Kota Makassar,Perempuan,83 Tahun,ODP - Selesai Pengawasan
 609,Pattunuang,Wajo,Kota Makassar,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
 610,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
-611,Pantai Bahari,Bangkala,Kabupaten Jeneponto,Perempuan,37 Tahun,ODP - Proses Pengawasan
-612,Bontorannu,Bangkala,Kabupaten Jeneponto,Perempuan,46 Tahun,ODP - Proses Pengawasan
-613,Pantai Bahari,Bangkala,Kabupaten Jeneponto,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
+611,Pantai Bahari,Bangkala,Kabupaten Jeneponto,Perempuan,37 Tahun,ODP - Selesai Pengawasan
+612,Bontorannu,Bangkala,Kabupaten Jeneponto,Perempuan,46 Tahun,ODP - Selesai Pengawasan
+613,Pantai Bahari,Bangkala,Kabupaten Jeneponto,Laki-Laki,41 Tahun,ODP - Selesai Pengawasan
 614,Togo-Togo,Batang,Kabupaten Jeneponto,Perempuan,65 Tahun,ODP - Selesai Pengawasan
-615,Bontorappo,Tarowang,Kabupaten Jeneponto,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
-616,-,-,Kabupaten Jeneponto,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
+615,Bontorappo,Tarowang,Kabupaten Jeneponto,Laki-Laki,35 Tahun,ODP - Selesai Pengawasan
+616,-,-,Kabupaten Jeneponto,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 617,-,-,Kabupaten Jeneponto,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 618,Tolo,Kelara,Kabupaten Jeneponto,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
 619,Empoang,Binamu,Kabupaten Jeneponto,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 620,Biringkassi,Binamu,Kabupaten Jeneponto,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
 621,Biringkassi,Binamu,Kabupaten Jeneponto,Perempuan,50 Tahun,ODP - Selesai Pengawasan
 622,Biringkassi,Binamu,Kabupaten Jeneponto,Perempuan,36 Tahun,ODP - Selesai Pengawasan
-623,-,-,Kabupaten Jeneponto,Perempuan,32 Tahun,ODP - Proses Pengawasan
-624,Pappalluang,Bangkala Barat,Kabupaten Jeneponto,Perempuan,31 Tahun,ODP - Proses Pengawasan
+623,-,-,Kabupaten Jeneponto,Perempuan,32 Tahun,ODP - Selesai Pengawasan
+624,Pappalluang,Bangkala Barat,Kabupaten Jeneponto,Perempuan,31 Tahun,ODP - Selesai Pengawasan
 625,Tanah Kongkong,Ujung Bulu,Kabupaten Bulukumba,Perempuan,78 Tahun,ODP - Selesai Pengawasan
 626,Singa,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 627,Tanuntung,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,35 Tahun,ODP - Selesai Pengawasan
@@ -657,23 +657,23 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 656,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 657,Bulupabbulu,Tempe,Kabupaten Wajo,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
 658,Watallipue,Tempe,Kabupaten Wajo,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
-659,Masale,Panakkukang,Kota Makassar,Perempuan,44 Tahun,ODP - Proses Pengawasan
-660,Masale,Panakkukang,Kota Makassar,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
-661,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
-662,Maricaya,Makassar,Kota Makassar,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
-663,Parang Layang,Bontoala,Kota Makassar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
-664,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,63 Tahun,ODP - Proses Pengawasan
-665,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,34 Tahun,ODP - Proses Pengawasan
-666,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,28 Tahun,ODP - Proses Pengawasan
-667,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
-668,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
-669,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
-670,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,64 Tahun,ODP - Proses Pengawasan
-671,Masale,Panakkukang,Kota Makassar,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
-672,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-673,Rappocini,Rappocini,Kota Makassar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-674,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
-675,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+659,Masale,Panakkukang,Kota Makassar,Perempuan,44 Tahun,ODP - Selesai Pengawasan
+660,Masale,Panakkukang,Kota Makassar,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
+661,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
+662,Maricaya,Makassar,Kota Makassar,Laki-Laki,57 Tahun,ODP - Selesai Pengawasan
+663,Parang Layang,Bontoala,Kota Makassar,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
+664,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,63 Tahun,ODP - Selesai Pengawasan
+665,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,34 Tahun,ODP - Selesai Pengawasan
+666,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,28 Tahun,ODP - Selesai Pengawasan
+667,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
+668,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
+669,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,36 Tahun,ODP - Selesai Pengawasan
+670,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,64 Tahun,ODP - Selesai Pengawasan
+671,Masale,Panakkukang,Kota Makassar,Laki-Laki,35 Tahun,ODP - Selesai Pengawasan
+672,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
+673,Rappocini,Rappocini,Kota Makassar,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
+674,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
+675,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
 676,Watang Suppa,Suppa,Kabupaten Pinrang,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
 677,Penrang,Watang Sawitto,Kabupaten Pinrang,Perempuan,38 Tahun,ODP - Proses Pengawasan
 678,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,73 Tahun,ODP - Proses Pengawasan
@@ -689,24 +689,24 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 688,-,-,Kabupaten Luwu,Laki-Laki,-,ODP - Selesai Pengawasan
 689,-,-,Kabupaten Luwu,Perempuan,2 Tahun,ODP - Selesai Pengawasan
 690,Langkiddi,Bajo,Kabupaten Luwu,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
-691,Seppong,Belopa Utara,Kabupaten Luwu,Laki-Laki,53 Tahun,ODP - Proses Pengawasan
+691,Seppong,Belopa Utara,Kabupaten Luwu,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
 692,Seppong,Belopa Utara,Kabupaten Luwu,-,42 Tahun,ODP - Selesai Pengawasan
 693,Paconne,Belopa Utara,Kabupaten Luwu,Perempuan,8 Tahun,ODP - Selesai Pengawasan
 694,Paconne,Belopa Utara,Kabupaten Luwu,Perempuan,44 Tahun,ODP - Selesai Pengawasan
-695,Langkiddi,Bajo,Kabupaten Luwu,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
+695,Langkiddi,Bajo,Kabupaten Luwu,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
 696,Pangi,Bajo,Kabupaten Luwu,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-697,Balla,Bajo,Kabupaten Luwu,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+697,Balla,Bajo,Kabupaten Luwu,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 698,Sakti,Bua,Kabupaten Luwu,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
-699,Salu Pao,Lamasi Timur,Kabupaten Luwu,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+699,Salu Pao,Lamasi Timur,Kabupaten Luwu,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
 700,Padang Kalua,Bua,Kabupaten Luwu,Perempuan,15 Tahun,ODP - Selesai Pengawasan
-701,Tana Rigella,Bua,Kabupaten Luwu,Perempuan,29 Tahun,ODP - Proses Pengawasan
+701,Tana Rigella,Bua,Kabupaten Luwu,Perempuan,29 Tahun,ODP - Selesai Pengawasan
 702,Barowa,Bua,Kabupaten Luwu,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
 703,Botta,Suli,Kabupaten Luwu,Laki-Laki,37 Tahun,ODP - Selesai Pengawasan
 704,Buntu Kunyi,Suli,Kabupaten Luwu,Laki-Laki,80 Tahun,ODP - Selesai Pengawasan
 705,Kasiwiang,Suli,Kabupaten Luwu,Perempuan,18 Tahun,ODP - Selesai Pengawasan
-706,Suli,Suli,Kabupaten Luwu,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+706,Suli,Suli,Kabupaten Luwu,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 707,Suli,Suli,Kabupaten Luwu,Perempuan,17 Tahun,ODP - Selesai Pengawasan
-708,Suli,Suli,Kabupaten Luwu,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
+708,Suli,Suli,Kabupaten Luwu,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
 709,-,Tallunglipu,Kabupaten Toraja Utara,Perempuan,31 Tahun,ODP - Selesai Pengawasan
 710,-,Buntao,Kabupaten Toraja Utara,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
 711,-,Sesean,Kabupaten Toraja Utara,Laki-Laki,47 Tahun,ODP - Selesai Pengawasan
@@ -729,44 +729,44 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 728,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,41 Tahun,ODP - Selesai Pengawasan
 729,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
 730,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
-731,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
-732,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Proses Pengawasan
-733,Wawondula,Towuti,Kabupaten Luwu Timur,-,41 Tahun,ODP - Proses Pengawasan
-734,Nuha,Nuha,Kabupaten Luwu Timur,Perempuan,36 Tahun,ODP - Proses Pengawasan
-735,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
+731,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,37 Tahun,ODP - Selesai Pengawasan
+732,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Selesai Pengawasan
+733,Wawondula,Towuti,Kabupaten Luwu Timur,-,41 Tahun,ODP - Selesai Pengawasan
+734,Nuha,Nuha,Kabupaten Luwu Timur,Perempuan,36 Tahun,ODP - Selesai Pengawasan
+735,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,37 Tahun,ODP - Selesai Pengawasan
 736,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
 737,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
 738,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,45 Tahun,ODP - Proses Pengawasan
 739,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 740,Nuha,Nuha,Kabupaten Luwu Timur,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-741,Jalajja,Burau,Kabupaten Luwu Timur,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
+741,Jalajja,Burau,Kabupaten Luwu Timur,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
 742,Tomoni,Tomoni,Kabupaten Luwu Timur,Laki-Laki,61 Tahun,ODP - Selesai Pengawasan
-743,Baruga,Towuti,Kabupaten Luwu Timur,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
-744,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-745,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,20 Tahun,ODP - Proses Pengawasan
-746,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,44 Tahun,ODP - Proses Pengawasan
-747,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
-748,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
-749,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
-750,Lioka,Towuti,Kabupaten Luwu Timur,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
-751,Tobulung,Bara,Kota Palopo,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
+743,Baruga,Towuti,Kabupaten Luwu Timur,Laki-Laki,60 Tahun,ODP - Selesai Pengawasan
+744,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
+745,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,20 Tahun,ODP - Selesai Pengawasan
+746,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,44 Tahun,ODP - Selesai Pengawasan
+747,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
+748,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
+749,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
+750,Lioka,Towuti,Kabupaten Luwu Timur,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
+751,Tobulung,Bara,Kota Palopo,Laki-Laki,36 Tahun,ODP - Selesai Pengawasan
 752,Tarabbi,Malili,Kabupaten Luwu Timur,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
-753,Manurung,Malili,Kabupaten Luwu Timur,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
-754,Kawata,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-755,Kawata,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-756,Tabarano,Wasuponda,Kabupaten Luwu Timur,Perempuan,49 Tahun,ODP - Proses Pengawasan
+753,Manurung,Malili,Kabupaten Luwu Timur,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
+754,Kawata,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
+755,Kawata,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
+756,Tabarano,Wasuponda,Kabupaten Luwu Timur,Perempuan,49 Tahun,ODP - Selesai Pengawasan
 757,Malewang,Polombangkeng Utara,Kabupaten Takalar,Perempuan,57 Tahun,ODP - Selesai Pengawasan
 758,Mattompodalle,Polombangkeng Utara,Kabupaten Takalar,Perempuan,68 Tahun,ODP - Selesai Pengawasan
 759,Sabintang,Pattallassang,Kabupaten Takalar,Perempuan,47 Tahun,ODP - Selesai Pengawasan
-760,Bontoramba,Somba Opu,Kabupaten Gowa,Perempuan,60 Tahun,ODP - Proses Pengawasan
-761,-,Lamasi Timur,Kabupaten Luwu,Perempuan,-,ODP - Proses Pengawasan
-762,-,Lamasi Timur,Kabupaten Luwu,Laki-Laki,9 Tahun,ODP - Proses Pengawasan
-763,-,Lamasi Timur,Kabupaten Luwu,Laki-Laki,-,ODP - Proses Pengawasan
-764,-,Lamasi Timur,Kabupaten Luwu,Perempuan,-,ODP - Proses Pengawasan
-765,Tabah,Walenrang Timur,Kabupaten Luwu,Laki-Laki,-,ODP - Proses Pengawasan
-766,Tabah,Walenrang Timur,Kabupaten Luwu,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-767,Ilan Batu Uru,Walenrang Barat,Kabupaten Luwu,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-768,Tallang,Suli Barat,Kabupaten Luwu,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
+760,Bontoramba,Somba Opu,Kabupaten Gowa,Perempuan,60 Tahun,ODP - Selesai Pengawasan
+761,-,Lamasi Timur,Kabupaten Luwu,Perempuan,-,ODP - Selesai Pengawasan
+762,-,Lamasi Timur,Kabupaten Luwu,Laki-Laki,9 Tahun,ODP - Selesai Pengawasan
+763,-,Lamasi Timur,Kabupaten Luwu,Laki-Laki,-,ODP - Selesai Pengawasan
+764,-,Lamasi Timur,Kabupaten Luwu,Perempuan,-,ODP - Selesai Pengawasan
+765,Tabah,Walenrang Timur,Kabupaten Luwu,Laki-Laki,-,ODP - Selesai Pengawasan
+766,Tabah,Walenrang Timur,Kabupaten Luwu,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
+767,Ilan Batu Uru,Walenrang Barat,Kabupaten Luwu,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+768,Tallang,Suli Barat,Kabupaten Luwu,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
 769,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
 770,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,26 Tahun,ODP - Selesai Pengawasan
 771,Lautang Benteng,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,38 Tahun,ODP - Selesai Pengawasan
@@ -789,25 +789,25 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 788,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
 789,Rijang Pittu,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
 790,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,55 Tahun,ODP - Selesai Pengawasan
-791,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,52 Tahun,ODP - Proses Pengawasan
-792,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,35 Tahun,ODP - Proses Pengawasan
+791,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,52 Tahun,ODP - Selesai Pengawasan
+792,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,35 Tahun,ODP - Selesai Pengawasan
 793,Empagae,Watang Sidenreng,Kabupaten Sidenreng Rappang,Laki-Laki,53 Tahun,ODP - Proses Pengawasan
-794,Benteng Selatan,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,69 Tahun,ODP - Proses Pengawasan
-795,Benteng,Benteng,Kabupaten Kepulauan Selayar,Perempuan,19 Tahun,ODP - Proses Pengawasan
+794,Benteng Selatan,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,69 Tahun,ODP - Selesai Pengawasan
+795,Benteng,Benteng,Kabupaten Kepulauan Selayar,Perempuan,19 Tahun,ODP - Selesai Pengawasan
 796,-,Benteng,Kabupaten Kepulauan Selayar,Perempuan,17 Tahun,ODP - Selesai Pengawasan
 797,-,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,71 Tahun,ODP - Proses Pengawasan
 798,Benteng,Benteng,Kabupaten Kepulauan Selayar,Perempuan,2 Tahun,ODP - Selesai Pengawasan
 799,Benteng Utara,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,56 Tahun,ODP - Selesai Pengawasan
-800,Majapahit,Pasimarannu,Kabupaten Kepulauan Selayar,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-801,Maminasa,Pasimassunggu,Kabupaten Kepulauan Selayar,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
-802,Kembang Ragi,Pasimassunggu,Kabupaten Kepulauan Selayar,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+800,Majapahit,Pasimarannu,Kabupaten Kepulauan Selayar,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
+801,Maminasa,Pasimassunggu,Kabupaten Kepulauan Selayar,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
+802,Kembang Ragi,Pasimassunggu,Kabupaten Kepulauan Selayar,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 803,-,Bontoharu,Kabupaten Kepulauan Selayar,Laki-Laki,-,ODP - Selesai Pengawasan
-804,Buki,Buki,Kabupaten Kepulauan Selayar,Perempuan,-,ODP - Proses Pengawasan
+804,Buki,Buki,Kabupaten Kepulauan Selayar,Perempuan,-,ODP - Selesai Pengawasan
 805,Buki,Buki,Kabupaten Kepulauan Selayar,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 806,Buki,Buki,Kabupaten Kepulauan Selayar,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
-807,-,Bontomatene,Kabupaten Kepulauan Selayar,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+807,-,Bontomatene,Kabupaten Kepulauan Selayar,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 808,Barugaiya,Bontomanai,Kabupaten Kepulauan Selayar,Perempuan,-,ODP - Selesai Pengawasan
-809,Barugaiya,Bontomanai,Kabupaten Kepulauan Selayar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+809,Barugaiya,Bontomanai,Kabupaten Kepulauan Selayar,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
 810,Mare Mare,Bontomanai,Kabupaten Kepulauan Selayar,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
 811,Bonea Timur,Bontomanai,Kabupaten Kepulauan Selayar,Laki-Laki,60 Tahun,ODP - Selesai Pengawasan
 812,Bonto Rita,Bissappu,Kabupaten Bantaeng,Laki-Laki,11 Tahun,ODP - Selesai Pengawasan
@@ -815,7 +815,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 814,Bonto Atu,Bissappu,Kabupaten Bantaeng,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
 815,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 816,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Perempuan,33 Tahun,ODP - Proses Pengawasan
-817,Bonto Jai,Bissappu,Kabupaten Bantaeng,Laki-Laki,-,ODP - Proses Pengawasan
+817,Bonto Jai,Bissappu,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
 818,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
 819,Bonto Rita,Bissappu,Kabupaten Bantaeng,Perempuan,30 Tahun,ODP - Proses Pengawasan
 820,Bonto Sunggu,Bissappu,Kabupaten Bantaeng,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
@@ -830,16 +830,16 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 829,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Laki-Laki,35 Tahun,ODP - Selesai Pengawasan
 830,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
 831,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Perempuan,1 Tahun,ODP - Selesai Pengawasan
-832,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+832,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 833,Mappilawing,Eremerasa,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
 834,Mappilawing,Eremerasa,Kabupaten Bantaeng,Perempuan,-,ODP - Selesai Pengawasan
 835,Mappilawing,Eremerasa,Kabupaten Bantaeng,Perempuan,35 Tahun,ODP - Selesai Pengawasan
 836,Tandung,Malangke,Kabupaten Luwu Utara,Perempuan,16 Tahun,ODP - Proses Pengawasan
 837,Ulugalung,Eremerasa,Kabupaten Bantaeng,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
-838,Bonto Maccini,Sinoa,Kabupaten Bantaeng,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
-839,Bonto Maccini,Sinoa,Kabupaten Bantaeng,Perempuan,23 Tahun,ODP - Proses Pengawasan
-840,Bonto Maccini,Sinoa,Kabupaten Bantaeng,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
-841,Bonto Maccini,Sinoa,Kabupaten Bantaeng,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
+838,Bonto Maccini,Sinoa,Kabupaten Bantaeng,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
+839,Bonto Maccini,Sinoa,Kabupaten Bantaeng,Perempuan,23 Tahun,ODP - Selesai Pengawasan
+840,Bonto Maccini,Sinoa,Kabupaten Bantaeng,Laki-Laki,4 Tahun,ODP - Selesai Pengawasan
+841,Bonto Maccini,Sinoa,Kabupaten Bantaeng,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
 842,Bonto Matene,Sinoa,Kabupaten Bantaeng,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
 843,Bonto Tallasa,Uluere,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
 844,Bonto Tallasa,Uluere,Kabupaten Bantaeng,Perempuan,-,ODP - Selesai Pengawasan
@@ -856,27 +856,27 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 855,Lembang,Bantaeng,Kabupaten Bantaeng,Perempuan,-,ODP - Selesai Pengawasan
 856,Tappanjeng,Bantaeng,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
 857,Bonto Rita,Bissappu,Kabupaten Bantaeng,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-858,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Laki-Laki,-,ODP - Proses Pengawasan
+858,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
 859,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Perempuan,3 Tahun,ODP - Selesai Pengawasan
-860,Bojo,Mallusetasi,Kabupaten Barru,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+860,Bojo,Mallusetasi,Kabupaten Barru,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 861,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Perempuan,33 Tahun,ODP - Selesai Pengawasan
 862,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Laki-Laki,35 Tahun,ODP - Selesai Pengawasan
 863,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Perempuan,44 Tahun,ODP - Selesai Pengawasan
-864,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+864,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,42 Tahun,ODP - Selesai Pengawasan
 865,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Laki-Laki,46 Tahun,ODP - Selesai Pengawasan
-866,Bonto Karaeng,Sinoa,Kabupaten Bantaeng,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
+866,Bonto Karaeng,Sinoa,Kabupaten Bantaeng,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
 867,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
 868,Bonto Tallasa,Uluere,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
 869,Baruga,Pajukukang,Kabupaten Bantaeng,Perempuan,35 Tahun,ODP - Proses Pengawasan
 870,Tolada,Malangke,Kabupaten Luwu Utara,Perempuan,36 Tahun,ODP - Proses Pengawasan
 871,Tombolo,Gantarangkeke,Kabupaten Bantaeng,Perempuan,16 Tahun,ODP - Selesai Pengawasan
 872,Kupa,Mallusetasi,Kabupaten Barru,Perempuan,45 Tahun,ODP - Proses Pengawasan
-873,Bonto Tappalang,Tompobulu,Kabupaten Bantaeng,Laki-Laki,17 Tahun,ODP - Proses Pengawasan
+873,Bonto Tappalang,Tompobulu,Kabupaten Bantaeng,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
 874,Labbo,Tompobulu,Kabupaten Bantaeng,Perempuan,30 Tahun,ODP - Selesai Pengawasan
-875,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,62 Tahun,ODP - Proses Pengawasan
-876,Pattene,Polombangkeng Selatan,Kabupaten Takalar,Perempuan,20 Tahun,ODP - Proses Pengawasan
-877,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
-878,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
+875,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,62 Tahun,ODP - Selesai Pengawasan
+876,Pattene,Polombangkeng Selatan,Kabupaten Takalar,Perempuan,20 Tahun,ODP - Selesai Pengawasan
+877,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,47 Tahun,ODP - Selesai Pengawasan
+878,Kupa,Mallusetasi,Kabupaten Barru,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
 879,Mallawa,Mallusetasi,Kabupaten Barru,Laki-Laki,71 Tahun,ODP - Proses Pengawasan
 880,Mallawa,Mallusetasi,Kabupaten Barru,Laki-Laki,65 Tahun,ODP - Proses Pengawasan
 881,Mallawa,Mallusetasi,Kabupaten Barru,Perempuan,60 Tahun,ODP - Proses Pengawasan
@@ -902,25 +902,25 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 901,Tuwung,Barru,Kabupaten Barru,Perempuan,49 Tahun,ODP - Selesai Pengawasan
 902,Lampoko,Balusu,Kabupaten Barru,Perempuan,58 Tahun,ODP - Selesai Pengawasan
 903,Tuwung,Barru,Kabupaten Barru,Laki-Laki,15 Tahun,ODP - Selesai Pengawasan
-904,Lalabata,Tanete Rilau,Kabupaten Barru,Laki-Laki,55 Tahun,ODP - Proses Pengawasan
+904,Lalabata,Tanete Rilau,Kabupaten Barru,Laki-Laki,55 Tahun,ODP - Selesai Pengawasan
 905,Tuwung,Barru,Kabupaten Barru,Perempuan,22 Tahun,ODP - Selesai Pengawasan
-906,Lalabata,Tanete Rilau,Kabupaten Barru,Perempuan,21 Tahun,ODP - Proses Pengawasan
+906,Lalabata,Tanete Rilau,Kabupaten Barru,Perempuan,21 Tahun,ODP - Selesai Pengawasan
 907,Tuwung,Barru,Kabupaten Barru,Laki-Laki,60 Tahun,ODP - Selesai Pengawasan
 908,Tuwung,Barru,Kabupaten Barru,Laki-Laki,13 Tahun,ODP - Selesai Pengawasan
-909,Lalabata,Tanete Rilau,Kabupaten Barru,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
-910,Lalabata,Tanete Rilau,Kabupaten Barru,Perempuan,65 Tahun,ODP - Proses Pengawasan
+909,Lalabata,Tanete Rilau,Kabupaten Barru,Laki-Laki,33 Tahun,ODP - Selesai Pengawasan
+910,Lalabata,Tanete Rilau,Kabupaten Barru,Perempuan,65 Tahun,ODP - Selesai Pengawasan
 911,Tuwung,Barru,Kabupaten Barru,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
 912,Tuwung,Barru,Kabupaten Barru,Perempuan,28 Tahun,ODP - Selesai Pengawasan
 913,Mattirowalie,Tanete Riaja,Kabupaten Barru,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
 914,Tuwung,Barru,Kabupaten Barru,Perempuan,58 Tahun,ODP - Selesai Pengawasan
 915,Mattappawalie,Pujananting,Kabupaten Barru,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
-916,Lempang,Tanete Riaja,Kabupaten Barru,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-917,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-918,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+916,Lempang,Tanete Riaja,Kabupaten Barru,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
+917,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
+918,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 919,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
-920,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+920,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 921,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,41 Tahun,ODP - Selesai Pengawasan
-922,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+922,Kading,Tanete Riaja,Kabupaten Barru,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 923,Sabintang,Pattallassang,Kabupaten Takalar,Perempuan,47 Tahun,ODP - Proses Pengawasan
 924,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
 925,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,ODP - Proses Pengawasan
@@ -928,60 +928,60 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 927,Bila,Lalabata,Kabupaten Soppeng,Laki-Laki,70 Tahun,ODP - Selesai Pengawasan
 928,Tellulimpoe,Mario Riawa,Kabupaten Soppeng,Laki-Laki,65 Tahun,ODP - Selesai Pengawasan
 929,Galung,Lili Riaja,Kabupaten Soppeng,Perempuan,71 Tahun,ODP - Selesai Pengawasan
-930,Cabenge,Lili Rilau,Kabupaten Soppeng,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
-931,Appanang,Lili Riaja,Kabupaten Soppeng,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+930,Cabenge,Lili Rilau,Kabupaten Soppeng,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
+931,Appanang,Lili Riaja,Kabupaten Soppeng,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 932,Lemba,Lalabata,Kabupaten Soppeng,Perempuan,39 Tahun,ODP - Proses Pengawasan
-933,Botto Benteng,Majauleng,Kabupaten Wajo,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
-934,Tancung,Tana Sitolo,Kabupaten Wajo,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
-935,Pakkanna,Tana Sitolo,Kabupaten Wajo,Perempuan,25 Tahun,ODP - Proses Pengawasan
+933,Botto Benteng,Majauleng,Kabupaten Wajo,Laki-Laki,41 Tahun,ODP - Selesai Pengawasan
+934,Tancung,Tana Sitolo,Kabupaten Wajo,Laki-Laki,43 Tahun,ODP - Selesai Pengawasan
+935,Pakkanna,Tana Sitolo,Kabupaten Wajo,Perempuan,25 Tahun,ODP - Selesai Pengawasan
 936,Inrello,Keera,Kabupaten Wajo,Perempuan,35 Tahun,ODP - Proses Pengawasan
-937,Limpo Rilau,Belawa,Kabupaten Wajo,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-938,Bocco,Takkalalla,Kabupaten Wajo,Perempuan,47 Tahun,ODP - Proses Pengawasan
+937,Limpo Rilau,Belawa,Kabupaten Wajo,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
+938,Bocco,Takkalalla,Kabupaten Wajo,Perempuan,47 Tahun,ODP - Selesai Pengawasan
 939,Limpo Rilau,Belawa,Kabupaten Wajo,Laki-Laki,15 Tahun,ODP - Proses Pengawasan
 940,Pattirolokka,Keera,Kabupaten Wajo,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
 941,Cinnong Tabi,Majauleng,Kabupaten Wajo,Perempuan,11 Tahun,ODP - Proses Pengawasan
 942,Rajamawellang,Bola,Kabupaten Wajo,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 943,Ujung Tanah,Bola,Kabupaten Wajo,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 944,Wewangrewu,Tana Sitolo,Kabupaten Wajo,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
-945,Atakkae,Tempe,Kabupaten Wajo,Perempuan,19 Tahun,ODP - Proses Pengawasan
+945,Atakkae,Tempe,Kabupaten Wajo,Perempuan,19 Tahun,ODP - Selesai Pengawasan
 946,Sappa,Belawa,Kabupaten Wajo,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 947,Atakkae,Tempe,Kabupaten Wajo,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 948,Bojo,Mallusetasi,Kabupaten Barru,Perempuan,17 Tahun,ODP - Proses Pengawasan
-949,Mattappawalie,Pujananting,Kabupaten Barru,Perempuan,20 Tahun,ODP - Proses Pengawasan
+949,Mattappawalie,Pujananting,Kabupaten Barru,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 950,Batu,Pitu Riase,Kabupaten Sidenreng Rappang,Perempuan,18 Tahun,ODP - Proses Pengawasan
 951,Tonrong Rijang,Baranti,Kabupaten Sidenreng Rappang,Perempuan,50 Tahun,ODP - Proses Pengawasan
 952,Rijang Panua,Kulo,Kabupaten Sidenreng Rappang,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-953,Sumber Agung,Kalaena,Kabupaten Luwu Timur,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
+953,Sumber Agung,Kalaena,Kabupaten Luwu Timur,Laki-Laki,47 Tahun,ODP - Selesai Pengawasan
 954,Kalaena Kiri,Kalaena,Kabupaten Luwu Timur,Perempuan,40 Tahun,ODP - Proses Pengawasan
 955,Mekar Sari,Kalaena,Kabupaten Luwu Timur,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
 956,Sumber Makmur,Kalaena,Kabupaten Luwu Timur,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
-957,Sindu Agung,Mangkutana,Kabupaten Luwu Timur,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+957,Sindu Agung,Mangkutana,Kabupaten Luwu Timur,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
 958,Lamaeto,Angkona,Kabupaten Luwu Timur,Laki-Laki,47 Tahun,ODP - Selesai Pengawasan
-959,Bantilang,Towuti,Kabupaten Luwu Timur,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
+959,Bantilang,Towuti,Kabupaten Luwu Timur,Laki-Laki,57 Tahun,ODP - Selesai Pengawasan
 960,Bantilang,Towuti,Kabupaten Luwu Timur,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
 961,Bantilang,Towuti,Kabupaten Luwu Timur,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
 962,Bantilang,Towuti,Kabupaten Luwu Timur,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-963,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,65 Tahun,ODP - Proses Pengawasan
-964,Magani,Nuha,Kabupaten Luwu Timur,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+963,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,65 Tahun,ODP - Selesai Pengawasan
+964,Magani,Nuha,Kabupaten Luwu Timur,Laki-Laki,42 Tahun,ODP - Selesai Pengawasan
 965,Radda,Baebunta,Kabupaten Luwu Utara,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
 966,Lara,Baebunta,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
-967,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,22 Tahun,ODP - Proses Pengawasan
-968,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Proses Pengawasan
+967,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,22 Tahun,ODP - Selesai Pengawasan
+968,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 969,Arusu,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Selesai Pengawasan
-970,Arusu,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
-971,Arusu,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-972,Polejiwa,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Proses Pengawasan
+970,Arusu,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+971,Arusu,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
+972,Polejiwa,Malangke Barat,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 973,Kalitata,Malangke Barat,Kabupaten Luwu Utara,Perempuan,24 Tahun,ODP - Proses Pengawasan
 974,Arusu,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
 975,Benteng,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
 976,Benteng Selatan,Benteng,Kabupaten Kepulauan Selayar,Perempuan,24 Tahun,ODP - Proses Pengawasan
-977,Benteng,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-978,Benteng Utara,Benteng,Kabupaten Kepulauan Selayar,Perempuan,44 Tahun,ODP - Proses Pengawasan
+977,Benteng,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
+978,Benteng Utara,Benteng,Kabupaten Kepulauan Selayar,Perempuan,44 Tahun,ODP - Selesai Pengawasan
 979,Buki,Buki,Kabupaten Kepulauan Selayar,Perempuan,24 Tahun,ODP - Proses Pengawasan
 980,Benteng Utara,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 981,Benteng Utara,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
 982,Patikarya,Bontosikuyu,Kabupaten Kepulauan Selayar,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-983,Mare Mare,Bontomanai,Kabupaten Kepulauan Selayar,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
+983,Mare Mare,Bontomanai,Kabupaten Kepulauan Selayar,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
 984,Mangkura,Ujung Pandang,Kota Makassar,Perempuan,45 Tahun,ODP - Proses Pengawasan
 985,Masale,Panakkukang,Kota Makassar,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
 986,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
@@ -1059,7 +1059,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1058,Bukit Harapan,Gantarang,Kabupaten Bulukumba,Perempuan,17 Tahun,ODP - Selesai Pengawasan
 1059,Bukit Harapan,Gantarang,Kabupaten Bulukumba,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
 1060,Mariorennu,Gantarang,Kabupaten Bulukumba,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-1061,Jalanjang,Gantarang,Kabupaten Bulukumba,Perempuan,15 Tahun,ODP - Proses Pengawasan
+1061,Jalanjang,Gantarang,Kabupaten Bulukumba,Perempuan,15 Tahun,ODP - Selesai Pengawasan
 1062,Barombong,Gantarang,Kabupaten Bulukumba,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1063,Gunturu,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
 1064,Tambangan,Kajang,Kabupaten Bulukumba,Perempuan,80 Tahun,ODP - Selesai Pengawasan
@@ -1073,31 +1073,31 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1072,Tanuntung,Hero Lange-Lange,Kabupaten Bulukumba,Perempuan,33 Tahun,ODP - Proses Pengawasan
 1073,Paenre Lompoe,Gantarang,Kabupaten Bulukumba,Perempuan,28 Tahun,ODP - Proses Pengawasan
 1074,Lembanna,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
-1075,Sapolohe,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+1075,Sapolohe,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 1076,B I R A,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
 1077,Palampang,Rilau Ale,Kabupaten Bulukumba,-,6 Tahun,ODP - Proses Pengawasan
 1078,Batulohe,Bulukumpa,Kabupaten Bulukumba,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-1079,Lumbewe,Burau,Kabupaten Luwu Timur,Perempuan,69 Tahun,ODP - Proses Pengawasan
-1080,Lambara Harapan,Burau,Kabupaten Luwu Timur,Perempuan,21 Tahun,ODP - Proses Pengawasan
+1079,Lumbewe,Burau,Kabupaten Luwu Timur,Perempuan,69 Tahun,ODP - Selesai Pengawasan
+1080,Lambara Harapan,Burau,Kabupaten Luwu Timur,Perempuan,21 Tahun,ODP - Selesai Pengawasan
 1081,Lewonu,Burau,Kabupaten Luwu Timur,Perempuan,40 Tahun,ODP - Selesai Pengawasan
 1082,Lagego,Burau,Kabupaten Luwu Timur,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
 1083,Laro,Burau,Kabupaten Luwu Timur,Perempuan,18 Tahun,ODP - Selesai Pengawasan
-1084,Laro,Burau,Kabupaten Luwu Timur,Perempuan,30 Tahun,ODP - Proses Pengawasan
+1084,Laro,Burau,Kabupaten Luwu Timur,Perempuan,30 Tahun,ODP - Selesai Pengawasan
 1085,Laro,Burau,Kabupaten Luwu Timur,Perempuan,37 Tahun,ODP - Selesai Pengawasan
 1086,Laro,Burau,Kabupaten Luwu Timur,Perempuan,54 Tahun,ODP - Selesai Pengawasan
 1087,Jalajja,Burau,Kabupaten Luwu Timur,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
-1088,Lagego,Burau,Kabupaten Luwu Timur,Perempuan,45 Tahun,ODP - Proses Pengawasan
-1089,Lumbewe,Burau,Kabupaten Luwu Timur,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-1090,Lewonu,Burau,Kabupaten Luwu Timur,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-1091,Lauwo,Burau,Kabupaten Luwu Timur,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
+1088,Lagego,Burau,Kabupaten Luwu Timur,Perempuan,45 Tahun,ODP - Selesai Pengawasan
+1089,Lumbewe,Burau,Kabupaten Luwu Timur,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
+1090,Lewonu,Burau,Kabupaten Luwu Timur,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
+1091,Lauwo,Burau,Kabupaten Luwu Timur,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
 1092,Asana,Burau,Kabupaten Luwu Timur,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
-1093,Lumbewe,Burau,Kabupaten Luwu Timur,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
+1093,Lumbewe,Burau,Kabupaten Luwu Timur,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
 1094,Burau,Burau,Kabupaten Luwu Timur,Perempuan,23 Tahun,ODP - Proses Pengawasan
 1095,Jalajja,Burau,Kabupaten Luwu Timur,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
 1096,Laro,Burau,Kabupaten Luwu Timur,Perempuan,51 Tahun,ODP - Selesai Pengawasan
 1097,Lumbewe,Burau,Kabupaten Luwu Timur,Perempuan,40 Tahun,ODP - Selesai Pengawasan
-1098,Lambara Harapan,Burau,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Proses Pengawasan
-1099,Lauwo,Burau,Kabupaten Luwu Timur,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+1098,Lambara Harapan,Burau,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Selesai Pengawasan
+1099,Lauwo,Burau,Kabupaten Luwu Timur,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 1100,Lanosi,Burau,Kabupaten Luwu Timur,Laki-Laki,10 Tahun,ODP - Selesai Pengawasan
 1101,Lanosi,Burau,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Proses Pengawasan
 1102,Burau,Burau,Kabupaten Luwu Timur,Perempuan,21 Tahun,ODP - Proses Pengawasan
@@ -1135,7 +1135,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1134,Nikkel,Nuha,Kabupaten Luwu Timur,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
 1135,Benteng,Wara Timur,Kota Palopo,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
 1136,Mico,Palakka,Kabupaten Bone,Perempuan,-,ODP - Selesai Pengawasan
-1137,Salekoe,Wara Timur,Kota Palopo,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+1137,Salekoe,Wara Timur,Kota Palopo,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 1138,Mico,Palakka,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 1139,Binturu,Wara Selatan,Kota Palopo,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 1140,Jaya,Telluwanua,Kota Palopo,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
@@ -1153,10 +1153,10 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1152,Mico,Palakka,Kabupaten Bone,Perempuan,42 Tahun,ODP - Proses Pengawasan
 1153,Takkalala,Wara Selatan,Kota Palopo,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 1154,Magani,Nuha,Kabupaten Luwu Timur,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-1155,Cinennung,Palakka,Kabupaten Bone,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
+1155,Cinennung,Palakka,Kabupaten Bone,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 1156,Songka,Wara Selatan,Kota Palopo,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 1157,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-1158,Sampoddo,Wara Selatan,Kota Palopo,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
+1158,Sampoddo,Wara Selatan,Kota Palopo,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
 1159,Cinennung,Palakka,Kabupaten Bone,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1160,Songka,Wara Selatan,Kota Palopo,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
 1161,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
@@ -1169,10 +1169,10 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1168,Mungkajang,Mungkajang,Kota Palopo,Perempuan,15 Tahun,ODP - Selesai Pengawasan
 1169,-,Wasuponda,Kabupaten Luwu Timur,Perempuan,23 Tahun,ODP - Proses Pengawasan
 1170,Tanah Tengah,Palakka,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-1171,Mungkajang,Mungkajang,Kota Palopo,Laki-Laki,7 Tahun,ODP - Proses Pengawasan
+1171,Mungkajang,Mungkajang,Kota Palopo,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
 1172,Cinennung,Palakka,Kabupaten Bone,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-1173,Mungkajang,Mungkajang,Kota Palopo,Laki-Laki,53 Tahun,ODP - Proses Pengawasan
-1174,Mungkajang,Mungkajang,Kota Palopo,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
+1173,Mungkajang,Mungkajang,Kota Palopo,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
+1174,Mungkajang,Mungkajang,Kota Palopo,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
 1175,Murante,Mungkajang,Kota Palopo,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 1176,Wasuponda,Wasuponda,Kabupaten Luwu Timur,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 1177,Latuppa,Mungkajang,Kota Palopo,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
@@ -1183,11 +1183,11 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1182,Salekoe,Wara Timur,Kota Palopo,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
 1183,Waetuwo,-,Kabupaten Bone,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
 1184,Tomarundung,Wara Barat,Kota Palopo,Perempuan,42 Tahun,ODP - Selesai Pengawasan
-1185,Mungkajang,Mungkajang,Kota Palopo,Perempuan,41 Tahun,ODP - Proses Pengawasan
+1185,Mungkajang,Mungkajang,Kota Palopo,Perempuan,41 Tahun,ODP - Selesai Pengawasan
 1186,Waetuwo,Kajuara,Kabupaten Bone,Laki-Laki,15 Tahun,ODP - Selesai Pengawasan
 1187,Rampoang,Bara,Kota Palopo,Perempuan,24 Tahun,ODP - Selesai Pengawasan
-1188,Gona,Kajuara,Kabupaten Bone,Laki-Laki,80 Tahun,ODP - Proses Pengawasan
-1189,Polewali,Kajuara,Kabupaten Bone,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
+1188,Gona,Kajuara,Kabupaten Bone,Laki-Laki,80 Tahun,ODP - Selesai Pengawasan
+1189,Polewali,Kajuara,Kabupaten Bone,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
 1190,-,Mare,Kabupaten Bone,Perempuan,54 Tahun,ODP - Proses Pengawasan
 1191,Songka,Wara Selatan,Kota Palopo,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 1192,Angkue,Kajuara,Kabupaten Bone,Perempuan,4 Tahun,ODP - Proses Pengawasan
@@ -1292,7 +1292,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1291,Watampone,Tanete Riattang,Kabupaten Bone,Laki-Laki,73 Tahun,ODP - Selesai Pengawasan
 1292,Matajang,Kahu,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
 1293,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-1294,Manurungnge,Tanete Riattang,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+1294,Manurungnge,Tanete Riattang,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1295,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
 1296,Bukaka,Tanete Riattang,Kabupaten Bone,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
 1297,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
@@ -1317,7 +1317,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1316,Pattiro Bajo,Sibulue,Kabupaten Bone,Laki-Laki,14 Tahun,ODP - Selesai Pengawasan
 1317,Pattiro Bajo,Sibulue,Kabupaten Bone,Laki-Laki,55 Tahun,ODP - Proses Pengawasan
 1318,Gattareng,Salomekko,Kabupaten Bone,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
-1319,Masumpu,Tanete Riattang,Kabupaten Bone,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+1319,Masumpu,Tanete Riattang,Kabupaten Bone,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1320,Pattiro Bajo,Sibulue,Kabupaten Bone,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
 1321,Pattiro Riolo,Sibulue,Kabupaten Bone,Perempuan,21 Tahun,ODP - Proses Pengawasan
 1322,Polewali,Sibulue,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
@@ -1355,7 +1355,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1354,Watang Padacenga,Dua Boccoe,Kabupaten Bone,Perempuan,55 Tahun,ODP - Proses Pengawasan
 1355,Turucinnae,Lamuru,Kabupaten Bone,Perempuan,-,ODP - Proses Pengawasan
 1356,Watang Padacenga,Dua Boccoe,Kabupaten Bone,Perempuan,65 Tahun,ODP - Proses Pengawasan
-1357,Jeppee,Tanete Riattang Barat,Kabupaten Bone,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
+1357,Jeppee,Tanete Riattang Barat,Kabupaten Bone,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
 1358,Mattampa Walie,Lamuru,Kabupaten Bone,Perempuan,45 Tahun,ODP - Proses Pengawasan
 1359,Uloe,Dua Boccoe,Kabupaten Bone,Perempuan,23 Tahun,ODP - Proses Pengawasan
 1360,Jeppee,Tanete Riattang Barat,Kabupaten Bone,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
@@ -1376,7 +1376,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1375,Mattiro Deceng,Libureng,Kabupaten Bone,Laki-Laki,33 Tahun,ODP - Selesai Pengawasan
 1376,Macege,Tanete Riattang Barat,Kabupaten Bone,Perempuan,21 Tahun,ODP - Proses Pengawasan
 1377,Barakkae,Lamuru,Kabupaten Bone,Laki-Laki,-,ODP - Proses Pengawasan
-1378,Tanabatue,Libureng,Kabupaten Bone,Perempuan,17 Tahun,ODP - Proses Pengawasan
+1378,Tanabatue,Libureng,Kabupaten Bone,Perempuan,17 Tahun,ODP - Selesai Pengawasan
 1379,Bulu Tempe,Tanete Riattang Barat,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
 1380,Tanabatue,Libureng,Kabupaten Bone,Perempuan,44 Tahun,ODP - Proses Pengawasan
 1381,Mampotu,Amali,Kabupaten Bone,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
@@ -1390,7 +1390,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1389,Ajang Laleng,Amali,Kabupaten Bone,Perempuan,48 Tahun,ODP - Proses Pengawasan
 1390,Mattampa Walie,Lamuru,Kabupaten Bone,-,31 Tahun,ODP - Proses Pengawasan
 1391,Mattampa Walie,Lappariaja,Kabupaten Bone,Perempuan,37 Tahun,ODP - Proses Pengawasan
-1392,Wanuawaru,Libureng,Kabupaten Bone,Perempuan,56 Tahun,ODP - Proses Pengawasan
+1392,Wanuawaru,Libureng,Kabupaten Bone,Perempuan,56 Tahun,ODP - Selesai Pengawasan
 1393,Tenri Pakkua,Lappariaja,Kabupaten Bone,Perempuan,20 Tahun,ODP - Proses Pengawasan
 1394,Ponre-Ponre,Libureng,Kabupaten Bone,Perempuan,23 Tahun,ODP - Proses Pengawasan
 1395,Mattoanging,Tellu Siattinge,Kabupaten Bone,Perempuan,1 Tahun,ODP - Proses Pengawasan
@@ -1441,17 +1441,17 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1440,Kahu,Bontocani,Kabupaten Bone,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1441,Maroanging,Sibulue,Kabupaten Bone,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 1442,Maroanging,Sibulue,Kabupaten Bone,Perempuan,22 Tahun,ODP - Proses Pengawasan
-1443,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+1443,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
 1444,Lette Tanah,Sibulue,Kabupaten Bone,Laki-Laki,17 Tahun,ODP - Proses Pengawasan
 1445,Mallusetasi,Sibulue,Kabupaten Bone,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
-1446,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+1446,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 1447,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
 1448,Mallusetasi,Sibulue,Kabupaten Bone,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
-1449,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+1449,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1450,Pakkasalo,Sibulue,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1451,Tamangapa,Manggala,Kota Makassar,Perempuan,-,ODP - Proses Pengawasan
 1452,Pakkasalo,Sibulue,Kabupaten Bone,Perempuan,28 Tahun,ODP - Selesai Pengawasan
-1453,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+1453,Jompie,Ulaweng,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1454,Pakkasalo,Sibulue,Kabupaten Bone,Perempuan,19 Tahun,ODP - Selesai Pengawasan
 1455,Bulogading,Ujung Pandang,Kota Makassar,Perempuan,51 Tahun,ODP - Proses Pengawasan
 1456,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
@@ -1465,20 +1465,20 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1464,Latellang,Patimpeng,Kabupaten Bone,Perempuan,65 Tahun,ODP - Selesai Pengawasan
 1465,-,Mamajang,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
 1466,Patimpeng,Patimpeng,Kabupaten Bone,Laki-Laki,44 Tahun,ODP - Selesai Pengawasan
-1467,Masago,Patimpeng,Kabupaten Bone,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+1467,Masago,Patimpeng,Kabupaten Bone,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1468,Maddanrengpulu,Patimpeng,Kabupaten Bone,Perempuan,19 Tahun,ODP - Proses Pengawasan
 1469,Patimpeng,Patimpeng,Kabupaten Bone,Laki-Laki,63 Tahun,ODP - Proses Pengawasan
 1470,-,-,Kota Makassar,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
 1471,-,Tamalanrea,Kota Makassar,Laki-Laki,51 Tahun,ODP - Proses Pengawasan
-1472,Patimpeng,Patimpeng,Kabupaten Bone,Perempuan,19 Tahun,ODP - Proses Pengawasan
-1473,Patimpeng,Patimpeng,Kabupaten Bone,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+1472,Patimpeng,Patimpeng,Kabupaten Bone,Perempuan,19 Tahun,ODP - Selesai Pengawasan
+1473,Patimpeng,Patimpeng,Kabupaten Bone,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
 1474,-,-,Kota Makassar,Perempuan,-,ODP - Proses Pengawasan
 1475,Patimpeng,Patimpeng,Kabupaten Bone,Perempuan,21 Tahun,ODP - Proses Pengawasan
 1476,Rawamangun,Sukamaju,Kabupaten Luwu Utara,Perempuan,63 Tahun,ODP - Proses Pengawasan
 1477,Mattampa Walie,Mare,Kabupaten Bone,Perempuan,63 Tahun,ODP - Selesai Pengawasan
 1478,-,-,Kota Makassar,Perempuan,-,ODP - Proses Pengawasan
-1479,Sumaling,Mare,Kabupaten Bone,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
-1480,Sumaling,Mare,Kabupaten Bone,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
+1479,Sumaling,Mare,Kabupaten Bone,Laki-Laki,2 Tahun,ODP - Selesai Pengawasan
+1480,Sumaling,Mare,Kabupaten Bone,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
 1481,Matuju,Awangpone,Kabupaten Bone,Perempuan,50 Tahun,ODP - Proses Pengawasan
 1482,Mappalo Ulaweng,Awangpone,Kabupaten Bone,Perempuan,31 Tahun,ODP - Proses Pengawasan
 1483,Lappo Ase,Awangpone,Kabupaten Bone,Perempuan,64 Tahun,ODP - Proses Pengawasan
@@ -1486,11 +1486,11 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1485,Gaya Baru,Tellu Limpoe,Kabupaten Bone,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
 1486,Tellangkere,Tellu Limpoe,Kabupaten Bone,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1487,-,-,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
-1488,-,Tanete Riattang,Kabupaten Bone,Laki-Laki,48 Tahun,ODP - Proses Pengawasan
-1489,Tibojong,Tanete Riattang Timur,Kabupaten Bone,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
+1488,-,Tanete Riattang,Kabupaten Bone,Laki-Laki,48 Tahun,ODP - Selesai Pengawasan
+1489,Tibojong,Tanete Riattang Timur,Kabupaten Bone,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
 1490,Mappesangka,Ponre,Kabupaten Bone,Laki-Laki,51 Tahun,ODP - Selesai Pengawasan
 1491,-,-,Kota Makassar,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-1492,Mappesangka,Ponre,Kabupaten Bone,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
+1492,Mappesangka,Ponre,Kabupaten Bone,Laki-Laki,47 Tahun,ODP - Selesai Pengawasan
 1493,-,-,Kota Makassar,Perempuan,26 Tahun,ODP - Proses Pengawasan
 1494,-,-,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
 1495,Turu Adae,Ponre,Kabupaten Bone,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
@@ -1552,10 +1552,10 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1551,Pandung Batu,Baraka,Kabupaten Enrekang,Perempuan,23 Tahun,ODP - Proses Pengawasan
 1552,Balang Pesoang,Bulukumpa,Kabupaten Bulukumba,-,-,ODP - Proses Pengawasan
 1553,Garanta,Ujung Loe,Kabupaten Bulukumba,Laki-Laki,-,ODP - Proses Pengawasan
-1554,Banti,Baraka,Kabupaten Enrekang,Perempuan,2 Tahun,ODP - Proses Pengawasan
+1554,Banti,Baraka,Kabupaten Enrekang,Perempuan,2 Tahun,ODP - Selesai Pengawasan
 1555,Sapolohe,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,55 Tahun,ODP - Proses Pengawasan
 1556,Bialo,Gantarang,Kabupaten Bulukumba,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-1557,Kadingeh,Baraka,Kabupaten Enrekang,Laki-Laki,-,ODP - Proses Pengawasan
+1557,Kadingeh,Baraka,Kabupaten Enrekang,Laki-Laki,-,ODP - Selesai Pengawasan
 1558,Jalanjang,Gantarang,Kabupaten Bulukumba,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
 1559,Ekatiro,Bontotiro,Kabupaten Bulukumba,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
 1560,Ekatiro,Bontotiro,Kabupaten Bulukumba,Perempuan,20 Tahun,ODP - Proses Pengawasan
@@ -1564,9 +1564,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1563,Batukaropa,Rilau Ale,Kabupaten Bulukumba,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
 1564,Kasimpureng,Ujung Bulu,Kabupaten Bulukumba,Perempuan,21 Tahun,ODP - Proses Pengawasan
 1565,Tomenawa,Baraka,Kabupaten Enrekang,Perempuan,36 Tahun,ODP - Selesai Pengawasan
-1566,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+1566,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
 1567,Perangian,Baraka,Kabupaten Enrekang,Perempuan,14 Tahun,ODP - Proses Pengawasan
-1568,Banti,Baraka,Kabupaten Enrekang,Perempuan,19 Tahun,ODP - Proses Pengawasan
+1568,Banti,Baraka,Kabupaten Enrekang,Perempuan,19 Tahun,ODP - Selesai Pengawasan
 1569,Lamanda,Bontotiro,Kabupaten Bulukumba,Perempuan,22 Tahun,ODP - Proses Pengawasan
 1570,Lamanda,Bontotiro,Kabupaten Bulukumba,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
 1571,Bijawang,Ujung Loe,Kabupaten Bulukumba,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
@@ -1586,33 +1586,33 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1585,Perangian,Baraka,Kabupaten Enrekang,Perempuan,13 Tahun,ODP - Proses Pengawasan
 1586,Gunturu,Hero Lange-Lange,Kabupaten Bulukumba,Perempuan,17 Tahun,ODP - Proses Pengawasan
 1587,Bijawang,Ujung Loe,Kabupaten Bulukumba,Perempuan,17 Tahun,ODP - Proses Pengawasan
-1588,Bonto Minasa,Bulukumpa,Kabupaten Bulukumba,Laki-Laki,63 Tahun,ODP - Proses Pengawasan
+1588,Bonto Minasa,Bulukumpa,Kabupaten Bulukumba,Laki-Laki,63 Tahun,ODP - Selesai Pengawasan
 1589,Wonokerto,Sukamaju,Kabupaten Luwu Utara,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
 1590,Banyu Urip,Bone-Bone,Kabupaten Luwu Utara,Perempuan,19 Tahun,ODP - Proses Pengawasan
 1591,Sabbang,Sabbang,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 1592,Sabbang,Sabbang,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-1593,Bone,Masamba,Kabupaten Luwu Utara,Laki-Laki,15 Tahun,ODP - Proses Pengawasan
+1593,Bone,Masamba,Kabupaten Luwu Utara,Laki-Laki,15 Tahun,ODP - Selesai Pengawasan
 1594,Lantang Tallang,Masamba,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
-1595,Bone,Masamba,Kabupaten Luwu Utara,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+1595,Bone,Masamba,Kabupaten Luwu Utara,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
 1596,Pongo,Masamba,Kabupaten Luwu Utara,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
 1597,Laba,Masamba,Kabupaten Luwu Utara,Perempuan,19 Tahun,ODP - Proses Pengawasan
-1598,Laba,Masamba,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+1598,Laba,Masamba,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1599,Radda,Baebunta,Kabupaten Luwu Utara,Perempuan,20 Tahun,ODP - Proses Pengawasan
 1600,Pongo,Masamba,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 1601,Pattimang,Malangke,Kabupaten Luwu Utara,Perempuan,17 Tahun,ODP - Proses Pengawasan
 1602,Tandung,Malangke,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-1603,Girikusuma,Malangke,Kabupaten Luwu Utara,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
+1603,Girikusuma,Malangke,Kabupaten Luwu Utara,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 1604,Girikusuma,Malangke,Kabupaten Luwu Utara,Perempuan,24 Tahun,ODP - Proses Pengawasan
 1605,Pattimang,Malangke,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
 1606,Salulemo,Sukamaju,Kabupaten Luwu Utara,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
 1607,Wonosari,Sukamaju,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
-1608,Bungadidi,Tana Lili,Kabupaten Luwu Utara,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-1609,Baebunta,Baebunta,Kabupaten Luwu Utara,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
-1610,Sassa,Baebunta,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
+1608,Bungadidi,Tana Lili,Kabupaten Luwu Utara,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
+1609,Baebunta,Baebunta,Kabupaten Luwu Utara,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
+1610,Sassa,Baebunta,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
 1611,Perangian,Baraka,Kabupaten Enrekang,Perempuan,12 Tahun,ODP - Proses Pengawasan
-1612,Radda,Baebunta,Kabupaten Luwu Utara,Laki-Laki,68 Tahun,ODP - Proses Pengawasan
+1612,Radda,Baebunta,Kabupaten Luwu Utara,Laki-Laki,68 Tahun,ODP - Selesai Pengawasan
 1613,Perangian,Baraka,Kabupaten Enrekang,Perempuan,13 Tahun,ODP - Proses Pengawasan
-1614,Radda,Baebunta,Kabupaten Luwu Utara,Laki-Laki,52 Tahun,ODP - Proses Pengawasan
+1614,Radda,Baebunta,Kabupaten Luwu Utara,Laki-Laki,52 Tahun,ODP - Selesai Pengawasan
 1615,Radda,Baebunta,Kabupaten Luwu Utara,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
 1616,Perangian,Baraka,Kabupaten Enrekang,Perempuan,12 Tahun,ODP - Proses Pengawasan
 1617,Baebunta,Baebunta,Kabupaten Luwu Utara,Perempuan,19 Tahun,ODP - Proses Pengawasan
@@ -1622,28 +1622,28 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1621,Karondang,Tana Lili,Kabupaten Luwu Utara,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 1622,Perangian,Baraka,Kabupaten Enrekang,Laki-Laki,15 Tahun,ODP - Proses Pengawasan
 1623,Kapidi,Mappedeceng,Kabupaten Luwu Utara,Perempuan,17 Tahun,ODP - Selesai Pengawasan
-1624,Kapidi,Mappedeceng,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+1624,Kapidi,Mappedeceng,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1625,Uraso,Mappedeceng,Kabupaten Luwu Utara,Perempuan,18 Tahun,ODP - Selesai Pengawasan
 1626,Kapidi,Mappedeceng,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1627,Watang Soreang,Soreang,Kota Parepare,Perempuan,22 Tahun,ODP - Selesai Pengawasan
 1628,Watang Soreang,Soreang,Kota Parepare,Perempuan,52 Tahun,ODP - Selesai Pengawasan
-1629,Lemoe,Bacukiki,Kota Parepare,Perempuan,23 Tahun,ODP - Proses Pengawasan
+1629,Lemoe,Bacukiki,Kota Parepare,Perempuan,23 Tahun,ODP - Selesai Pengawasan
 1630,Tiro Sompe,Bacukiki Barat,Kota Parepare,Perempuan,3 Tahun,ODP - Proses Pengawasan
 1631,Bukit Harapan,Soreang,Kota Parepare,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
 1632,-,Bacukiki,Kota Parepare,Laki-Laki,72 Tahun,ODP - Proses Pengawasan
-1633,Lemoe,Bacukiki,Kota Parepare,Perempuan,11 Tahun,ODP - Proses Pengawasan
+1633,Lemoe,Bacukiki,Kota Parepare,Perempuan,11 Tahun,ODP - Selesai Pengawasan
 1634,Perangian,Baraka,Kabupaten Enrekang,Perempuan,12 Tahun,ODP - Proses Pengawasan
-1635,Lompoe,Bacukiki,Kota Parepare,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+1635,Lompoe,Bacukiki,Kota Parepare,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1636,Lompoe,Bacukiki,Kota Parepare,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
 1637,Salobulo,Sajoanging,Kabupaten Wajo,Laki-Laki,56 Tahun,ODP - Proses Pengawasan
 1638,Bukit Indah,Soreang,Kota Parepare,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 1639,Salukanan,Baraka,Kabupaten Enrekang,Perempuan,47 Tahun,ODP - Selesai Pengawasan
-1640,Siengkang,Tempe,Kabupaten Wajo,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+1640,Siengkang,Tempe,Kabupaten Wajo,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1641,Banti,Baraka,Kabupaten Enrekang,Laki-Laki,-,ODP - Selesai Pengawasan
 1642,-,Bacukiki,Kota Parepare,Laki-Laki,47 Tahun,ODP - Selesai Pengawasan
 1643,Sumpang Minangae,Bacukiki Barat,Kota Parepare,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
 1644,Bontongan,Baraka,Kabupaten Enrekang,Laki-Laki,62 Tahun,ODP - Selesai Pengawasan
-1645,Tangkoro,Pitumpanua,Kabupaten Wajo,Perempuan,21 Tahun,ODP - Proses Pengawasan
+1645,Tangkoro,Pitumpanua,Kabupaten Wajo,Perempuan,21 Tahun,ODP - Selesai Pengawasan
 1646,Mallusetasi,Ujung,Kota Parepare,Perempuan,31 Tahun,ODP - Proses Pengawasan
 1647,Balla,Baraka,Kabupaten Enrekang,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
 1648,-,Bacukiki,Kota Parepare,Laki-Laki,-,ODP - Proses Pengawasan
@@ -1653,9 +1653,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1652,Lemoe,Bacukiki,Kota Parepare,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
 1653,Langda,Buntu Batu,Kabupaten Enrekang,-,25 Tahun,ODP - Selesai Pengawasan
 1654,Lapadde,Ujung,Kota Parepare,Perempuan,22 Tahun,ODP - Proses Pengawasan
-1655,Lapongkoda,Tempe,Kabupaten Wajo,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+1655,Lapongkoda,Tempe,Kabupaten Wajo,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1656,Galung Maloang,Bacukiki,Kota Parepare,-,20 Tahun,ODP - Proses Pengawasan
-1657,Cempalagi,Tempe,Kabupaten Wajo,Perempuan,44 Tahun,ODP - Proses Pengawasan
+1657,Cempalagi,Tempe,Kabupaten Wajo,Perempuan,44 Tahun,ODP - Selesai Pengawasan
 1658,Buntu Sarong,Masalle,Kabupaten Enrekang,Laki-Laki,56 Tahun,ODP - Selesai Pengawasan
 1659,-,Soreang,Kota Parepare,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
 1660,Cempalagi,Tempe,Kabupaten Wajo,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
@@ -1666,32 +1666,32 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1665,Bungin,Bungin,Kabupaten Enrekang,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
 1666,Barangmamase,Sajoanging,Kabupaten Wajo,Perempuan,9 Tahun,ODP - Proses Pengawasan
 1667,Baruka,Bungin,Kabupaten Enrekang,Perempuan,20 Tahun,ODP - Selesai Pengawasan
-1668,Doping,Penrang,Kabupaten Wajo,Perempuan,18 Tahun,ODP - Proses Pengawasan
+1668,Doping,Penrang,Kabupaten Wajo,Perempuan,18 Tahun,ODP - Selesai Pengawasan
 1669,Bungin,Bungin,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1670,Bantimurung,Tondong Tallasa,Kabupaten Pangkajene Dan Kepulauan,Perempuan,17 Tahun,ODP - Proses Pengawasan
 1671,Sawito,Bungin,Kabupaten Enrekang,Perempuan,29 Tahun,ODP - Proses Pengawasan
-1672,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,65 Tahun,ODP - Proses Pengawasan
+1672,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,65 Tahun,ODP - Selesai Pengawasan
 1673,Bungin,Bungin,Kabupaten Enrekang,Laki-Laki,-,ODP - Selesai Pengawasan
-1674,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,8 Tahun,ODP - Proses Pengawasan
+1674,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,8 Tahun,ODP - Selesai Pengawasan
 1675,Sawito,Bungin,Kabupaten Enrekang,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
-1676,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,39 Tahun,ODP - Proses Pengawasan
-1677,Lauwa,Biringbulu,Kabupaten Gowa,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
+1676,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,39 Tahun,ODP - Selesai Pengawasan
+1677,Lauwa,Biringbulu,Kabupaten Gowa,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
 1678,Tumampua,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,34 Tahun,ODP - Proses Pengawasan
-1679,Lauwa,Biringbulu,Kabupaten Gowa,Laki-Laki,3 Tahun,ODP - Proses Pengawasan
+1679,Lauwa,Biringbulu,Kabupaten Gowa,Laki-Laki,3 Tahun,ODP - Selesai Pengawasan
 1680,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,34 Tahun,ODP - Proses Pengawasan
-1681,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,69 Tahun,ODP - Proses Pengawasan
+1681,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,69 Tahun,ODP - Selesai Pengawasan
 1682,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,20 Tahun,ODP - Proses Pengawasan
-1683,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,64 Tahun,ODP - Proses Pengawasan
+1683,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,64 Tahun,ODP - Selesai Pengawasan
 1684,Mattiro Uleng,Liukang Tupabbiring Utara,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
 1685,Mattiro Uleng,Liukang Tupabbiring Utara,Kabupaten Pangkajene Dan Kepulauan,-,23 Tahun,ODP - Proses Pengawasan
 1686,Bonto Langkasa,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,37 Tahun,ODP - Proses Pengawasan
-1687,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,10 Tahun,ODP - Proses Pengawasan
+1687,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,10 Tahun,ODP - Selesai Pengawasan
 1688,Samalewa,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Perempuan,49 Tahun,ODP - Proses Pengawasan
-1689,Lauwa,Biringbulu,Kabupaten Gowa,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-1690,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,38 Tahun,ODP - Proses Pengawasan
+1689,Lauwa,Biringbulu,Kabupaten Gowa,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
+1690,Lauwa,Biringbulu,Kabupaten Gowa,Perempuan,38 Tahun,ODP - Selesai Pengawasan
 1691,Laringgi,Mario Riawa,Kabupaten Soppeng,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
 1692,Berutallasa,Biringbulu,Kabupaten Gowa,Perempuan,-,ODP - Proses Pengawasan
-1693,Manorang Salo,Mario Riawa,Kabupaten Soppeng,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
+1693,Manorang Salo,Mario Riawa,Kabupaten Soppeng,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
 1694,Berutallasa,Biringbulu,Kabupaten Gowa,Laki-Laki,-,ODP - Proses Pengawasan
 1695,Laringgi,Mario Riawa,Kabupaten Soppeng,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
 1696,Manorang Salo,Mario Riawa,Kabupaten Soppeng,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
@@ -1735,7 +1735,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1734,Tallung Tondok,Malua,Kabupaten Enrekang,Perempuan,19 Tahun,ODP - Selesai Pengawasan
 1735,Kolai,Malua,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 1736,Malua,Malua,Kabupaten Enrekang,Perempuan,23 Tahun,ODP - Proses Pengawasan
-1737,-,Malua,Kabupaten Enrekang,Perempuan,22 Tahun,ODP - Proses Pengawasan
+1737,-,Malua,Kabupaten Enrekang,Perempuan,22 Tahun,ODP - Selesai Pengawasan
 1738,Malua,Malua,Kabupaten Enrekang,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
 1739,Malua,Malua,Kabupaten Enrekang,Laki-Laki,63 Tahun,ODP - Selesai Pengawasan
 1740,Malua,Malua,Kabupaten Enrekang,Laki-Laki,-,ODP - Selesai Pengawasan
@@ -1753,23 +1753,23 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1752,-,Enrekang,Kabupaten Enrekang,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
 1753,-,Enrekang,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1754,-,Enrekang,Kabupaten Enrekang,Perempuan,23 Tahun,ODP - Selesai Pengawasan
-1755,-,Enrekang,Kabupaten Enrekang,Perempuan,-,ODP - Proses Pengawasan
+1755,-,Enrekang,Kabupaten Enrekang,Perempuan,-,ODP - Selesai Pengawasan
 1756,-,Enrekang,Kabupaten Enrekang,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 1757,-,Enrekang,Kabupaten Enrekang,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
 1758,-,Enrekang,Kabupaten Enrekang,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 1759,-,Enrekang,Kabupaten Enrekang,-,-,ODP - Proses Pengawasan
-1760,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
-1761,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
-1762,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
-1763,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-1764,Mario Rilau,Mario Riwawo,Kabupaten Soppeng,Perempuan,38 Tahun,ODP - Proses Pengawasan
+1760,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+1761,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,2 Tahun,ODP - Selesai Pengawasan
+1762,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
+1763,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
+1764,Mario Rilau,Mario Riwawo,Kabupaten Soppeng,Perempuan,38 Tahun,ODP - Selesai Pengawasan
 1765,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
 1766,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
 1767,Congko,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 1768,Boting,Wara,Kota Palopo,Laki-Laki,90 Tahun,ODP - Selesai Pengawasan
 1769,Jaya,Telluwanua,Kota Palopo,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
 1770,Jaya,Telluwanua,Kota Palopo,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-1771,Sumarambu,Telluwanua,Kota Palopo,Perempuan,38 Tahun,ODP - Proses Pengawasan
+1771,Sumarambu,Telluwanua,Kota Palopo,Perempuan,38 Tahun,ODP - Selesai Pengawasan
 1772,Salobulo,Wara Utara,Kota Palopo,Perempuan,23 Tahun,ODP - Selesai Pengawasan
 1773,Ponjalae,Wara Timur,Kota Palopo,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 1774,Salobulo,Wara Utara,Kota Palopo,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
@@ -1786,31 +1786,31 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1785,Tanete,Anggeraja,Kabupaten Enrekang,Perempuan,67 Tahun,ODP - Selesai Pengawasan
 1786,-,Anggeraja,Kabupaten Enrekang,Perempuan,59 Tahun,ODP - Selesai Pengawasan
 1787,Mataran,Anggeraja,Kabupaten Enrekang,Perempuan,-,ODP - Selesai Pengawasan
-1788,Pekalobean,Anggeraja,Kabupaten Enrekang,Perempuan,21 Tahun,ODP - Proses Pengawasan
+1788,Pekalobean,Anggeraja,Kabupaten Enrekang,Perempuan,21 Tahun,ODP - Selesai Pengawasan
 1789,-,Anggeraja,Kabupaten Enrekang,Perempuan,26 Tahun,ODP - Proses Pengawasan
 1790,-,Anggeraja,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
 1791,-,Anggeraja,Kabupaten Enrekang,Laki-Laki,58 Tahun,ODP - Selesai Pengawasan
 1792,Bamba Puang,Anggeraja,Kabupaten Enrekang,Laki-Laki,44 Tahun,ODP - Selesai Pengawasan
 1793,Mandatte,Anggeraja,Kabupaten Enrekang,Perempuan,19 Tahun,ODP - Selesai Pengawasan
-1794,Mandatte,Anggeraja,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+1794,Mandatte,Anggeraja,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1795,Mandatte,Anggeraja,Kabupaten Enrekang,Perempuan,21 Tahun,ODP - Selesai Pengawasan
-1796,Mandatte,Anggeraja,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+1796,Mandatte,Anggeraja,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1797,Tindallun,Anggeraja,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1798,Tindallun,Anggeraja,Kabupaten Enrekang,Perempuan,19 Tahun,ODP - Selesai Pengawasan
-1799,-,Anggeraja,Kabupaten Enrekang,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+1799,-,Anggeraja,Kabupaten Enrekang,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
 1800,Tindallun,Anggeraja,Kabupaten Enrekang,Perempuan,26 Tahun,ODP - Proses Pengawasan
-1801,Tindallun,Anggeraja,Kabupaten Enrekang,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
-1802,Tindallun,Anggeraja,Kabupaten Enrekang,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+1801,Tindallun,Anggeraja,Kabupaten Enrekang,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+1802,Tindallun,Anggeraja,Kabupaten Enrekang,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 1803,Bamba Puang,Anggeraja,Kabupaten Enrekang,-,-,ODP - Selesai Pengawasan
 1804,Sumillan,Alla,Kabupaten Enrekang,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
-1805,Kambiolangi,Alla,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+1805,Kambiolangi,Alla,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1806,Kambiolangi,Alla,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 1807,Kambiolangi,Alla,Kabupaten Enrekang,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
 1808,Pana,Alla,Kabupaten Enrekang,Laki-Laki,64 Tahun,ODP - Selesai Pengawasan
 1809,Kambiolangi,Alla,Kabupaten Enrekang,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
 1810,Kambiolangi,Alla,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 1811,-,Baroko,Kabupaten Enrekang,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
-1812,Baroko,Baroko,Kabupaten Enrekang,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
+1812,Baroko,Baroko,Kabupaten Enrekang,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
 1813,Buntu Pema,Curio,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1814,Buntu Pema,Curio,Kabupaten Enrekang,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 1815,Tallungura,Curio,Kabupaten Enrekang,Perempuan,19 Tahun,ODP - Selesai Pengawasan
@@ -1826,23 +1826,23 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1825,Sumbang,Curio,Kabupaten Enrekang,Laki-Laki,89 Tahun,ODP - Proses Pengawasan
 1826,Lemba,Lalabata,Kabupaten Soppeng,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
 1827,Tottong,Donri Donri,Kabupaten Soppeng,Laki-Laki,56 Tahun,ODP - Proses Pengawasan
-1828,Kappuna,Masamba,Kabupaten Luwu Utara,Perempuan,19 Tahun,ODP - Proses Pengawasan
+1828,Kappuna,Masamba,Kabupaten Luwu Utara,Perempuan,19 Tahun,ODP - Selesai Pengawasan
 1829,Bone,Masamba,Kabupaten Luwu Utara,Laki-Laki,14 Tahun,ODP - Proses Pengawasan
 1830,Sidomukti,Bone-Bone,Kabupaten Luwu Utara,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 1831,Kelurahan Malango,Rantepao,Kabupaten Toraja Utara,Perempuan,22 Tahun,ODP - Proses Pengawasan
 1832,Gantarangkeke,Gantarangkeke,Kabupaten Bantaeng,Perempuan,25 Tahun,ODP - Proses Pengawasan
-1833,Lembang Polo Padang,Kapala Pitu,Kabupaten Toraja Utara,Perempuan,22 Tahun,ODP - Proses Pengawasan
+1833,Lembang Polo Padang,Kapala Pitu,Kabupaten Toraja Utara,Perempuan,22 Tahun,ODP - Selesai Pengawasan
 1834,Bonto Karaeng,Sinoa,Kabupaten Bantaeng,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1835,Bonto Matene,Sinoa,Kabupaten Bantaeng,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
 1836,Kelurahan Rantepao,Rantepao,Kabupaten Toraja Utara,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
 1837,Kelurahan Rantepao,Rantepao,Kabupaten Toraja Utara,Perempuan,62 Tahun,ODP - Proses Pengawasan
 1838,Bonto Tallasa,Uluere,Kabupaten Bantaeng,Perempuan,1 Tahun,ODP - Proses Pengawasan
 1839,Lembang Lempo,Sesean Suloara,Kabupaten Toraja Utara,Perempuan,37 Tahun,ODP - Proses Pengawasan
-1840,Rappoa,Pajukukang,Kabupaten Bantaeng,Perempuan,35 Tahun,ODP - Proses Pengawasan
+1840,Rappoa,Pajukukang,Kabupaten Bantaeng,Perempuan,35 Tahun,ODP - Selesai Pengawasan
 1841,Mekkalak,Curio,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 1842,Kelurahan Tampo Tallunglipu,Tallunglipu,Kabupaten Toraja Utara,Perempuan,22 Tahun,ODP - Selesai Pengawasan
-1843,Rappoa,Pajukukang,Kabupaten Bantaeng,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-1844,Sumbang,Curio,Kabupaten Enrekang,Perempuan,20 Tahun,ODP - Proses Pengawasan
+1843,Rappoa,Pajukukang,Kabupaten Bantaeng,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
+1844,Sumbang,Curio,Kabupaten Enrekang,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 1845,Kelurahan Malango,Rantepao,Kabupaten Toraja Utara,Perempuan,24 Tahun,ODP - Selesai Pengawasan
 1846,Lembang,Bantaeng,Kabupaten Bantaeng,Perempuan,-,ODP - Proses Pengawasan
 1847,Sumbang,Curio,Kabupaten Enrekang,Perempuan,16 Tahun,ODP - Proses Pengawasan
@@ -1859,14 +1859,14 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1858,Bolang,Alla,Kabupaten Enrekang,Laki-Laki,51 Tahun,ODP - Selesai Pengawasan
 1859,Pajukukang,Pajukukang,Kabupaten Bantaeng,Perempuan,40 Tahun,ODP - Proses Pengawasan
 1860,Kelurahan Tallung Lipu,Tallunglipu,Kabupaten Toraja Utara,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
-1861,-,Alla,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+1861,-,Alla,Kabupaten Enrekang,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1862,Kelurahan Tallung Lipu,Tallunglipu,Kabupaten Toraja Utara,Perempuan,18 Tahun,ODP - Selesai Pengawasan
-1863,-,Alla,Kabupaten Enrekang,Perempuan,31 Tahun,ODP - Proses Pengawasan
-1864,Bonto Lojong,Uluere,Kabupaten Bantaeng,Perempuan,33 Tahun,ODP - Proses Pengawasan
-1865,-,Alla,Kabupaten Enrekang,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+1863,-,Alla,Kabupaten Enrekang,Perempuan,31 Tahun,ODP - Selesai Pengawasan
+1864,Bonto Lojong,Uluere,Kabupaten Bantaeng,Perempuan,33 Tahun,ODP - Selesai Pengawasan
+1865,-,Alla,Kabupaten Enrekang,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
 1866,Lembang Benteng Kado,Kapala Pitu,Kabupaten Toraja Utara,Laki-Laki,17 Tahun,ODP - Proses Pengawasan
 1867,Bonto Lojong,Uluere,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
-1868,-,Alla,Kabupaten Enrekang,Perempuan,24 Tahun,ODP - Proses Pengawasan
+1868,-,Alla,Kabupaten Enrekang,Perempuan,24 Tahun,ODP - Selesai Pengawasan
 1869,Pattalassang,Sinjai Timur,Kabupaten Sinjai,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
 1870,Lembang Polo Padang,Kapala Pitu,Kabupaten Toraja Utara,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1871,-,Alla,Kabupaten Enrekang,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
@@ -1905,10 +1905,10 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1904,Janggurara,Baraka,Kabupaten Enrekang,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 1905,Pandung Batu,Baraka,Kabupaten Enrekang,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 1906,Lamatti Riattang,Bulupoddo,Kabupaten Sinjai,Perempuan,15 Tahun,ODP - Proses Pengawasan
-1907,Salukanan,Baraka,Kabupaten Enrekang,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
-1908,Salukanan,Baraka,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+1907,Salukanan,Baraka,Kabupaten Enrekang,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
+1908,Salukanan,Baraka,Kabupaten Enrekang,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 1909,Kendenan,Baraka,Kabupaten Enrekang,Laki-Laki,79 Tahun,ODP - Selesai Pengawasan
-1910,-,Buntu Pepasan,Kabupaten Toraja Utara,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+1910,-,Buntu Pepasan,Kabupaten Toraja Utara,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 1911,-,Buntu Pepasan,Kabupaten Toraja Utara,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 1912,-,Buntu Pepasan,Kabupaten Toraja Utara,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
 1913,Lembang Rinding Kila Balabatu,Buntao,Kabupaten Toraja Utara,Perempuan,43 Tahun,ODP - Proses Pengawasan
@@ -2048,7 +2048,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2047,Patampanua,Mario Riawa,Kabupaten Soppeng,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
 2048,Attang Salo,Mario Riawa,Kabupaten Soppeng,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 2049,Attang Salo,Mario Riawa,Kabupaten Soppeng,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
-2050,Maccile,Lalabata,Kabupaten Soppeng,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
+2050,Maccile,Lalabata,Kabupaten Soppeng,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
 2051,-,Bantimurung,Kabupaten Maros,Perempuan,58 Tahun,ODP - Proses Pengawasan
 2052,Leang-Leang,Bantimurung,Kabupaten Maros,Perempuan,18 Tahun,ODP - Proses Pengawasan
 2053,Majelling Watang,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,43 Tahun,ODP - Proses Pengawasan
@@ -2135,7 +2135,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2134,-,-,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
 2135,-,-,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,65 Tahun,ODP - Proses Pengawasan
 2136,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,52 Tahun,ODP - Proses Pengawasan
-2137,Pallantikang,Pattallassang,Kabupaten Takalar,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+2137,Pallantikang,Pattallassang,Kabupaten Takalar,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
 2138,-,-,Kabupaten Takalar,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
 2139,Panrannuangku,Polombangkeng Utara,Kabupaten Takalar,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
 2140,Bonto Sunggu,Galesong Utara,Kabupaten Takalar,Perempuan,22 Tahun,ODP - Proses Pengawasan
@@ -2143,10 +2143,10 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2142,Bentang,Galesong Selatan,Kabupaten Takalar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
 2143,Benteng Utara,Benteng,Kabupaten Kepulauan Selayar,Laki-Laki,63 Tahun,ODP - Selesai Pengawasan
 2144,Maharayya,Bontomatene,Kabupaten Kepulauan Selayar,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
-2145,Buki,Buki,Kabupaten Kepulauan Selayar,Perempuan,32 Tahun,ODP - Proses Pengawasan
-2146,Bontoborusu,Bontoharu,Kabupaten Kepulauan Selayar,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-2147,Bontoborusu,Bontoharu,Kabupaten Kepulauan Selayar,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-2148,Bontoborusu,Bontoharu,Kabupaten Kepulauan Selayar,Laki-Laki,61 Tahun,ODP - Proses Pengawasan
+2145,Buki,Buki,Kabupaten Kepulauan Selayar,Perempuan,32 Tahun,ODP - Selesai Pengawasan
+2146,Bontoborusu,Bontoharu,Kabupaten Kepulauan Selayar,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+2147,Bontoborusu,Bontoharu,Kabupaten Kepulauan Selayar,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+2148,Bontoborusu,Bontoharu,Kabupaten Kepulauan Selayar,Laki-Laki,61 Tahun,ODP - Selesai Pengawasan
 2149,Bontoborusu,Bontoharu,Kabupaten Kepulauan Selayar,Perempuan,45 Tahun,ODP - Proses Pengawasan
 2150,Bontoborusu,Bontoharu,Kabupaten Kepulauan Selayar,Perempuan,-,ODP - Proses Pengawasan
 2151,Barat Lambongan,Bontomatene,Kabupaten Kepulauan Selayar,Laki-Laki,55 Tahun,ODP - Proses Pengawasan
@@ -2158,7 +2158,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2157,Borong,Manggala,Kota Makassar,Perempuan,36 Tahun,ODP - Proses Pengawasan
 2158,Antang,Manggala,Kota Makassar,Laki-Laki,56 Tahun,ODP - Proses Pengawasan
 2159,Manggala,Manggala,Kota Makassar,Perempuan,20 Tahun,ODP - Proses Pengawasan
-2160,Antang,Manggala,Kota Makassar,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
+2160,Antang,Manggala,Kota Makassar,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
 2161,Lumbewe,Burau,Kabupaten Luwu Timur,Perempuan,69 Tahun,ODP - Proses Pengawasan
 2162,Rappoa,Pajukukang,Kabupaten Bantaeng,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
 2163,Borong,Manggala,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
@@ -2175,26 +2175,26 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2174,Alliritengae,Turikale,Kabupaten Maros,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
 2175,Laro,Burau,Kabupaten Luwu Timur,Perempuan,37 Tahun,ODP - Selesai Pengawasan
 2176,Taroada,Turikale,Kabupaten Maros,Perempuan,35 Tahun,ODP - Proses Pengawasan
-2177,Rappoa,Pajukukang,Kabupaten Bantaeng,Perempuan,35 Tahun,ODP - Proses Pengawasan
+2177,Rappoa,Pajukukang,Kabupaten Bantaeng,Perempuan,35 Tahun,ODP - Selesai Pengawasan
 2178,Laro,Burau,Kabupaten Luwu Timur,Perempuan,54 Tahun,ODP - Selesai Pengawasan
 2179,-,Mandai,Kabupaten Maros,Laki-Laki,46 Tahun,ODP - Proses Pengawasan
 2180,Jalajja,Burau,Kabupaten Luwu Timur,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
 2181,-,Mandai,Kabupaten Maros,-,23 Tahun,ODP - Proses Pengawasan
 2182,Lagego,Burau,Kabupaten Luwu Timur,Perempuan,45 Tahun,ODP - Proses Pengawasan
-2183,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+2183,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
 2184,Mamajang Dalam,Mamajang,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-2185,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+2185,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
 2186,Sawerigading,Ujung Pandang,Kota Makassar,Laki-Laki,56 Tahun,ODP - Selesai Pengawasan
 2187,Sambung Jawa,Mamajang,Kota Makassar,Laki-Laki,57 Tahun,ODP - Selesai Pengawasan
 2188,Masale,Panakkukang,Kota Makassar,Perempuan,19 Tahun,ODP - Proses Pengawasan
 2189,Lumbewe,Burau,Kabupaten Luwu Timur,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-2190,Mandala,Mamajang,Kota Makassar,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+2190,Mandala,Mamajang,Kota Makassar,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 2191,Lewonu,Burau,Kabupaten Luwu Timur,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 2192,Lauwo,Burau,Kabupaten Luwu Timur,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
 2193,Panaikang,Panakkukang,Kota Makassar,Perempuan,54 Tahun,ODP - Proses Pengawasan
 2194,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
 2195,Asana,Burau,Kabupaten Luwu Timur,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
-2196,Masale,Panakkukang,Kota Makassar,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
+2196,Masale,Panakkukang,Kota Makassar,Laki-Laki,57 Tahun,ODP - Selesai Pengawasan
 2197,Lumbewe,Burau,Kabupaten Luwu Timur,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
 2198,Burau,Burau,Kabupaten Luwu Timur,Perempuan,23 Tahun,ODP - Proses Pengawasan
 2199,Jalajja,Burau,Kabupaten Luwu Timur,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
@@ -2247,7 +2247,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2246,-,-,Kota Makassar,Perempuan,53 Tahun,ODP - Selesai Pengawasan
 2247,Maccini Gusung,Makassar,Kota Makassar,-,-,ODP - Proses Pengawasan
 2248,Bangkala,Manggala,Kota Makassar,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
-2249,Panaikang,Panakkukang,Kota Makassar,Perempuan,54 Tahun,ODP - Proses Pengawasan
+2249,Panaikang,Panakkukang,Kota Makassar,Perempuan,54 Tahun,ODP - Selesai Pengawasan
 2250,Bara-Baraya,Makassar,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
 2251,Bara-Baraya,Makassar,Kota Makassar,Perempuan,32 Tahun,ODP - Proses Pengawasan
 2252,Maramba,Wotu,Kabupaten Luwu Timur,Laki-Laki,7 Tahun,ODP - Proses Pengawasan
@@ -2281,9 +2281,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2280,Buakana,Rappocini,Kota Makassar,Laki-Laki,-,ODP - Proses Pengawasan
 2281,Tamangapa,Manggala,Kota Makassar,Laki-Laki,-,ODP - Proses Pengawasan
 2282,Antang,Manggala,Kota Makassar,Perempuan,1 Tahun,ODP - Proses Pengawasan
-2283,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
-2284,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-2285,Sudiang Raya,Biring Kanaya,Kota Makassar,-,-,ODP - Proses Pengawasan
+2283,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
+2284,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
+2285,Sudiang Raya,Biring Kanaya,Kota Makassar,-,-,ODP - Selesai Pengawasan
 2286,Sudiang Raya,Biring Kanaya,Kota Makassar,-,-,ODP - Proses Pengawasan
 2287,Sumber Agung,Kalaena,Kabupaten Luwu Timur,Laki-Laki,47 Tahun,ODP - Selesai Pengawasan
 2288,Kalaena Kiri,Kalaena,Kabupaten Luwu Timur,Perempuan,40 Tahun,ODP - Proses Pengawasan
@@ -2305,7 +2305,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2304,Turikale,Turikale,Kabupaten Maros,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
 2305,Bori Bellaya,Turikale,Kabupaten Maros,Perempuan,24 Tahun,ODP - Proses Pengawasan
 2306,Baruga,Towuti,Kabupaten Luwu Timur,Laki-Laki,60 Tahun,ODP - Selesai Pengawasan
-2307,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
+2307,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
 2308,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
 2309,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,20 Tahun,ODP - Proses Pengawasan
 2310,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,44 Tahun,ODP - Proses Pengawasan
@@ -2313,7 +2313,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2312,Sudiang Raya,Biring Kanaya,Kota Makassar,Perempuan,66 Tahun,ODP - Selesai Pengawasan
 2313,Sudiang Raya,Biring Kanaya,Kota Makassar,Perempuan,16 Tahun,ODP - Selesai Pengawasan
 2314,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-2315,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
+2315,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
 2316,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
 2317,Lalatang,Tallo,Kota Makassar,Perempuan,52 Tahun,ODP - Proses Pengawasan
 2318,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
@@ -2440,7 +2440,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2439,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
 2440,Pandang,Panakkukang,Kota Makassar,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
 2441,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-2442,Lette,Mariso,Kota Makassar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+2442,Lette,Mariso,Kota Makassar,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
 2443,Maricaya Baru,Makassar,Kota Makassar,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
 2444,Panambungan,Mariso,Kota Makassar,Laki-Laki,70 Tahun,ODP - Proses Pengawasan
 2445,Mariso,Mariso,Kota Makassar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
@@ -2558,14 +2558,14 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2557,Kelurahan Rante,Makale,Kabupaten Tana Toraja,Perempuan,60 Tahun,ODP - Proses Pengawasan
 2558,Balang Baru,Tamalate,Kota Makassar,Perempuan,3 Tahun,ODP - Selesai Pengawasan
 2559,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-2560,Kelurahan Tiromanda,Makale Selatan,Kabupaten Tana Toraja,Laki-Laki,46 Tahun,ODP - Proses Pengawasan
+2560,Kelurahan Tiromanda,Makale Selatan,Kabupaten Tana Toraja,Laki-Laki,46 Tahun,ODP - Selesai Pengawasan
 2561,Balang Baru,Tamalate,Kota Makassar,Perempuan,-,ODP - Proses Pengawasan
 2562,Pattunuang,Wajo,Kota Makassar,Perempuan,56 Tahun,ODP - Proses Pengawasan
 2563,-,-,Kota Makassar,Perempuan,39 Tahun,ODP - Proses Pengawasan
 2564,Taroada,Turikale,Kabupaten Maros,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
 2565,Paropo,Panakkukang,Kota Makassar,Perempuan,52 Tahun,ODP - Proses Pengawasan
 2566,Teppo,Patampanua,Kabupaten Pinrang,Perempuan,30 Tahun,ODP - Proses Pengawasan
-2567,Kelurahan Tiromanda,Makale Selatan,Kabupaten Tana Toraja,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+2567,Kelurahan Tiromanda,Makale Selatan,Kabupaten Tana Toraja,Laki-Laki,26 Tahun,ODP - Selesai Pengawasan
 2568,Langa,Mattirosompe,Kabupaten Pinrang,Perempuan,54 Tahun,ODP - Proses Pengawasan
 2569,-,Batulappa,Kabupaten Pinrang,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
 2570,Kelurahan Sarira,Makale Utara,Kabupaten Tana Toraja,Perempuan,20 Tahun,ODP - Proses Pengawasan
@@ -2602,9 +2602,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2601,Kelurahan Mebali,Gandang Batu Silanan,Kabupaten Tana Toraja,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
 2602,Lembang Gandang Batu,Gandang Batu Silanan,Kabupaten Tana Toraja,Perempuan,2 Tahun,ODP - Proses Pengawasan
 2603,Lembang Gandang Batu,Gandang Batu Silanan,Kabupaten Tana Toraja,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-2604,Kelurahan Rante Alang,Sangala Selatan,Kabupaten Tana Toraja,Laki-Laki,5 Tahun,ODP - Proses Pengawasan
-2605,Kelurahan Rante Alang,Sangala Selatan,Kabupaten Tana Toraja,Perempuan,50 Tahun,ODP - Proses Pengawasan
-2606,Kelurahan Rante Alang,Sangala Selatan,Kabupaten Tana Toraja,Perempuan,27 Tahun,ODP - Proses Pengawasan
+2604,Kelurahan Rante Alang,Sangala Selatan,Kabupaten Tana Toraja,Laki-Laki,5 Tahun,ODP - Selesai Pengawasan
+2605,Kelurahan Rante Alang,Sangala Selatan,Kabupaten Tana Toraja,Perempuan,50 Tahun,ODP - Selesai Pengawasan
+2606,Kelurahan Rante Alang,Sangala Selatan,Kabupaten Tana Toraja,Perempuan,27 Tahun,ODP - Selesai Pengawasan
 2607,Kelurahan Ariang,Makale,Kabupaten Tana Toraja,Perempuan,19 Tahun,ODP - Proses Pengawasan
 2608,Kelurahan Tarongko,Makale,Kabupaten Tana Toraja,Perempuan,19 Tahun,ODP - Proses Pengawasan
 2609,-,Makale,Kabupaten Tana Toraja,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
@@ -2616,8 +2616,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2615,Kelurahan Lapandan,Makale,Kabupaten Tana Toraja,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
 2616,Kelurahan Bombongan,Makale,Kabupaten Tana Toraja,Perempuan,27 Tahun,ODP - Proses Pengawasan
 2617,Kelurahan Tampo Makale,Makale,Kabupaten Tana Toraja,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
-2618,Lembang Batualu,Sangala Selatan,Kabupaten Tana Toraja,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-2619,Lembang Batualu Selatan,Sangala Selatan,Kabupaten Tana Toraja,Perempuan,40 Tahun,ODP - Proses Pengawasan
+2618,Lembang Batualu,Sangala Selatan,Kabupaten Tana Toraja,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
+2619,Lembang Batualu Selatan,Sangala Selatan,Kabupaten Tana Toraja,Perempuan,40 Tahun,ODP - Selesai Pengawasan
 2620,Lembang Tokesan,Sangala Selatan,Kabupaten Tana Toraja,Perempuan,13 Tahun,ODP - Proses Pengawasan
 2621,Kelurahan Bebo,Sangalla Utara,Kabupaten Tana Toraja,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
 2622,Kelurahan Bebo,Sangalla Utara,Kabupaten Tana Toraja,Perempuan,19 Tahun,ODP - Proses Pengawasan
@@ -2657,7 +2657,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2656,Kelurahan Rantetayo,Rantetayo,Kabupaten Tana Toraja,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
 2657,Lembang Rante Limbong,Kurra,Kabupaten Tana Toraja,Perempuan,7 Tahun,ODP - Proses Pengawasan
 2658,Lapadde,Ujung,Kota Parepare,Perempuan,22 Tahun,ODP - Proses Pengawasan
-2659,Ujung Sabbang,Ujung,Kota Parepare,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
+2659,Ujung Sabbang,Ujung,Kota Parepare,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
 2660,-,Ujung,Kota Parepare,Perempuan,35 Tahun,ODP - Proses Pengawasan
 2661,Mallusetasi,Ujung,Kota Parepare,Laki-Laki,67 Tahun,ODP - Proses Pengawasan
 2662,Watang Bacukiki,Bacukiki,Kota Parepare,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
@@ -2705,7 +2705,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2704,Bonto Tallasa,Uluere,Kabupaten Bantaeng,Perempuan,-,ODP - Proses Pengawasan
 2705,-,Sinoa,Kabupaten Bantaeng,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
 2706,Karunrung,Rappocini,Kota Makassar,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-2707,-,Wara,Kota Palopo,Perempuan,74 Tahun,ODP - Proses Pengawasan
+2707,-,Wara,Kota Palopo,Perempuan,74 Tahun,ODP - Selesai Pengawasan
 2708,Melayu Baru,Wajo,Kota Makassar,Perempuan,33 Tahun,ODP - Proses Pengawasan
 2709,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
 2710,Boting,Wara,Kota Palopo,Perempuan,22 Tahun,ODP - Proses Pengawasan
@@ -2715,22 +2715,22 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2714,Tamarunang,Mariso,Kota Makassar,Perempuan,26 Tahun,ODP - Proses Pengawasan
 2715,Boting,Wara,Kota Palopo,Laki-Laki,66 Tahun,ODP - Proses Pengawasan
 2716,Karampuang,Panakkukang,Kota Makassar,Perempuan,37 Tahun,ODP - Proses Pengawasan
-2717,Malatunrung,Wara Timur,Kota Palopo,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
-2718,Salekoe,Wara Timur,Kota Palopo,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
+2717,Malatunrung,Wara Timur,Kota Palopo,Laki-Laki,35 Tahun,ODP - Selesai Pengawasan
+2718,Salekoe,Wara Timur,Kota Palopo,Laki-Laki,54 Tahun,ODP - Selesai Pengawasan
 2719,Wawondula,Towuti,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Proses Pengawasan
 2720,Losari,Ujung Pandang,Kota Makassar,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
 2721,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 2722,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,51 Tahun,ODP - Proses Pengawasan
-2723,Langkea Raya,Towuti,Kabupaten Luwu Timur,Perempuan,24 Tahun,ODP - Proses Pengawasan
+2723,Langkea Raya,Towuti,Kabupaten Luwu Timur,Perempuan,24 Tahun,ODP - Selesai Pengawasan
 2724,Mancani,Telluwanua,Kota Palopo,Perempuan,39 Tahun,ODP - Proses Pengawasan
-2725,Baruga,Towuti,Kabupaten Luwu Timur,Laki-Laki,7 Tahun,ODP - Proses Pengawasan
+2725,Baruga,Towuti,Kabupaten Luwu Timur,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
 2726,Boting,Wara,Kota Palopo,Perempuan,22 Tahun,ODP - Proses Pengawasan
-2727,Lagaligo,Wara,Kota Palopo,-,60 Tahun,ODP - Proses Pengawasan
-2728,Langkea Raya,Towuti,Kabupaten Luwu Timur,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+2727,Lagaligo,Wara,Kota Palopo,-,60 Tahun,ODP - Selesai Pengawasan
+2728,Langkea Raya,Towuti,Kabupaten Luwu Timur,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
 2729,Timampu,Towuti,Kabupaten Luwu Timur,Perempuan,23 Tahun,ODP - Proses Pengawasan
 2730,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
 2731,Langkea Raya,Towuti,Kabupaten Luwu Timur,Perempuan,18 Tahun,ODP - Proses Pengawasan
-2732,Timampu,Towuti,Kabupaten Luwu Timur,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+2732,Timampu,Towuti,Kabupaten Luwu Timur,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
 2733,Lioka,Towuti,Kabupaten Luwu Timur,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
 2734,Melayu,Wajo,Kota Makassar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
 2735,Losari,Ujung Pandang,Kota Makassar,Perempuan,73 Tahun,ODP - Proses Pengawasan
@@ -2775,13 +2775,13 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2774,Nyiur Indah,Takabonerate,Kabupaten Kepulauan Selayar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
 2775,Nyiur Indah,Takabonerate,Kabupaten Kepulauan Selayar,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
 2776,Nyiur Indah,Takabonerate,Kabupaten Kepulauan Selayar,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
-2777,B I R A,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,48 Tahun,ODP - Proses Pengawasan
+2777,B I R A,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,48 Tahun,ODP - Selesai Pengawasan
 2778,Ekatiro,Bontotiro,Kabupaten Bulukumba,Perempuan,45 Tahun,ODP - Proses Pengawasan
 2779,-,Kajang,Kabupaten Bulukumba,Perempuan,27 Tahun,ODP - Proses Pengawasan
 2780,Bonto Baji,Kajang,Kabupaten Bulukumba,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
 2781,Kambuno,Bulukumpa,Kabupaten Bulukumba,Perempuan,22 Tahun,ODP - Proses Pengawasan
 2782,Bonto Tangnga,Bontotiro,Kabupaten Bulukumba,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-2783,Bontu Marannu,Bontotiro,Kabupaten Bulukumba,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
+2783,Bontu Marannu,Bontotiro,Kabupaten Bulukumba,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
 2784,Bonto Matene,Rilau Ale,Kabupaten Bulukumba,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
 2785,Kalemandalle,Bajeng Barat,Kabupaten Gowa,Laki-Laki,68 Tahun,ODP - Proses Pengawasan
 2786,Bontomanai,Bajeng Barat,Kabupaten Gowa,Perempuan,21 Tahun,ODP - Proses Pengawasan
@@ -2796,7 +2796,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2795,Bumi Harapan,Bacukiki Barat,Kota Parepare,Perempuan,21 Tahun,ODP - Proses Pengawasan
 2796,Bumi Harapan,Bacukiki Barat,Kota Parepare,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
 2797,Bumi Harapan,Bacukiki Barat,Kota Parepare,Perempuan,17 Tahun,ODP - Proses Pengawasan
-2798,Bumi Harapan,Bacukiki Barat,Kota Parepare,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+2798,Bumi Harapan,Bacukiki Barat,Kota Parepare,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 2799,Sumpang Minangae,Bacukiki Barat,Kota Parepare,Perempuan,5 Tahun,ODP - Selesai Pengawasan
 2800,Bumi Harapan,Bacukiki Barat,Kota Parepare,Perempuan,8 Tahun,ODP - Selesai Pengawasan
 2801,Bumi Harapan,Bacukiki Barat,Kota Parepare,Laki-Laki,-,ODP - Selesai Pengawasan
@@ -2826,3 +2826,24 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2825,Lebang,Wara Barat,Kota Palopo,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
 2826,Salekoe,Wara Timur,Kota Palopo,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
 2827,Ponjalae,Wara Timur,Kota Palopo,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+2828,Tanuntung,Hero Lange-Lange,Kabupaten Bulukumba,Perempuan,20 Tahun,ODP - Proses Pengawasan
+2829,Tanuntung,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+2830,Tanuntung,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+2831,Tanuntung,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+2832,Kalumeme,Ujung Bulu,Kabupaten Bulukumba,Perempuan,27 Tahun,ODP - Proses Pengawasan
+2833,Kalumeme,Ujung Bulu,Kabupaten Bulukumba,Perempuan,3 Tahun,ODP - Proses Pengawasan
+2834,Batunilamung,Kajang,Kabupaten Bulukumba,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
+2835,Tellu Limpoe,Tellu Limpoe,Kabupaten Sinjai,Perempuan,23 Tahun,ODP - Proses Pengawasan
+2836,Panaikang,Sinjai Timur,Kabupaten Sinjai,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+2837,Sanjai,Sinjai Timur,Kabupaten Sinjai,Perempuan,19 Tahun,ODP - Proses Pengawasan
+2838,Lasiai,Sinjai Timur,Kabupaten Sinjai,Perempuan,16 Tahun,ODP - Proses Pengawasan
+2839,Samataring,Sinjai Timur,Kabupaten Sinjai,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
+2840,Pattalassang,Sinjai Timur,Kabupaten Sinjai,Perempuan,24 Tahun,ODP - Proses Pengawasan
+2841,Talle,Sinjai Selatan,Kabupaten Sinjai,Perempuan,34 Tahun,ODP - Proses Pengawasan
+2842,Panaikang,Sinjai Timur,Kabupaten Sinjai,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+2843,Pasimarannu,Sinjai Timur,Kabupaten Sinjai,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+2844,Kalabbirang,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,54 Tahun,ODP - Proses Pengawasan
+2845,Jagong,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,42 Tahun,ODP - Proses Pengawasan
+2846,Nyiur Indah,Takabonerate,Kabupaten Kepulauan Selayar,Perempuan,26 Tahun,ODP - Proses Pengawasan
+2847,Nyiur Indah,Takabonerate,Kabupaten Kepulauan Selayar,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
+2848,Harapan,Bontosikuyu,Kabupaten Kepulauan Selayar,Perempuan,22 Tahun,ODP - Proses Pengawasan
