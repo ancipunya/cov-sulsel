@@ -144,8 +144,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 143,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,61 Tahun,PDP - Dirawat PDP
 144,Paccekke,Soppeng Riaja,Kabupaten Barru,Laki-Laki,33 Tahun,PDP - Sehat
 145,-,-,Kabupaten Takalar,-,-,PDP - Dirawat PDP
-146,-,-,Kota Makassar,-,-,PDP - Dirawat PDP
-147,-,-,Kabupaten Pangkajene Dan Kepulauan,-,-,PDP - Dirawat PDP
+146,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,48 Tahun,PDP - Dirawat PDP
+147,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,65 Tahun,PDP - Dirawat PDP
 148,Buntu Sugi,Alla,Kabupaten Enrekang,Laki-Laki,28 Tahun,PDP - Dirawat PDP
 149,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,27 Tahun,PDP - Sehat
 150,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,59 Tahun,PDP - Sehat
@@ -157,13 +157,13 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 156,Borong,Manggala,Kota Makassar,Perempuan,55 Tahun,PDP - Dirawat PDP
 157,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,45 Tahun,PDP - Dirawat PDP
 158,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,38 Tahun,PDP - Dirawat PDP
-159,-,-,Kabupaten Luwu Utara,-,-,PDP - Dirawat PDP
-160,-,-,Kabupaten Bone,-,-,PDP - Sehat
+159,Sukamaju,Sukamaju,Kabupaten Luwu Utara,Laki-Laki,33 Tahun,PDP - Dirawat PDP
+160,Kading,Barebbo,Kabupaten Bone,Laki-Laki,75 Tahun,PDP - Sehat
 161,Raja,Bua,Kabupaten Luwu,-,-,PDP - Dirawat PDP
-162,Panambungan,Mariso,Kota Makassar,-,-,PDP - Dirawat PDP
-163,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
-164,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
-165,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
+162,Panambungan,Mariso,Kota Makassar,Laki-Laki,59 Tahun,PDP - Dirawat PDP
+163,Daya,Biring Kanaya,Kota Makassar,Laki-Laki,3 Tahun,PDP - Dirawat PDP
+164,Daya,Biring Kanaya,Kota Makassar,Laki-Laki,33 Tahun,PDP - Dirawat PDP
+165,Daya,Biring Kanaya,Kota Makassar,Laki-Laki,1 Tahun,PDP - Dirawat PDP
 166,Daya,Biring Kanaya,Kota Makassar,-,-,PDP - Dirawat PDP
 167,Banta-Bantaeng,Rappocini,Kota Makassar,-,-,PDP - Dirawat PDP
 168,Samata,Somba Opu,Kabupaten Gowa,-,-,PDP - Dirawat PDP
