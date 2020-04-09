@@ -4,6 +4,8 @@
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
+
+#### Laporan :
 [Google Datastudio](https://datastudio.google.com/reporting/29b5c6e3-f3d8-4c7e-a88b-39df6365b057)
 
 #### Rekap Perkabupaten 
