@@ -1,8 +1,8 @@
 No,Kota/Kab,ODP,PDP,Positif,Total
-1,Kota Makassar,434,154,85,673
+1,Kota Makassar,435,154,85,674
 2,Kota Palopo,108,2,0,110
 3,Kota Parepare,52,1,0,53
-4,Kabupaten Bantaeng,93,2,0,95
+4,Kabupaten Bantaeng,99,2,0,101
 5,Kabupaten Barru,56,2,0,58
 6,Kabupaten Bone,238,4,0,242
 7,Kabupaten Bulukumba,139,15,1,155
@@ -12,7 +12,7 @@ No,Kota/Kab,ODP,PDP,Positif,Total
 11,Kabupaten Kepulauan Selayar,50,1,0,51
 12,Kabupaten Luwu,34,2,1,37
 13,Kabupaten Luwu Timur,257,13,1,271
-14,Kabupaten Luwu Utara,71,9,0,80
+14,Kabupaten Luwu Utara,89,9,0,98
 15,Kabupaten Maros,123,11,12,146
 16,Kabupaten Pangkajene Dan Kepulauan,49,4,1,54
 17,Kabupaten Pinrang,16,4,2,22
@@ -22,5 +22,5 @@ No,Kota/Kab,ODP,PDP,Positif,Total
 21,Kabupaten Takalar,20,5,2,27
 22,Kabupaten Tana Toraja,99,2,0,101
 23,Kabupaten Toraja Utara,70,0,0,70
-24,Kabupaten Wajo,50,1,0,51
--,Jumlah Sulsel,2511,329,135,2975
+24,Kabupaten Wajo,53,1,0,54
+-,Jumlah Sulsel,2539,329,135,3003
