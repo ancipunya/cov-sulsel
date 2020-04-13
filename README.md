@@ -1,6 +1,6 @@
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 12-04-2020 20:02:58
+## Data diupdate pada : 13-04-2020 14:03:07
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,7 +12,7 @@
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
 |1|Kota Makassar|446|163|154|763|https://anci.web.id/cor/kota_makassar.html|
-|2|Kota Palopo|112|2|0|114|https://anci.web.id/cor/kota_palopo.html|
+|2|Kota Palopo|111|2|0|113|https://anci.web.id/cor/kota_palopo.html|
 |3|Kota Parepare|52|2|1|55|https://anci.web.id/cor/kota_parepare.html|
 |4|Kabupaten Bantaeng|103|2|0|105|https://anci.web.id/cor/kabupaten_bantaeng.html|
 |5|Kabupaten Barru|56|2|0|58|https://anci.web.id/cor/kabupaten_barru.html|
@@ -31,7 +31,7 @@
 |18|Kabupaten Sidenreng Rappang|66|29|14|109|https://anci.web.id/cor/kabupaten_sidenreng_rappang.html|
 |19|Kabupaten Sinjai|148|8|0|156|https://anci.web.id/cor/kabupaten_sinjai.html|
 |20|Kabupaten Soppeng|41|5|1|47|https://anci.web.id/cor/kabupaten_soppeng.html|
-|21|Kabupaten Takalar|22|5|2|29|https://anci.web.id/cor/kabupaten_takalar.html|
+|21|Kabupaten Takalar|23|5|2|30|https://anci.web.id/cor/kabupaten_takalar.html|
 |22|Kabupaten Tana Toraja|99|2|0|101|https://anci.web.id/cor/kabupaten_tana_toraja.html|
 |23|Kabupaten Toraja Utara|77|0|0|77|https://anci.web.id/cor/kabupaten_toraja_utara.html|
 |24|Kabupaten Wajo|53|4|0|57|https://anci.web.id/cor/kabupaten_wajo.html|
