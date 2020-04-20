@@ -1,12 +1,9 @@
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 19-04-2020 20:04:39
+## Data diupdate pada : 20-04-2020 09:44:55
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
-
-#### Laporan :
-[Google Datastudio](https://datastudio.google.com/reporting/29b5c6e3-f3d8-4c7e-a88b-39df6365b057)
 
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
