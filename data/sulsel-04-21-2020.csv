@@ -2,7 +2,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,44 Tahun,Positif - Sembuh
 2,Alitta,Mattiro Bulu,Kabupaten Pinrang,Perempuan,61 Tahun,Positif - Sembuh
 3,Sidenreng,Watang Sidenreng,Kabupaten Sidenreng Rappang,Perempuan,70 Tahun,Positif - Sembuh
-4,Ma`Rang,Marang,Kabupaten Pangkajene Dan Kepulauan,Perempuan,58 Tahun,Positif - Dirawat Pasien Positif
+4,Ma`Rang,Marang,Kabupaten Pangkajene Dan Kepulauan,Perempuan,58 Tahun,Positif - Sembuh
 5,Buakana,Rappocini,Kota Makassar,Laki-Laki,49 Tahun,Positif - Dirawat Pasien Positif
 6,Buakana,Rappocini,Kota Makassar,Perempuan,48 Tahun,Positif - Sembuh
 7,Bangkala,Manggala,Kota Makassar,Perempuan,34 Tahun,Positif - Sembuh
@@ -65,8 +65,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 64,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,31 Tahun,Positif - Dirawat Pasien Positif
 65,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,51 Tahun,Positif - Dirawat Pasien Positif
 66,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,55 Tahun,Positif - Dirawat Pasien Positif
-67,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,28 Tahun,Positif - Dirawat Pasien Positif
-68,Batulappa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,Positif - Dirawat Pasien Positif
+67,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,28 Tahun,Positif - Sembuh
+68,Batulappa,Watang Pulu,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,Positif - Sembuh
 69,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
 70,Gunung Sari,Rappocini,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
 71,Maricaya,Makassar,Kota Makassar,Perempuan,44 Tahun,Positif - Dirawat Pasien Positif
@@ -78,7 +78,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 77,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
 78,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,70 Tahun,Positif - Dirawat Pasien Positif
 79,Lakessi,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,29 Tahun,Positif - Dirawat Pasien Positif
-80,Buakana,Rappocini,Kota Makassar,Laki-Laki,43 Tahun,Positif - Sembuh
+80,Buakana,Rappocini,Kota Makassar,Laki-Laki,43 Tahun,Positif - Dirawat Pasien Positif
 81,Balang Baru,Tamalate,Kota Makassar,Perempuan,60 Tahun,Positif - Dirawat Pasien Positif
 82,Mariso,Mariso,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
 83,Bulogading,Ujung Pandang,Kota Makassar,Laki-Laki,59 Tahun,Positif - Dirawat Pasien Positif
@@ -109,7 +109,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 108,Mangasa,Tamalate,Kota Makassar,Perempuan,51 Tahun,Positif - Dirawat Pasien Positif
 109,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
 110,Borong,Manggala,Kota Makassar,Laki-Laki,69 Tahun,Positif - Dirawat Pasien Positif
-111,-,-,Kabupaten Sidenreng Rappang,Laki-Laki,18 Tahun,Positif - Dirawat Pasien Positif
+111,-,-,Kabupaten Sidenreng Rappang,Laki-Laki,18 Tahun,Positif - Sembuh
 112,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,62 Tahun,Positif - Dirawat Pasien Positif
 113,-,-,Kota Makassar,Laki-Laki,25 Tahun,Positif - Dirawat Pasien Positif
 114,-,-,Kota Makassar,Laki-Laki,36 Tahun,Positif - Dirawat Pasien Positif
@@ -161,7 +161,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 160,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,28 Tahun,Positif - Dirawat Pasien Positif
 161,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,28 Tahun,Positif - Sembuh
 162,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,38 Tahun,Positif - Dirawat Pasien Positif
-163,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,54 Tahun,Positif - Dirawat Pasien Positif
+163,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,54 Tahun,Positif - Sembuh
 164,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,53 Tahun,Positif - Sembuh
 165,Borong,Manggala,Kota Makassar,Perempuan,61 Tahun,Positif - Dirawat Pasien Positif
 166,Mangasa,Tamalate,Kota Makassar,Laki-Laki,20 Tahun,Positif - Dirawat Pasien Positif
