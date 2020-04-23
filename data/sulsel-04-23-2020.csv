@@ -983,7 +983,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 982,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,54 Tahun,PDP - Dirawat PDP
 983,Pisang Utara,Ujung Pandang,Kota Makassar,Laki-Laki,54 Tahun,PDP - Dirawat PDP
 984,Pampang,Panakkukang,Kota Makassar,Laki-Laki,28 Tahun,PDP - Dirawat PDP
-985,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,43 Tahun,PDP - Dirawat PDP
+985,Sawerigading,Ujung Pandang,Kota Makassar,Laki-Laki,16 Tahun,PDP - Dirawat PDP
 986,Biring Ere,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Perempuan,44 Tahun,PDP - Dirawat PDP
 987,Bijawang,Ujung Loe,Kabupaten Bulukumba,Perempuan,37 Tahun,PDP - Dirawat PDP
 988,Bontongan,Baraka,Kabupaten Enrekang,Perempuan,29 Tahun,PDP - Dirawat PDP
@@ -1012,7 +1012,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1011,-,-,Kabupaten Maros,-,-,ODP - Selesai Pengawasan
 1012,-,-,Kota Makassar,-,-,ODP - Selesai Pengawasan
 1013,-,-,Kabupaten Soppeng,-,-,ODP - Selesai Pengawasan
-1014,Kelurahan Lemo,Makale Utara,Kabupaten Tana Toraja,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
+1014,Kelurahan  Lemo,Makale Utara,Kabupaten Tana Toraja,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
 1015,Sinri Jala,Panakkukang,Kota Makassar,Perempuan,-,ODP - Selesai Pengawasan
 1016,-,-,Kabupaten Pangkajene Dan Kepulauan,-,-,ODP - Selesai Pengawasan
 1017,-,-,Kabupaten Pangkajene Dan Kepulauan,-,-,ODP - Selesai Pengawasan
@@ -1382,7 +1382,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1381,Bonea Timur,Bontomanai,Kabupaten Kepulauan Selayar,Laki-Laki,60 Tahun,ODP - Selesai Pengawasan
 1382,Bonto Rita,Bissappu,Kabupaten Bantaeng,Laki-Laki,11 Tahun,ODP - Selesai Pengawasan
 1383,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Perempuan,-,ODP - Selesai Pengawasan
-1384,Bonto Atu,Bissappu,Kabupaten Bantaeng,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
+1384,Bonto  Atu,Bissappu,Kabupaten Bantaeng,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 1385,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 1386,Bonto Salluang,Bissappu,Kabupaten Bantaeng,Perempuan,33 Tahun,ODP - Selesai Pengawasan
 1387,Bonto Jai,Bissappu,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
@@ -1391,7 +1391,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1390,Bonto Sunggu,Bissappu,Kabupaten Bantaeng,Laki-Laki,47 Tahun,ODP - Selesai Pengawasan
 1391,Bonto Rita,Bissappu,Kabupaten Bantaeng,Laki-Laki,5 Tahun,ODP - Selesai Pengawasan
 1392,Bonto Rita,Bissappu,Kabupaten Bantaeng,Perempuan,41 Tahun,ODP - Selesai Pengawasan
-1393,Bonto Atu,Bissappu,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
+1393,Bonto  Atu,Bissappu,Kabupaten Bantaeng,Laki-Laki,-,ODP - Selesai Pengawasan
 1394,Lamalaka,Bantaeng,Kabupaten Bantaeng,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 1395,Lamalaka,Bantaeng,Kabupaten Bantaeng,Perempuan,2 Tahun,ODP - Selesai Pengawasan
 1396,Lembang,Bantaeng,Kabupaten Bantaeng,Perempuan,-,ODP - Selesai Pengawasan
@@ -3134,7 +3134,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3133,-,Cempa,Kabupaten Pinrang,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
 3134,Lembang Buntu Datu,Mengkendek,Kabupaten Tana Toraja,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
 3135,Tettikengrarae,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
-3136,Kelurahan Rante Kalua,Mengkendek,Kabupaten Tana Toraja,Laki-Laki,46 Tahun,ODP - Selesai Pengawasan
+3136,Kelurahan  Rante Kalua,Mengkendek,Kabupaten Tana Toraja,Laki-Laki,46 Tahun,ODP - Selesai Pengawasan
 3137,Kelurahan Tengan,Mengkendek,Kabupaten Tana Toraja,Perempuan,38 Tahun,ODP - Selesai Pengawasan
 3138,Lembang Patengko,Mengkendek,Kabupaten Tana Toraja,Perempuan,21 Tahun,ODP - Selesai Pengawasan
 3139,Kelurahan Tengan,Mengkendek,Kabupaten Tana Toraja,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
@@ -3186,15 +3186,15 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3185,Lembang Tumbang Datu,Sangalla Utara,Kabupaten Tana Toraja,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
 3186,Lembang Salu Allo,Sangalla Utara,Kabupaten Tana Toraja,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 3187,Lembang Salu Allo,Sangalla Utara,Kabupaten Tana Toraja,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-3188,Kelurahan Rembon,Rembon,Kabupaten Tana Toraja,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
-3189,Kelurahan Rembon,Rembon,Kabupaten Tana Toraja,Perempuan,20 Tahun,ODP - Selesai Pengawasan
-3190,Lembang To Pao,Rembon,Kabupaten Tana Toraja,Perempuan,20 Tahun,ODP - Selesai Pengawasan
-3191,Lembang To Pao,Rembon,Kabupaten Tana Toraja,Laki-Laki,70 Tahun,ODP - Selesai Pengawasan
+3188,Kelurahan  Rembon,Rembon,Kabupaten Tana Toraja,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
+3189,Kelurahan  Rembon,Rembon,Kabupaten Tana Toraja,Perempuan,20 Tahun,ODP - Selesai Pengawasan
+3190,Lembang To  Pao,Rembon,Kabupaten Tana Toraja,Perempuan,20 Tahun,ODP - Selesai Pengawasan
+3191,Lembang To  Pao,Rembon,Kabupaten Tana Toraja,Laki-Laki,70 Tahun,ODP - Selesai Pengawasan
 3192,Lembang Limbong,Rembon,Kabupaten Tana Toraja,Perempuan,25 Tahun,ODP - Selesai Pengawasan
 3193,Lembang Banga,Rembon,Kabupaten Tana Toraja,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-3194,Kelurahan Rembon,Rembon,Kabupaten Tana Toraja,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-3195,Lembang To Pao,Rembon,Kabupaten Tana Toraja,Perempuan,56 Tahun,ODP - Selesai Pengawasan
-3196,Lembang To Pao,Rembon,Kabupaten Tana Toraja,Perempuan,20 Tahun,ODP - Selesai Pengawasan
+3194,Kelurahan  Rembon,Rembon,Kabupaten Tana Toraja,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+3195,Lembang To  Pao,Rembon,Kabupaten Tana Toraja,Perempuan,56 Tahun,ODP - Selesai Pengawasan
+3196,Lembang To  Pao,Rembon,Kabupaten Tana Toraja,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 3197,Lembang Banga,Rembon,Kabupaten Tana Toraja,Perempuan,8 Tahun,ODP - Selesai Pengawasan
 3198,Lembang Banga,Rembon,Kabupaten Tana Toraja,-,7 Tahun,ODP - Selesai Pengawasan
 3199,Kelurahan Malimbong,Malimbong Balepe,Kabupaten Tana Toraja,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
@@ -3440,7 +3440,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3439,Salekoe,Wara Timur,Kota Palopo,Laki-Laki,11 Tahun,ODP - Selesai Pengawasan
 3440,Malatunrung,Wara Timur,Kota Palopo,Laki-Laki,30 Tahun,ODP - Selesai Pengawasan
 3441,Tomarundung,Wara Barat,Kota Palopo,Perempuan,63 Tahun,ODP - Selesai Pengawasan
-3442,Kelurahan Balusu,Balusu,Kabupaten Toraja Utara,Perempuan,27 Tahun,ODP - Selesai Pengawasan
+3442,Kelurahan  Balusu,Balusu,Kabupaten Toraja Utara,Perempuan,27 Tahun,ODP - Selesai Pengawasan
 3443,-,Kesu,Kabupaten Toraja Utara,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 3444,Penggoli,Wara Utara,Kota Palopo,-,18 Tahun,ODP - Proses Pengawasan
 3445,Watutoa,Mario Riwawo,Kabupaten Soppeng,Perempuan,20 Tahun,ODP - Proses Pengawasan
@@ -3823,7 +3823,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3822,Manorang Salo,Mario Riawa,Kabupaten Soppeng,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
 3823,Langkura,Turatea,Kabupaten Jeneponto,Perempuan,3 Tahun,ODP - Selesai Pengawasan
 3824,Lebang Manai,Rumbia,Kabupaten Jeneponto,Laki-Laki,35 Tahun,ODP - Selesai Pengawasan
-3825,Botto,Lalabata,Kabupaten Soppeng,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
+3825,Mattunru Tunrue,Cempa,Kabupaten Pinrang,Perempuan,34 Tahun,ODP - Proses Pengawasan
 3826,Bontorappo,Tarowang,Kabupaten Jeneponto,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
 3827,Manjangloe,Tamalatea,Kabupaten Jeneponto,Laki-Laki,56 Tahun,ODP - Selesai Pengawasan
 3828,Lalabata Rilau,Lalabata,Kabupaten Soppeng,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
@@ -3838,7 +3838,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3837,Mandala,Mamajang,Kota Makassar,Laki-Laki,10 Tahun,ODP - Proses Pengawasan
 3838,Mattiro Ade,Patampanua,Kabupaten Pinrang,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
 3839,Bontotangnga,Tamalatea,Kabupaten Jeneponto,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
-3840,Manorang Salo,Mario Riawa,Kabupaten Soppeng,Laki-Laki,15 Tahun,ODP - Proses Pengawasan
+3840,Mattunru Tunrue,Cempa,Kabupaten Pinrang,Laki-Laki,10 Tahun,ODP - Proses Pengawasan
 3841,Penrang,Watang Sawitto,Kabupaten Pinrang,Perempuan,41 Tahun,ODP - Proses Pengawasan
 3842,Laleng Bata,Paleteang,Kabupaten Pinrang,Laki-Laki,51 Tahun,ODP - Proses Pengawasan
 3843,Kaluku,Batang,Kabupaten Jeneponto,Perempuan,23 Tahun,ODP - Selesai Pengawasan
@@ -3935,9 +3935,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3934,Lebang Kole Sawangan,Malimbong Balepe,Kabupaten Tana Toraja,Perempuan,25 Tahun,ODP - Proses Pengawasan
 3935,Lembang Salu Allo,Sangalla Utara,Kabupaten Tana Toraja,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
 3936,Datara,Bontoramba,Kabupaten Jeneponto,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-3937,Kelurahan Ratte Buttu,Bonggakaradeng,Kabupaten Tana Toraja,Laki-Laki,70 Tahun,ODP - Proses Pengawasan
+3937,Kelurahan  Ratte Buttu,Bonggakaradeng,Kabupaten Tana Toraja,Laki-Laki,70 Tahun,ODP - Proses Pengawasan
 3938,Datara,Bontoramba,Kabupaten Jeneponto,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
-3939,Kelurahan Ratte Buttu,Bonggakaradeng,Kabupaten Tana Toraja,Perempuan,21 Tahun,ODP - Proses Pengawasan
+3939,Kelurahan  Ratte Buttu,Bonggakaradeng,Kabupaten Tana Toraja,Perempuan,21 Tahun,ODP - Proses Pengawasan
 3940,Bungeng,Batang,Kabupaten Jeneponto,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
 3941,Lembang Sarapeang,Rembon,Kabupaten Tana Toraja,Perempuan,25 Tahun,ODP - Proses Pengawasan
 3942,Lembang Kaero,Sangalla,Kabupaten Tana Toraja,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
