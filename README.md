@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 27-04-2020 17:31:29
+## Data diupdate pada : 27-04-2020 17:46:29
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,7 +12,7 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|550|365|336|1251|https://anci.web.id/cor/kota_makassar|
+|1|Kota Makassar|550|367|336|1253|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|121|3|0|124|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|75|14|3|92|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|138|3|0|141|https://anci.web.id/cor/kabupaten_bantaeng|
@@ -20,7 +20,7 @@
 |6|Kabupaten Bone|284|10|1|295|https://anci.web.id/cor/kabupaten_bone|
 |7|Kabupaten Bulukumba|200|25|3|228|https://anci.web.id/cor/kabupaten_bulukumba|
 |8|Kabupaten Enrekang|159|11|3|173|https://anci.web.id/cor/kabupaten_enrekang|
-|9|Kabupaten Gowa|288|169|29|486|https://anci.web.id/cor/kabupaten_gowa|
+|9|Kabupaten Gowa|288|167|29|484|https://anci.web.id/cor/kabupaten_gowa|
 |10|Kabupaten Jeneponto|259|16|1|276|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|71|4|0|75|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|58|3|2|63|https://anci.web.id/cor/kabupaten_luwu|
@@ -29,9 +29,9 @@
 |15|Kabupaten Maros|140|19|26|185|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|79|11|3|93|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
 |17|Kabupaten Pinrang|94|11|5|110|https://anci.web.id/cor/kabupaten_pinrang|
-|18|Kabupaten Sidenreng Rappang|83|29|17|129|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
+|18|Kabupaten Sidenreng Rappang|83|30|17|130|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|187|12|0|199|https://anci.web.id/cor/kabupaten_sinjai|
-|20|Kabupaten Soppeng|60|12|2|74|https://anci.web.id/cor/kabupaten_soppeng|
+|20|Kabupaten Soppeng|60|11|2|73|https://anci.web.id/cor/kabupaten_soppeng|
 |21|Kabupaten Takalar|41|7|3|51|https://anci.web.id/cor/kabupaten_takalar|
 |22|Kabupaten Tana Toraja|145|3|3|151|https://anci.web.id/cor/kabupaten_tana_toraja|
 |23|Kabupaten Toraja Utara|77|0|0|77|https://anci.web.id/cor/kabupaten_toraja_utara|
