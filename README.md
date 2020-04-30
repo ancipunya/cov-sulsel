@@ -7,7 +7,7 @@
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
 
 #### Laporan :
-[Google Datastudio](https://datastudio.google.com/s/uzrboX-8kow)
+[Google Datastudio](https://datastudio.google.com/s/jythWGc1j4w)
 
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
