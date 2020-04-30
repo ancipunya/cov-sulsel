@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 30-04-2020 14:31:29
+## Data diupdate pada : 30-04-2020 14:46:30
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,8 +12,8 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|565|407|353|1325|https://anci.web.id/cor/kota_makassar|
-|2|Kota Palopo|124|3|0|127|https://anci.web.id/cor/kota_palopo|
+|1|Kota Makassar|565|405|353|1323|https://anci.web.id/cor/kota_makassar|
+|2|Kota Palopo|124|4|0|128|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|75|15|3|93|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|145|3|0|148|https://anci.web.id/cor/kabupaten_bantaeng|
 |5|Kabupaten Barru|64|4|0|68|https://anci.web.id/cor/kabupaten_barru|
@@ -24,7 +24,7 @@
 |10|Kabupaten Jeneponto|259|16|1|276|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|72|4|0|76|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|58|3|2|63|https://anci.web.id/cor/kabupaten_luwu|
-|13|Kabupaten Luwu Timur|361|20|2|383|https://anci.web.id/cor/kabupaten_luwu_timur|
+|13|Kabupaten Luwu Timur|361|21|2|384|https://anci.web.id/cor/kabupaten_luwu_timur|
 |14|Kabupaten Luwu Utara|160|14|1|175|https://anci.web.id/cor/kabupaten_luwu_utara|
 |15|Kabupaten Maros|145|19|27|191|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|86|12|3|101|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
