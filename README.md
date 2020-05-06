@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 06-05-2020 11:31:34
+## Data diupdate pada : 06-05-2020 16:31:35
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |1|Kota Makassar|628|467|440|1535|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|130|5|1|136|https://anci.web.id/cor/kota_palopo|
-|3|Kota Parepare|76|16|12|104|https://anci.web.id/cor/kota_parepare|
+|3|Kota Parepare|76|16|13|105|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|146|3|0|149|https://anci.web.id/cor/kabupaten_bantaeng|
 |5|Kabupaten Barru|64|4|0|68|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|290|9|5|304|https://anci.web.id/cor/kabupaten_bone|
@@ -28,7 +28,7 @@
 |14|Kabupaten Luwu Utara|170|18|24|212|https://anci.web.id/cor/kabupaten_luwu_utara|
 |15|Kabupaten Maros|172|23|36|231|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|106|14|8|128|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
-|17|Kabupaten Pinrang|110|15|6|131|https://anci.web.id/cor/kabupaten_pinrang|
+|17|Kabupaten Pinrang|110|15|5|130|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|88|31|22|141|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|205|13|6|224|https://anci.web.id/cor/kabupaten_sinjai|
 |20|Kabupaten Soppeng|67|17|5|89|https://anci.web.id/cor/kabupaten_soppeng|
@@ -43,9 +43,9 @@
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
 | ODP | 869 | 3260 | 0 | 4129 | https://anci.web.id/cor/odp_detail.html |
-| PDP | 579 | 264 | 98 | 936 | https://anci.web.id/cor/pdp_detail.html |
+| PDP | 264 | 579 | 98 | 936 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 367 | 228 | 45 | 640 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 1815 | 3752 | 143 | 5705 | https://anci.web.id/cor/jumlah_sulsel/ |
+| JUMLAH | 1500 | 4067 | 143 | 5705 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
