@@ -406,7 +406,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 405,Labuang Baji,Mamajang,Kota Makassar,Perempuan,51 Tahun,Positif - Dirawat Pasien Positif
 406,Labuang Baji,Mamajang,Kota Makassar,Perempuan,22 Tahun,Positif - Dirawat Pasien Positif
 407,-,-,Kota Makassar,Laki-Laki,40 Tahun,Positif - Dirawat Pasien Positif
-408,Barugaiya,Bontomanai,Kabupaten Kepulauan Selayar,Perempuan,52 Tahun,Positif - Dirawat Pasien Positif
+408,Tetebatu,Pallangga,Kabupaten Gowa,Perempuan,52 Tahun,Positif - Dirawat Pasien Positif
 409,Panaikang,Panakkukang,Kota Makassar,Perempuan,27 Tahun,Positif - Dirawat Pasien Positif
 410,Gunung Sari,Rappocini,Kota Makassar,Perempuan,56 Tahun,Positif - Dirawat Pasien Positif
 411,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
@@ -5735,194 +5735,193 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 5734,Mario Rittengnga,Mario Riwawo,Kabupaten Soppeng,Perempuan,48 Tahun,ODP - Proses Pengawasan
 5735,Mario Rittengnga,Mario Riwawo,Kabupaten Soppeng,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
 5736,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,74 Tahun,ODP - Proses Pengawasan
-5737,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,41 Tahun,ODP - Selesai Pengawasan
-5738,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,78 Tahun,ODP - Proses Pengawasan
-5739,Sangiasseri,Sinjai Selatan,Kabupaten Sinjai,Perempuan,28 Tahun,ODP - Proses Pengawasan
-5740,Polejiwa,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-5741,Anrihua,Kindang,Kabupaten Bulukumba,Laki-Laki,51 Tahun,ODP - Selesai Pengawasan
-5742,Manarang,Mattiro Bulu,Kabupaten Pinrang,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
-5743,Manarang,Mattiro Bulu,Kabupaten Pinrang,Perempuan,34 Tahun,ODP - Proses Pengawasan
-5744,Sabbamparu,Wara Utara,Kota Palopo,Perempuan,21 Tahun,ODP - Proses Pengawasan
-5745,Mattirowalie,Kindang,Kabupaten Bulukumba,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-5746,Maccini Baji,Lau,Kabupaten Maros,Perempuan,224 Tahun,ODP - Selesai Pengawasan
-5747,Lembanna,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
-5748,Kalabbirang,Bantimurung,Kabupaten Maros,Laki-Laki,14 Tahun,ODP - Proses Pengawasan
-5749,-,Sabbang,Kabupaten Luwu Utara,Perempuan,17 Tahun,ODP - Selesai Pengawasan
-5750,Lette,Mariso,Kota Makassar,Laki-Laki,62 Tahun,ODP - Proses Pengawasan
-5751,Mangasa,Tamalate,Kota Makassar,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
-5752,Baraya,Bontoala,Kota Makassar,Laki-Laki,7 Tahun,ODP - Proses Pengawasan
-5753,Tabaringan,Ujung Tanah,Kota Makassar,Perempuan,11 Tahun,ODP - Selesai Pengawasan
-5754,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-5755,-,-,Kota Makassar,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
-5756,Maccini Sombala,Tamalate,Kota Makassar,Laki-Laki,73 Tahun,ODP - Proses Pengawasan
-5757,Pandang Pandang,Somba Opu,Kabupaten Gowa,Perempuan,28 Tahun,ODP - Proses Pengawasan
-5758,Pandang Pandang,Somba Opu,Kabupaten Gowa,Perempuan,59 Tahun,ODP - Proses Pengawasan
-5759,Dandang,Sabbang,Kabupaten Luwu Utara,Perempuan,19 Tahun,ODP - Proses Pengawasan
-5760,Radda,Baebunta,Kabupaten Luwu Utara,Perempuan,33 Tahun,ODP - Proses Pengawasan
-5761,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,15 Tahun,ODP - Proses Pengawasan
-5762,Baji Mangngai,Mandai,Kabupaten Maros,Laki-Laki,70 Tahun,ODP - Proses Pengawasan
-5763,Baji Mangngai,Mandai,Kabupaten Maros,Laki-Laki,-,ODP - Proses Pengawasan
-5764,Baji Mangngai,Mandai,Kabupaten Maros,Perempuan,29 Tahun,ODP - Proses Pengawasan
-5765,Kambiolangi,Alla,Kabupaten Enrekang,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
-5766,Bangkala,Manggala,Kota Makassar,Perempuan,47 Tahun,ODP - Proses Pengawasan
-5767,Tabaringan,Ujung Tanah,Kota Makassar,Perempuan,50 Tahun,ODP - Selesai Pengawasan
-5768,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
-5769,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-5770,Antang,Manggala,Kota Makassar,Laki-Laki,64 Tahun,ODP - Proses Pengawasan
-5771,-,-,Kota Makassar,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
-5772,-,-,Kota Makassar,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
-5773,Antang,Manggala,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-5774,Antang,Manggala,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
-5775,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
-5776,Penrang,Watang Sawitto,Kabupaten Pinrang,Perempuan,23 Tahun,ODP - Selesai Pengawasan
-5777,Penrang,Watang Sawitto,Kabupaten Pinrang,Perempuan,31 Tahun,ODP - Selesai Pengawasan
-5778,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
-5779,Purna Karya,Tanralili,Kabupaten Maros,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
-5780,Kindang,Kindang,Kabupaten Bulukumba,Perempuan,8 Tahun,ODP - Selesai Pengawasan
-5781,Kindang,Kindang,Kabupaten Bulukumba,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
-5782,Patani,Mappakasunggu,Kabupaten Takalar,Laki-Laki,70 Tahun,ODP - Proses Pengawasan
-5783,Antang,Manggala,Kota Makassar,Perempuan,22 Tahun,ODP - Proses Pengawasan
-5784,Tabaringan,Ujung Tanah,Kota Makassar,Perempuan,74 Tahun,ODP - Selesai Pengawasan
-5785,Tamalanrea Indah,Tamalanrea,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
-5786,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-5787,Mattiro Kanja,Liukang Tupabbiring Utara,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
-5788,Batua,Manggala,Kota Makassar,Perempuan,30 Tahun,ODP - Proses Pengawasan
-5789,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,82 Tahun,ODP - Proses Pengawasan
-5790,Sudirman,Tanralili,Kabupaten Maros,Perempuan,1 Tahun,ODP - Proses Pengawasan
-5791,Mata Allo,Alla,Kabupaten Enrekang,Perempuan,24 Tahun,ODP - Proses Pengawasan
-5792,Massaile,Tellu Limpoe,Kabupaten Sinjai,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-5793,Latuppa,Mungkajang,Kota Palopo,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
-5794,Antang,Manggala,Kota Makassar,Laki-Laki,64 Tahun,ODP - Proses Pengawasan
-5795,Antang,Manggala,Kota Makassar,Perempuan,22 Tahun,ODP - Proses Pengawasan
-5796,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-5797,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
-5798,Tamalanrea Indah,Tamalanrea,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
-5799,Bontoala Tua,Bontoala,Kota Makassar,Laki-Laki,10 Tahun,ODP - Proses Pengawasan
-5800,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,30 Tahun,ODP - Proses Pengawasan
-5801,Batua,Manggala,Kota Makassar,Perempuan,27 Tahun,ODP - Proses Pengawasan
-5802,Marumpa,Marusu,Kabupaten Maros,Perempuan,55 Tahun,ODP - Proses Pengawasan
-5803,Hasanuddin,Mandai,Kabupaten Maros,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-5804,Baji Mangngai,Mandai,Kabupaten Maros,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
-5805,Jenetaesa,Simbang,Kabupaten Maros,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
-5806,Jenetaesa,Simbang,Kabupaten Maros,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
-5807,Gunung Sari,Rappocini,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
-5808,Batua,Manggala,Kota Makassar,Perempuan,27 Tahun,ODP - Proses Pengawasan
-5809,Batua,Manggala,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
-5810,Manggala,Manggala,Kota Makassar,Perempuan,28 Tahun,ODP - Proses Pengawasan
-5811,Manisa,Baranti,Kabupaten Sidenreng Rappang,Perempuan,26 Tahun,ODP - Proses Pengawasan
-5812,Tonasa,Balocci,Kabupaten Pangkajene Dan Kepulauan,Perempuan,40 Tahun,ODP - Proses Pengawasan
-5813,Sudiang Raya,Biring Kanaya,Kota Makassar,Perempuan,33 Tahun,ODP - Proses Pengawasan
-5814,Saga,Bajo,Kabupaten Luwu,Perempuan,36 Tahun,ODP - Proses Pengawasan
-5815,Nuha,Nuha,Kabupaten Luwu Timur,Perempuan,16 Tahun,ODP - Proses Pengawasan
-5816,Kapasa,Tamalanrea,Kota Makassar,Perempuan,2 Tahun,ODP - Proses Pengawasan
-5817,Antang,Manggala,Kota Makassar,Perempuan,22 Tahun,ODP - Proses Pengawasan
-5818,Rappojawa,Tallo,Kota Makassar,Perempuan,81 Tahun,ODP - Proses Pengawasan
-5819,Kapasa,Tamalanrea,Kota Makassar,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
-5820,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-5821,Tanahloe,Gantarangkeke,Kabupaten Bantaeng,Perempuan,31 Tahun,ODP - Proses Pengawasan
-5822,Maricaya,Makassar,Kota Makassar,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
-5823,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,34 Tahun,ODP - Proses Pengawasan
-5824,Bontosunggu,Bajeng,Kabupaten Gowa,Perempuan,50 Tahun,ODP - Proses Pengawasan
-5825,Bontosunggu,Bajeng,Kabupaten Gowa,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-5826,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-5827,Balandai,Bara,Kota Palopo,Perempuan,43 Tahun,ODP - Proses Pengawasan
-5828,Bonto Sunggu,Galesong Utara,Kabupaten Takalar,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
-5829,Anrong Appaka,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
-5830,Pattallassang,Pattallassang,Kabupaten Takalar,Perempuan,37 Tahun,ODP - Proses Pengawasan
-5831,Pattallassang,Pattallassang,Kabupaten Takalar,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
-5832,Sibatua,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-5833,Saohiring,Sinjai Tengah,Kabupaten Sinjai,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
-5834,Erabaru,Tellu Limpoe,Kabupaten Sinjai,Perempuan,20 Tahun,ODP - Proses Pengawasan
-5835,Sanjai,Sinjai Timur,Kabupaten Sinjai,Perempuan,-,ODP - Proses Pengawasan
-5836,Rappang,Panca Rijang,Kabupaten Sidenreng Rappang,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-5837,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,9 Tahun,ODP - Proses Pengawasan
-5838,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,8 Tahun,ODP - Proses Pengawasan
-5839,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
-5840,Alatengae,Bantimurung,Kabupaten Maros,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-5841,Anrihua,Kindang,Kabupaten Bulukumba,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
-5842,Lompoe,Bacukiki,Kota Parepare,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
-5843,Batua,Manggala,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
-5844,Masale,Panakkukang,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
-5845,Pattunuang,Wajo,Kota Makassar,Perempuan,45 Tahun,ODP - Proses Pengawasan
-5846,Antang,Manggala,Kota Makassar,Laki-Laki,53 Tahun,ODP - Proses Pengawasan
-5847,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
-5848,Tamalabba,Ujung Tanah,Kota Makassar,Perempuan,45 Tahun,ODP - Selesai Pengawasan
-5849,Tamalabba,Ujung Tanah,Kota Makassar,Perempuan,17 Tahun,ODP - Selesai Pengawasan
-5850,Masale,Panakkukang,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
-5851,Batua,Manggala,Kota Makassar,Perempuan,32 Tahun,ODP - Proses Pengawasan
-5852,Borong,Manggala,Kota Makassar,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
-5853,Langa,Mattirosompe,Kabupaten Pinrang,Perempuan,335 Tahun,ODP - Proses Pengawasan
-5854,Tugondeng,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-5855,Tugondeng,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,46 Tahun,ODP - Proses Pengawasan
-5856,Salulemo,Baebunta,Kabupaten Luwu Utara,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-5857,Tugondeng,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-5858,Anrihua,Kindang,Kabupaten Bulukumba,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
-5859,Lompoe,Bacukiki,Kota Parepare,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
-5860,Langa,Mattirosompe,Kabupaten Pinrang,Perempuan,35 Tahun,ODP - Proses Pengawasan
-5861,Jenetaesa,Simbang,Kabupaten Maros,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-5862,Jenetaesa,Simbang,Kabupaten Maros,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
-5863,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-5864,Maccini Baji,Lau,Kabupaten Maros,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
-5865,Baji Pamai,Cenrana,Kabupaten Maros,Laki-Laki,69 Tahun,ODP - Proses Pengawasan
-5866,Kassi,Balocci,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-5867,Appatanah,Bontosikuyu,Kabupaten Kepulauan Selayar,-,51 Tahun,ODP - Proses Pengawasan
-5868,Polejiwa,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-5869,Dandang,Sabbang,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-5870,Sukamaju,Sukamaju,Kabupaten Luwu Utara,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
-5871,Waetuo,Malangke Barat,Kabupaten Luwu Utara,Perempuan,21 Tahun,ODP - Proses Pengawasan
-5872,Doping,Penrang,Kabupaten Wajo,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-5873,Tanah Jaya,Kajang,Kabupaten Bulukumba,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-5874,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-5875,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,63 Tahun,ODP - Proses Pengawasan
-5876,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
-5877,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
-5878,Antang,Manggala,Kota Makassar,Perempuan,23 Tahun,ODP - Proses Pengawasan
-5879,Bonto Biraeng,Mamajang,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-5880,Suwangga,Tallo,Kota Makassar,Perempuan,15 Tahun,ODP - Proses Pengawasan
-5881,Pannampu,Tallo,Kota Makassar,Perempuan,56 Tahun,ODP - Proses Pengawasan
-5882,Bara-Baraya,Makassar,Kota Makassar,Perempuan,3 Tahun,ODP - Proses Pengawasan
-5883,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
-5884,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,66 Tahun,ODP - Proses Pengawasan
-5885,Karampuang,Panakkukang,Kota Makassar,Perempuan,15 Tahun,ODP - Proses Pengawasan
-5886,Sambung Jawa,Mamajang,Kota Makassar,Perempuan,27 Tahun,ODP - Proses Pengawasan
-5887,Maradekaya,Makassar,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-5888,Mamajang Luar,Mamajang,Kota Makassar,Perempuan,45 Tahun,ODP - Proses Pengawasan
-5889,Jongaya,Tamalate,Kota Makassar,Perempuan,30 Tahun,ODP - Proses Pengawasan
-5890,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
-5891,Pabatang,Mamajang,Kota Makassar,Perempuan,23 Tahun,ODP - Proses Pengawasan
-5892,Panambungan,Mariso,Kota Makassar,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-5893,Baruga,Towuti,Kabupaten Luwu Timur,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
-5894,Rante Angin,Towuti,Kabupaten Luwu Timur,Perempuan,16 Tahun,ODP - Proses Pengawasan
-5895,Timampu,Towuti,Kabupaten Luwu Timur,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
-5896,Bantilang,Towuti,Kabupaten Luwu Timur,Perempuan,17 Tahun,ODP - Proses Pengawasan
-5897,Timampu,Towuti,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Proses Pengawasan
-5898,Bonto Lanra,Galesong Utara,Kabupaten Takalar,Laki-Laki,74 Tahun,ODP - Proses Pengawasan
-5899,-,-,Kota Makassar,Perempuan,53 Tahun,ODP - Proses Pengawasan
-5900,Mangasa,Tamalate,Kota Makassar,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-5901,Balang Baru,Tamalate,Kota Makassar,Perempuan,59 Tahun,ODP - Proses Pengawasan
-5902,Lagego,Burau,Kabupaten Luwu Timur,Perempuan,22 Tahun,ODP - Proses Pengawasan
-5903,Maliwowo,Angkona,Kabupaten Luwu Timur,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
-5904,Lampenai,Wotu,Kabupaten Luwu Timur,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
-5905,Baruga,Towuti,Kabupaten Luwu Timur,Perempuan,17 Tahun,ODP - Proses Pengawasan
-5906,Langkea Raya,Towuti,Kabupaten Luwu Timur,Perempuan,17 Tahun,ODP - Proses Pengawasan
-5907,Tamalabba,Ujung Tanah,Kota Makassar,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-5908,Puty,Bua,Kabupaten Luwu,Perempuan,25 Tahun,ODP - Proses Pengawasan
-5909,Baji Mappakasunggu,Mamajang,Kota Makassar,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
-5910,Balang Baru,Tamalate,Kota Makassar,Perempuan,43 Tahun,ODP - Proses Pengawasan
-5911,Maliwowo,Angkona,Kabupaten Luwu Timur,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-5912,Juppandang,Enrekang,Kabupaten Enrekang,Perempuan,60 Tahun,ODP - Proses Pengawasan
-5913,Mappasaile,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,52 Tahun,ODP - Proses Pengawasan
-5914,Mappasaile,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,51 Tahun,ODP - Proses Pengawasan
-5915,Tellumpanuae,Mallawa,Kabupaten Maros,-,29 Tahun,ODP - Proses Pengawasan
-5916,Masale,Panakkukang,Kota Makassar,Perempuan,44 Tahun,ODP - Proses Pengawasan
-5917,Hasanuddin,Mandai,Kabupaten Maros,Perempuan,19 Tahun,ODP - Proses Pengawasan
-5918,Alatengae,Bantimurung,Kabupaten Maros,Perempuan,1 Tahun,ODP - Proses Pengawasan
-5919,Mattirowalie,Kindang,Kabupaten Bulukumba,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-5920,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
-5921,Antang,Manggala,Kota Makassar,Perempuan,51 Tahun,ODP - Proses Pengawasan
-5922,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
-5923,Bunga Eja Beru,Tallo,Kota Makassar,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
-5924,Bara-Baraya Timur,Makassar,Kota Makassar,Laki-Laki,64 Tahun,ODP - Proses Pengawasan
-5925,Tallo,Tallo,Kota Makassar,Perempuan,21 Tahun,ODP - Proses Pengawasan
-5926,Pannampu,Tallo,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
-5927,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
+5737,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,78 Tahun,ODP - Proses Pengawasan
+5738,Sangiasseri,Sinjai Selatan,Kabupaten Sinjai,Perempuan,28 Tahun,ODP - Proses Pengawasan
+5739,Polejiwa,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+5740,Anrihua,Kindang,Kabupaten Bulukumba,Laki-Laki,51 Tahun,ODP - Selesai Pengawasan
+5741,Manarang,Mattiro Bulu,Kabupaten Pinrang,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
+5742,Manarang,Mattiro Bulu,Kabupaten Pinrang,Perempuan,34 Tahun,ODP - Proses Pengawasan
+5743,Sabbamparu,Wara Utara,Kota Palopo,Perempuan,21 Tahun,ODP - Proses Pengawasan
+5744,Mattirowalie,Kindang,Kabupaten Bulukumba,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+5745,Maccini Baji,Lau,Kabupaten Maros,Perempuan,224 Tahun,ODP - Selesai Pengawasan
+5746,Lembanna,Bonto Bahari,Kabupaten Bulukumba,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
+5747,Kalabbirang,Bantimurung,Kabupaten Maros,Laki-Laki,14 Tahun,ODP - Proses Pengawasan
+5748,-,Sabbang,Kabupaten Luwu Utara,Perempuan,17 Tahun,ODP - Selesai Pengawasan
+5749,Lette,Mariso,Kota Makassar,Laki-Laki,62 Tahun,ODP - Proses Pengawasan
+5750,Mangasa,Tamalate,Kota Makassar,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
+5751,Baraya,Bontoala,Kota Makassar,Laki-Laki,7 Tahun,ODP - Proses Pengawasan
+5752,Tabaringan,Ujung Tanah,Kota Makassar,Perempuan,11 Tahun,ODP - Selesai Pengawasan
+5753,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+5754,-,-,Kota Makassar,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+5755,Maccini Sombala,Tamalate,Kota Makassar,Laki-Laki,73 Tahun,ODP - Proses Pengawasan
+5756,Pandang Pandang,Somba Opu,Kabupaten Gowa,Perempuan,28 Tahun,ODP - Proses Pengawasan
+5757,Pandang Pandang,Somba Opu,Kabupaten Gowa,Perempuan,59 Tahun,ODP - Proses Pengawasan
+5758,Dandang,Sabbang,Kabupaten Luwu Utara,Perempuan,19 Tahun,ODP - Proses Pengawasan
+5759,Radda,Baebunta,Kabupaten Luwu Utara,Perempuan,33 Tahun,ODP - Proses Pengawasan
+5760,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,15 Tahun,ODP - Proses Pengawasan
+5761,Baji Mangngai,Mandai,Kabupaten Maros,Laki-Laki,70 Tahun,ODP - Proses Pengawasan
+5762,Baji Mangngai,Mandai,Kabupaten Maros,Laki-Laki,-,ODP - Proses Pengawasan
+5763,Baji Mangngai,Mandai,Kabupaten Maros,Perempuan,29 Tahun,ODP - Proses Pengawasan
+5764,Kambiolangi,Alla,Kabupaten Enrekang,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
+5765,Bangkala,Manggala,Kota Makassar,Perempuan,47 Tahun,ODP - Proses Pengawasan
+5766,Tabaringan,Ujung Tanah,Kota Makassar,Perempuan,50 Tahun,ODP - Selesai Pengawasan
+5767,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
+5768,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+5769,Antang,Manggala,Kota Makassar,Laki-Laki,64 Tahun,ODP - Proses Pengawasan
+5770,-,-,Kota Makassar,Laki-Laki,50 Tahun,ODP - Proses Pengawasan
+5771,-,-,Kota Makassar,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
+5772,Antang,Manggala,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+5773,Antang,Manggala,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
+5774,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+5775,Penrang,Watang Sawitto,Kabupaten Pinrang,Perempuan,23 Tahun,ODP - Selesai Pengawasan
+5776,Penrang,Watang Sawitto,Kabupaten Pinrang,Perempuan,31 Tahun,ODP - Selesai Pengawasan
+5777,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
+5778,Purna Karya,Tanralili,Kabupaten Maros,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
+5779,Kindang,Kindang,Kabupaten Bulukumba,Perempuan,8 Tahun,ODP - Selesai Pengawasan
+5780,Kindang,Kindang,Kabupaten Bulukumba,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
+5781,Patani,Mappakasunggu,Kabupaten Takalar,Laki-Laki,70 Tahun,ODP - Proses Pengawasan
+5782,Antang,Manggala,Kota Makassar,Perempuan,22 Tahun,ODP - Proses Pengawasan
+5783,Tabaringan,Ujung Tanah,Kota Makassar,Perempuan,74 Tahun,ODP - Selesai Pengawasan
+5784,Tamalanrea Indah,Tamalanrea,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
+5785,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+5786,Mattiro Kanja,Liukang Tupabbiring Utara,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
+5787,Batua,Manggala,Kota Makassar,Perempuan,30 Tahun,ODP - Proses Pengawasan
+5788,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,82 Tahun,ODP - Proses Pengawasan
+5789,Sudirman,Tanralili,Kabupaten Maros,Perempuan,1 Tahun,ODP - Proses Pengawasan
+5790,Mata Allo,Alla,Kabupaten Enrekang,Perempuan,24 Tahun,ODP - Proses Pengawasan
+5791,Massaile,Tellu Limpoe,Kabupaten Sinjai,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+5792,Latuppa,Mungkajang,Kota Palopo,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
+5793,Antang,Manggala,Kota Makassar,Laki-Laki,64 Tahun,ODP - Proses Pengawasan
+5794,Antang,Manggala,Kota Makassar,Perempuan,22 Tahun,ODP - Proses Pengawasan
+5795,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+5796,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
+5797,Tamalanrea Indah,Tamalanrea,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
+5798,Bontoala Tua,Bontoala,Kota Makassar,Laki-Laki,10 Tahun,ODP - Proses Pengawasan
+5799,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,30 Tahun,ODP - Proses Pengawasan
+5800,Batua,Manggala,Kota Makassar,Perempuan,27 Tahun,ODP - Proses Pengawasan
+5801,Marumpa,Marusu,Kabupaten Maros,Perempuan,55 Tahun,ODP - Proses Pengawasan
+5802,Hasanuddin,Mandai,Kabupaten Maros,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+5803,Baji Mangngai,Mandai,Kabupaten Maros,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
+5804,Jenetaesa,Simbang,Kabupaten Maros,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
+5805,Jenetaesa,Simbang,Kabupaten Maros,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
+5806,Gunung Sari,Rappocini,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
+5807,Batua,Manggala,Kota Makassar,Perempuan,27 Tahun,ODP - Proses Pengawasan
+5808,Batua,Manggala,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
+5809,Manggala,Manggala,Kota Makassar,Perempuan,28 Tahun,ODP - Proses Pengawasan
+5810,Kassi-Kassi,Rappocini,Kota Makassar,Perempuan,26 Tahun,ODP - Proses Pengawasan
+5811,Tonasa,Balocci,Kabupaten Pangkajene Dan Kepulauan,Perempuan,40 Tahun,ODP - Proses Pengawasan
+5812,Sudiang Raya,Biring Kanaya,Kota Makassar,Perempuan,33 Tahun,ODP - Proses Pengawasan
+5813,Saga,Bajo,Kabupaten Luwu,Perempuan,36 Tahun,ODP - Proses Pengawasan
+5814,Nuha,Nuha,Kabupaten Luwu Timur,Perempuan,16 Tahun,ODP - Proses Pengawasan
+5815,Kapasa,Tamalanrea,Kota Makassar,Perempuan,2 Tahun,ODP - Proses Pengawasan
+5816,Antang,Manggala,Kota Makassar,Perempuan,22 Tahun,ODP - Proses Pengawasan
+5817,Rappojawa,Tallo,Kota Makassar,Perempuan,81 Tahun,ODP - Proses Pengawasan
+5818,Kapasa,Tamalanrea,Kota Makassar,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
+5819,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+5820,Tanahloe,Gantarangkeke,Kabupaten Bantaeng,Perempuan,31 Tahun,ODP - Proses Pengawasan
+5821,Maricaya,Makassar,Kota Makassar,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
+5822,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,34 Tahun,ODP - Proses Pengawasan
+5823,Bontosunggu,Bajeng,Kabupaten Gowa,Perempuan,50 Tahun,ODP - Proses Pengawasan
+5824,Bontosunggu,Bajeng,Kabupaten Gowa,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+5825,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+5826,Balandai,Bara,Kota Palopo,Perempuan,43 Tahun,ODP - Proses Pengawasan
+5827,Bonto Sunggu,Galesong Utara,Kabupaten Takalar,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
+5828,Anrong Appaka,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
+5829,Pattallassang,Pattallassang,Kabupaten Takalar,Perempuan,37 Tahun,ODP - Proses Pengawasan
+5830,Pattallassang,Pattallassang,Kabupaten Takalar,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
+5831,Sibatua,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+5832,Saohiring,Sinjai Tengah,Kabupaten Sinjai,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
+5833,Erabaru,Tellu Limpoe,Kabupaten Sinjai,Perempuan,20 Tahun,ODP - Proses Pengawasan
+5834,Sanjai,Sinjai Timur,Kabupaten Sinjai,Perempuan,-,ODP - Proses Pengawasan
+5835,Rappang,Panca Rijang,Kabupaten Sidenreng Rappang,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+5836,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,9 Tahun,ODP - Proses Pengawasan
+5837,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,8 Tahun,ODP - Proses Pengawasan
+5838,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
+5839,Alatengae,Bantimurung,Kabupaten Maros,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+5840,Anrihua,Kindang,Kabupaten Bulukumba,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
+5841,Lompoe,Bacukiki,Kota Parepare,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
+5842,Batua,Manggala,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
+5843,Masale,Panakkukang,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
+5844,Pattunuang,Wajo,Kota Makassar,Perempuan,45 Tahun,ODP - Proses Pengawasan
+5845,Antang,Manggala,Kota Makassar,Laki-Laki,53 Tahun,ODP - Proses Pengawasan
+5846,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
+5847,Tamalabba,Ujung Tanah,Kota Makassar,Perempuan,45 Tahun,ODP - Selesai Pengawasan
+5848,Tamalabba,Ujung Tanah,Kota Makassar,Perempuan,17 Tahun,ODP - Selesai Pengawasan
+5849,Masale,Panakkukang,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
+5850,Batua,Manggala,Kota Makassar,Perempuan,32 Tahun,ODP - Proses Pengawasan
+5851,Borong,Manggala,Kota Makassar,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
+5852,Langa,Mattirosompe,Kabupaten Pinrang,Perempuan,335 Tahun,ODP - Proses Pengawasan
+5853,Tugondeng,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+5854,Tugondeng,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,46 Tahun,ODP - Proses Pengawasan
+5855,Salulemo,Baebunta,Kabupaten Luwu Utara,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+5856,Tugondeng,Hero Lange-Lange,Kabupaten Bulukumba,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+5857,Anrihua,Kindang,Kabupaten Bulukumba,Laki-Laki,16 Tahun,ODP - Proses Pengawasan
+5858,Lompoe,Bacukiki,Kota Parepare,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
+5859,Langa,Mattirosompe,Kabupaten Pinrang,Perempuan,35 Tahun,ODP - Proses Pengawasan
+5860,Jenetaesa,Simbang,Kabupaten Maros,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
+5861,Jenetaesa,Simbang,Kabupaten Maros,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
+5862,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
+5863,Maccini Baji,Lau,Kabupaten Maros,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
+5864,Baji Pamai,Cenrana,Kabupaten Maros,Laki-Laki,69 Tahun,ODP - Proses Pengawasan
+5865,Kassi,Balocci,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+5866,Appatanah,Bontosikuyu,Kabupaten Kepulauan Selayar,-,51 Tahun,ODP - Proses Pengawasan
+5867,Polejiwa,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+5868,Dandang,Sabbang,Kabupaten Luwu Utara,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+5869,Sukamaju,Sukamaju,Kabupaten Luwu Utara,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
+5870,Waetuo,Malangke Barat,Kabupaten Luwu Utara,Perempuan,21 Tahun,ODP - Proses Pengawasan
+5871,Doping,Penrang,Kabupaten Wajo,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+5872,Tanah Jaya,Kajang,Kabupaten Bulukumba,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+5873,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
+5874,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,63 Tahun,ODP - Proses Pengawasan
+5875,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
+5876,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
+5877,Antang,Manggala,Kota Makassar,Perempuan,23 Tahun,ODP - Proses Pengawasan
+5878,Bonto Biraeng,Mamajang,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
+5879,Suwangga,Tallo,Kota Makassar,Perempuan,15 Tahun,ODP - Proses Pengawasan
+5880,Pannampu,Tallo,Kota Makassar,Perempuan,56 Tahun,ODP - Proses Pengawasan
+5881,Bara-Baraya,Makassar,Kota Makassar,Perempuan,3 Tahun,ODP - Proses Pengawasan
+5882,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
+5883,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,66 Tahun,ODP - Proses Pengawasan
+5884,Karampuang,Panakkukang,Kota Makassar,Perempuan,15 Tahun,ODP - Proses Pengawasan
+5885,Sambung Jawa,Mamajang,Kota Makassar,Perempuan,27 Tahun,ODP - Proses Pengawasan
+5886,Maradekaya,Makassar,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+5887,Mamajang Luar,Mamajang,Kota Makassar,Perempuan,45 Tahun,ODP - Proses Pengawasan
+5888,Jongaya,Tamalate,Kota Makassar,Perempuan,30 Tahun,ODP - Proses Pengawasan
+5889,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+5890,Pabatang,Mamajang,Kota Makassar,Perempuan,23 Tahun,ODP - Proses Pengawasan
+5891,Panambungan,Mariso,Kota Makassar,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+5892,Baruga,Towuti,Kabupaten Luwu Timur,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
+5893,Rante Angin,Towuti,Kabupaten Luwu Timur,Perempuan,16 Tahun,ODP - Proses Pengawasan
+5894,Timampu,Towuti,Kabupaten Luwu Timur,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
+5895,Bantilang,Towuti,Kabupaten Luwu Timur,Perempuan,17 Tahun,ODP - Proses Pengawasan
+5896,Timampu,Towuti,Kabupaten Luwu Timur,Perempuan,19 Tahun,ODP - Proses Pengawasan
+5897,Bonto Lanra,Galesong Utara,Kabupaten Takalar,Laki-Laki,74 Tahun,ODP - Proses Pengawasan
+5898,-,-,Kota Makassar,Perempuan,53 Tahun,ODP - Proses Pengawasan
+5899,Mangasa,Tamalate,Kota Makassar,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+5900,Balang Baru,Tamalate,Kota Makassar,Perempuan,59 Tahun,ODP - Proses Pengawasan
+5901,Lagego,Burau,Kabupaten Luwu Timur,Perempuan,22 Tahun,ODP - Proses Pengawasan
+5902,Maliwowo,Angkona,Kabupaten Luwu Timur,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
+5903,Lampenai,Wotu,Kabupaten Luwu Timur,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
+5904,Baruga,Towuti,Kabupaten Luwu Timur,Perempuan,17 Tahun,ODP - Proses Pengawasan
+5905,Langkea Raya,Towuti,Kabupaten Luwu Timur,Perempuan,17 Tahun,ODP - Proses Pengawasan
+5906,Tamalabba,Ujung Tanah,Kota Makassar,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+5907,Puty,Bua,Kabupaten Luwu,Perempuan,25 Tahun,ODP - Proses Pengawasan
+5908,Baji Mappakasunggu,Mamajang,Kota Makassar,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
+5909,Balang Baru,Tamalate,Kota Makassar,Perempuan,43 Tahun,ODP - Proses Pengawasan
+5910,Maliwowo,Angkona,Kabupaten Luwu Timur,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+5911,Juppandang,Enrekang,Kabupaten Enrekang,Perempuan,60 Tahun,ODP - Proses Pengawasan
+5912,Mappasaile,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,52 Tahun,ODP - Proses Pengawasan
+5913,Mappasaile,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,51 Tahun,ODP - Proses Pengawasan
+5914,Tellumpanuae,Mallawa,Kabupaten Maros,-,29 Tahun,ODP - Proses Pengawasan
+5915,Masale,Panakkukang,Kota Makassar,Perempuan,44 Tahun,ODP - Proses Pengawasan
+5916,Hasanuddin,Mandai,Kabupaten Maros,Perempuan,19 Tahun,ODP - Proses Pengawasan
+5917,Alatengae,Bantimurung,Kabupaten Maros,Perempuan,1 Tahun,ODP - Proses Pengawasan
+5918,Mattirowalie,Kindang,Kabupaten Bulukumba,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+5919,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
+5920,Antang,Manggala,Kota Makassar,Perempuan,51 Tahun,ODP - Proses Pengawasan
+5921,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
+5922,Bunga Eja Beru,Tallo,Kota Makassar,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
+5923,Bara-Baraya Timur,Makassar,Kota Makassar,Laki-Laki,64 Tahun,ODP - Proses Pengawasan
+5924,Tallo,Tallo,Kota Makassar,Perempuan,21 Tahun,ODP - Proses Pengawasan
+5925,Pannampu,Tallo,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
+5926,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
