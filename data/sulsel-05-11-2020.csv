@@ -147,7 +147,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 146,Allepolea,Lau,Kabupaten Maros,Laki-Laki,53 Tahun,Positif - Sembuh
 147,Tallo,Tallo,Kota Makassar,Laki-Laki,59 Tahun,Positif - Dirawat Pasien Positif
 148,Lariang Bangi,Makassar,Kota Makassar,Perempuan,43 Tahun,Positif - Sembuh
-149,Mangasa,Tamalate,Kota Makassar,Laki-Laki,50 Tahun,Positif - Dirawat Pasien Positif
+149,Mangasa,Tamalate,Kota Makassar,Laki-Laki,50 Tahun,Positif - Sembuh
 150,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,44 Tahun,Positif - Sembuh
 151,Bangkala,Manggala,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
 152,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,40 Tahun,Positif - Sembuh
@@ -267,7 +267,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 266,-,-,Kota Makassar,Laki-Laki,34 Tahun,Positif - Sembuh
 267,-,-,Kota Makassar,Laki-Laki,53 Tahun,Positif - Sembuh
 268,-,-,Kota Makassar,Laki-Laki,45 Tahun,Positif - Dirawat Pasien Positif
-269,-,-,Kota Makassar,Laki-Laki,49 Tahun,Positif - Dirawat Pasien Positif
+269,-,-,Kota Makassar,Laki-Laki,49 Tahun,Positif - Sembuh
 270,-,-,Kota Makassar,Laki-Laki,30 Tahun,Positif - Sembuh
 271,-,-,Kota Makassar,Laki-Laki,48 Tahun,Positif - Dirawat Pasien Positif
 272,-,-,Kota Makassar,Laki-Laki,-,Positif - Sembuh
@@ -284,15 +284,15 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 283,-,-,Kota Makassar,Laki-Laki,56 Tahun,Positif - Sembuh
 284,-,-,Kota Makassar,Laki-Laki,23 Tahun,Positif - Sembuh
 285,-,-,Kota Makassar,Laki-Laki,37 Tahun,Positif - Sembuh
-286,-,-,Kota Makassar,Laki-Laki,48 Tahun,Positif - Dirawat Pasien Positif
+286,-,-,Kota Makassar,Laki-Laki,48 Tahun,Positif - Sembuh
 287,-,-,Kota Makassar,Laki-Laki,26 Tahun,Positif - Dirawat Pasien Positif
 288,-,-,Kota Makassar,Laki-Laki,30 Tahun,Positif - Dirawat Pasien Positif
 289,-,-,Kota Makassar,Laki-Laki,54 Tahun,Positif - Dirawat Pasien Positif
-290,-,-,Kota Makassar,Laki-Laki,22 Tahun,Positif - Dirawat Pasien Positif
+290,-,-,Kota Makassar,Laki-Laki,22 Tahun,Positif - Sembuh
 291,-,-,Kota Makassar,Laki-Laki,19 Tahun,Positif - Sembuh
 292,-,-,Kota Makassar,Laki-Laki,34 Tahun,Positif - Sembuh
 293,-,-,Kota Makassar,Laki-Laki,21 Tahun,Positif - Sembuh
-294,-,-,Kota Makassar,Laki-Laki,48 Tahun,Positif - Dirawat Pasien Positif
+294,-,-,Kota Makassar,Laki-Laki,48 Tahun,Positif - Sembuh
 295,-,-,Kota Makassar,Laki-Laki,39 Tahun,Positif - Sembuh
 296,-,-,Kota Makassar,Laki-Laki,61 Tahun,Positif - Sembuh
 297,-,-,Kota Makassar,Laki-Laki,30 Tahun,Positif - Dirawat Pasien Positif
@@ -309,7 +309,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 308,-,-,Kota Makassar,Laki-Laki,47 Tahun,Positif - Sembuh
 309,-,-,Kota Makassar,Laki-Laki,35 Tahun,Positif - Sembuh
 310,-,-,Kota Makassar,Laki-Laki,39 Tahun,Positif - Sembuh
-311,-,-,Kota Makassar,Laki-Laki,55 Tahun,Positif - Dirawat Pasien Positif
+311,-,-,Kota Makassar,Laki-Laki,55 Tahun,Positif - Sembuh
 312,-,-,Kota Makassar,Laki-Laki,39 Tahun,Positif - Sembuh
 313,-,-,Kota Makassar,Laki-Laki,32 Tahun,Positif - Sembuh
 314,-,-,Kota Makassar,Laki-Laki,43 Tahun,Positif - Dirawat Pasien Positif
@@ -323,7 +323,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 322,-,-,Kota Makassar,Laki-Laki,29 Tahun,Positif - Dirawat Pasien Positif
 323,-,-,Kota Makassar,Laki-Laki,40 Tahun,Positif - Sembuh
 324,-,-,Kota Makassar,Laki-Laki,40 Tahun,Positif - Dirawat Pasien Positif
-325,-,-,Kota Makassar,Laki-Laki,53 Tahun,Positif - Dirawat Pasien Positif
+325,-,-,Kota Makassar,Laki-Laki,53 Tahun,Positif - Sembuh
 326,-,-,Kota Makassar,Laki-Laki,51 Tahun,Positif - Sembuh
 327,-,-,Kota Makassar,Laki-Laki,44 Tahun,Positif - Dirawat Pasien Positif
 328,-,-,Kota Makassar,Laki-Laki,54 Tahun,Positif - Sembuh
@@ -335,7 +335,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 334,-,-,Kota Makassar,Laki-Laki,54 Tahun,Positif - Sembuh
 335,-,-,Kota Makassar,Laki-Laki,51 Tahun,Positif - Sembuh
 336,-,-,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
-337,-,-,Kota Makassar,Laki-Laki,53 Tahun,Positif - Dirawat Pasien Positif
+337,-,-,Kota Makassar,Laki-Laki,53 Tahun,Positif - Sembuh
 338,-,-,Kota Makassar,Laki-Laki,47 Tahun,Positif - Sembuh
 339,-,-,Kota Makassar,Laki-Laki,25 Tahun,Positif - Sembuh
 340,-,-,Kota Makassar,Laki-Laki,54 Tahun,Positif - Dirawat Pasien Positif
