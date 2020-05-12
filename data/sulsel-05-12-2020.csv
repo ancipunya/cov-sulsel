@@ -77,7 +77,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 76,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,5 Tahun,Positif - Sembuh
 77,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Sembuh
 78,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,Positif - Sembuh
-79,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,70 Tahun,Positif - Dirawat Pasien Positif
+79,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,70 Tahun,Positif - Sembuh
 80,Lakessi,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,29 Tahun,Positif - Sembuh
 81,Buakana,Rappocini,Kota Makassar,Laki-Laki,43 Tahun,Positif - Sembuh
 82,Balang Baru,Tamalate,Kota Makassar,Perempuan,60 Tahun,Positif - Sembuh
@@ -149,9 +149,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 148,Lariang Bangi,Makassar,Kota Makassar,Perempuan,43 Tahun,Positif - Sembuh
 149,Mangasa,Tamalate,Kota Makassar,Laki-Laki,50 Tahun,Positif - Sembuh
 150,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,44 Tahun,Positif - Sembuh
-151,Bangkala,Manggala,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
+151,Bangkala,Manggala,Kota Makassar,Perempuan,50 Tahun,Positif - Sembuh
 152,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,40 Tahun,Positif - Sembuh
-153,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,49 Tahun,Positif - Dirawat Pasien Positif
+153,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,49 Tahun,Positif - Sembuh
 154,Parang Tambung,Tamalate,Kota Makassar,Perempuan,33 Tahun,Positif - Dirawat Pasien Positif
 155,Adatongeng,Turikale,Kabupaten Maros,Laki-Laki,18 Tahun,Positif - Dirawat Pasien Positif
 156,Adatongeng,Turikale,Kabupaten Maros,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
@@ -236,9 +236,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 235,Pannampu,Tallo,Kota Makassar,Perempuan,62 Tahun,Positif - Sembuh
 236,Karuwisi Utara,Panakkukang,Kota Makassar,Perempuan,34 Tahun,Positif - Sembuh
 237,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,56 Tahun,Positif - Dirawat Pasien Positif
-238,Tamarunang,Somba Opu,Kabupaten Gowa,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
+238,Tamarunang,Somba Opu,Kabupaten Gowa,Laki-Laki,37 Tahun,Positif - Sembuh
 239,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,42 Tahun,Positif - Dirawat Pasien Positif
-240,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,41 Tahun,Positif - Dirawat Pasien Positif
+240,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,41 Tahun,Positif - Sembuh
 241,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,47 Tahun,Positif - Sembuh
 242,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,54 Tahun,Positif - Dirawat Pasien Positif
 243,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
@@ -346,7 +346,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 345,-,-,Kota Makassar,Laki-Laki,18 Tahun,Positif - Dirawat Pasien Positif
 346,-,-,Kota Makassar,Laki-Laki,-,Positif - Sembuh
 347,Lembo,Tallo,Kota Makassar,Laki-Laki,41 Tahun,Positif - Dirawat Pasien Positif
-348,Baru,Ujung Pandang,Kota Makassar,Perempuan,41 Tahun,Positif - Dirawat Pasien Positif
+348,Baru,Ujung Pandang,Kota Makassar,Perempuan,41 Tahun,Positif - Sembuh
 349,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,31 Tahun,Positif - Dirawat Pasien Positif
 350,Biring Ere,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Perempuan,44 Tahun,Positif - Dirawat Pasien Positif
 351,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,60 Tahun,Positif - Dirawat Pasien Positif
@@ -561,7 +561,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 560,Bubun Lamba,Anggeraja,Kabupaten Enrekang,Perempuan,18 Tahun,Positif - Dirawat Pasien Positif
 561,Jongaya,Tamalate,Kota Makassar,Perempuan,31 Tahun,Positif - Dirawat Pasien Positif
 562,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,26 Tahun,Positif - Dirawat Pasien Positif
-563,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
+563,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,50 Tahun,Positif - Sembuh
 564,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,28 Tahun,Positif - Dirawat Pasien Positif
 565,Masale,Panakkukang,Kota Makassar,Perempuan,24 Tahun,Positif - Dirawat Pasien Positif
 566,Panambungan,Mariso,Kota Makassar,Laki-Laki,20 Tahun,Positif - Dirawat Pasien Positif
