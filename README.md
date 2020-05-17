@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 17-05-2020 10:31:39
+## Data diupdate pada : 17-05-2020 11:31:38
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -26,7 +26,7 @@
 |12|Kabupaten Luwu|62|3|20|85|https://anci.web.id/cor/kabupaten_luwu|
 |13|Kabupaten Luwu Timur|403|33|27|463|https://anci.web.id/cor/kabupaten_luwu_timur|
 |14|Kabupaten Luwu Utara|179|30|30|239|https://anci.web.id/cor/kabupaten_luwu_utara|
-|15|Kabupaten Maros|188|30|48|266|https://anci.web.id/cor/kabupaten_maros|
+|15|Kabupaten Maros|187|30|48|265|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|112|19|16|147|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
 |17|Kabupaten Pinrang|155|18|5|178|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|80|32|26|138|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
@@ -36,16 +36,16 @@
 |22|Kabupaten Tana Toraja|146|4|3|153|https://anci.web.id/cor/kabupaten_tana_toraja|
 |23|Kabupaten Toraja Utara|160|2|0|162|https://anci.web.id/cor/kabupaten_toraja_utara|
 |24|Kabupaten Wajo|60|9|1|70|https://anci.web.id/cor/kabupaten_wajo|
-|25|Jumlah Sulsel|4638|1386|917|6941|https://anci.web.id/cor/jumlah_sulsel|
+|25|Jumlah Sulsel|4637|1386|917|6940|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 935 | 3703 | 0 | 4638 | https://anci.web.id/cor/odp_detail.html |
+| ODP | 934 | 3703 | 0 | 4637 | https://anci.web.id/cor/odp_detail.html |
 | PDP | 322 | 943 | 122 | 1386 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 552 | 313 | 52 | 917 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 1809 | 4959 | 174 | 6941 | https://anci.web.id/cor/jumlah_sulsel/ |
+| JUMLAH | 1808 | 4959 | 174 | 6940 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
