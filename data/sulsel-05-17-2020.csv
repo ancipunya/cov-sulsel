@@ -6903,39 +6903,38 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6902,Sambueja,Simbang,Kabupaten Maros,Laki-Laki,64 Tahun,ODP - Proses Pengawasan
 6903,Sambueja,Simbang,Kabupaten Maros,Perempuan,46 Tahun,ODP - Proses Pengawasan
 6904,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,51 Tahun,ODP - Proses Pengawasan
-6905,Mangasa,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,ODP - Proses Pengawasan
-6906,Garuntungan,Kindang,Kabupaten Bulukumba,Perempuan,52 Tahun,ODP - Proses Pengawasan
-6907,Garuntungan,Kindang,Kabupaten Bulukumba,Perempuan,71 Tahun,ODP - Proses Pengawasan
-6908,Garuntungan,Kindang,Kabupaten Bulukumba,Perempuan,34 Tahun,ODP - Proses Pengawasan
-6909,Batang,Bontotiro,Kabupaten Bulukumba,Perempuan,65 Tahun,ODP - Proses Pengawasan
-6910,Takalar Kota,Mappakasunggu,Kabupaten Takalar,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
-6911,Sanrobone,Sanrobone,Kabupaten Takalar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
-6912,Bentengnge,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
-6913,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-6914,Wiringtasi,Suppa,Kabupaten Pinrang,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-6915,Wiringtasi,Suppa,Kabupaten Pinrang,Perempuan,59 Tahun,ODP - Proses Pengawasan
-6916,Tasiwalie,Suppa,Kabupaten Pinrang,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
-6917,Lunjen,Buntu Batu,Kabupaten Enrekang,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
-6918,Bentengnge,Ujung Bulu,Kabupaten Bulukumba,Perempuan,21 Tahun,ODP - Proses Pengawasan
-6919,Wiringpalennae,Tempe,Kabupaten Wajo,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
-6920,Suwangga,Tallo,Kota Makassar,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
-6921,Suwangga,Tallo,Kota Makassar,Perempuan,26 Tahun,ODP - Proses Pengawasan
-6922,Suwangga,Tallo,Kota Makassar,Perempuan,4 Tahun,ODP - Proses Pengawasan
-6923,Suwangga,Tallo,Kota Makassar,Laki-Laki,5 Tahun,ODP - Proses Pengawasan
-6924,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-6925,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-6926,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
-6927,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
-6928,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,3 Tahun,ODP - Proses Pengawasan
-6929,Bongaya,Tamalate,Kota Makassar,Laki-Laki,58 Tahun,ODP - Proses Pengawasan
-6930,Bongaya,Tamalate,Kota Makassar,Perempuan,63 Tahun,ODP - Proses Pengawasan
-6931,Bongaya,Tamalate,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
-6932,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
-6933,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
-6934,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,37 Tahun,ODP - Proses Pengawasan
-6935,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-6936,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,55 Tahun,ODP - Proses Pengawasan
-6937,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,54 Tahun,ODP - Proses Pengawasan
-6938,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,70 Tahun,ODP - Proses Pengawasan
-6939,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
-6940,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,3 Tahun,ODP - Proses Pengawasan
+6905,Garuntungan,Kindang,Kabupaten Bulukumba,Perempuan,52 Tahun,ODP - Proses Pengawasan
+6906,Garuntungan,Kindang,Kabupaten Bulukumba,Perempuan,71 Tahun,ODP - Proses Pengawasan
+6907,Garuntungan,Kindang,Kabupaten Bulukumba,Perempuan,34 Tahun,ODP - Proses Pengawasan
+6908,Batang,Bontotiro,Kabupaten Bulukumba,Perempuan,65 Tahun,ODP - Proses Pengawasan
+6909,Takalar Kota,Mappakasunggu,Kabupaten Takalar,Laki-Laki,47 Tahun,ODP - Proses Pengawasan
+6910,Sanrobone,Sanrobone,Kabupaten Takalar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
+6911,Bentengnge,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
+6912,Penrang,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+6913,Wiringtasi,Suppa,Kabupaten Pinrang,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+6914,Wiringtasi,Suppa,Kabupaten Pinrang,Perempuan,59 Tahun,ODP - Proses Pengawasan
+6915,Tasiwalie,Suppa,Kabupaten Pinrang,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
+6916,Lunjen,Buntu Batu,Kabupaten Enrekang,Laki-Laki,19 Tahun,ODP - Proses Pengawasan
+6917,Bentengnge,Ujung Bulu,Kabupaten Bulukumba,Perempuan,21 Tahun,ODP - Proses Pengawasan
+6918,Wiringpalennae,Tempe,Kabupaten Wajo,Laki-Laki,18 Tahun,ODP - Proses Pengawasan
+6919,Suwangga,Tallo,Kota Makassar,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+6920,Suwangga,Tallo,Kota Makassar,Perempuan,26 Tahun,ODP - Proses Pengawasan
+6921,Suwangga,Tallo,Kota Makassar,Perempuan,4 Tahun,ODP - Proses Pengawasan
+6922,Suwangga,Tallo,Kota Makassar,Laki-Laki,5 Tahun,ODP - Proses Pengawasan
+6923,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+6924,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
+6925,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
+6926,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
+6927,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,3 Tahun,ODP - Proses Pengawasan
+6928,Bongaya,Tamalate,Kota Makassar,Laki-Laki,58 Tahun,ODP - Proses Pengawasan
+6929,Bongaya,Tamalate,Kota Makassar,Perempuan,63 Tahun,ODP - Proses Pengawasan
+6930,Bongaya,Tamalate,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
+6931,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
+6932,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,25 Tahun,ODP - Proses Pengawasan
+6933,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,37 Tahun,ODP - Proses Pengawasan
+6934,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+6935,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,55 Tahun,ODP - Proses Pengawasan
+6936,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,54 Tahun,ODP - Proses Pengawasan
+6937,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,70 Tahun,ODP - Proses Pengawasan
+6938,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
+6939,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,3 Tahun,ODP - Proses Pengawasan
