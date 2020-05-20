@@ -593,7 +593,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 592,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
 593,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,58 Tahun,Positif - Dirawat Pasien Positif
 594,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
-595,Pabatang,Mamajang,Kota Makassar,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
+595,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
 596,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
 597,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
 598,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,44 Tahun,Positif - Sembuh
@@ -668,7 +668,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 667,Binturu,Larompong,Kabupaten Luwu,Laki-Laki,68 Tahun,Positif - Dirawat Pasien Positif
 668,Batu-Batu,Mario Riawa,Kabupaten Soppeng,Laki-Laki,18 Tahun,Positif - Dirawat Pasien Positif
 669,-,-,Kota Makassar,Perempuan,36 Tahun,Positif - Dirawat Pasien Positif
-670,P A I,Biring Kanaya,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
+670,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
 671,P A I,Biring Kanaya,Kota Makassar,Perempuan,79 Tahun,Positif - Dirawat Pasien Positif
 672,P A I,Biring Kanaya,Kota Makassar,Laki-Laki,78 Tahun,Positif - Dirawat Pasien Positif
 673,Batua,Manggala,Kota Makassar,Perempuan,22 Tahun,Positif - Dirawat Pasien Positif
@@ -795,7 +795,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 794,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,30 Tahun,Positif - Dirawat Pasien Positif
 795,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,35 Tahun,Positif - Dirawat Pasien Positif
 796,Ujung Tanah,Ujung Tanah,Kota Makassar,Laki-Laki,20 Tahun,Positif - Dirawat Pasien Positif
-797,Ujung Tanah,Ujung Tanah,Kota Makassar,Laki-Laki,19 Tahun,Positif - Dirawat Pasien Positif
+797,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,19 Tahun,Positif - Dirawat Pasien Positif
 798,Ujung Tanah,Ujung Tanah,Kota Makassar,Laki-Laki,21 Tahun,Positif - Dirawat Pasien Positif
 799,Ujung Tanah,Ujung Tanah,Kota Makassar,Laki-Laki,20 Tahun,Positif - Dirawat Pasien Positif
 800,Ujung Tanah,Ujung Tanah,Kota Makassar,Laki-Laki,18 Tahun,Positif - Dirawat Pasien Positif
@@ -6356,7 +6356,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6355,Kahaya,Kindang,Kabupaten Bulukumba,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
 6356,Kindang,Kindang,Kabupaten Bulukumba,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
 6357,Baebunta,Baebunta,Kabupaten Luwu Utara,Perempuan,13 Tahun,ODP - Selesai Pengawasan
-6358,Penrang,Watang Sawitto,Kabupaten Pinrang,Perempuan,27 Tahun,ODP - Selesai Pengawasan
+6358,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,17 Tahun,ODP - Selesai Pengawasan
 6359,Lembang Buntu Labo,Sanggalangi,Kabupaten Toraja Utara,Perempuan,58 Tahun,ODP - Selesai Pengawasan
 6360,Lembang Tondon Matallo,Tondon,Kabupaten Toraja Utara,Laki-Laki,41 Tahun,ODP - Selesai Pengawasan
 6361,Lembang Tondon Matallo,Tondon,Kabupaten Toraja Utara,Perempuan,22 Tahun,ODP - Selesai Pengawasan
@@ -6505,7 +6505,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6504,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,41 Tahun,ODP - Selesai Pengawasan
 6505,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,25 Tahun,ODP - Selesai Pengawasan
 6506,Mangasa,Tamalate,Kota Makassar,Perempuan,15 Tahun,ODP - Selesai Pengawasan
-6507,Padaelo,Mattiro Bulu,Kabupaten Pinrang,Perempuan,39 Tahun,ODP - Selesai Pengawasan
+6507,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,62 Tahun,ODP - Selesai Pengawasan
 6508,-,-,Kota Makassar,Perempuan,52 Tahun,ODP - Selesai Pengawasan
 6509,Maccini Sombala,Tamalate,Kota Makassar,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
 6510,Batu Kede,Masalle,Kabupaten Enrekang,Perempuan,20 Tahun,ODP - Selesai Pengawasan
@@ -7295,7 +7295,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7294,Salo,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,6 Tahun,ODP - Selesai Pengawasan
 7295,Salo,Watang Sawitto,Kabupaten Pinrang,Perempuan,38 Tahun,ODP - Proses Pengawasan
 7296,Salo,Watang Sawitto,Kabupaten Pinrang,Perempuan,35 Tahun,ODP - Proses Pengawasan
-7297,Ujung Bulu,Ujung,Kota Parepare,Perempuan,3 Tahun,ODP - Proses Pengawasan
+7297,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,52 Tahun,ODP - Proses Pengawasan
 7298,Salo,Watang Sawitto,Kabupaten Pinrang,Perempuan,38 Tahun,ODP - Proses Pengawasan
 7299,Ujung Bulu,Ujung,Kota Parepare,Perempuan,8 Tahun,ODP - Proses Pengawasan
 7300,Lette,Mariso,Kota Makassar,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
