@@ -2194,7 +2194,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2193,Pacellekang,Pattallassang,Kabupaten Gowa,Perempuan,57 Tahun,PDP - Non Covid-19
 2194,Manjalling,Bajeng Barat,Kabupaten Gowa,Perempuan,27 Tahun,PDP - Non Covid-19
 2195,Bontoala,Pallangga,Kabupaten Gowa,Laki-Laki,-,PDP - Non Covid-19
-2196,Tamarunang,Somba Opu,Kabupaten Gowa,Laki-Laki,49 Tahun,PDP - Non Covid-19
+2196,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,45 Tahun,PDP - Non Covid-19
 2197,Lembang Rindingbatu,Kesu,Kabupaten Toraja Utara,Perempuan,37 Tahun,PDP - Follow Up
 2198,Parang,Mamajang,Kota Makassar,Laki-Laki,46 Tahun,PDP - Non Covid-19
 2199,Bira,Tamalanrea,Kota Makassar,Laki-Laki,4 Tahun,PDP - Non Covid-19
@@ -2458,10 +2458,10 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2457,Sumber Agung,Kalaena,Kabupaten Luwu Timur,Perempuan,31 Tahun,PDP - Follow Up
 2458,Katangka,Somba Opu,Kabupaten Gowa,Perempuan,60 Tahun,PDP - Follow Up
 2459,Balantang,Malili,Kabupaten Luwu Timur,Perempuan,29 Tahun,PDP - Follow Up
-2460,Mariso,Mariso,Kota Makassar,Perempuan,25 Tahun,PDP - Follow Up
+2460,Marobo,Sabbang,Kabupaten Luwu Utara,Perempuan,46 Tahun,PDP - Follow Up
 2461,Parang Tambung,Tamalate,Kota Makassar,Perempuan,56 Tahun,PDP - Follow Up
 2462,Bara-Baraya,Makassar,Kota Makassar,Perempuan,56 Tahun,PDP - Follow Up
-2463,Mangasa,Tamalate,Kota Makassar,Laki-Laki,42 Tahun,PDP - Follow Up
+2463,-,-,Kota Makassar,Laki-Laki,54 Tahun,PDP - Follow Up
 2464,P A I,Biring Kanaya,Kota Makassar,Perempuan,35 Tahun,PDP - Follow Up
 2465,Sambung Jawa,Mamajang,Kota Makassar,Laki-Laki,1 Tahun,PDP - Follow Up
 2466,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,49 Tahun,PDP - Follow Up
@@ -2472,7 +2472,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2471,-,-,Kota Parepare,Perempuan,-,PDP - Follow Up
 2472,Makkawaru,Mattiro Bulu,Kabupaten Pinrang,Perempuan,46 Tahun,PDP - Follow Up
 2473,Pinceng Pute,Ajangale,Kabupaten Bone,Perempuan,56 Tahun,PDP - Follow Up
-2474,Katangka,Somba Opu,Kabupaten Gowa,Laki-Laki,26 Tahun,PDP - Follow Up
+2474,Maricaya Selatan,Mamajang,Kota Makassar,Laki-Laki,18 Tahun,PDP - Follow Up
 2475,Rappojawa,Tallo,Kota Makassar,Perempuan,77 Tahun,PDP - Follow Up
 2476,Mangasa,Tamalate,Kota Makassar,Perempuan,20 Tahun,PDP - Follow Up
 2477,Bulurokeng,Biring Kanaya,Kota Makassar,Laki-Laki,58 Tahun,PDP - Follow Up
@@ -7190,7 +7190,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7189,Lagego,Burau,Kabupaten Luwu Timur,Perempuan,22 Tahun,ODP - Proses Pengawasan
 7190,Kertaraharjo,Tomoni Timur,Kabupaten Luwu Timur,Perempuan,31 Tahun,ODP - Proses Pengawasan
 7191,Bawalipu,Wotu,Kabupaten Luwu Timur,Perempuan,32 Tahun,ODP - Proses Pengawasan
-7192,Rante Mario,Tomoni,Kabupaten Luwu Timur,Perempuan,35 Tahun,ODP - Proses Pengawasan
+7192,-,-,Kota Makassar,Laki-Laki,56 Tahun,ODP - Proses Pengawasan
 7193,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,41 Tahun,ODP - Proses Pengawasan
 7194,Kapasa,Tamalanrea,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
 7195,Bawalipu,Wotu,Kabupaten Luwu Timur,Perempuan,37 Tahun,ODP - Proses Pengawasan
@@ -7200,7 +7200,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7199,Jongaya,Tamalate,Kota Makassar,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
 7200,-,-,Kota Makassar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
 7201,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
-7202,Bawalipu,Wotu,Kabupaten Luwu Timur,Perempuan,29 Tahun,ODP - Proses Pengawasan
+7202,P A I,Biring Kanaya,Kota Makassar,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
 7203,Mandiri,Tomoni,Kabupaten Luwu Timur,Perempuan,29 Tahun,ODP - Proses Pengawasan
 7204,Bawalipu,Wotu,Kabupaten Luwu Timur,Laki-Laki,52 Tahun,ODP - Proses Pengawasan
 7205,Kertaraharjo,Tomoni Timur,Kabupaten Luwu Timur,Perempuan,29 Tahun,ODP - Proses Pengawasan
@@ -7228,7 +7228,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7227,Baji Mappakasunggu,Mamajang,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
 7228,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
 7229,Mattoangin,Mariso,Kota Makassar,Perempuan,4 Tahun,ODP - Proses Pengawasan
-7230,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,33 Tahun,ODP - Proses Pengawasan
+7230,Sambueja,Simbang,Kabupaten Maros,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
 7231,Tamarunang,Mariso,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
 7232,Jongaya,Tamalate,Kota Makassar,Perempuan,38 Tahun,ODP - Proses Pengawasan
 7233,Mandala,Mamajang,Kota Makassar,Perempuan,45 Tahun,ODP - Proses Pengawasan
@@ -7298,7 +7298,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7297,Ujung Bulu,Ujung,Kota Parepare,Perempuan,3 Tahun,ODP - Proses Pengawasan
 7298,Salo,Watang Sawitto,Kabupaten Pinrang,Perempuan,38 Tahun,ODP - Proses Pengawasan
 7299,Ujung Bulu,Ujung,Kota Parepare,Perempuan,8 Tahun,ODP - Proses Pengawasan
-7300,Langkea Raya,Towuti,Kabupaten Luwu Timur,Laki-Laki,61 Tahun,ODP - Proses Pengawasan
+7300,Lette,Mariso,Kota Makassar,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
 7301,Makkawaru,Mattiro Bulu,Kabupaten Pinrang,Perempuan,54 Tahun,ODP - Proses Pengawasan
 7302,Mulyasri,Tomoni,Kabupaten Luwu Timur,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
 7303,Sumpang Mango,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,39 Tahun,ODP - Proses Pengawasan
