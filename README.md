@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 20-05-2020 10:31:37
+## Data diupdate pada : 20-05-2020 12:31:42
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,15 +12,15 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|961|839|635|2435|https://anci.web.id/cor/kota_makassar|
+|1|Kota Makassar|961|837|635|2433|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|143|9|3|155|https://anci.web.id/cor/kota_palopo|
-|3|Kota Parepare|90|42|28|160|https://anci.web.id/cor/kota_parepare|
+|3|Kota Parepare|90|44|28|162|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|146|3|1|150|https://anci.web.id/cor/kabupaten_bantaeng|
-|5|Kabupaten Barru|67|6|9|82|https://anci.web.id/cor/kabupaten_barru|
+|5|Kabupaten Barru|67|6|6|79|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|298|18|7|323|https://anci.web.id/cor/kabupaten_bone|
 |7|Kabupaten Bulukumba|252|37|11|300|https://anci.web.id/cor/kabupaten_bulukumba|
 |8|Kabupaten Enrekang|170|13|5|188|https://anci.web.id/cor/kabupaten_enrekang|
-|9|Kabupaten Gowa|354|246|92|692|https://anci.web.id/cor/kabupaten_gowa|
+|9|Kabupaten Gowa|354|246|91|691|https://anci.web.id/cor/kabupaten_gowa|
 |10|Kabupaten Jeneponto|261|18|4|283|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|74|5|0|79|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|64|3|20|87|https://anci.web.id/cor/kabupaten_luwu|
