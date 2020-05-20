@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 20-05-2020 16:01:41
+## Data diupdate pada : 20-05-2020 17:01:44
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,22 +12,22 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|964|837|624|2425|https://anci.web.id/cor/kota_makassar|
+|1|Kota Makassar|964|837|623|2424|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|143|9|3|155|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|89|44|28|161|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|146|3|1|150|https://anci.web.id/cor/kabupaten_bantaeng|
-|5|Kabupaten Barru|67|6|2|75|https://anci.web.id/cor/kabupaten_barru|
+|5|Kabupaten Barru|67|6|1|74|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|298|18|7|323|https://anci.web.id/cor/kabupaten_bone|
 |7|Kabupaten Bulukumba|252|37|11|300|https://anci.web.id/cor/kabupaten_bulukumba|
 |8|Kabupaten Enrekang|170|13|5|188|https://anci.web.id/cor/kabupaten_enrekang|
-|9|Kabupaten Gowa|354|246|90|690|https://anci.web.id/cor/kabupaten_gowa|
+|9|Kabupaten Gowa|354|246|89|689|https://anci.web.id/cor/kabupaten_gowa|
 |10|Kabupaten Jeneponto|261|18|4|283|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|74|5|0|79|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|64|3|20|87|https://anci.web.id/cor/kabupaten_luwu|
 |13|Kabupaten Luwu Timur|427|54|44|525|https://anci.web.id/cor/kabupaten_luwu_timur|
 |14|Kabupaten Luwu Utara|179|31|25|235|https://anci.web.id/cor/kabupaten_luwu_utara|
 |15|Kabupaten Maros|185|34|53|272|https://anci.web.id/cor/kabupaten_maros|
-|16|Kabupaten Pangkajene Dan Kepulauan|112|19|16|147|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
+|16|Kabupaten Pangkajene Dan Kepulauan|112|19|14|145|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
 |17|Kabupaten Pinrang|162|20|6|188|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|82|31|29|142|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|207|13|15|235|https://anci.web.id/cor/kabupaten_sinjai|
