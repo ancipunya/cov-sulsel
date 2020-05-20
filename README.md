@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 20-05-2020 13:01:42
+## Data diupdate pada : 20-05-2020 13:31:39
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -16,7 +16,7 @@
 |2|Kota Palopo|143|9|3|155|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|90|44|28|162|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|146|3|1|150|https://anci.web.id/cor/kabupaten_bantaeng|
-|5|Kabupaten Barru|67|6|6|79|https://anci.web.id/cor/kabupaten_barru|
+|5|Kabupaten Barru|67|6|2|75|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|298|18|7|323|https://anci.web.id/cor/kabupaten_bone|
 |7|Kabupaten Bulukumba|252|37|11|300|https://anci.web.id/cor/kabupaten_bulukumba|
 |8|Kabupaten Enrekang|170|13|5|188|https://anci.web.id/cor/kabupaten_enrekang|
