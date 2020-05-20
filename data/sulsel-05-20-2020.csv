@@ -729,7 +729,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 728,Barana,Makassar,Kota Makassar,Perempuan,54 Tahun,Positif - Dirawat Pasien Positif
 729,Barana,Makassar,Kota Makassar,Laki-Laki,55 Tahun,Positif - Dirawat Pasien Positif
 730,Pattunuang,Wajo,Kota Makassar,Perempuan,56 Tahun,Positif - Dirawat Pasien Positif
-731,Balubu,Belopa,Kabupaten Luwu,Laki-Laki,26 Tahun,Positif - Dirawat Pasien Positif
+731,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,26 Tahun,Positif - Dirawat Pasien Positif
 732,Bontoala Parang,Bontoala,Kota Makassar,Perempuan,51 Tahun,Positif - Dirawat Pasien Positif
 733,Gusung,Ujung Tanah,Kota Makassar,Laki-Laki,32 Tahun,Positif - Dirawat Pasien Positif
 734,Pattingalloang,Ujung Tanah,Kota Makassar,Perempuan,77 Tahun,Positif - Dirawat Pasien Positif
@@ -776,11 +776,11 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 775,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,20 Tahun,Positif - Dirawat Pasien Positif
 776,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,46 Tahun,Positif - Dirawat Pasien Positif
 777,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,6 Tahun,Positif - Dirawat Pasien Positif
-778,Rumaju,Bajo,Kabupaten Luwu,Perempuan,48 Tahun,Positif - Dirawat Pasien Positif
+778,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,48 Tahun,Positif - Dirawat Pasien Positif
 779,Rumaju,Bajo,Kabupaten Luwu,Perempuan,14 Tahun,Positif - Dirawat Pasien Positif
-780,Jambu,Bajo,Kabupaten Luwu,Laki-Laki,31 Tahun,Positif - Dirawat Pasien Positif
-781,Senga,Belopa,Kabupaten Luwu,Laki-Laki,36 Tahun,Positif - Dirawat Pasien Positif
-782,Rumaju,Bajo,Kabupaten Luwu,Laki-Laki,5 Tahun,Positif - Dirawat Pasien Positif
+780,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,31 Tahun,Positif - Dirawat Pasien Positif
+781,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,36 Tahun,Positif - Dirawat Pasien Positif
+782,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,5 Tahun,Positif - Dirawat Pasien Positif
 783,Rumaju,Bajo,Kabupaten Luwu,Perempuan,71 Tahun,Positif - Dirawat Pasien Positif
 784,Lakessi,Soreang,Kota Parepare,Laki-Laki,2 Tahun,Positif - Dirawat Pasien Positif
 785,Bontoa,Mandai,Kabupaten Maros,Perempuan,12 Tahun,Positif - Dirawat Pasien Positif
@@ -6609,7 +6609,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6608,Rappang,Panca Rijang,Kabupaten Sidenreng Rappang,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
 6609,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,9 Tahun,ODP - Selesai Pengawasan
 6610,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,8 Tahun,ODP - Selesai Pengawasan
-6611,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,4 Tahun,ODP - Selesai Pengawasan
+6611,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,4 Tahun,ODP - Selesai Pengawasan
 6612,Alatengae,Bantimurung,Kabupaten Maros,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 6613,Anrihua,Kindang,Kabupaten Bulukumba,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
 6614,Lompoe,Bacukiki,Kota Parepare,Laki-Laki,57 Tahun,ODP - Selesai Pengawasan
