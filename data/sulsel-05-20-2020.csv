@@ -504,7 +504,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 503,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,13 Tahun,Positif - Sembuh
 504,Bontosunggu,Bajeng,Kabupaten Gowa,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
 505,Mangasa,Tamalate,Kota Makassar,Laki-Laki,58 Tahun,Positif - Dirawat Pasien Positif
-506,Batua,Manggala,Kota Makassar,Laki-Laki,21 Tahun,Positif - Sembuh
+506,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,21 Tahun,Positif - Sembuh
 507,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,22 Tahun,Positif - Dirawat Pasien Positif
 508,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,29 Tahun,Positif - Dirawat Pasien Positif
 509,Lioka,Towuti,Kabupaten Luwu Timur,Laki-Laki,35 Tahun,Positif - Dirawat Pasien Positif
@@ -590,14 +590,14 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 589,Mappedeceng,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,22 Tahun,Positif - Dirawat Pasien Positif
 590,Harapan,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,19 Tahun,Positif - Dirawat Pasien Positif
 591,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,67 Tahun,Positif - Sembuh
-592,Gaddong,Bontoala,Kota Makassar,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
-593,Pisang Utara,Ujung Pandang,Kota Makassar,Perempuan,58 Tahun,Positif - Dirawat Pasien Positif
-594,Tammua,Tallo,Kota Makassar,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
+592,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
+593,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,58 Tahun,Positif - Dirawat Pasien Positif
+594,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
 595,Pabatang,Mamajang,Kota Makassar,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
-596,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
-597,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
+596,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
+597,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
 598,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,44 Tahun,Positif - Sembuh
-599,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,43 Tahun,Positif - Dirawat Pasien Positif
+599,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,43 Tahun,Positif - Dirawat Pasien Positif
 600,Lariang Bangi,Makassar,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
 601,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,70 Tahun,Positif - Dirawat Pasien Positif
 602,Panambungan,Mariso,Kota Makassar,Laki-Laki,7 Tahun,Positif - Sembuh
