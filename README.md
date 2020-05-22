@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 22-05-2020 10:31:38
+## Data diupdate pada : 22-05-2020 11:01:47
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,7 +12,7 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|1013|861|656|2530|https://anci.web.id/cor/kota_makassar|
+|1|Kota Makassar|1013|861|655|2529|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|143|10|3|156|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|89|47|28|164|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|146|3|1|150|https://anci.web.id/cor/kabupaten_bantaeng|
