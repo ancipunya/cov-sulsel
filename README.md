@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 22-05-2020 20:01:45
+## Data diupdate pada : 23-05-2020 10:01:45
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -24,7 +24,7 @@
 |10|Kabupaten Jeneponto|260|18|4|282|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|74|5|0|79|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|64|3|7|74|https://anci.web.id/cor/kabupaten_luwu|
-|13|Kabupaten Luwu Timur|438|55|86|579|https://anci.web.id/cor/kabupaten_luwu_timur|
+|13|Kabupaten Luwu Timur|438|55|82|575|https://anci.web.id/cor/kabupaten_luwu_timur|
 |14|Kabupaten Luwu Utara|180|31|28|239|https://anci.web.id/cor/kabupaten_luwu_utara|
 |15|Kabupaten Maros|184|37|53|274|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|112|20|14|146|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
