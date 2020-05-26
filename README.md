@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 26-05-2020 12:31:42
+## Data diupdate pada : 26-05-2020 19:36:12
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -36,7 +36,7 @@
 |22|Kabupaten Tana Toraja|148|4|3|155|https://anci.web.id/cor/kabupaten_tana_toraja|
 |23|Kabupaten Toraja Utara|160|3|0|163|https://anci.web.id/cor/kabupaten_toraja_utara|
 |24|Kabupaten Wajo|62|9|1|72|https://anci.web.id/cor/kabupaten_wajo|
-|25|Jumlah Sulsel|4916|1575|1318|7809|https://anci.web.id/cor/jumlah_sulsel|
+|25|Rekreasi Duta Covid19 SulSel|8|0|157|165|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 
 #### Rekap secara total
 
