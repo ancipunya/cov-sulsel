@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 27-05-2020 20:31:45
+## Data diupdate pada : 27-05-2020 21:31:43
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,7 +12,7 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|1112|928|733|2773|https://anci.web.id/cor/kota_makassar|
+|1|Kota Makassar|1111|925|733|2769|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|143|9|3|155|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|93|50|28|171|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|156|3|0|159|https://anci.web.id/cor/kabupaten_bantaeng|
@@ -27,7 +27,7 @@
 |13|Kabupaten Luwu Timur|442|56|141|639|https://anci.web.id/cor/kabupaten_luwu_timur|
 |14|Kabupaten Luwu Utara|187|32|0|219|https://anci.web.id/cor/kabupaten_luwu_utara|
 |15|Kabupaten Maros|185|39|20|244|https://anci.web.id/cor/kabupaten_maros|
-|16|Kabupaten Pangkajene Dan Kepulauan|112|20|1|133|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
+|16|Kabupaten Pangkajene Dan Kepulauan|112|19|1|132|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
 |17|Kabupaten Pinrang|180|21|4|205|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|82|34|25|141|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|208|14|4|226|https://anci.web.id/cor/kabupaten_sinjai|
