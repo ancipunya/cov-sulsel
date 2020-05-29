@@ -106,7 +106,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 105,Palalakkang,-,RS Lain-lain,Laki-Laki,32 Tahun,Positif - Sembuh
 106,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,48 Tahun,Positif - Sembuh
 107,Amparita,Tellulimpo E,Kabupaten Sidenreng Rappang,Laki-Laki,61 Tahun,Positif - Dirawat Pasien Positif
-108,Pangkajene,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,52 Tahun,Positif - Dirawat Pasien Positif
+108,Pangkajene,-,Rekreasi Duta Covid19 SulSel,Perempuan,52 Tahun,Positif - Dirawat Pasien Positif
 109,Mangasa,Tamalate,Kota Makassar,Perempuan,51 Tahun,Positif - Sembuh
 110,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,37 Tahun,Positif - Sembuh
 111,Borong,Manggala,Kota Makassar,Laki-Laki,69 Tahun,Positif - Sembuh
@@ -741,7 +741,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 740,Ujung Pandang Baru,Tallo,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
 741,Ujung Bulu,Ujung,Kota Parepare,Laki-Laki,64 Tahun,Positif - Dirawat Pasien Positif
 742,Ujung Baru,Soreang,Kota Parepare,Laki-Laki,47 Tahun,Positif - Dirawat Pasien Positif
-743,Majjelling,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,8 Tahun,Positif - Dirawat Pasien Positif
+743,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,8 Tahun,Positif - Dirawat Pasien Positif
 744,Lakessi,Soreang,Kota Parepare,Perempuan,19 Tahun,Positif - Dirawat Pasien Positif
 745,Ujung Baru,Soreang,Kota Parepare,Laki-Laki,32 Tahun,Positif - Dirawat Pasien Positif
 746,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,46 Tahun,Positif - Sembuh
@@ -984,9 +984,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 983,Pampang,Panakkukang,Kota Makassar,Perempuan,35 Tahun,Positif - Dirawat Pasien Positif
 984,Bulurokeng,Biring Kanaya,Kota Makassar,Laki-Laki,45 Tahun,Positif - Dirawat Pasien Positif
 985,Bontoala,Pallangga,Kabupaten Gowa,Laki-Laki,28 Tahun,Positif - Dirawat Pasien Positif
-986,Baranti,Baranti,Kabupaten Sidenreng Rappang,Perempuan,35 Tahun,Positif - Dirawat Pasien Positif
-987,Tanete,Maritengngae,Kabupaten Sidenreng Rappang,Perempuan,26 Tahun,Positif - Dirawat Pasien Positif
-988,Betao,Pitu Riawa,Kabupaten Sidenreng Rappang,Perempuan,66 Tahun,Positif - Dirawat Pasien Positif
+986,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Dirawat Pasien Positif
+987,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,26 Tahun,Positif - Dirawat Pasien Positif
+988,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,66 Tahun,Positif - Dirawat Pasien Positif
 989,Ujung Bulu,Ujung,Kota Parepare,Perempuan,47 Tahun,Positif - Dirawat Pasien Positif
 990,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,32 Tahun,Positif - Dirawat Pasien Positif
 991,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,15 Tahun,Positif - Dirawat Pasien Positif
@@ -1189,7 +1189,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1188,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
 1189,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,28 Tahun,Positif - Dirawat Pasien Positif
 1190,Lembo,Tallo,Kota Makassar,Perempuan,30 Tahun,Positif - Dirawat Pasien Positif
-1191,Wala,Maritengngae,Kabupaten Sidenreng Rappang,Laki-Laki,3 Tahun,Positif - Dirawat Pasien Positif
+1191,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,3 Tahun,Positif - Dirawat Pasien Positif
 1192,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,31 Tahun,Positif - Dirawat Pasien Positif
 1193,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,35 Tahun,Positif - Dirawat Pasien Positif
 1194,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,1 Tahun,Positif - Dirawat Pasien Positif
