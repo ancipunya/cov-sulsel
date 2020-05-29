@@ -14,7 +14,7 @@ No,Kota/Kab,ODP,PDP,Positif,Total
 13,Kabupaten Luwu Timur,443,56,141,640
 14,Kabupaten Luwu Utara,186,33,0,219
 15,Kabupaten Maros,184,40,20,244
-16,Kabupaten Pangkajene Dan Kepulauan,112,20,1,133
+16,Kabupaten Pangkajene Dan Kepulauan,112,19,1,132
 17,Kabupaten Pinrang,181,21,4,206
 18,Kabupaten Sidenreng Rappang,82,34,19,135
 19,Kabupaten Sinjai,208,14,4,226
@@ -24,5 +24,5 @@ No,Kota/Kab,ODP,PDP,Positif,Total
 23,Kabupaten Toraja Utara,160,3,0,163
 24,Kabupaten Wajo,62,9,1,72
 25,Rekreasi Duta Covid19 SulSel,8,0,284,292
-26,RS Lain-lain,0,0,52,52
+26,RS Lain-lain,0,1,52,53
 -,Jumlah Sulsel,5030,1645,1427,8102
