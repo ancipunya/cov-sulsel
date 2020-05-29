@@ -601,7 +601,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 600,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,44 Tahun,Positif - Sembuh
 601,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,43 Tahun,Positif - Sembuh
 602,Lariang Bangi,Makassar,Kota Makassar,Perempuan,46 Tahun,Positif - Sembuh
-603,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,70 Tahun,Positif - Dirawat Pasien Positif
+603,Malimongan Tua,Wajo,Kota Makassar,Laki-Laki,70 Tahun,Positif - Sembuh
 604,Panambungan,Mariso,Kota Makassar,Laki-Laki,7 Tahun,Positif - Sembuh
 605,Karuwisi Utara,Panakkukang,Kota Makassar,Laki-Laki,21 Tahun,Positif - Sembuh
 606,Panambungan,Mariso,Kota Makassar,Laki-Laki,31 Tahun,Positif - Sembuh
@@ -8150,3 +8150,6 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 8149,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
 8150,Sawerigading,Ujung Pandang,Kota Makassar,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
 8151,Bentang,Galesong Selatan,Kabupaten Takalar,Perempuan,33 Tahun,ODP - Proses Pengawasan
+8152,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+8153,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Perempuan,31 Tahun,ODP - Proses Pengawasan
+8154,Mamajang Luar,Mamajang,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
