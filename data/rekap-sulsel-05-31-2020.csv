@@ -1,5 +1,5 @@
 No,Kota/Kab,ODP,PDP,Positif,Total
-1,Kota Makassar,1240,1028,804,3072
+1,Kota Makassar,1240,1028,800,3068
 2,Kota Palopo,145,9,2,156
 3,Kota Parepare,96,50,35,181
 4,Kabupaten Bantaeng,156,4,0,160
@@ -23,6 +23,6 @@ No,Kota/Kab,ODP,PDP,Positif,Total
 22,Kabupaten Tana Toraja,148,6,3,157
 23,Kabupaten Toraja Utara,160,3,0,163
 24,Kabupaten Wajo,62,13,1,76
-25,Rekreasi Duta Covid19 SulSel,8,0,291,299
-26,RS Lain-lain,0,0,60,60
+25,Rekreasi Duta Covid19 SulSel,8,0,294,302
+26,RS Lain-lain,0,0,61,61
 -,Jumlah Sulsel,5193,1760,1510,8463
