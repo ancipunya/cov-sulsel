@@ -1128,7 +1128,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1127,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,27 Tahun,Positif - Sembuh
 1128,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,51 Tahun,Positif - Dirawat Pasien Positif
 1129,Masale,Panakkukang,Kota Makassar,Perempuan,30 Tahun,Positif - Dirawat Pasien Positif
-1130,Pattunuang,Wajo,Kota Makassar,Laki-Laki,27 Tahun,Positif - Dirawat Pasien Positif
+1130,-,-,RS Lain-lain,Laki-Laki,27 Tahun,Positif - Dirawat Pasien Positif
 1131,Bonepute,Burau,Kabupaten Luwu Timur,Laki-Laki,61 Tahun,Positif - Dirawat Pasien Positif
 1132,Langkea Raya,Towuti,Kabupaten Luwu Timur,Laki-Laki,61 Tahun,Positif - Sembuh
 1133,Bawalipu,Wotu,Kabupaten Luwu Timur,Perempuan,33 Tahun,Positif - Dirawat Pasien Positif
@@ -1370,7 +1370,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1369,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,26 Tahun,Positif - Dirawat Pasien Positif
 1370,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
 1371,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,30 Tahun,Positif - Dirawat Pasien Positif
-1372,Patimpeng,Patimpeng,Kabupaten Bone,Perempuan,66 Tahun,Positif - Dirawat Pasien Positif
+1372,-,-,RS Lain-lain,Perempuan,66 Tahun,Positif - Dirawat Pasien Positif
 1373,Bunga Eja Beru,Tallo,Kota Makassar,Perempuan,39 Tahun,Positif - Dirawat Pasien Positif
 1374,Banggae,Mangara Bombang,Kabupaten Takalar,Perempuan,29 Tahun,Positif - Dirawat Pasien Positif
 1375,Mampu,Wajo,Kota Makassar,Laki-Laki,40 Tahun,Positif - Dirawat Pasien Positif
