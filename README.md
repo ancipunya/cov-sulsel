@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 08-06-2020 10:02:00
+## Data diupdate pada : 08-06-2020 17:01:49
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,10 +12,10 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|1615|1140|958|3713|https://anci.web.id/cor/kota_makassar|
+|1|Kota Makassar|1615|1140|959|3714|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|156|10|2|168|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|115|66|36|217|https://anci.web.id/cor/kota_parepare|
-|4|Kabupaten Bantaeng|162|4|1|167|https://anci.web.id/cor/kabupaten_bantaeng|
+|4|Kabupaten Bantaeng|162|3|0|165|https://anci.web.id/cor/kabupaten_bantaeng|
 |5|Kabupaten Barru|66|8|0|74|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|320|23|1|344|https://anci.web.id/cor/kabupaten_bone|
 |7|Kabupaten Bulukumba|269|39|2|310|https://anci.web.id/cor/kabupaten_bulukumba|
@@ -38,16 +38,16 @@
 |24|Kabupaten Wajo|65|13|3|81|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|334|342|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|85|85|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|5787|1979|1903|9669|https://anci.web.id/cor/jumlah_sulsel|
+|27|Jumlah Sulsel|5787|1978|1903|9668|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
 | ODP | 1153 | 4634 | 0 | 5787 | https://anci.web.id/cor/odp_detail.html |
-| PDP | 371 | 1441 | 171 | 1979 | https://anci.web.id/cor/pdp_detail.html |
+| PDP | 370 | 1441 | 171 | 1978 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 1129 | 674 | 100 | 1903 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 2653 | 6749 | 271 | 9669 | https://anci.web.id/cor/jumlah_sulsel/ |
+| JUMLAH | 2652 | 6749 | 271 | 9668 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
