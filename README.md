@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 10-06-2020 11:57:10
+## Data diupdate pada : 10-06-2020 15:32:00
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -19,20 +19,20 @@
 |5|Kabupaten Barru|66|8|0|74|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|320|23|1|344|https://anci.web.id/cor/kabupaten_bone|
 |7|Kabupaten Bulukumba|269|39|3|311|https://anci.web.id/cor/kabupaten_bulukumba|
-|8|Kabupaten Enrekang|285|24|0|309|https://anci.web.id/cor/kabupaten_enrekang|
+|8|Kabupaten Enrekang|284|24|0|308|https://anci.web.id/cor/kabupaten_enrekang|
 |9|Kabupaten Gowa|403|273|146|822|https://anci.web.id/cor/kabupaten_gowa|
-|10|Kabupaten Jeneponto|269|30|2|301|https://anci.web.id/cor/kabupaten_jeneponto|
+|10|Kabupaten Jeneponto|268|30|2|300|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|79|5|0|84|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|69|3|6|78|https://anci.web.id/cor/kabupaten_luwu|
 |13|Kabupaten Luwu Timur|463|80|375|918|https://anci.web.id/cor/kabupaten_luwu_timur|
-|14|Kabupaten Luwu Utara|207|38|3|248|https://anci.web.id/cor/kabupaten_luwu_utara|
+|14|Kabupaten Luwu Utara|211|38|3|252|https://anci.web.id/cor/kabupaten_luwu_utara|
 |15|Kabupaten Maros|257|59|34|350|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|119|23|1|143|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
-|17|Kabupaten Pinrang|236|22|5|263|https://anci.web.id/cor/kabupaten_pinrang|
+|17|Kabupaten Pinrang|235|22|5|262|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|83|37|21|141|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|210|15|10|235|https://anci.web.id/cor/kabupaten_sinjai|
 |20|Kabupaten Soppeng|92|19|9|120|https://anci.web.id/cor/kabupaten_soppeng|
-|21|Kabupaten Takalar|61|36|7|104|https://anci.web.id/cor/kabupaten_takalar|
+|21|Kabupaten Takalar|60|36|7|103|https://anci.web.id/cor/kabupaten_takalar|
 |22|Kabupaten Tana Toraja|168|9|6|183|https://anci.web.id/cor/kabupaten_tana_toraja|
 |23|Kabupaten Toraja Utara|160|3|1|164|https://anci.web.id/cor/kabupaten_toraja_utara|
 |24|Kabupaten Wajo|65|19|4|88|https://anci.web.id/cor/kabupaten_wajo|
