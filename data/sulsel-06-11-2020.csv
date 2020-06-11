@@ -2547,7 +2547,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2546,Tompobalang,Somba Opu,Kabupaten Gowa,Laki-Laki,49 Tahun,PDP - PDP Meninggal
 2547,Panambungan,Mariso,Kota Makassar,Laki-Laki,50 Tahun,PDP - PDP Meninggal
 2548,-,Biring Kanaya,Kota Makassar,Laki-Laki,27 Tahun,PDP - PDP Meninggal
-2549,Cendana,Cendana,Kabupaten Enrekang,Perempuan,68 Tahun,PDP - PDP Meninggal
+2549,Tamanyeleng,Barombong,Kabupaten Gowa,Perempuan,21 Tahun,PDP - PDP Meninggal
 2550,Tello Baru,Panakkukang,Kota Makassar,Perempuan,73 Tahun,PDP - PDP Meninggal
 2551,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,45 Tahun,PDP - PDP Meninggal
 2552,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,39 Tahun,PDP - Non Covid-19
@@ -4289,7 +4289,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4288,Mallusetasi,Ujung,Kota Parepare,Perempuan,36 Tahun,PDP - Follow Up
 4289,Lapadde,Ujung,Kota Parepare,Laki-Laki,33 Tahun,PDP - Follow Up
 4290,Lapadde,Ujung,Kota Parepare,Laki-Laki,-,PDP - Follow Up
-4291,Ujung Baru,Soreang,Kota Parepare,Laki-Laki,33 Tahun,PDP - Follow Up
+4291,Pakatto,Bontomarannu,Kabupaten Gowa,Perempuan,4 Tahun,PDP - Follow Up
 4292,Sanrobone,Sanrobone,Kabupaten Takalar,Perempuan,15 Tahun,PDP - Follow Up
 4293,Pattinoang,Galesong,Kabupaten Takalar,Perempuan,58 Tahun,PDP - Follow Up
 4294,Bontoala Tua,Bontoala,Kota Makassar,Perempuan,50 Tahun,PDP - Follow Up
@@ -4311,7 +4311,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4310,Turikale,Turikale,Kabupaten Maros,Laki-Laki,45 Tahun,PDP - Follow Up
 4311,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Perempuan,60 Tahun,PDP - Follow Up
 4312,Majannang,Maros Baru,Kabupaten Maros,Perempuan,16 Tahun,PDP - Follow Up
-4313,Marumpa,Marusu,Kabupaten Maros,Laki-Laki,53 Tahun,PDP - Follow Up
+4313,Bone,Bajeng,Kabupaten Gowa,Perempuan,42 Tahun,PDP - Follow Up
 4314,Pajukukang,Bontoa,Kabupaten Maros,Laki-Laki,3 Tahun,PDP - Follow Up
 4315,Adatongeng,Turikale,Kabupaten Maros,Laki-Laki,63 Tahun,PDP - Follow Up
 4316,-,-,Kabupaten Maros,Laki-Laki,58 Tahun,PDP - Follow Up
@@ -4319,13 +4319,13 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4318,Temappadduae,Marusu,Kabupaten Maros,Perempuan,78 Tahun,PDP - Follow Up
 4319,Baju Bodoa,Maros Baru,Kabupaten Maros,Perempuan,27 Tahun,PDP - Follow Up
 4320,Pettuadae,Turikale,Kabupaten Maros,Laki-Laki,58 Tahun,PDP - Follow Up
-4321,-,Enrekang,Kabupaten Enrekang,Perempuan,2 Tahun,PDP - Follow Up
-4322,-,Enrekang,Kabupaten Enrekang,Perempuan,43 Tahun,PDP - Follow Up
-4323,Tiro Wali,Baraka,Kabupaten Enrekang,Laki-Laki,71 Tahun,PDP - Follow Up
+4321,Nirannuang,Bontomarannu,Kabupaten Gowa,Perempuan,31 Tahun,PDP - Follow Up
+4322,Katangka,Somba Opu,Kabupaten Gowa,Perempuan,3 Tahun,PDP - Follow Up
+4323,Malino,Tinggimoncong,Kabupaten Gowa,Laki-Laki,20 Tahun,PDP - Follow Up
 4324,Bontolangkasa Selatan,Bontonompo,Kabupaten Gowa,Perempuan,33 Tahun,PDP - Follow Up
-4325,Baraya,Bontoramba,Kabupaten Jeneponto,Laki-Laki,46 Tahun,PDP - Follow Up
+4325,Bontoramba,Bontonompo Selatan,Kabupaten Gowa,Laki-Laki,58 Tahun,PDP - Follow Up
 4326,Lapongkoda,Tempe,Kabupaten Wajo,Perempuan,55 Tahun,PDP - Follow Up
-4327,Bontomanai,Rumbia,Kabupaten Jeneponto,Perempuan,20 Tahun,PDP - Follow Up
+4327,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,34 Tahun,PDP - Follow Up
 4328,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,31 Tahun,PDP - Follow Up
 4329,-,Biring Kanaya,Kota Makassar,Perempuan,33 Tahun,PDP - Follow Up
 4330,P A I,Biring Kanaya,Kota Makassar,Perempuan,41 Tahun,PDP - Follow Up
@@ -4336,7 +4336,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4335,Doping,Penrang,Kabupaten Wajo,Laki-Laki,34 Tahun,PDP - Follow Up
 4336,Parigi,Takkalalla,Kabupaten Wajo,Perempuan,56 Tahun,PDP - Follow Up
 4337,Akkajeng,Sajoanging,Kabupaten Wajo,Perempuan,40 Tahun,PDP - Follow Up
-4338,Maddukkelleng,Tempe,Kabupaten Wajo,Laki-Laki,71 Tahun,PDP - Follow Up
+4338,Barembeng,Bontonompo,Kabupaten Gowa,Laki-Laki,75 Tahun,PDP - Follow Up
 4339,Kelurahan  Lemo,Makale Utara,Kabupaten Tana Toraja,Laki-Laki,26 Tahun,PDP - Non Covid-19
 4340,Lembang Ullin,Rembon,Kabupaten Tana Toraja,Laki-Laki,24 Tahun,PDP - Follow Up
 4341,Wiringpalennae,Tempe,Kabupaten Wajo,Perempuan,75 Tahun,PDP - Follow Up
