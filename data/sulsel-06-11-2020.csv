@@ -831,7 +831,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 830,Parang,Mamajang,Kota Makassar,Perempuan,47 Tahun,Positif - Dirawat Pasien Positif
 831,Parang,Mamajang,Kota Makassar,Laki-Laki,12 Tahun,Positif - Dirawat Pasien Positif
 832,Parang,Mamajang,Kota Makassar,Perempuan,56 Tahun,Positif - Dirawat Pasien Positif
-833,Cambaya,Ujung Tanah,Kota Makassar,Perempuan,62 Tahun,Positif - Dirawat Pasien Positif
+833,Cambaya,Ujung Tanah,Kota Makassar,Perempuan,52 Tahun,Positif - Dirawat Pasien Positif
 834,Parang,Mamajang,Kota Makassar,Perempuan,27 Tahun,Positif - Dirawat Pasien Positif
 835,Jongaya,Tamalate,Kota Makassar,Perempuan,9 Tahun,Positif - Dirawat Pasien Positif
 836,Mappedeceng,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,65 Tahun,Positif - Dirawat Pasien Positif
@@ -1009,7 +1009,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1008,Baruga,Towuti,Kabupaten Luwu Timur,Perempuan,40 Tahun,Positif - Dirawat Pasien Positif
 1009,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,35 Tahun,Positif - Dirawat Pasien Positif
 1010,Bawalipu,Wotu,Kabupaten Luwu Timur,-,-,Positif - Dirawat Pasien Positif
-1011,Patondon Salu,-,Rekreasi Duta Covid19 SulSel,Perempuan,73 Tahun,Positif - Dirawat Pasien Positif
+1011,Patondon Salu,Maiwa,Kabupaten Enrekang,Perempuan,73 Tahun,Positif - Dirawat Pasien Positif
 1012,Maricaya,Makassar,Kota Makassar,Perempuan,38 Tahun,Positif - Sembuh
 1013,Panaikang,Panakkukang,Kota Makassar,Perempuan,60 Tahun,Positif - Sembuh
 1014,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,30 Tahun,Positif - Sembuh
@@ -1860,7 +1860,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1859,Bara-Baraya Selatan,Makassar,Kota Makassar,Laki-Laki,68 Tahun,Positif - Dirawat Pasien Positif
 1860,Rappokalling,Tallo,Kota Makassar,Laki-Laki,51 Tahun,Positif - Dirawat Pasien Positif
 1861,Layang,Bontoala,Kota Makassar,Laki-Laki,54 Tahun,Positif - Dirawat Pasien Positif
-1862,Lompoe,Bacukiki,Kota Parepare,Perempuan,63 Tahun,Positif - Dirawat Pasien Positif
+1862,-,-,RS Lain-lain,Perempuan,63 Tahun,Positif - Dirawat Pasien Positif
 1863,Mannuruki,Tamalate,Kota Makassar,Perempuan,25 Tahun,Positif - Dirawat Pasien Positif
 1864,-,-,Kota Makassar,-,-,Positif - Dirawat Pasien Positif
 1865,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,29 Tahun,Positif - Dirawat Pasien Positif
@@ -8373,7 +8373,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 8372,Erabaru,Tellu Limpoe,Kabupaten Sinjai,Perempuan,20 Tahun,ODP - Selesai Pengawasan
 8373,Sanjai,Sinjai Timur,Kabupaten Sinjai,Perempuan,-,ODP - Selesai Pengawasan
 8374,Rappang,Panca Rijang,Kabupaten Sidenreng Rappang,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
-8375,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,9 Tahun,ODP - Selesai Pengawasan
+8375,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,10 Tahun,ODP - Selesai Pengawasan
 8376,Moncongloe Lappara,Moncongloe,Kabupaten Maros,Laki-Laki,8 Tahun,ODP - Selesai Pengawasan
 8377,Alatengae,Bantimurung,Kabupaten Maros,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
 8378,Anrihua,Kindang,Kabupaten Bulukumba,Laki-Laki,16 Tahun,ODP - Selesai Pengawasan
@@ -9319,10 +9319,10 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 9318,Salotellue,Wara Timur,Kota Palopo,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
 9319,Benteng,Wara Timur,Kota Palopo,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
 9320,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,17 Tahun,ODP - Selesai Pengawasan
-9321,Mamajang Dalam,Mamajang,Kota Makassar,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
+9321,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
 9322,Parang Layang,Bontoala,Kota Makassar,Laki-Laki,36 Tahun,ODP - Selesai Pengawasan
 9323,Parang Tambung,Tamalate,Kota Makassar,Perempuan,41 Tahun,ODP - Selesai Pengawasan
-9324,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
+9324,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,34 Tahun,ODP - Selesai Pengawasan
 9325,P A I,Biring Kanaya,Kota Makassar,Perempuan,37 Tahun,ODP - Selesai Pengawasan
 9326,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,79 Tahun,ODP - Selesai Pengawasan
 9327,Antang,Manggala,Kota Makassar,Laki-Laki,81 Tahun,ODP - Selesai Pengawasan
@@ -9505,7 +9505,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 9504,Maradekaya,Makassar,Kota Makassar,Perempuan,35 Tahun,ODP - Proses Pengawasan
 9505,Bara-Baraya,Makassar,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
 9506,Pisang Utara,Ujung Pandang,Kota Makassar,Perempuan,50 Tahun,ODP - Proses Pengawasan
-9507,Kassi-Kassi,Rappocini,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
+9507,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,29 Tahun,ODP - Proses Pengawasan
 9508,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,ODP - Proses Pengawasan
 9509,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
 9510,Tamangapa,Manggala,Kota Makassar,Laki-Laki,-,ODP - Proses Pengawasan
@@ -9590,7 +9590,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 9589,Balang Baru,Tamalate,Kota Makassar,Perempuan,44 Tahun,ODP - Proses Pengawasan
 9590,Buloa,Tallo,Kota Makassar,Laki-Laki,67 Tahun,ODP - Proses Pengawasan
 9591,Buloa,Tallo,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-9592,Mangasa,Tamalate,Kota Makassar,Perempuan,11 Tahun,ODP - Proses Pengawasan
+9592,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,11 Tahun,ODP - Proses Pengawasan
 9593,Balang Baru,Tamalate,Kota Makassar,Laki-Laki,35 Tahun,ODP - Selesai Pengawasan
 9594,Lagaligo,Wara,Kota Palopo,Laki-Laki,38 Tahun,ODP - Selesai Pengawasan
 9595,Rappojawa,Tallo,Kota Makassar,Perempuan,52 Tahun,ODP - Proses Pengawasan
