@@ -2405,7 +2405,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2404,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,45 Tahun,Positif - Dirawat Pasien Positif
 2405,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,21 Tahun,Positif - Dirawat Pasien Positif
 2406,-,-,Kota Makassar,Laki-Laki,28 Tahun,Positif - Dirawat Pasien Positif
-2407,-,-,Kota Makassar,Perempuan,14 Tahun,Positif - Dirawat Pasien Positif
+2407,Gunung Sari,Rappocini,Kota Makassar,Perempuan,14 Tahun,Positif - Dirawat Pasien Positif
 2408,Maccini Sombala,Tamalate,Kota Makassar,Laki-Laki,11 Tahun,Positif - Dirawat Pasien Positif
 2409,Parang Layang,Bontoala,Kota Makassar,Laki-Laki,29 Tahun,Positif - Dirawat Pasien Positif
 2410,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,19 Tahun,Positif - Dirawat Pasien Positif
@@ -4108,7 +4108,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4107,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,43 Tahun,PDP - Non Covid-19
 4108,Pannampu,Tallo,Kota Makassar,Laki-Laki,63 Tahun,PDP - Non Covid-19
 4109,Mariso,Mariso,Kota Makassar,Laki-Laki,58 Tahun,PDP - Non Covid-19
-4110,Pitumpidange,Libureng,Kabupaten Bone,Laki-Laki,56 Tahun,PDP - Non Covid-19
+4110,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,22 Tahun,PDP - Non Covid-19
 4111,Totaka,Ujung Tanah,Kota Makassar,Perempuan,50 Tahun,PDP - Non Covid-19
 4112,Tibona,Bulukumpa,Kabupaten Bulukumba,Laki-Laki,17 Tahun,PDP - Follow Up
 4113,Bulogading,Ujung Pandang,Kota Makassar,Perempuan,55 Tahun,PDP - Non Covid-19
@@ -4192,7 +4192,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4191,Bira,Tamalanrea,Kota Makassar,Perempuan,46 Tahun,PDP - Non Covid-19
 4192,-,Makassar,Kota Makassar,Perempuan,37 Tahun,PDP - Non Covid-19
 4193,Labuang Baji,Mamajang,Kota Makassar,Laki-Laki,71 Tahun,PDP - Non Covid-19
-4194,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,72 Tahun,PDP - Follow Up
+4194,Bongki,Sinjai Utara,Kabupaten Sinjai,Laki-Laki,1 Tahun,PDP - Follow Up
 4195,Tamamaung,Panakkukang,Kota Makassar,Perempuan,51 Tahun,PDP - Non Covid-19
 4196,Rappocini,Rappocini,Kota Makassar,Laki-Laki,76 Tahun,PDP - Non Covid-19
 4197,Pampang,Panakkukang,Kota Makassar,Perempuan,24 Tahun,PDP - Non Covid-19
@@ -4411,7 +4411,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4410,Daya,Biring Kanaya,Kota Makassar,Laki-Laki,23 Tahun,PDP - Non Covid-19
 4411,Antang,Manggala,Kota Makassar,Laki-Laki,40 Tahun,PDP - Non Covid-19
 4412,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,64 Tahun,PDP - Follow Up
-4413,Cikowang,Mangara Bombang,Kabupaten Takalar,Laki-Laki,48 Tahun,PDP - Follow Up
+4413,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,53 Tahun,PDP - Follow Up
 4414,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,34 Tahun,PDP - Follow Up
 4415,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Perempuan,5 Tahun,PDP - Follow Up
 4416,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Laki-Laki,20 Tahun,PDP - Follow Up
@@ -4533,8 +4533,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4532,Barembeng,Bontonompo,Kabupaten Gowa,Laki-Laki,75 Tahun,PDP - Follow Up
 4533,Kelurahan  Lemo,Makale Utara,Kabupaten Tana Toraja,Laki-Laki,26 Tahun,PDP - Non Covid-19
 4534,Lembang Ullin,Rembon,Kabupaten Tana Toraja,Laki-Laki,24 Tahun,PDP - Follow Up
-4535,Sanrobone,Sanrobone,Kabupaten Takalar,Perempuan,15 Tahun,PDP - Follow Up
-4536,Pattinoang,Galesong,Kabupaten Takalar,Perempuan,57 Tahun,PDP - Follow Up
+4535,Bonto Katute,Sinjai Borong,Kabupaten Sinjai,Perempuan,30 Tahun,PDP - Follow Up
+4536,Manggala,Manggala,Kota Makassar,Perempuan,53 Tahun,PDP - Follow Up
 4537,Belawa,Belawa,Kabupaten Wajo,Perempuan,61 Tahun,PDP - Follow Up
 4538,Jagong,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,68 Tahun,PDP - Follow Up
 4539,Lero,Suppa,Kabupaten Pinrang,Laki-Laki,50 Tahun,PDP - Follow Up
