@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 18-06-2020 23:02:08
+## Data diupdate pada : 19-06-2020 11:32:43
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -31,23 +31,23 @@
 |17|Kabupaten Pinrang|407|25|7|439|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|83|43|30|156|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|245|17|16|278|https://anci.web.id/cor/kabupaten_sinjai|
-|20|Kabupaten Soppeng|77|31|9|117|https://anci.web.id/cor/kabupaten_soppeng|
+|20|Kabupaten Soppeng|67|31|9|107|https://anci.web.id/cor/kabupaten_soppeng|
 |21|Kabupaten Takalar|59|34|25|118|https://anci.web.id/cor/kabupaten_takalar|
 |22|Kabupaten Tana Toraja|220|10|6|236|https://anci.web.id/cor/kabupaten_tana_toraja|
 |23|Kabupaten Toraja Utara|161|3|2|166|https://anci.web.id/cor/kabupaten_toraja_utara|
 |24|Kabupaten Wajo|67|21|9|97|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|529|537|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|147|147|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|7039|2122|3366|12527|https://anci.web.id/cor/jumlah_sulsel|
+|27|Jumlah Sulsel|7029|2122|3366|12517|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 527 | 6512 | 0 | 7039 | https://anci.web.id/cor/odp_detail.html |
+| ODP | 527 | 6502 | 0 | 7029 | https://anci.web.id/cor/odp_detail.html |
 | PDP | 263 | 1677 | 184 | 2122 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 2140 | 1089 | 137 | 3366 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 2930 | 9278 | 321 | 12527 | https://anci.web.id/cor/jumlah_sulsel/ |
+| JUMLAH | 2930 | 9268 | 321 | 12517 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
