@@ -145,7 +145,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 144,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,52 Tahun,Positif - Sembuh
 145,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,51 Tahun,Positif - Sembuh
 146,Bara-Baraya,Makassar,Kota Makassar,Laki-Laki,65 Tahun,Positif - Sembuh
-147,-,-,RS Lain-lain,Laki-Laki,29 Tahun,Positif - Sembuh
+147,Banti,Baraka,RS Lain-lain,Laki-Laki,29 Tahun,Positif - Sembuh
 148,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,33 Tahun,Positif - Sembuh
 149,Adatongeng,Turikale,Kabupaten Maros,Laki-Laki,64 Tahun,Positif - Sembuh
 150,Bonto Tallasa,Simbang,Kabupaten Maros,Laki-Laki,-,Positif - Sembuh
@@ -386,7 +386,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 385,Kodingareng,Ujung Tanah,Kota Makassar,Laki-Laki,16 Tahun,Positif - Sembuh
 386,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,46 Tahun,Positif - Sembuh
 387,Tiromanda,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,20 Tahun,Positif - Sembuh
-388,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,17 Tahun,Positif - Sembuh
+388,Kambiolangi,Alla,Rekreasi Duta Covid19 SulSel,Laki-Laki,17 Tahun,Positif - Sembuh
 389,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,19 Tahun,Positif - Sembuh
 390,Tompobalang,Somba Opu,Kabupaten Gowa,Laki-Laki,20 Tahun,Positif - Sembuh
 391,Anrong Appaka,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,20 Tahun,Positif - Sembuh
@@ -568,7 +568,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 567,Pampang,Panakkukang,Kota Makassar,Laki-Laki,3 Tahun,Positif - Sembuh
 568,Mariso,Mariso,Kota Makassar,Perempuan,21 Tahun,Positif - Sembuh
 569,Bangkala,Manggala,Kota Makassar,Laki-Laki,21 Tahun,Positif - Sembuh
-570,Bubun Lamba,-,Rekreasi Duta Covid19 SulSel,Perempuan,18 Tahun,Positif - Sembuh
+570,Bubun Lamba,Anggeraja,Rekreasi Duta Covid19 SulSel,Perempuan,18 Tahun,Positif - Sembuh
 571,Jongaya,Tamalate,Kota Makassar,Perempuan,31 Tahun,Positif - Sembuh
 572,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,26 Tahun,Positif - Sembuh
 573,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,50 Tahun,Positif - Sembuh
@@ -763,7 +763,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 762,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,42 Tahun,Positif - Sembuh
 763,Pallantikang,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,16 Tahun,Positif - Dirawat Pasien Positif
 764,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,17 Tahun,Positif - Dirawat Pasien Positif
-765,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,5 Tahun,Positif - Sembuh
+765,Karueng,Enrekang,Rekreasi Duta Covid19 SulSel,Laki-Laki,5 Tahun,Positif - Sembuh
 766,Sawerigading,Ujung Pandang,Kota Makassar,Perempuan,12 Tahun,Positif - Sembuh
 767,Sawerigading,Ujung Pandang,Kota Makassar,Perempuan,6 Tahun,Positif - Sembuh
 768,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,29 Tahun,Positif - Sembuh
@@ -1180,7 +1180,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1179,Puncak Indah,Malili,Kabupaten Luwu Timur,Laki-Laki,53 Tahun,Positif - Sembuh
 1180,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,11 Tahun,Positif - Sembuh
 1181,Ballaparang,Rappocini,Kota Makassar,Perempuan,9 Tahun,Positif - Dirawat Pasien Positif
-1182,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,41 Tahun,Positif - Sembuh
+1182,Batu Mila,Maiwa,Rekreasi Duta Covid19 SulSel,Perempuan,41 Tahun,Positif - Sembuh
 1183,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,31 Tahun,Positif - Sembuh
 1184,Mulyasri,Tomoni,Kabupaten Luwu Timur,Laki-Laki,39 Tahun,Positif - Sembuh
 1185,Manggala,Manggala,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
@@ -1195,7 +1195,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1194,Tamangapa,Manggala,Kota Makassar,Perempuan,42 Tahun,Positif - Dirawat Pasien Positif
 1195,-,-,RS Lain-lain,Laki-Laki,48 Tahun,Positif - Dirawat Pasien Positif
 1196,Cappagalung,Bacukiki Barat,Kota Parepare,Perempuan,39 Tahun,Positif - Dirawat Pasien Positif
-1197,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Dirawat Pasien Positif
+1197,-,Enrekang,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Dirawat Pasien Positif
 1198,Bunga Eja Beru,Tallo,Kota Makassar,Perempuan,22 Tahun,Positif - Dirawat Pasien Positif
 1199,Lampenai,Wotu,Kabupaten Luwu Timur,Perempuan,33 Tahun,Positif - Sembuh
 1200,Bawalipu,Wotu,Kabupaten Luwu Timur,Perempuan,31 Tahun,Positif - Sembuh
@@ -1312,8 +1312,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1311,Tamparang Keke,Mamajang,Kota Makassar,Perempuan,47 Tahun,Positif - Dirawat Pasien Positif
 1312,Jongaya,Tamalate,Kota Makassar,Perempuan,41 Tahun,Positif - Sembuh
 1313,Bontoala Parang,Bontoala,Kota Makassar,Perempuan,58 Tahun,Positif - Dirawat Pasien Positif
-1314,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,41 Tahun,Positif - Dirawat Pasien Positif
-1315,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,5 Tahun,Positif - Sembuh
+1314,Kambiolangi,Alla,Rekreasi Duta Covid19 SulSel,Laki-Laki,41 Tahun,Positif - Dirawat Pasien Positif
+1315,Kambiolangi,Alla,Rekreasi Duta Covid19 SulSel,Perempuan,5 Tahun,Positif - Sembuh
 1316,-,-,RS Lain-lain,Laki-Laki,31 Tahun,Positif - Sembuh
 1317,Bawalipu,Wotu,Kabupaten Luwu Timur,Laki-Laki,41 Tahun,Positif - Sembuh
 1318,Kanawatu,Wotu,Kabupaten Luwu Timur,Laki-Laki,29 Tahun,Positif - Sembuh
@@ -1468,9 +1468,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1467,Bunga Ejaya,Bontoala,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
 1468,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,38 Tahun,Positif - Sembuh
 1469,Mangasa,Tamalate,Kota Makassar,Laki-Laki,26 Tahun,Positif - Sembuh
-1470,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,26 Tahun,Positif - Dirawat Pasien Positif
-1471,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,46 Tahun,Positif - Sembuh
-1472,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,30 Tahun,Positif - Sembuh
+1470,-,Maiwa,Rekreasi Duta Covid19 SulSel,Perempuan,26 Tahun,Positif - Dirawat Pasien Positif
+1471,-,Maiwa,Rekreasi Duta Covid19 SulSel,Perempuan,46 Tahun,Positif - Sembuh
+1472,-,Maiwa,Rekreasi Duta Covid19 SulSel,Perempuan,30 Tahun,Positif - Sembuh
 1473,-,Patimpeng,RS Lain-lain,Perempuan,66 Tahun,Positif - Dirawat Pasien Positif
 1474,Bunga Eja Beru,Tallo,Kota Makassar,Perempuan,39 Tahun,Positif - Dirawat Pasien Positif
 1475,Banggae,Mangara Bombang,Kabupaten Takalar,Perempuan,29 Tahun,Positif - Dirawat Pasien Positif
@@ -1508,7 +1508,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1507,Tassililu,Sinjai Barat,Kabupaten Sinjai,Perempuan,41 Tahun,Positif - Dirawat Pasien Positif
 1508,-,-,RS Lain-lain,Laki-Laki,50 Tahun,Positif - Sembuh
 1509,P A I,Biring Kanaya,Kota Makassar,Laki-Laki,28 Tahun,Positif - Sembuh
-1510,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,23 Tahun,Positif - Dirawat Pasien Positif
+1510,-,Malua,Rekreasi Duta Covid19 SulSel,Laki-Laki,23 Tahun,Positif - Dirawat Pasien Positif
 1511,-,-,RS Lain-lain,Perempuan,48 Tahun,Positif - Dirawat Pasien Positif
 1512,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,39 Tahun,Positif - Dirawat Pasien Positif
 1513,Borong,Manggala,Kota Makassar,Perempuan,32 Tahun,Positif - Dirawat Pasien Positif
@@ -1621,7 +1621,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1620,-,-,RS Lain-lain,Perempuan,54 Tahun,Positif - Dirawat Pasien Positif
 1621,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,43 Tahun,Positif - Sembuh
 1622,-,-,RS Lain-lain,Laki-Laki,31 Tahun,Positif - Sembuh
-1623,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,5 Tahun,Positif - Dirawat Pasien Positif
+1623,-,Enrekang,Rekreasi Duta Covid19 SulSel,Laki-Laki,5 Tahun,Positif - Dirawat Pasien Positif
 1624,Ballaparang,Rappocini,Kota Makassar,Laki-Laki,59 Tahun,Positif - Sembuh
 1625,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,11 Tahun,Positif - Dirawat Pasien Positif
 1626,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
@@ -1920,7 +1920,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1919,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,30 Tahun,Positif - Dirawat Pasien Positif
 1920,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,33 Tahun,Positif - Dirawat Pasien Positif
 1921,Mappala,Rappocini,Kota Makassar,Perempuan,49 Tahun,Positif - Dirawat Pasien Positif
-1922,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,35 Tahun,Positif - Dirawat Pasien Positif
+1922,Juppandang,Enrekang,Rekreasi Duta Covid19 SulSel,Laki-Laki,35 Tahun,Positif - Dirawat Pasien Positif
 1923,Bara-Baraya Selatan,Makassar,Kota Makassar,Laki-Laki,68 Tahun,Positif - Dirawat Pasien Positif
 1924,Rappokalling,Tallo,Kota Makassar,Laki-Laki,51 Tahun,Positif - Dirawat Pasien Positif
 1925,Layang,Bontoala,Kota Makassar,Laki-Laki,54 Tahun,Positif - Dirawat Pasien Positif
@@ -3789,7 +3789,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3788,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,72 Tahun,Positif - Meninggal
 3789,Pampang,Panakkukang,Kota Makassar,Perempuan,57 Tahun,Positif - Meninggal
 3790,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,52 Tahun,Positif - Meninggal
-3791,-,-,RS Lain-lain,Perempuan,72 Tahun,Positif - Meninggal
+3791,Pana,Alla,RS Lain-lain,Perempuan,72 Tahun,Positif - Meninggal
 3792,Panambungan,Mariso,Kota Makassar,Perempuan,61 Tahun,Positif - Meninggal
 3793,Pandang,Panakkukang,Kota Makassar,Perempuan,69 Tahun,Positif - Meninggal
 3794,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,55 Tahun,Positif - Meninggal
@@ -12836,377 +12836,376 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 12835,Paconne,Belopa Utara,Kabupaten Luwu,Laki-Laki,44 Tahun,ODP - Selesai Pengawasan
 12836,Lembang Salutandung,Saluputti,Kabupaten Tana Toraja,Laki-Laki,37 Tahun,ODP - Selesai Pengawasan
 12837,Kelurahan Bittuang,Bittuang,Kabupaten Tana Toraja,Perempuan,19 Tahun,ODP - Selesai Pengawasan
-12838,Seppong,Belopa Utara,Kabupaten Luwu,Perempuan,8 Tahun,ODP - Selesai Pengawasan
-12839,Lembang Moroson,Kurra,Kabupaten Tana Toraja,Perempuan,25 Tahun,ODP - Selesai Pengawasan
-12840,Kelurahan Rante Kurra,Kurra,Kabupaten Tana Toraja,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-12841,Seppong,Belopa Utara,Kabupaten Luwu,Laki-Laki,42 Tahun,ODP - Selesai Pengawasan
-12842,Lembang Bulian Massabu,Sangalla,Kabupaten Tana Toraja,Perempuan,24 Tahun,ODP - Selesai Pengawasan
-12843,Seppong,Belopa Utara,Kabupaten Luwu,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
-12844,Lembang Gandang Batu,Gandang Batu Silanan,Kabupaten Tana Toraja,Perempuan,18 Tahun,ODP - Selesai Pengawasan
-12845,Lembang Gandang Batu,Gandang Batu Silanan,Kabupaten Tana Toraja,Perempuan,36 Tahun,ODP - Selesai Pengawasan
-12846,Langkiddi,Bajo,Kabupaten Luwu,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
-12847,-,Rantetayo,Kabupaten Tana Toraja,Laki-Laki,-,ODP - Selesai Pengawasan
-12848,-,Makale,Kabupaten Tana Toraja,Perempuan,-,ODP - Selesai Pengawasan
-12849,-,Makale,Kabupaten Tana Toraja,Laki-Laki,-,ODP - Selesai Pengawasan
-12850,-,Sangala Selatan,Kabupaten Tana Toraja,Laki-Laki,-,ODP - Selesai Pengawasan
-12851,-,Makale,Kabupaten Tana Toraja,Perempuan,-,ODP - Selesai Pengawasan
-12852,Bajo,Bajo,Kabupaten Luwu,Laki-Laki,2 Tahun,ODP - Selesai Pengawasan
-12853,Lembang Palesan,Rembon,Kabupaten Tana Toraja,Perempuan,40 Tahun,ODP - Selesai Pengawasan
-12854,Lembang Tonglo,Rantetayo,Kabupaten Tana Toraja,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
-12855,Kelurahan Ariang,Makale,Kabupaten Tana Toraja,Laki-Laki,36 Tahun,ODP - Selesai Pengawasan
-12856,Bajo,Bajo,Kabupaten Luwu,Laki-Laki,9 Tahun,ODP - Selesai Pengawasan
-12857,Kelurahan  Rembon,Rembon,Kabupaten Tana Toraja,Perempuan,32 Tahun,ODP - Selesai Pengawasan
-12858,Kelurahan Padang Iring,Rantetayo,Kabupaten Tana Toraja,Perempuan,38 Tahun,ODP - Selesai Pengawasan
-12859,Lembang Letek,Bittuang,Kabupaten Tana Toraja,Perempuan,46 Tahun,ODP - Selesai Pengawasan
-12860,Lembang Ratte Talonge,Saluputti,Kabupaten Tana Toraja,Perempuan,30 Tahun,ODP - Selesai Pengawasan
-12861,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Perempuan,29 Tahun,ODP - Selesai Pengawasan
-12862,-,Larompong Selatan,Kabupaten Luwu,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-12863,Lembang Madandan,Rantetayo,Kabupaten Tana Toraja,Perempuan,33 Tahun,ODP - Selesai Pengawasan
-12864,Kelurahan Bombongan,Makale,Kabupaten Tana Toraja,Laki-Laki,6 Tahun,ODP - Selesai Pengawasan
-12865,Larompong,Larompong,Kabupaten Luwu,Perempuan,47 Tahun,ODP - Selesai Pengawasan
-12866,-,Makale,Kabupaten Tana Toraja,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
-12867,-,Suli Barat,Kabupaten Luwu,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
-12868,Lembang Ratte Talonge,Saluputti,Kabupaten Tana Toraja,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
-12869,Balangnipa,Sinjai Utara,Kabupaten Sinjai,Perempuan,35 Tahun,ODP - Proses Pengawasan
-12870,Buntu Kamiri,Ponrang,Kabupaten Luwu,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
-12871,Sumabu,Bajo,Kabupaten Luwu,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
-12872,Caile,Ujung Bulu,Kabupaten Bulukumba,Perempuan,23 Tahun,ODP - Selesai Pengawasan
-12873,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,6 Tahun,ODP - Selesai Pengawasan
-12874,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,-,ODP - Selesai Pengawasan
-12875,Bontoramba,Somba Opu,Kabupaten Gowa,Laki-Laki,11 Tahun,ODP - Selesai Pengawasan
-12876,Jenemadinging,Pattallassang,Kabupaten Gowa,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-12877,Baturappe,Biringbulu,Kabupaten Gowa,Perempuan,19 Tahun,ODP - Selesai Pengawasan
-12878,Romangpolong,Somba Opu,Kabupaten Gowa,Laki-Laki,56 Tahun,ODP - Selesai Pengawasan
-12879,Romangpolong,Somba Opu,Kabupaten Gowa,Perempuan,53 Tahun,ODP - Selesai Pengawasan
-12880,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
-12881,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
-12882,Lembangparang,Barombong,Kabupaten Gowa,Perempuan,20 Tahun,ODP - Selesai Pengawasan
-12883,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
-12884,Kanjilo,Barombong,Kabupaten Gowa,Perempuan,26 Tahun,ODP - Selesai Pengawasan
-12885,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
-12886,Bontoramba,Pallangga,Kabupaten Gowa,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
-12887,Romanglompoa,Bontomarannu,Kabupaten Gowa,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
-12888,Taeng,Pallangga,Kabupaten Gowa,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
-12889,Samata,Somba Opu,Kabupaten Gowa,Perempuan,31 Tahun,ODP - Selesai Pengawasan
-12890,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
-12891,Samata,Somba Opu,Kabupaten Gowa,Perempuan,20 Tahun,ODP - Selesai Pengawasan
-12892,Romanglompoa,Bontomarannu,Kabupaten Gowa,Laki-Laki,10 Tahun,ODP - Selesai Pengawasan
-12893,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,9 Tahun,ODP - Selesai Pengawasan
-12894,Pakatto,Bontomarannu,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
-12895,Borongloe,Bontomarannu,Kabupaten Gowa,Laki-Laki,5 Tahun,ODP - Selesai Pengawasan
-12896,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,22 Tahun,ODP - Selesai Pengawasan
-12897,Batangkaluku,Somba Opu,Kabupaten Gowa,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
-12898,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
-12899,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,21 Tahun,ODP - Selesai Pengawasan
-12900,Samata,Somba Opu,Kabupaten Gowa,Perempuan,8 Tahun,ODP - Selesai Pengawasan
-12901,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,21 Tahun,ODP - Selesai Pengawasan
-12902,Rannaloe,Bungaya,Kabupaten Gowa,Perempuan,74 Tahun,ODP - Selesai Pengawasan
-12903,Tamaona,Tombolo Pao,Kabupaten Gowa,Perempuan,37 Tahun,ODP - Selesai Pengawasan
-12904,Bonerate,Pasimarannu,Kabupaten Kepulauan Selayar,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
-12905,Panyangkalang,Bajeng,Kabupaten Gowa,Laki-Laki,46 Tahun,ODP - Selesai Pengawasan
-12906,Batangmata,Bontomatene,Kabupaten Kepulauan Selayar,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
-12907,Sipatokkong,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
-12908,Sipatokkong,Watang Sawitto,Kabupaten Pinrang,Perempuan,27 Tahun,ODP - Proses Pengawasan
-12909,Padaidi,Mattiro Bulu,Kabupaten Pinrang,Perempuan,47 Tahun,ODP - Proses Pengawasan
-12910,Wattang Pulu,Suppa,Kabupaten Pinrang,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
-12911,Wattang Pulu,Suppa,Kabupaten Pinrang,Perempuan,37 Tahun,ODP - Proses Pengawasan
-12912,Jaya,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-12913,Salo,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
-12914,Bunga,Mattiro Bulu,Kabupaten Pinrang,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-12915,Bontomanai,Bontomarannu,Kabupaten Gowa,Laki-Laki,60 Tahun,ODP - Selesai Pengawasan
-12916,Labukkang,Ujung,Kota Parepare,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
-12917,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,12 Tahun,ODP - Selesai Pengawasan
-12918,Panyangkalang,Bajeng,Kabupaten Gowa,Perempuan,25 Tahun,ODP - Selesai Pengawasan
-12919,Mappala,Rappocini,Kota Makassar,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
-12920,Sengka,Bontonompo Selatan,Kabupaten Gowa,Perempuan,71 Tahun,ODP - Selesai Pengawasan
-12921,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
-12922,Mappala,Rappocini,Kota Makassar,Laki-Laki,10 Tahun,ODP - Proses Pengawasan
-12923,Julupamai,Pallangga,Kabupaten Gowa,Perempuan,30 Tahun,ODP - Selesai Pengawasan
-12924,Mappala,Rappocini,Kota Makassar,Perempuan,58 Tahun,ODP - Proses Pengawasan
-12925,Jenemadinging,Pattallassang,Kabupaten Gowa,Perempuan,47 Tahun,ODP - Selesai Pengawasan
-12926,Jenemadinging,Pattallassang,Kabupaten Gowa,Laki-Laki,42 Tahun,ODP - Selesai Pengawasan
-12927,Mappala,Rappocini,Kota Makassar,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
-12928,Pallantikang,Pattallassang,Kabupaten Gowa,Laki-Laki,54 Tahun,ODP - Selesai Pengawasan
-12929,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
-12930,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
-12931,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
-12932,Pallantikang,Pattallassang,Kabupaten Gowa,Laki-Laki,59 Tahun,ODP - Selesai Pengawasan
-12933,Pallantikang,Pattallassang,Kabupaten Gowa,Laki-Laki,55 Tahun,ODP - Selesai Pengawasan
-12934,Pabentengan,Bajeng,Kabupaten Gowa,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
-12935,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
-12936,Nirannuang,Bontomarannu,Kabupaten Gowa,Laki-Laki,72 Tahun,ODP - Selesai Pengawasan
-12937,Rannaloe,Bungaya,Kabupaten Gowa,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
-12938,Limbung,Bajeng,Kabupaten Gowa,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
-12939,Parang Banoa,Pallangga,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
-12940,Bontomanai,Bajeng Barat,Kabupaten Gowa,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
-12941,Pallangga,Pallangga,Kabupaten Gowa,Perempuan,51 Tahun,ODP - Selesai Pengawasan
-12942,Lembangparang,Barombong,Kabupaten Gowa,Laki-Laki,8 Tahun,ODP - Selesai Pengawasan
-12943,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,49 Tahun,ODP - Selesai Pengawasan
-12944,Tompobalang,Somba Opu,Kabupaten Gowa,Perempuan,92 Tahun,ODP - Selesai Pengawasan
-12945,Lembangparang,Barombong,Kabupaten Gowa,Perempuan,-,ODP - Selesai Pengawasan
-12946,Bontoparang,Parangloe,Kabupaten Gowa,Perempuan,31 Tahun,ODP - Selesai Pengawasan
-12947,Baturappe,Biringbulu,Kabupaten Gowa,Perempuan,28 Tahun,ODP - Selesai Pengawasan
-12948,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
-12949,Taeng,Pallangga,Kabupaten Gowa,Laki-Laki,37 Tahun,ODP - Selesai Pengawasan
-12950,Toddotoa,Pallangga,Kabupaten Gowa,Perempuan,36 Tahun,ODP - Selesai Pengawasan
-12951,Pandang Pandang,Somba Opu,Kabupaten Gowa,Perempuan,26 Tahun,ODP - Selesai Pengawasan
-12952,Bontomanai,Bontomarannu,Kabupaten Gowa,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
-12953,Benteng Somba Opu,Barombong,Kabupaten Gowa,Laki-Laki,9 Tahun,ODP - Selesai Pengawasan
-12954,Benteng Somba Opu,Barombong,Kabupaten Gowa,Perempuan,1 Tahun,ODP - Selesai Pengawasan
-12955,Romanglompoa,Bontomarannu,Kabupaten Gowa,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
-12956,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,27 Tahun,ODP - Selesai Pengawasan
-12957,Buakkang,Bungaya,Kabupaten Gowa,Perempuan,23 Tahun,ODP - Selesai Pengawasan
-12958,Bontoala,Pallangga,Kabupaten Gowa,Perempuan,80 Tahun,ODP - Selesai Pengawasan
-12959,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,21 Tahun,ODP - Selesai Pengawasan
-12960,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,26 Tahun,ODP - Selesai Pengawasan
-12961,Panakkukang,Pallangga,Kabupaten Gowa,Perempuan,27 Tahun,ODP - Selesai Pengawasan
-12962,Bonto Bontoa,Somba Opu,Kabupaten Gowa,Perempuan,17 Tahun,ODP - Selesai Pengawasan
-12963,Taeng,Pallangga,Kabupaten Gowa,Perempuan,15 Tahun,ODP - Selesai Pengawasan
-12964,Samata,Somba Opu,Kabupaten Gowa,Perempuan,13 Tahun,ODP - Selesai Pengawasan
-12965,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
-12966,Sokkolia,Bontomarannu,Kabupaten Gowa,Perempuan,6 Tahun,ODP - Selesai Pengawasan
-12967,Manjalling,Bajeng Barat,Kabupaten Gowa,Laki-Laki,63 Tahun,ODP - Selesai Pengawasan
-12968,Mangalli,Pallangga,Kabupaten Gowa,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-12969,Romangpolong,Somba Opu,Kabupaten Gowa,Perempuan,25 Tahun,ODP - Selesai Pengawasan
-12970,Kalegowa,Somba Opu,Kabupaten Gowa,Laki-Laki,15 Tahun,ODP - Selesai Pengawasan
-12971,Julubori,Pallangga,Kabupaten Gowa,Perempuan,1 Tahun,ODP - Selesai Pengawasan
-12972,Erelembang,Tombolo Pao,Kabupaten Gowa,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
-12973,Malino,Tinggimoncong,Kabupaten Gowa,Perempuan,11 Tahun,ODP - Selesai Pengawasan
-12974,Tubajeng,Bajeng,Kabupaten Gowa,Perempuan,5 Tahun,ODP - Selesai Pengawasan
-12975,Moncongloe,Manuju,Kabupaten Gowa,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
-12976,Sunggumanai,Pattallassang,Kabupaten Gowa,Laki-Laki,8 Tahun,ODP - Selesai Pengawasan
-12977,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,50 Tahun,ODP - Selesai Pengawasan
-12978,Pakatto,Bontomarannu,Kabupaten Gowa,Perempuan,39 Tahun,ODP - Selesai Pengawasan
-12979,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,65 Tahun,ODP - Selesai Pengawasan
-12980,Gentungang,Bajeng Barat,Kabupaten Gowa,Laki-Laki,-,ODP - Selesai Pengawasan
-12981,Kalaserena,Bontonompo,Kabupaten Gowa,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
-12982,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
-12983,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
-12984,Maradekaya,Bajeng,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
-12985,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,26 Tahun,ODP - Proses Pengawasan
-12986,Tetebatu,Pallangga,Kabupaten Gowa,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
-12987,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,53 Tahun,ODP - Selesai Pengawasan
-12988,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,11 Tahun,ODP - Proses Pengawasan
-12989,Bontoparang,Parangloe,Kabupaten Gowa,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
-12990,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,13 Tahun,ODP - Proses Pengawasan
-12991,Samata,Somba Opu,Kabupaten Gowa,Perempuan,58 Tahun,ODP - Selesai Pengawasan
-12992,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,65 Tahun,ODP - Proses Pengawasan
-12993,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-12994,Bonto Makkio,Rappocini,Kota Makassar,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-12995,Bonto Makkio,Rappocini,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-12996,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,35 Tahun,ODP - Proses Pengawasan
-12997,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,37 Tahun,ODP - Proses Pengawasan
-12998,Bonto Makkio,Rappocini,Kota Makassar,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-12999,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,63 Tahun,ODP - Proses Pengawasan
-13000,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,39 Tahun,ODP - Proses Pengawasan
-13001,Bone,Masamba,Kabupaten Luwu Utara,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
-13002,Radda,Baebunta,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-13003,Salama,Sabbang,Kabupaten Luwu Utara,Perempuan,44 Tahun,ODP - Proses Pengawasan
-13004,Pompaniki,Sabbang,Kabupaten Luwu Utara,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
-13005,Bulujaya,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,6 Tahun,ODP - Proses Pengawasan
-13006,Bulujaya,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
-13007,Bulujaya,Bangkala Barat,Kabupaten Jeneponto,Perempuan,43 Tahun,ODP - Proses Pengawasan
-13008,Bulujaya,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-13009,Barana,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-13010,Togo-Togo,Batang,Kabupaten Jeneponto,Perempuan,70 Tahun,ODP - Selesai Pengawasan
-13011,Mangepong,Turatea,Kabupaten Jeneponto,Laki-Laki,14 Tahun,ODP - Selesai Pengawasan
-13012,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,58 Tahun,ODP - Selesai Pengawasan
-13013,Gentungang,Bajeng Barat,Kabupaten Gowa,Perempuan,1 Tahun,ODP - Proses Pengawasan
-13014,Bontomanai,Bajeng Barat,Kabupaten Gowa,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
-13015,Tompobalang,Somba Opu,Kabupaten Gowa,Perempuan,26 Tahun,ODP - Proses Pengawasan
-13016,Limbung,Bajeng,Kabupaten Gowa,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
-13017,Manjalling,Bajeng Barat,Kabupaten Gowa,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
+12838,Lembang Moroson,Kurra,Kabupaten Tana Toraja,Perempuan,25 Tahun,ODP - Selesai Pengawasan
+12839,Kelurahan Rante Kurra,Kurra,Kabupaten Tana Toraja,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+12840,Seppong,Belopa Utara,Kabupaten Luwu,Laki-Laki,42 Tahun,ODP - Selesai Pengawasan
+12841,Lembang Bulian Massabu,Sangalla,Kabupaten Tana Toraja,Perempuan,24 Tahun,ODP - Selesai Pengawasan
+12842,Seppong,Belopa Utara,Kabupaten Luwu,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
+12843,Lembang Gandang Batu,Gandang Batu Silanan,Kabupaten Tana Toraja,Perempuan,18 Tahun,ODP - Selesai Pengawasan
+12844,Lembang Gandang Batu,Gandang Batu Silanan,Kabupaten Tana Toraja,Perempuan,36 Tahun,ODP - Selesai Pengawasan
+12845,Langkiddi,Bajo,Kabupaten Luwu,Laki-Laki,45 Tahun,ODP - Selesai Pengawasan
+12846,-,Rantetayo,Kabupaten Tana Toraja,Laki-Laki,-,ODP - Selesai Pengawasan
+12847,-,Makale,Kabupaten Tana Toraja,Perempuan,-,ODP - Selesai Pengawasan
+12848,-,Makale,Kabupaten Tana Toraja,Laki-Laki,-,ODP - Selesai Pengawasan
+12849,-,Sangala Selatan,Kabupaten Tana Toraja,Laki-Laki,-,ODP - Selesai Pengawasan
+12850,-,Makale,Kabupaten Tana Toraja,Perempuan,-,ODP - Selesai Pengawasan
+12851,Bajo,Bajo,Kabupaten Luwu,Laki-Laki,2 Tahun,ODP - Selesai Pengawasan
+12852,Lembang Palesan,Rembon,Kabupaten Tana Toraja,Perempuan,40 Tahun,ODP - Selesai Pengawasan
+12853,Lembang Tonglo,Rantetayo,Kabupaten Tana Toraja,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
+12854,Kelurahan Ariang,Makale,Kabupaten Tana Toraja,Laki-Laki,36 Tahun,ODP - Selesai Pengawasan
+12855,Bajo,Bajo,Kabupaten Luwu,Laki-Laki,9 Tahun,ODP - Selesai Pengawasan
+12856,Kelurahan  Rembon,Rembon,Kabupaten Tana Toraja,Perempuan,32 Tahun,ODP - Selesai Pengawasan
+12857,Kelurahan Padang Iring,Rantetayo,Kabupaten Tana Toraja,Perempuan,38 Tahun,ODP - Selesai Pengawasan
+12858,Lembang Letek,Bittuang,Kabupaten Tana Toraja,Perempuan,46 Tahun,ODP - Selesai Pengawasan
+12859,Lembang Ratte Talonge,Saluputti,Kabupaten Tana Toraja,Perempuan,30 Tahun,ODP - Selesai Pengawasan
+12860,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Perempuan,29 Tahun,ODP - Selesai Pengawasan
+12861,-,Larompong Selatan,Kabupaten Luwu,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+12862,Lembang Madandan,Rantetayo,Kabupaten Tana Toraja,Perempuan,33 Tahun,ODP - Selesai Pengawasan
+12863,Kelurahan Bombongan,Makale,Kabupaten Tana Toraja,Laki-Laki,6 Tahun,ODP - Selesai Pengawasan
+12864,Larompong,Larompong,Kabupaten Luwu,Perempuan,47 Tahun,ODP - Selesai Pengawasan
+12865,-,Makale,Kabupaten Tana Toraja,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
+12866,-,Suli Barat,Kabupaten Luwu,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
+12867,Lembang Ratte Talonge,Saluputti,Kabupaten Tana Toraja,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
+12868,Balangnipa,Sinjai Utara,Kabupaten Sinjai,Perempuan,35 Tahun,ODP - Proses Pengawasan
+12869,Buntu Kamiri,Ponrang,Kabupaten Luwu,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+12870,Sumabu,Bajo,Kabupaten Luwu,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
+12871,Caile,Ujung Bulu,Kabupaten Bulukumba,Perempuan,23 Tahun,ODP - Selesai Pengawasan
+12872,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,6 Tahun,ODP - Selesai Pengawasan
+12873,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,-,ODP - Selesai Pengawasan
+12874,Bontoramba,Somba Opu,Kabupaten Gowa,Laki-Laki,11 Tahun,ODP - Selesai Pengawasan
+12875,Jenemadinging,Pattallassang,Kabupaten Gowa,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+12876,Baturappe,Biringbulu,Kabupaten Gowa,Perempuan,19 Tahun,ODP - Selesai Pengawasan
+12877,Romangpolong,Somba Opu,Kabupaten Gowa,Laki-Laki,56 Tahun,ODP - Selesai Pengawasan
+12878,Romangpolong,Somba Opu,Kabupaten Gowa,Perempuan,53 Tahun,ODP - Selesai Pengawasan
+12879,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
+12880,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
+12881,Lembangparang,Barombong,Kabupaten Gowa,Perempuan,20 Tahun,ODP - Selesai Pengawasan
+12882,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
+12883,Kanjilo,Barombong,Kabupaten Gowa,Perempuan,26 Tahun,ODP - Selesai Pengawasan
+12884,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
+12885,Bontoramba,Pallangga,Kabupaten Gowa,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+12886,Romanglompoa,Bontomarannu,Kabupaten Gowa,Laki-Laki,40 Tahun,ODP - Selesai Pengawasan
+12887,Taeng,Pallangga,Kabupaten Gowa,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
+12888,Samata,Somba Opu,Kabupaten Gowa,Perempuan,31 Tahun,ODP - Selesai Pengawasan
+12889,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,29 Tahun,ODP - Selesai Pengawasan
+12890,Samata,Somba Opu,Kabupaten Gowa,Perempuan,20 Tahun,ODP - Selesai Pengawasan
+12891,Romanglompoa,Bontomarannu,Kabupaten Gowa,Laki-Laki,10 Tahun,ODP - Selesai Pengawasan
+12892,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,9 Tahun,ODP - Selesai Pengawasan
+12893,Pakatto,Bontomarannu,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
+12894,Borongloe,Bontomarannu,Kabupaten Gowa,Laki-Laki,5 Tahun,ODP - Selesai Pengawasan
+12895,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,22 Tahun,ODP - Selesai Pengawasan
+12896,Batangkaluku,Somba Opu,Kabupaten Gowa,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
+12897,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
+12898,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,21 Tahun,ODP - Selesai Pengawasan
+12899,Samata,Somba Opu,Kabupaten Gowa,Perempuan,8 Tahun,ODP - Selesai Pengawasan
+12900,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,21 Tahun,ODP - Selesai Pengawasan
+12901,Rannaloe,Bungaya,Kabupaten Gowa,Perempuan,74 Tahun,ODP - Selesai Pengawasan
+12902,Tamaona,Tombolo Pao,Kabupaten Gowa,Perempuan,37 Tahun,ODP - Selesai Pengawasan
+12903,Bonerate,Pasimarannu,Kabupaten Kepulauan Selayar,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
+12904,Panyangkalang,Bajeng,Kabupaten Gowa,Laki-Laki,46 Tahun,ODP - Selesai Pengawasan
+12905,Batangmata,Bontomatene,Kabupaten Kepulauan Selayar,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
+12906,Sipatokkong,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
+12907,Sipatokkong,Watang Sawitto,Kabupaten Pinrang,Perempuan,27 Tahun,ODP - Proses Pengawasan
+12908,Padaidi,Mattiro Bulu,Kabupaten Pinrang,Perempuan,47 Tahun,ODP - Proses Pengawasan
+12909,Wattang Pulu,Suppa,Kabupaten Pinrang,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
+12910,Wattang Pulu,Suppa,Kabupaten Pinrang,Perempuan,37 Tahun,ODP - Proses Pengawasan
+12911,Jaya,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
+12912,Salo,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
+12913,Bunga,Mattiro Bulu,Kabupaten Pinrang,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+12914,Bontomanai,Bontomarannu,Kabupaten Gowa,Laki-Laki,60 Tahun,ODP - Selesai Pengawasan
+12915,Labukkang,Ujung,Kota Parepare,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
+12916,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,12 Tahun,ODP - Selesai Pengawasan
+12917,Panyangkalang,Bajeng,Kabupaten Gowa,Perempuan,25 Tahun,ODP - Selesai Pengawasan
+12918,Mappala,Rappocini,Kota Makassar,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+12919,Sengka,Bontonompo Selatan,Kabupaten Gowa,Perempuan,71 Tahun,ODP - Selesai Pengawasan
+12920,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+12921,Mappala,Rappocini,Kota Makassar,Laki-Laki,10 Tahun,ODP - Proses Pengawasan
+12922,Julupamai,Pallangga,Kabupaten Gowa,Perempuan,30 Tahun,ODP - Selesai Pengawasan
+12923,Mappala,Rappocini,Kota Makassar,Perempuan,58 Tahun,ODP - Proses Pengawasan
+12924,Jenemadinging,Pattallassang,Kabupaten Gowa,Perempuan,47 Tahun,ODP - Selesai Pengawasan
+12925,Jenemadinging,Pattallassang,Kabupaten Gowa,Laki-Laki,42 Tahun,ODP - Selesai Pengawasan
+12926,Mappala,Rappocini,Kota Makassar,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
+12927,Pallantikang,Pattallassang,Kabupaten Gowa,Laki-Laki,54 Tahun,ODP - Selesai Pengawasan
+12928,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
+12929,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
+12930,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,21 Tahun,ODP - Proses Pengawasan
+12931,Pallantikang,Pattallassang,Kabupaten Gowa,Laki-Laki,59 Tahun,ODP - Selesai Pengawasan
+12932,Pallantikang,Pattallassang,Kabupaten Gowa,Laki-Laki,55 Tahun,ODP - Selesai Pengawasan
+12933,Pabentengan,Bajeng,Kabupaten Gowa,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
+12934,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
+12935,Nirannuang,Bontomarannu,Kabupaten Gowa,Laki-Laki,72 Tahun,ODP - Selesai Pengawasan
+12936,Rannaloe,Bungaya,Kabupaten Gowa,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
+12937,Limbung,Bajeng,Kabupaten Gowa,Laki-Laki,25 Tahun,ODP - Selesai Pengawasan
+12938,Parang Banoa,Pallangga,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
+12939,Bontomanai,Bajeng Barat,Kabupaten Gowa,Laki-Laki,17 Tahun,ODP - Selesai Pengawasan
+12940,Pallangga,Pallangga,Kabupaten Gowa,Perempuan,51 Tahun,ODP - Selesai Pengawasan
+12941,Lembangparang,Barombong,Kabupaten Gowa,Laki-Laki,8 Tahun,ODP - Selesai Pengawasan
+12942,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,49 Tahun,ODP - Selesai Pengawasan
+12943,Tompobalang,Somba Opu,Kabupaten Gowa,Perempuan,92 Tahun,ODP - Selesai Pengawasan
+12944,Lembangparang,Barombong,Kabupaten Gowa,Perempuan,-,ODP - Selesai Pengawasan
+12945,Bontoparang,Parangloe,Kabupaten Gowa,Perempuan,31 Tahun,ODP - Selesai Pengawasan
+12946,Baturappe,Biringbulu,Kabupaten Gowa,Perempuan,28 Tahun,ODP - Selesai Pengawasan
+12947,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,24 Tahun,ODP - Selesai Pengawasan
+12948,Taeng,Pallangga,Kabupaten Gowa,Laki-Laki,37 Tahun,ODP - Selesai Pengawasan
+12949,Toddotoa,Pallangga,Kabupaten Gowa,Perempuan,36 Tahun,ODP - Selesai Pengawasan
+12950,Pandang Pandang,Somba Opu,Kabupaten Gowa,Perempuan,26 Tahun,ODP - Selesai Pengawasan
+12951,Bontomanai,Bontomarannu,Kabupaten Gowa,Laki-Laki,23 Tahun,ODP - Selesai Pengawasan
+12952,Benteng Somba Opu,Barombong,Kabupaten Gowa,Laki-Laki,9 Tahun,ODP - Selesai Pengawasan
+12953,Benteng Somba Opu,Barombong,Kabupaten Gowa,Perempuan,1 Tahun,ODP - Selesai Pengawasan
+12954,Romanglompoa,Bontomarannu,Kabupaten Gowa,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
+12955,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,27 Tahun,ODP - Selesai Pengawasan
+12956,Buakkang,Bungaya,Kabupaten Gowa,Perempuan,23 Tahun,ODP - Selesai Pengawasan
+12957,Bontoala,Pallangga,Kabupaten Gowa,Perempuan,80 Tahun,ODP - Selesai Pengawasan
+12958,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,21 Tahun,ODP - Selesai Pengawasan
+12959,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,26 Tahun,ODP - Selesai Pengawasan
+12960,Panakkukang,Pallangga,Kabupaten Gowa,Perempuan,27 Tahun,ODP - Selesai Pengawasan
+12961,Bonto Bontoa,Somba Opu,Kabupaten Gowa,Perempuan,17 Tahun,ODP - Selesai Pengawasan
+12962,Taeng,Pallangga,Kabupaten Gowa,Perempuan,15 Tahun,ODP - Selesai Pengawasan
+12963,Samata,Somba Opu,Kabupaten Gowa,Perempuan,13 Tahun,ODP - Selesai Pengawasan
+12964,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
+12965,Sokkolia,Bontomarannu,Kabupaten Gowa,Perempuan,6 Tahun,ODP - Selesai Pengawasan
+12966,Manjalling,Bajeng Barat,Kabupaten Gowa,Laki-Laki,63 Tahun,ODP - Selesai Pengawasan
+12967,Mangalli,Pallangga,Kabupaten Gowa,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+12968,Romangpolong,Somba Opu,Kabupaten Gowa,Perempuan,25 Tahun,ODP - Selesai Pengawasan
+12969,Kalegowa,Somba Opu,Kabupaten Gowa,Laki-Laki,15 Tahun,ODP - Selesai Pengawasan
+12970,Julubori,Pallangga,Kabupaten Gowa,Perempuan,1 Tahun,ODP - Selesai Pengawasan
+12971,Erelembang,Tombolo Pao,Kabupaten Gowa,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
+12972,Malino,Tinggimoncong,Kabupaten Gowa,Perempuan,11 Tahun,ODP - Selesai Pengawasan
+12973,Tubajeng,Bajeng,Kabupaten Gowa,Perempuan,5 Tahun,ODP - Selesai Pengawasan
+12974,Moncongloe,Manuju,Kabupaten Gowa,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
+12975,Sunggumanai,Pattallassang,Kabupaten Gowa,Laki-Laki,8 Tahun,ODP - Selesai Pengawasan
+12976,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,50 Tahun,ODP - Selesai Pengawasan
+12977,Pakatto,Bontomarannu,Kabupaten Gowa,Perempuan,39 Tahun,ODP - Selesai Pengawasan
+12978,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,65 Tahun,ODP - Selesai Pengawasan
+12979,Gentungang,Bajeng Barat,Kabupaten Gowa,Laki-Laki,-,ODP - Selesai Pengawasan
+12980,Kalaserena,Bontonompo,Kabupaten Gowa,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
+12981,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
+12982,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
+12983,Maradekaya,Bajeng,Kabupaten Gowa,Laki-Laki,1 Tahun,ODP - Selesai Pengawasan
+12984,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,26 Tahun,ODP - Proses Pengawasan
+12985,Tetebatu,Pallangga,Kabupaten Gowa,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
+12986,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,53 Tahun,ODP - Selesai Pengawasan
+12987,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,11 Tahun,ODP - Proses Pengawasan
+12988,Bontoparang,Parangloe,Kabupaten Gowa,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
+12989,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,13 Tahun,ODP - Proses Pengawasan
+12990,Samata,Somba Opu,Kabupaten Gowa,Perempuan,58 Tahun,ODP - Selesai Pengawasan
+12991,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,65 Tahun,ODP - Proses Pengawasan
+12992,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+12993,Bonto Makkio,Rappocini,Kota Makassar,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+12994,Bonto Makkio,Rappocini,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
+12995,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,35 Tahun,ODP - Proses Pengawasan
+12996,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,37 Tahun,ODP - Proses Pengawasan
+12997,Bonto Makkio,Rappocini,Kota Makassar,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
+12998,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,63 Tahun,ODP - Proses Pengawasan
+12999,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,39 Tahun,ODP - Proses Pengawasan
+13000,Bone,Masamba,Kabupaten Luwu Utara,Laki-Laki,13 Tahun,ODP - Proses Pengawasan
+13001,Radda,Baebunta,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+13002,Salama,Sabbang,Kabupaten Luwu Utara,Perempuan,44 Tahun,ODP - Proses Pengawasan
+13003,Pompaniki,Sabbang,Kabupaten Luwu Utara,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
+13004,Bulujaya,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,6 Tahun,ODP - Proses Pengawasan
+13005,Bulujaya,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,43 Tahun,ODP - Proses Pengawasan
+13006,Bulujaya,Bangkala Barat,Kabupaten Jeneponto,Perempuan,43 Tahun,ODP - Proses Pengawasan
+13007,Bulujaya,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+13008,Barana,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+13009,Togo-Togo,Batang,Kabupaten Jeneponto,Perempuan,70 Tahun,ODP - Selesai Pengawasan
+13010,Mangepong,Turatea,Kabupaten Jeneponto,Laki-Laki,14 Tahun,ODP - Selesai Pengawasan
+13011,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,58 Tahun,ODP - Selesai Pengawasan
+13012,Gentungang,Bajeng Barat,Kabupaten Gowa,Perempuan,1 Tahun,ODP - Proses Pengawasan
+13013,Bontomanai,Bajeng Barat,Kabupaten Gowa,Laki-Laki,20 Tahun,ODP - Proses Pengawasan
+13014,Tompobalang,Somba Opu,Kabupaten Gowa,Perempuan,26 Tahun,ODP - Proses Pengawasan
+13015,Limbung,Bajeng,Kabupaten Gowa,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
+13016,Manjalling,Bajeng Barat,Kabupaten Gowa,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
+13017,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,-,ODP - Proses Pengawasan
 13018,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,-,ODP - Proses Pengawasan
-13019,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,-,ODP - Proses Pengawasan
-13020,Julubori,Pallangga,Kabupaten Gowa,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-13021,Taeng,Pallangga,Kabupaten Gowa,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
-13022,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,46 Tahun,ODP - Proses Pengawasan
-13023,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,29 Tahun,ODP - Proses Pengawasan
-13024,Sokkolia,Bontomarannu,Kabupaten Gowa,Perempuan,17 Tahun,ODP - Proses Pengawasan
-13025,Tompobalang,Somba Opu,Kabupaten Gowa,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-13026,Limbung,Bajeng,Kabupaten Gowa,Perempuan,30 Tahun,ODP - Proses Pengawasan
-13027,Mandalle,Bajeng Barat,Kabupaten Gowa,Perempuan,55 Tahun,ODP - Proses Pengawasan
-13028,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
-13029,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,5 Tahun,ODP - Selesai Pengawasan
-13030,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
-13031,Samata,Somba Opu,Kabupaten Gowa,Perempuan,28 Tahun,ODP - Selesai Pengawasan
-13032,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
-13033,Samata,Somba Opu,Kabupaten Gowa,Perempuan,20 Tahun,ODP - Selesai Pengawasan
-13034,Samata,Somba Opu,Kabupaten Gowa,Perempuan,27 Tahun,ODP - Selesai Pengawasan
-13035,-,Anggeraja,Kabupaten Enrekang,Laki-Laki,74 Tahun,ODP - Proses Pengawasan
-13036,Malua,Malua,Kabupaten Enrekang,Perempuan,80 Tahun,ODP - Proses Pengawasan
-13037,Palakka,Maiwa,Kabupaten Enrekang,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-13038,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,9 Tahun,ODP - Proses Pengawasan
-13039,Kassi-Kassi,Rappocini,Kota Makassar,Perempuan,20 Tahun,ODP - Proses Pengawasan
-13040,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
-13041,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-13042,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,21 Tahun,ODP - Proses Pengawasan
-13043,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-13044,Antang,Manggala,Kota Makassar,Perempuan,63 Tahun,ODP - Proses Pengawasan
-13045,Ujung Pandang Baru,Tallo,Kota Makassar,Perempuan,75 Tahun,ODP - Proses Pengawasan
-13046,Panambungan,Mariso,Kota Makassar,Perempuan,52 Tahun,ODP - Selesai Pengawasan
-13047,A W O,Keera,Kabupaten Wajo,Perempuan,11 Tahun,ODP - Proses Pengawasan
-13048,Benteng,Malangke,Kabupaten Luwu Utara,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
-13049,Sukamukti,Sukamaju,Kabupaten Luwu Utara,Perempuan,6 Tahun,ODP - Proses Pengawasan
-13050,Panambungan,Mariso,Kota Makassar,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
-13051,Kalumeme,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
-13052,Panambungan,Mariso,Kota Makassar,Perempuan,40 Tahun,ODP - Selesai Pengawasan
-13053,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,74 Tahun,ODP - Selesai Pengawasan
-13054,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,90 Tahun,ODP - Selesai Pengawasan
-13055,Panambungan,Mariso,Kota Makassar,Perempuan,17 Tahun,ODP - Selesai Pengawasan
-13056,Bonto Tangnga,Bontotiro,Kabupaten Bulukumba,Perempuan,24 Tahun,ODP - Proses Pengawasan
-13057,Batang,Bontotiro,Kabupaten Bulukumba,Perempuan,30 Tahun,ODP - Proses Pengawasan
-13058,Kalumeme,Ujung Bulu,Kabupaten Bulukumba,Perempuan,27 Tahun,ODP - Proses Pengawasan
-13059,Caile,Ujung Bulu,Kabupaten Bulukumba,Perempuan,32 Tahun,ODP - Proses Pengawasan
-13060,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
-13061,Caile,Ujung Bulu,Kabupaten Bulukumba,Perempuan,24 Tahun,ODP - Proses Pengawasan
-13062,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-13063,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
-13064,Caile,Ujung Bulu,Kabupaten Bulukumba,Perempuan,10 Tahun,ODP - Proses Pengawasan
-13065,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
-13066,Padaidi,Mattiro Bulu,Kabupaten Pinrang,Perempuan,11 Tahun,ODP - Proses Pengawasan
-13067,Sipatuo,Patampanua,Kabupaten Pinrang,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-13068,Barang Palie,Lanrisang,Kabupaten Pinrang,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
-13069,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
-13070,Pekkabata,Duampanua,Kabupaten Pinrang,Perempuan,47 Tahun,ODP - Proses Pengawasan
-13071,Samaenre,Mattirosompe,Kabupaten Pinrang,Perempuan,13 Tahun,ODP - Proses Pengawasan
-13072,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,53 Tahun,ODP - Proses Pengawasan
-13073,Marumpa,Marusu,Kabupaten Maros,Laki-Laki,77 Tahun,ODP - Proses Pengawasan
-13074,Tammua,Tallo,Kota Makassar,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
-13075,Tidung,Rappocini,Kota Makassar,Laki-Laki,93 Tahun,ODP - Proses Pengawasan
-13076,Borong,Manggala,Kota Makassar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
-13077,Antang,Manggala,Kota Makassar,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
-13078,Tamparang Keke,Mamajang,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-13079,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-13080,Bira,Tamalanrea,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-13081,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,32 Tahun,ODP - Proses Pengawasan
-13082,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,48 Tahun,ODP - Proses Pengawasan
-13083,Gunung Sari,Rappocini,Kota Makassar,Perempuan,44 Tahun,ODP - Proses Pengawasan
-13084,Bonto Makkio,Rappocini,Kota Makassar,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
-13085,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
-13086,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,5 Tahun,ODP - Proses Pengawasan
-13087,Rappokalling,Tallo,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
-13088,Manggala,Manggala,Kota Makassar,Laki-Laki,61 Tahun,ODP - Proses Pengawasan
-13089,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-13090,Tello Baru,Panakkukang,Kota Makassar,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-13091,Wala-Walaya,Tallo,Kota Makassar,Laki-Laki,48 Tahun,ODP - Proses Pengawasan
-13092,Manggala,Manggala,Kota Makassar,Laki-Laki,72 Tahun,ODP - Proses Pengawasan
-13093,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-13094,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
-13095,Bontosunggu,Bajeng,Kabupaten Gowa,Perempuan,52 Tahun,ODP - Proses Pengawasan
-13096,Pabentengan,Bajeng,Kabupaten Gowa,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
-13097,Samaturue,Tellu Limpoe,Kabupaten Sinjai,Perempuan,27 Tahun,ODP - Proses Pengawasan
-13098,Saukang,Sinjai Timur,Kabupaten Sinjai,Perempuan,27 Tahun,ODP - Selesai Pengawasan
-13099,Sidenre,Binamu,Kabupaten Jeneponto,Laki-Laki,13 Tahun,ODP - Selesai Pengawasan
-13100,Pabiringa,Binamu,Kabupaten Jeneponto,Laki-Laki,66 Tahun,ODP - Selesai Pengawasan
-13101,Bontolebang,Kelara,Kabupaten Jeneponto,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
-13102,Balang,Binamu,Kabupaten Jeneponto,Perempuan,17 Tahun,ODP - Selesai Pengawasan
-13103,Datara,Bontoramba,Kabupaten Jeneponto,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
-13104,Lentu,Bontoramba,Kabupaten Jeneponto,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
-13105,Batujala,Bontoramba,Kabupaten Jeneponto,Laki-Laki,2 Tahun,ODP - Selesai Pengawasan
-13106,Kayuloe Barat,Turatea,Kabupaten Jeneponto,Perempuan,50 Tahun,ODP - Selesai Pengawasan
-13107,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
-13108,Tonrokassi Timur,Tamalatea,Kabupaten Jeneponto,-,40 Tahun,ODP - Selesai Pengawasan
-13109,Monro-Monro,Binamu,Kabupaten Jeneponto,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
-13110,Tolo Selatan,Kelara,Kabupaten Jeneponto,-,28 Tahun,ODP - Proses Pengawasan
-13111,Cemba,Enrekang,Kabupaten Enrekang,Laki-Laki,75 Tahun,ODP - Proses Pengawasan
-13112,Lunjen,Buntu Batu,Kabupaten Enrekang,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
-13113,Langda,Buntu Batu,Kabupaten Enrekang,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
-13114,Pinang,Cendana,Kabupaten Enrekang,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
-13115,-,Anggeraja,Kabupaten Enrekang,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
-13116,Lapadde,Ujung,Kota Parepare,Perempuan,13 Tahun,ODP - Proses Pengawasan
-13117,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-13118,Bonto Langkasa,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-13119,Pitue,Marang,Kabupaten Pangkajene Dan Kepulauan,Perempuan,-,ODP - Proses Pengawasan
-13120,Samalewa,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,-,ODP - Proses Pengawasan
-13121,Cipotakari,Panca Rijang,Kabupaten Sidenreng Rappang,Perempuan,1 Tahun,ODP - Proses Pengawasan
-13122,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
-13123,Baruga Riattang,Bulukumpa,Kabupaten Bulukumba,Perempuan,23 Tahun,ODP - Proses Pengawasan
-13124,Bintarore,Ujung Bulu,Kabupaten Bulukumba,Perempuan,25 Tahun,ODP - Proses Pengawasan
-13125,Paenre Lompoe,Gantarang,Kabupaten Bulukumba,Perempuan,56 Tahun,ODP - Proses Pengawasan
-13126,Ela-Ela,Ujung Bulu,Kabupaten Bulukumba,Perempuan,25 Tahun,ODP - Proses Pengawasan
-13127,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
-13128,L O K A,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
-13129,Cenning,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,65 Tahun,ODP - Proses Pengawasan
-13130,Meli,Baebunta,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-13131,Dodolo,Rampi,Kabupaten Luwu Utara,Laki-Laki,65 Tahun,ODP - Proses Pengawasan
-13132,Pulau Harapan,Pulau Sembilan,Kabupaten Sinjai,Laki-Laki,7 Tahun,ODP - Proses Pengawasan
-13133,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,50 Tahun,ODP - Selesai Pengawasan
-13134,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,22 Tahun,ODP - Selesai Pengawasan
-13135,Lajangiru,Ujung Pandang,Kota Makassar,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
-13136,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,45 Tahun,ODP - Proses Pengawasan
-13137,Bangkala,Manggala,Kota Makassar,Laki-Laki,58 Tahun,ODP - Proses Pengawasan
-13138,Bangkala,Manggala,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
-13139,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-13140,Masale,Panakkukang,Kota Makassar,Laki-Laki,46 Tahun,ODP - Proses Pengawasan
-13141,Rappokalling,Tallo,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
-13142,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,41 Tahun,ODP - Proses Pengawasan
-13143,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
-13144,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
-13145,Barombong,Tamalate,Kota Makassar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
-13146,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,63 Tahun,ODP - Proses Pengawasan
-13147,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
-13148,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-13149,Gunung Sari,Rappocini,Kota Makassar,Perempuan,43 Tahun,ODP - Proses Pengawasan
-13150,Gunung Sari,Rappocini,Kota Makassar,Perempuan,41 Tahun,ODP - Proses Pengawasan
-13151,Lariang Bangi,Makassar,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
-13152,Maricaya Baru,Makassar,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-13153,Lariang Bangi,Makassar,Kota Makassar,Perempuan,56 Tahun,ODP - Proses Pengawasan
-13154,Sawerigading,Ujung Pandang,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
-13155,Teluk Kampe,Pasimassunggu,Kabupaten Kepulauan Selayar,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
-13156,Teluk Kampe,Pasimassunggu,Kabupaten Kepulauan Selayar,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
-13157,Empoang,Binamu,Kabupaten Jeneponto,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
-13158,Empoang,Binamu,Kabupaten Jeneponto,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
-13159,Bontotangnga,Tamalatea,Kabupaten Jeneponto,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
-13160,Samataring,Sinjai Timur,Kabupaten Sinjai,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
-13161,Sapanang,Binamu,Kabupaten Jeneponto,Perempuan,18 Tahun,ODP - Selesai Pengawasan
-13162,Bulo-Bulo,Arungkeke,Kabupaten Jeneponto,Perempuan,39 Tahun,ODP - Selesai Pengawasan
-13163,Karelayu,Tamalatea,Kabupaten Jeneponto,Perempuan,21 Tahun,ODP - Selesai Pengawasan
-13164,Togo-Togo,Batang,Kabupaten Jeneponto,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
-13165,Jombe,Turatea,Kabupaten Jeneponto,Perempuan,25 Tahun,ODP - Selesai Pengawasan
-13166,Kaluku,Batang,Kabupaten Jeneponto,Perempuan,55 Tahun,ODP - Selesai Pengawasan
-13167,Tonrokassi,Tamalatea,Kabupaten Jeneponto,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
-13168,-,Bangkala,Kabupaten Jeneponto,Perempuan,57 Tahun,ODP - Selesai Pengawasan
-13169,Taman Roya,Tamalatea,Kabupaten Jeneponto,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
-13170,Bontorannu,Bangkala,Kabupaten Jeneponto,Perempuan,27 Tahun,ODP - Selesai Pengawasan
-13171,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
-13172,Kelurahan Buntu Burake,Makale,Kabupaten Tana Toraja,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
-13173,Kelurahan Tarongko,Makale,Kabupaten Tana Toraja,Perempuan,57 Tahun,ODP - Selesai Pengawasan
-13174,Mappedeceng,Mappedeceng,Kabupaten Luwu Utara,Perempuan,60 Tahun,ODP - Proses Pengawasan
-13175,Attang Salo,Marang,Kabupaten Pangkajene Dan Kepulauan,Perempuan,30 Tahun,ODP - Proses Pengawasan
-13176,Baji Pamai,Maros Baru,Kabupaten Maros,Perempuan,49 Tahun,ODP - Proses Pengawasan
-13177,Massewae,Duampanua,Kabupaten Pinrang,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
-13178,Massewae,Duampanua,Kabupaten Pinrang,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-13179,Tasiwalie,Suppa,Kabupaten Pinrang,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
-13180,Tellumpanua,Suppa,Kabupaten Pinrang,Perempuan,15 Tahun,ODP - Proses Pengawasan
-13181,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,17 Tahun,ODP - Proses Pengawasan
-13182,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
-13183,Tellumpanua,Suppa,Kabupaten Pinrang,Perempuan,39 Tahun,ODP - Proses Pengawasan
-13184,Tellumpanua,Suppa,Kabupaten Pinrang,Perempuan,28 Tahun,ODP - Proses Pengawasan
-13185,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
-13186,Padakkalawa,Mattiro Bulu,Kabupaten Pinrang,Perempuan,38 Tahun,ODP - Proses Pengawasan
-13187,Macorawalie,Watang Sawitto,Kabupaten Pinrang,Perempuan,23 Tahun,ODP - Proses Pengawasan
-13188,Pekkabata,Duampanua,Kabupaten Pinrang,Laki-Laki,51 Tahun,ODP - Proses Pengawasan
-13189,Baroko,Baroko,Kabupaten Enrekang,Laki-Laki,81 Tahun,ODP - Proses Pengawasan
-13190,Singki,Anggeraja,Kabupaten Enrekang,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
-13191,Singki,Anggeraja,Kabupaten Enrekang,Laki-Laki,55 Tahun,ODP - Proses Pengawasan
-13192,Mappala,Rappocini,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
-13193,Paropo,Panakkukang,Kota Makassar,Laki-Laki,82 Tahun,ODP - Proses Pengawasan
-13194,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,ODP - Proses Pengawasan
-13195,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
-13196,Pannampu,Tallo,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
-13197,Bunga Eja Beru,Tallo,Kota Makassar,Laki-Laki,61 Tahun,ODP - Proses Pengawasan
-13198,Paropo,Panakkukang,Kota Makassar,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
-13199,Tammua,Tallo,Kota Makassar,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
-13200,Lalatang,Tallo,Kota Makassar,Perempuan,62 Tahun,ODP - Proses Pengawasan
-13201,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,87 Tahun,ODP - Proses Pengawasan
-13202,Ujung Pandang Baru,Tallo,Kota Makassar,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-13203,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
-13204,Lapajung,Lalabata,Kabupaten Soppeng,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
-13205,Pising,Donri Donri,Kabupaten Soppeng,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
-13206,Umpungeng,Lalabata,Kabupaten Soppeng,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
-13207,Barang,Lili Riaja,Kabupaten Soppeng,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
-13208,Pesse,Donri Donri,Kabupaten Soppeng,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
-13209,-,Mallusetasi,Kabupaten Barru,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
-13210,Cilellang,Mallusetasi,Kabupaten Barru,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
-13211,Tobulung,Bara,Kota Palopo,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+13019,Julubori,Pallangga,Kabupaten Gowa,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+13020,Taeng,Pallangga,Kabupaten Gowa,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
+13021,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,46 Tahun,ODP - Proses Pengawasan
+13022,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,29 Tahun,ODP - Proses Pengawasan
+13023,Sokkolia,Bontomarannu,Kabupaten Gowa,Perempuan,17 Tahun,ODP - Proses Pengawasan
+13024,Tompobalang,Somba Opu,Kabupaten Gowa,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+13025,Limbung,Bajeng,Kabupaten Gowa,Perempuan,30 Tahun,ODP - Proses Pengawasan
+13026,Mandalle,Bajeng Barat,Kabupaten Gowa,Perempuan,55 Tahun,ODP - Proses Pengawasan
+13027,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
+13028,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,5 Tahun,ODP - Selesai Pengawasan
+13029,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,7 Tahun,ODP - Selesai Pengawasan
+13030,Samata,Somba Opu,Kabupaten Gowa,Perempuan,28 Tahun,ODP - Selesai Pengawasan
+13031,Samata,Somba Opu,Kabupaten Gowa,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
+13032,Samata,Somba Opu,Kabupaten Gowa,Perempuan,20 Tahun,ODP - Selesai Pengawasan
+13033,Samata,Somba Opu,Kabupaten Gowa,Perempuan,27 Tahun,ODP - Selesai Pengawasan
+13034,-,Anggeraja,Kabupaten Enrekang,Laki-Laki,74 Tahun,ODP - Proses Pengawasan
+13035,Malua,Malua,Kabupaten Enrekang,Perempuan,80 Tahun,ODP - Proses Pengawasan
+13036,Palakka,Maiwa,Kabupaten Enrekang,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+13037,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,9 Tahun,ODP - Proses Pengawasan
+13038,Kassi-Kassi,Rappocini,Kota Makassar,Perempuan,20 Tahun,ODP - Proses Pengawasan
+13039,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
+13040,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+13041,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,21 Tahun,ODP - Proses Pengawasan
+13042,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+13043,Antang,Manggala,Kota Makassar,Perempuan,63 Tahun,ODP - Proses Pengawasan
+13044,Ujung Pandang Baru,Tallo,Kota Makassar,Perempuan,75 Tahun,ODP - Proses Pengawasan
+13045,Panambungan,Mariso,Kota Makassar,Perempuan,52 Tahun,ODP - Selesai Pengawasan
+13046,A W O,Keera,Kabupaten Wajo,Perempuan,11 Tahun,ODP - Proses Pengawasan
+13047,Benteng,Malangke,Kabupaten Luwu Utara,Laki-Laki,4 Tahun,ODP - Proses Pengawasan
+13048,Sukamukti,Sukamaju,Kabupaten Luwu Utara,Perempuan,6 Tahun,ODP - Proses Pengawasan
+13049,Panambungan,Mariso,Kota Makassar,Laki-Laki,50 Tahun,ODP - Selesai Pengawasan
+13050,Kalumeme,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
+13051,Panambungan,Mariso,Kota Makassar,Perempuan,40 Tahun,ODP - Selesai Pengawasan
+13052,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,74 Tahun,ODP - Selesai Pengawasan
+13053,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,90 Tahun,ODP - Selesai Pengawasan
+13054,Panambungan,Mariso,Kota Makassar,Perempuan,17 Tahun,ODP - Selesai Pengawasan
+13055,Bonto Tangnga,Bontotiro,Kabupaten Bulukumba,Perempuan,24 Tahun,ODP - Proses Pengawasan
+13056,Batang,Bontotiro,Kabupaten Bulukumba,Perempuan,30 Tahun,ODP - Proses Pengawasan
+13057,Kalumeme,Ujung Bulu,Kabupaten Bulukumba,Perempuan,27 Tahun,ODP - Proses Pengawasan
+13058,Caile,Ujung Bulu,Kabupaten Bulukumba,Perempuan,32 Tahun,ODP - Proses Pengawasan
+13059,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,41 Tahun,ODP - Proses Pengawasan
+13060,Caile,Ujung Bulu,Kabupaten Bulukumba,Perempuan,24 Tahun,ODP - Proses Pengawasan
+13061,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+13062,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+13063,Caile,Ujung Bulu,Kabupaten Bulukumba,Perempuan,10 Tahun,ODP - Proses Pengawasan
+13064,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
+13065,Padaidi,Mattiro Bulu,Kabupaten Pinrang,Perempuan,11 Tahun,ODP - Proses Pengawasan
+13066,Sipatuo,Patampanua,Kabupaten Pinrang,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+13067,Barang Palie,Lanrisang,Kabupaten Pinrang,Laki-Laki,49 Tahun,ODP - Proses Pengawasan
+13068,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
+13069,Pekkabata,Duampanua,Kabupaten Pinrang,Perempuan,47 Tahun,ODP - Proses Pengawasan
+13070,Samaenre,Mattirosompe,Kabupaten Pinrang,Perempuan,13 Tahun,ODP - Proses Pengawasan
+13071,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,53 Tahun,ODP - Proses Pengawasan
+13072,Marumpa,Marusu,Kabupaten Maros,Laki-Laki,77 Tahun,ODP - Proses Pengawasan
+13073,Tammua,Tallo,Kota Makassar,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
+13074,Tidung,Rappocini,Kota Makassar,Laki-Laki,93 Tahun,ODP - Proses Pengawasan
+13075,Borong,Manggala,Kota Makassar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
+13076,Antang,Manggala,Kota Makassar,Laki-Laki,36 Tahun,ODP - Proses Pengawasan
+13077,Tamparang Keke,Mamajang,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
+13078,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
+13079,Bira,Tamalanrea,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+13080,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,32 Tahun,ODP - Proses Pengawasan
+13081,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,48 Tahun,ODP - Proses Pengawasan
+13082,Gunung Sari,Rappocini,Kota Makassar,Perempuan,44 Tahun,ODP - Proses Pengawasan
+13083,Bonto Makkio,Rappocini,Kota Makassar,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
+13084,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,29 Tahun,ODP - Proses Pengawasan
+13085,Bonto Makkio,Rappocini,Kota Makassar,Perempuan,5 Tahun,ODP - Proses Pengawasan
+13086,Rappokalling,Tallo,Kota Makassar,Laki-Laki,27 Tahun,ODP - Proses Pengawasan
+13087,Manggala,Manggala,Kota Makassar,Laki-Laki,61 Tahun,ODP - Proses Pengawasan
+13088,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+13089,Tello Baru,Panakkukang,Kota Makassar,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+13090,Wala-Walaya,Tallo,Kota Makassar,Laki-Laki,48 Tahun,ODP - Proses Pengawasan
+13091,Manggala,Manggala,Kota Makassar,Laki-Laki,72 Tahun,ODP - Proses Pengawasan
+13092,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+13093,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,32 Tahun,ODP - Selesai Pengawasan
+13094,Bontosunggu,Bajeng,Kabupaten Gowa,Perempuan,52 Tahun,ODP - Proses Pengawasan
+13095,Pabentengan,Bajeng,Kabupaten Gowa,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
+13096,Samaturue,Tellu Limpoe,Kabupaten Sinjai,Perempuan,27 Tahun,ODP - Proses Pengawasan
+13097,Saukang,Sinjai Timur,Kabupaten Sinjai,Perempuan,27 Tahun,ODP - Selesai Pengawasan
+13098,Sidenre,Binamu,Kabupaten Jeneponto,Laki-Laki,13 Tahun,ODP - Selesai Pengawasan
+13099,Pabiringa,Binamu,Kabupaten Jeneponto,Laki-Laki,66 Tahun,ODP - Selesai Pengawasan
+13100,Bontolebang,Kelara,Kabupaten Jeneponto,Laki-Laki,20 Tahun,ODP - Selesai Pengawasan
+13101,Balang,Binamu,Kabupaten Jeneponto,Perempuan,17 Tahun,ODP - Selesai Pengawasan
+13102,Datara,Bontoramba,Kabupaten Jeneponto,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
+13103,Lentu,Bontoramba,Kabupaten Jeneponto,Laki-Laki,27 Tahun,ODP - Selesai Pengawasan
+13104,Batujala,Bontoramba,Kabupaten Jeneponto,Laki-Laki,2 Tahun,ODP - Selesai Pengawasan
+13105,Kayuloe Barat,Turatea,Kabupaten Jeneponto,Perempuan,50 Tahun,ODP - Selesai Pengawasan
+13106,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,31 Tahun,ODP - Selesai Pengawasan
+13107,Tonrokassi Timur,Tamalatea,Kabupaten Jeneponto,-,40 Tahun,ODP - Selesai Pengawasan
+13108,Monro-Monro,Binamu,Kabupaten Jeneponto,Laki-Laki,38 Tahun,ODP - Proses Pengawasan
+13109,Tolo Selatan,Kelara,Kabupaten Jeneponto,-,28 Tahun,ODP - Proses Pengawasan
+13110,Cemba,Enrekang,Kabupaten Enrekang,Laki-Laki,75 Tahun,ODP - Proses Pengawasan
+13111,Lunjen,Buntu Batu,Kabupaten Enrekang,Laki-Laki,37 Tahun,ODP - Proses Pengawasan
+13112,Langda,Buntu Batu,Kabupaten Enrekang,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
+13113,Pinang,Cendana,Kabupaten Enrekang,Laki-Laki,57 Tahun,ODP - Proses Pengawasan
+13114,-,Anggeraja,Kabupaten Enrekang,Laki-Laki,39 Tahun,ODP - Selesai Pengawasan
+13115,Lapadde,Ujung,Kota Parepare,Perempuan,13 Tahun,ODP - Proses Pengawasan
+13116,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
+13117,Bonto Langkasa,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+13118,Pitue,Marang,Kabupaten Pangkajene Dan Kepulauan,Perempuan,-,ODP - Proses Pengawasan
+13119,Samalewa,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,-,ODP - Proses Pengawasan
+13120,Cipotakari,Panca Rijang,Kabupaten Sidenreng Rappang,Perempuan,1 Tahun,ODP - Proses Pengawasan
+13121,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+13122,Baruga Riattang,Bulukumpa,Kabupaten Bulukumba,Perempuan,23 Tahun,ODP - Proses Pengawasan
+13123,Bintarore,Ujung Bulu,Kabupaten Bulukumba,Perempuan,25 Tahun,ODP - Proses Pengawasan
+13124,Paenre Lompoe,Gantarang,Kabupaten Bulukumba,Perempuan,56 Tahun,ODP - Proses Pengawasan
+13125,Ela-Ela,Ujung Bulu,Kabupaten Bulukumba,Perempuan,25 Tahun,ODP - Proses Pengawasan
+13126,Caile,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,30 Tahun,ODP - Proses Pengawasan
+13127,L O K A,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,12 Tahun,ODP - Proses Pengawasan
+13128,Cenning,Malangke Barat,Kabupaten Luwu Utara,Laki-Laki,65 Tahun,ODP - Proses Pengawasan
+13129,Meli,Baebunta,Kabupaten Luwu Utara,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+13130,Dodolo,Rampi,Kabupaten Luwu Utara,Laki-Laki,65 Tahun,ODP - Proses Pengawasan
+13131,Pulau Harapan,Pulau Sembilan,Kabupaten Sinjai,Laki-Laki,7 Tahun,ODP - Proses Pengawasan
+13132,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,50 Tahun,ODP - Selesai Pengawasan
+13133,Lajangiru,Ujung Pandang,Kota Makassar,Perempuan,22 Tahun,ODP - Selesai Pengawasan
+13134,Lajangiru,Ujung Pandang,Kota Makassar,Laki-Laki,18 Tahun,ODP - Selesai Pengawasan
+13135,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,45 Tahun,ODP - Proses Pengawasan
+13136,Bangkala,Manggala,Kota Makassar,Laki-Laki,58 Tahun,ODP - Proses Pengawasan
+13137,Bangkala,Manggala,Kota Makassar,Perempuan,57 Tahun,ODP - Proses Pengawasan
+13138,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
+13139,Masale,Panakkukang,Kota Makassar,Laki-Laki,46 Tahun,ODP - Proses Pengawasan
+13140,Rappokalling,Tallo,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
+13141,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,41 Tahun,ODP - Proses Pengawasan
+13142,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
+13143,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+13144,Barombong,Tamalate,Kota Makassar,Laki-Laki,45 Tahun,ODP - Proses Pengawasan
+13145,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,63 Tahun,ODP - Proses Pengawasan
+13146,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,26 Tahun,ODP - Proses Pengawasan
+13147,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+13148,Gunung Sari,Rappocini,Kota Makassar,Perempuan,43 Tahun,ODP - Proses Pengawasan
+13149,Gunung Sari,Rappocini,Kota Makassar,Perempuan,41 Tahun,ODP - Proses Pengawasan
+13150,Lariang Bangi,Makassar,Kota Makassar,Laki-Laki,29 Tahun,ODP - Proses Pengawasan
+13151,Maricaya Baru,Makassar,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+13152,Lariang Bangi,Makassar,Kota Makassar,Perempuan,56 Tahun,ODP - Proses Pengawasan
+13153,Sawerigading,Ujung Pandang,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
+13154,Teluk Kampe,Pasimassunggu,Kabupaten Kepulauan Selayar,Laki-Laki,24 Tahun,ODP - Proses Pengawasan
+13155,Teluk Kampe,Pasimassunggu,Kabupaten Kepulauan Selayar,Laki-Laki,1 Tahun,ODP - Proses Pengawasan
+13156,Empoang,Binamu,Kabupaten Jeneponto,Laki-Laki,35 Tahun,ODP - Proses Pengawasan
+13157,Empoang,Binamu,Kabupaten Jeneponto,Laki-Laki,34 Tahun,ODP - Proses Pengawasan
+13158,Bontotangnga,Tamalatea,Kabupaten Jeneponto,Laki-Laki,42 Tahun,ODP - Proses Pengawasan
+13159,Samataring,Sinjai Timur,Kabupaten Sinjai,Laki-Laki,2 Tahun,ODP - Proses Pengawasan
+13160,Sapanang,Binamu,Kabupaten Jeneponto,Perempuan,18 Tahun,ODP - Selesai Pengawasan
+13161,Bulo-Bulo,Arungkeke,Kabupaten Jeneponto,Perempuan,39 Tahun,ODP - Selesai Pengawasan
+13162,Karelayu,Tamalatea,Kabupaten Jeneponto,Perempuan,21 Tahun,ODP - Selesai Pengawasan
+13163,Togo-Togo,Batang,Kabupaten Jeneponto,Laki-Laki,22 Tahun,ODP - Selesai Pengawasan
+13164,Jombe,Turatea,Kabupaten Jeneponto,Perempuan,25 Tahun,ODP - Selesai Pengawasan
+13165,Kaluku,Batang,Kabupaten Jeneponto,Perempuan,55 Tahun,ODP - Selesai Pengawasan
+13166,Tonrokassi,Tamalatea,Kabupaten Jeneponto,Laki-Laki,21 Tahun,ODP - Selesai Pengawasan
+13167,-,Bangkala,Kabupaten Jeneponto,Perempuan,57 Tahun,ODP - Selesai Pengawasan
+13168,Taman Roya,Tamalatea,Kabupaten Jeneponto,Laki-Laki,28 Tahun,ODP - Selesai Pengawasan
+13169,Bontorannu,Bangkala,Kabupaten Jeneponto,Perempuan,27 Tahun,ODP - Selesai Pengawasan
+13170,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,33 Tahun,ODP - Proses Pengawasan
+13171,Kelurahan Buntu Burake,Makale,Kabupaten Tana Toraja,Laki-Laki,12 Tahun,ODP - Selesai Pengawasan
+13172,Kelurahan Tarongko,Makale,Kabupaten Tana Toraja,Perempuan,57 Tahun,ODP - Selesai Pengawasan
+13173,Mappedeceng,Mappedeceng,Kabupaten Luwu Utara,Perempuan,60 Tahun,ODP - Proses Pengawasan
+13174,Attang Salo,Marang,Kabupaten Pangkajene Dan Kepulauan,Perempuan,30 Tahun,ODP - Proses Pengawasan
+13175,Baji Pamai,Maros Baru,Kabupaten Maros,Perempuan,49 Tahun,ODP - Proses Pengawasan
+13176,Massewae,Duampanua,Kabupaten Pinrang,Laki-Laki,25 Tahun,ODP - Proses Pengawasan
+13177,Massewae,Duampanua,Kabupaten Pinrang,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+13178,Tasiwalie,Suppa,Kabupaten Pinrang,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
+13179,Tellumpanua,Suppa,Kabupaten Pinrang,Perempuan,15 Tahun,ODP - Proses Pengawasan
+13180,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,17 Tahun,ODP - Proses Pengawasan
+13181,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,39 Tahun,ODP - Proses Pengawasan
+13182,Tellumpanua,Suppa,Kabupaten Pinrang,Perempuan,39 Tahun,ODP - Proses Pengawasan
+13183,Tellumpanua,Suppa,Kabupaten Pinrang,Perempuan,28 Tahun,ODP - Proses Pengawasan
+13184,Tellumpanua,Suppa,Kabupaten Pinrang,Laki-Laki,32 Tahun,ODP - Proses Pengawasan
+13185,Padakkalawa,Mattiro Bulu,Kabupaten Pinrang,Perempuan,38 Tahun,ODP - Proses Pengawasan
+13186,Macorawalie,Watang Sawitto,Kabupaten Pinrang,Perempuan,23 Tahun,ODP - Proses Pengawasan
+13187,Pekkabata,Duampanua,Kabupaten Pinrang,Laki-Laki,51 Tahun,ODP - Proses Pengawasan
+13188,Baroko,Baroko,Kabupaten Enrekang,Laki-Laki,81 Tahun,ODP - Proses Pengawasan
+13189,Singki,Anggeraja,Kabupaten Enrekang,Laki-Laki,22 Tahun,ODP - Proses Pengawasan
+13190,Singki,Anggeraja,Kabupaten Enrekang,Laki-Laki,55 Tahun,ODP - Proses Pengawasan
+13191,Mappala,Rappocini,Kota Makassar,Perempuan,31 Tahun,ODP - Proses Pengawasan
+13192,Paropo,Panakkukang,Kota Makassar,Laki-Laki,82 Tahun,ODP - Proses Pengawasan
+13193,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,52 Tahun,ODP - Proses Pengawasan
+13194,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,40 Tahun,ODP - Proses Pengawasan
+13195,Pannampu,Tallo,Kota Makassar,Perempuan,40 Tahun,ODP - Proses Pengawasan
+13196,Bunga Eja Beru,Tallo,Kota Makassar,Laki-Laki,61 Tahun,ODP - Proses Pengawasan
+13197,Paropo,Panakkukang,Kota Makassar,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
+13198,Tammua,Tallo,Kota Makassar,Laki-Laki,54 Tahun,ODP - Proses Pengawasan
+13199,Lalatang,Tallo,Kota Makassar,Perempuan,62 Tahun,ODP - Proses Pengawasan
+13200,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,87 Tahun,ODP - Proses Pengawasan
+13201,Ujung Pandang Baru,Tallo,Kota Makassar,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+13202,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,31 Tahun,ODP - Proses Pengawasan
+13203,Lapajung,Lalabata,Kabupaten Soppeng,Laki-Laki,60 Tahun,ODP - Proses Pengawasan
+13204,Pising,Donri Donri,Kabupaten Soppeng,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+13205,Umpungeng,Lalabata,Kabupaten Soppeng,Laki-Laki,23 Tahun,ODP - Proses Pengawasan
+13206,Barang,Lili Riaja,Kabupaten Soppeng,Laki-Laki,28 Tahun,ODP - Proses Pengawasan
+13207,Pesse,Donri Donri,Kabupaten Soppeng,Laki-Laki,44 Tahun,ODP - Proses Pengawasan
+13208,-,Mallusetasi,Kabupaten Barru,Laki-Laki,53 Tahun,ODP - Selesai Pengawasan
+13209,Cilellang,Mallusetasi,Kabupaten Barru,Laki-Laki,49 Tahun,ODP - Selesai Pengawasan
+13210,Tobulung,Bara,Kota Palopo,Laki-Laki,19 Tahun,ODP - Selesai Pengawasan
