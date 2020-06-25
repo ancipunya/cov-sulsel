@@ -2618,7 +2618,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 2617,Panambungan,Mariso,Kota Makassar,Perempuan,28 Tahun,Positif - Dirawat Pasien Positif
 2618,Timungan Lompoa,Bontoala,Kota Makassar,Laki-Laki,36 Tahun,Positif - Dirawat Pasien Positif
 2619,Kapasa,Tamalanrea,Kota Makassar,Laki-Laki,56 Tahun,Positif - Dirawat Pasien Positif
-2620,Tubajeng,Bajeng,RS Lain-lain,Perempuan,25 Tahun,Positif - Sembuh
+2620,-,-,RS Lain-lain,Perempuan,25 Tahun,Positif - Sembuh
 2621,Pakatto,Bontomarannu,RS Lain-lain,Laki-Laki,54 Tahun,Positif - Sembuh
 2622,Melayu Baru,Wajo,Kota Makassar,Laki-Laki,57 Tahun,Positif - Dirawat Pasien Positif
 2623,Tidung,Rappocini,Kota Makassar,Laki-Laki,39 Tahun,Positif - Dirawat Pasien Positif
@@ -3669,7 +3669,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3668,Bukit Harapan,Soreang,Kota Parepare,Perempuan,57 Tahun,Positif - Dirawat Pasien Positif
 3669,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,68 Tahun,Positif - Dirawat Pasien Positif
 3670,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,59 Tahun,Positif - Dirawat Pasien Positif
-3671,Mallawa,Mallusetasi,Kabupaten Barru,Laki-Laki,40 Tahun,Positif - Dirawat Pasien Positif
+3671,Mallawa,Mallusetasi,RS Lain-lain,Laki-Laki,40 Tahun,Positif - Dirawat Pasien Positif
 3672,Macorawalie,Watang Sawitto,Kabupaten Pinrang,Laki-Laki,36 Tahun,Positif - Dirawat Pasien Positif
 3673,Talaka,Marang,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,19 Tahun,Positif - Dirawat Pasien Positif
 3674,Masago,Patimpeng,Kabupaten Bone,Laki-Laki,18 Tahun,Positif - Dirawat Pasien Positif
@@ -3942,7 +3942,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3941,Ussu,Malili,Kabupaten Luwu Timur,Laki-Laki,22 Tahun,Positif - Dirawat Pasien Positif
 3942,Buakana,Rappocini,Kota Makassar,Perempuan,67 Tahun,Positif - Dirawat Pasien Positif
 3943,Bonto Matene,Mandai,Kabupaten Maros,Laki-Laki,20 Tahun,Positif - Dirawat Pasien Positif
-3944,Tello Baru,Panakkukang,Kota Makassar,Perempuan,28 Tahun,Positif - Dirawat Pasien Positif
+3944,-,-,Kabupaten Tana Toraja,Perempuan,28 Tahun,Positif - Dirawat Pasien Positif
 3945,Pandang,Panakkukang,Kota Makassar,Laki-Laki,40 Tahun,Positif - Dirawat Pasien Positif
 3946,Pisang Utara,Ujung Pandang,Kota Makassar,Laki-Laki,41 Tahun,Positif - Dirawat Pasien Positif
 3947,Pandang,Panakkukang,Kota Makassar,Laki-Laki,14 Tahun,Positif - Dirawat Pasien Positif
@@ -4182,8 +4182,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4181,Maradekaya Selatan,Makassar,Kota Makassar,Perempuan,96 Tahun,Positif - Meninggal
 4182,Maccini Parang,Makassar,Kota Makassar,Laki-Laki,61 Tahun,Positif - Meninggal
 4183,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,51 Tahun,Positif - Meninggal
-4184,Buntu Mondong,Buntu Batu,Kabupaten Enrekang,Perempuan,16 Tahun,Positif - Meninggal
-4185,Buntu Mondong,Buntu Batu,Kabupaten Enrekang,Laki-Laki,25 Tahun,Positif - Meninggal
+4184,Buntu Mondong,Buntu Batu,Rekreasi Duta Covid19 SulSel,Perempuan,16 Tahun,Positif - Meninggal
+4185,Buntu Mondong,Buntu Batu,Rekreasi Duta Covid19 SulSel,Laki-Laki,25 Tahun,Positif - Meninggal
 4186,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,29 Tahun,PDP - PDP Meninggal
 4187,Sungguminasa,Somba Opu,Kabupaten Gowa,Perempuan,68 Tahun,PDP - PDP Meninggal
 4188,Bongaya,Tamalate,Kota Makassar,Perempuan,78 Tahun,PDP - PDP Meninggal
