@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 30-06-2020 23:02:35
+## Data diupdate pada : 01-07-2020 21:32:35
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,7 +12,7 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|2120|1267|2741|6128|https://anci.web.id/cor/kota_makassar|
+|1|Kota Makassar|2120|1266|2740|6126|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|171|14|6|191|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|122|85|61|268|https://anci.web.id/cor/kota_parepare|
 |4|Kabupaten Bantaeng|169|3|0|172|https://anci.web.id/cor/kabupaten_bantaeng|
@@ -26,9 +26,9 @@
 |12|Kabupaten Luwu|239|3|7|249|https://anci.web.id/cor/kabupaten_luwu|
 |13|Kabupaten Luwu Timur|446|87|483|1016|https://anci.web.id/cor/kabupaten_luwu_timur|
 |14|Kabupaten Luwu Utara|259|40|6|305|https://anci.web.id/cor/kabupaten_luwu_utara|
-|15|Kabupaten Maros|271|72|117|460|https://anci.web.id/cor/kabupaten_maros|
+|15|Kabupaten Maros|271|72|118|461|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|130|49|22|201|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
-|17|Kabupaten Pinrang|545|29|18|592|https://anci.web.id/cor/kabupaten_pinrang|
+|17|Kabupaten Pinrang|542|29|18|589|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|91|49|36|176|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|259|20|38|317|https://anci.web.id/cor/kabupaten_sinjai|
 |20|Kabupaten Soppeng|82|41|35|158|https://anci.web.id/cor/kabupaten_soppeng|
@@ -38,16 +38,16 @@
 |24|Kabupaten Wajo|71|21|9|101|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|656|664|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|205|205|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|7599|2273|5091|14963|https://anci.web.id/cor/jumlah_sulsel|
+|27|Jumlah Sulsel|7596|2272|5091|14959|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 386 | 7213 | 0 | 7599 | https://anci.web.id/cor/odp_detail.html |
-| PDP | 298 | 1782 | 196 | 2273 | https://anci.web.id/cor/pdp_detail.html |
+| ODP | 386 | 7210 | 0 | 7596 | https://anci.web.id/cor/odp_detail.html |
+| PDP | 297 | 1782 | 196 | 2272 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 3167 | 1755 | 169 | 5091 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 3851 | 10750 | 365 | 14963 | https://anci.web.id/cor/jumlah_sulsel/ |
+| JUMLAH | 3850 | 10747 | 365 | 14959 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
