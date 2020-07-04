@@ -4203,7 +4203,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4202,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,46 Tahun,Positif - Dirawat Pasien Positif
 4203,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
 4204,Labuang Baji,Mamajang,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
-4205,Camba Berua,Ujung Tanah,Kota Makassar,Perempuan,27 Tahun,Positif - Dirawat Pasien Positif
+4205,-,-,Kota Makassar,Perempuan,47 Tahun,Positif - Dirawat Pasien Positif
 4206,Karunrung,Rappocini,Kota Makassar,Perempuan,55 Tahun,Positif - Dirawat Pasien Positif
 4207,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,25 Tahun,Positif - Dirawat Pasien Positif
 4208,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,38 Tahun,Positif - Dirawat Pasien Positif
@@ -4637,7 +4637,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 4636,Tompotikka,Wara,Kota Palopo,Perempuan,47 Tahun,Positif - Dirawat Pasien Positif
 4637,Antang,Manggala,Rekreasi Duta Covid19 SulSel,Laki-Laki,72 Tahun,Positif - Dirawat Pasien Positif
 4638,Tamangapa,Manggala,Rekreasi Duta Covid19 SulSel,Laki-Laki,63 Tahun,Positif - Dirawat Pasien Positif
-4639,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,72 Tahun,Positif - Dirawat Pasien Positif
+4639,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,43 Tahun,Positif - Dirawat Pasien Positif
 4640,Bongaya,Tamalate,Rekreasi Duta Covid19 SulSel,Perempuan,19 Tahun,Positif - Dirawat Pasien Positif
 4641,Tamarunang,Mariso,Rekreasi Duta Covid19 SulSel,Laki-Laki,44 Tahun,Positif - Sembuh
 4642,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,37 Tahun,Positif - Dirawat Pasien Positif
@@ -5229,7 +5229,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 5228,Pisang Selatan,Ujung Pandang,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
 5229,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,56 Tahun,Positif - Dirawat Pasien Positif
 5230,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,44 Tahun,Positif - Dirawat Pasien Positif
-5231,Kassi-Kassi,Rappocini,Rekreasi Duta Covid19 SulSel,Laki-Laki,46 Tahun,Positif - Dirawat Pasien Positif
+5231,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,46 Tahun,Positif - Dirawat Pasien Positif
 5232,Panambungan,Mariso,Kota Makassar,Perempuan,27 Tahun,Positif - Dirawat Pasien Positif
 5233,Putabangun,Bontoharu,RS Lain-lain,Laki-Laki,54 Tahun,Positif - Dirawat Pasien Positif
 5234,Losari,Ujung Pandang,Kota Makassar,Perempuan,59 Tahun,Positif - Dirawat Pasien Positif
@@ -5312,7 +5312,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 5311,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,54 Tahun,Positif - Dirawat Pasien Positif
 5312,Bangkala,Manggala,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
 5313,Daya,Biring Kanaya,Kota Makassar,Perempuan,27 Tahun,Positif - Dirawat Pasien Positif
-5314,Maccini,Makassar,Kota Makassar,Laki-Laki,58 Tahun,Positif - Dirawat Pasien Positif
+5314,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,31 Tahun,Positif - Dirawat Pasien Positif
 5315,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,24 Tahun,Positif - Dirawat Pasien Positif
 5316,Pattojo,Lili Riaja,Kabupaten Soppeng,Laki-Laki,67 Tahun,Positif - Dirawat Pasien Positif
 5317,Pattojo,Lili Riaja,Kabupaten Soppeng,Laki-Laki,70 Tahun,Positif - Dirawat Pasien Positif
@@ -5326,7 +5326,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 5325,Jagong,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,39 Tahun,Positif - Dirawat Pasien Positif
 5326,Mappasaile,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,26 Tahun,Positif - Dirawat Pasien Positif
 5327,Aska,Sinjai Selatan,Kabupaten Sinjai,Perempuan,26 Tahun,Positif - Dirawat Pasien Positif
-5328,Pannampu,Tallo,Kota Makassar,Laki-Laki,26 Tahun,Positif - Dirawat Pasien Positif
+5328,-,-,RS Lain-lain,Laki-Laki,44 Tahun,Positif - Dirawat Pasien Positif
 5329,Balangnipa,Sinjai Utara,Kabupaten Sinjai,Laki-Laki,44 Tahun,Positif - Dirawat Pasien Positif
 5330,Biringere,Sinjai Utara,Kabupaten Sinjai,Perempuan,37 Tahun,Positif - Dirawat Pasien Positif
 5331,Lette,Mariso,Kota Makassar,Perempuan,52 Tahun,Positif - Dirawat Pasien Positif
