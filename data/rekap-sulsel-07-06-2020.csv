@@ -1,5 +1,5 @@
 No,Kota/Kab,ODP,PDP,Positif,Total
-1,Kota Makassar,2268,1301,3212,6781
+1,Kota Makassar,2268,1295,3212,6775
 2,Kota Palopo,171,14,6,191
 3,Kota Parepare,122,85,70,277
 4,Kabupaten Bantaeng,169,3,0,172
@@ -7,7 +7,7 @@ No,Kota/Kab,ODP,PDP,Positif,Total
 6,Kabupaten Bone,321,22,8,351
 7,Kabupaten Bulukumba,359,50,141,550
 8,Kabupaten Enrekang,276,23,28,327
-9,Kabupaten Gowa,554,294,486,1334
+9,Kabupaten Gowa,554,293,486,1333
 10,Kabupaten Jeneponto,520,38,35,593
 11,Kabupaten Kepulauan Selayar,83,6,10,99
 12,Kabupaten Luwu,239,3,7,249
@@ -25,4 +25,4 @@ No,Kota/Kab,ODP,PDP,Positif,Total
 24,Kabupaten Wajo,71,22,9,102
 25,Rekreasi Duta Covid19 SulSel,8,0,692,700
 26,RS Lain-lain,0,0,226,226
--,Jumlah Sulsel,7805,2312,5885,16002
+-,Jumlah Sulsel,7805,2305,5885,15995
