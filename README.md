@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 06-07-2020 10:30:37
+## Data diupdate pada : 06-07-2020 11:00:38
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -18,7 +18,7 @@
 |4|Kabupaten Bantaeng|169|3|0|172|https://anci.web.id/cor/kabupaten_bantaeng|
 |5|Kabupaten Barru|71|10|5|86|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|321|22|8|351|https://anci.web.id/cor/kabupaten_bone|
-|7|Kabupaten Bulukumba|359|51|141|551|https://anci.web.id/cor/kabupaten_bulukumba|
+|7|Kabupaten Bulukumba|359|50|141|550|https://anci.web.id/cor/kabupaten_bulukumba|
 |8|Kabupaten Enrekang|276|23|28|327|https://anci.web.id/cor/kabupaten_enrekang|
 |9|Kabupaten Gowa|554|294|486|1334|https://anci.web.id/cor/kabupaten_gowa|
 |10|Kabupaten Jeneponto|520|38|35|593|https://anci.web.id/cor/kabupaten_jeneponto|
@@ -31,23 +31,23 @@
 |17|Kabupaten Pinrang|542|29|18|589|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|90|51|36|177|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|259|20|51|330|https://anci.web.id/cor/kabupaten_sinjai|
-|20|Kabupaten Soppeng|82|41|41|164|https://anci.web.id/cor/kabupaten_soppeng|
+|20|Kabupaten Soppeng|82|40|41|163|https://anci.web.id/cor/kabupaten_soppeng|
 |21|Kabupaten Takalar|72|34|78|184|https://anci.web.id/cor/kabupaten_takalar|
 |22|Kabupaten Tana Toraja|230|10|11|251|https://anci.web.id/cor/kabupaten_tana_toraja|
 |23|Kabupaten Toraja Utara|177|6|3|186|https://anci.web.id/cor/kabupaten_toraja_utara|
 |24|Kabupaten Wajo|71|22|9|102|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|692|700|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|226|226|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|7805|2314|5885|16004|https://anci.web.id/cor/jumlah_sulsel|
+|27|Jumlah Sulsel|7805|2312|5885|16002|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
 | ODP | 424 | 7381 | 0 | 7805 | https://anci.web.id/cor/odp_detail.html |
-| PDP | 216 | 1900 | 200 | 2314 | https://anci.web.id/cor/pdp_detail.html |
+| PDP | 215 | 1900 | 199 | 2312 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 3785 | 1902 | 198 | 5885 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 4425 | 11183 | 398 | 16004 | https://anci.web.id/cor/jumlah_sulsel/ |
+| JUMLAH | 4424 | 11183 | 397 | 16002 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
