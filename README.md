@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 08-07-2020 13:30:29
+## Data diupdate pada : 08-07-2020 14:30:37
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -29,7 +29,7 @@
 |15|Kabupaten Maros|273|75|143|491|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|130|50|26|206|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
 |17|Kabupaten Pinrang|542|32|23|597|https://anci.web.id/cor/kabupaten_pinrang|
-|18|Kabupaten Sidenreng Rappang|90|51|36|177|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
+|18|Kabupaten Sidenreng Rappang|87|51|36|174|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|259|20|48|327|https://anci.web.id/cor/kabupaten_sinjai|
 |20|Kabupaten Soppeng|82|40|41|163|https://anci.web.id/cor/kabupaten_soppeng|
 |21|Kabupaten Takalar|72|34|85|191|https://anci.web.id/cor/kabupaten_takalar|
@@ -38,16 +38,16 @@
 |24|Kabupaten Wajo|71|22|9|102|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|754|762|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|228|228|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|7876|2383|6189|16448|https://anci.web.id/cor/jumlah_sulsel|
+|27|Jumlah Sulsel|7873|2383|6189|16445|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 394 | 7482 | 0 | 7876 | https://anci.web.id/cor/odp_detail.html |
-| PDP | 267 | 1914 | 0 | 2180 | https://anci.web.id/cor/pdp_detail.html |
-| POSITIF | 0 | 0 | 0 | 0 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 661 | 9396 | 0 | 10056 | https://anci.web.id/cor/jumlah_sulsel/ |
+| ODP | 391 | 7482 | 0 | 7873 | https://anci.web.id/cor/odp_detail.html |
+| PDP | 267 | 1915 | 203 | 2383 | https://anci.web.id/cor/pdp_detail.html |
+| POSITIF | 3824 | 2162 | 203 | 6189 | https://anci.web.id/cor/positif_detail.html |
+| JUMLAH | 4482 | 11559 | 406 | 16445 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
