@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 10-07-2020 02:02:50
+## Data diupdate pada : 10-07-2020 12:02:02
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -18,7 +18,7 @@
 |4|Kabupaten Bantaeng|169|3|14|186|https://anci.web.id/cor/kabupaten_bantaeng|
 |5|Kabupaten Barru|72|10|5|87|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|321|22|9|352|https://anci.web.id/cor/kabupaten_bone|
-|7|Kabupaten Bulukumba|363|54|149|566|https://anci.web.id/cor/kabupaten_bulukumba|
+|7|Kabupaten Bulukumba|363|54|148|565|https://anci.web.id/cor/kabupaten_bulukumba|
 |8|Kabupaten Enrekang|280|23|32|335|https://anci.web.id/cor/kabupaten_enrekang|
 |9|Kabupaten Gowa|560|318|536|1414|https://anci.web.id/cor/kabupaten_gowa|
 |10|Kabupaten Jeneponto|529|39|43|611|https://anci.web.id/cor/kabupaten_jeneponto|
@@ -36,7 +36,7 @@
 |22|Kabupaten Tana Toraja|230|11|31|272|https://anci.web.id/cor/kabupaten_tana_toraja|
 |23|Kabupaten Toraja Utara|177|6|5|188|https://anci.web.id/cor/kabupaten_toraja_utara|
 |24|Kabupaten Wajo|71|23|9|103|https://anci.web.id/cor/kabupaten_wajo|
-|25|Rekreasi Duta Covid19 SulSel|8|0|776|784|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
+|25|Rekreasi Duta Covid19 SulSel|8|0|777|785|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|232|232|https://anci.web.id/cor/rs_lain-lain|
 |27|Jumlah Sulsel|7921|2417|6475|16813|https://anci.web.id/cor/jumlah_sulsel|
 
@@ -45,9 +45,9 @@
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
 | ODP | 328 | 7593 | 0 | 7921 | https://anci.web.id/cor/odp_detail.html |
-| PDP | 280 | 1936 | 203 | 2417 | https://anci.web.id/cor/pdp_detail.html |
-| POSITIF | 4051 | 2214 | 210 | 6475 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 4659 | 11743 | 413 | 16813 | https://anci.web.id/cor/jumlah_sulsel/ |
+| PDP | 280 | 1935 | 0 | 2214 | https://anci.web.id/cor/pdp_detail.html |
+| POSITIF | 0 | 0 | 0 | 0 | https://anci.web.id/cor/positif_detail.html |
+| JUMLAH | 608 | 9528 | 0 | 10135 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
