@@ -1059,11 +1059,11 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1058,Sudiang Raya,Biring Kanaya,Kota Makassar,Perempuan,54 Tahun,Positif - Sembuh
 1059,-,-,Kota Makassar,Laki-Laki,18 Tahun,Positif - Sembuh
 1060,Mandalle,Mandalle,Rekreasi Duta Covid19 SulSel,Laki-Laki,16 Tahun,Positif - Sembuh
-1061,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,7 Tahun,Positif - Dirawat Pasien Positif
-1062,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,26 Tahun,Positif - Sembuh
-1063,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,56 Tahun,Positif - Dirawat Pasien Positif
+1061,Parang,Mamajang,Rekreasi Duta Covid19 SulSel,Laki-Laki,7 Tahun,Positif - Dirawat Pasien Positif
+1062,Bunga Eja Beru,Tallo,Rekreasi Duta Covid19 SulSel,Laki-Laki,26 Tahun,Positif - Sembuh
+1063,Bunga Eja Beru,Tallo,Rekreasi Duta Covid19 SulSel,Laki-Laki,56 Tahun,Positif - Dirawat Pasien Positif
 1064,Totaka,Ujung Tanah,Kota Makassar,Laki-Laki,42 Tahun,Positif - Dirawat Pasien Positif
-1065,Paccinongan,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,18 Tahun,Positif - Dirawat Pasien Positif
+1065,Paccinongan,Somba Opu,Rekreasi Duta Covid19 SulSel,Laki-Laki,18 Tahun,Positif - Dirawat Pasien Positif
 1066,Tetebatu,Pallangga,Kabupaten Gowa,Laki-Laki,16 Tahun,Positif - Dirawat Pasien Positif
 1067,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,30 Tahun,Positif - Dirawat Pasien Positif
 1068,Pattingalloang Baru,Ujung Tanah,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
@@ -1076,15 +1076,15 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1075,Bunga Eja Beru,Tallo,Kota Makassar,Perempuan,25 Tahun,Positif - Sembuh
 1076,Tidung,Rappocini,Kota Makassar,Laki-Laki,30 Tahun,Positif - Sembuh
 1077,Bawalipu,Wotu,Kabupaten Luwu Timur,Perempuan,35 Tahun,Positif - Sembuh
-1078,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Sembuh
+1078,Maradekaya,Makassar,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Sembuh
 1079,Bawalipu,Wotu,Kabupaten Luwu Timur,Perempuan,38 Tahun,Positif - Sembuh
 1080,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,42 Tahun,Positif - Sembuh
 1081,Bira,Tamalanrea,Kota Makassar,Perempuan,66 Tahun,Positif - Dirawat Pasien Positif
 1082,Bira,Tamalanrea,Kota Makassar,Perempuan,35 Tahun,Positif - Sembuh
 1083,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,43 Tahun,Positif - Sembuh
 1084,Antang,Manggala,Kota Makassar,Laki-Laki,32 Tahun,Positif - Sembuh
-1085,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,10 Tahun,Positif - Sembuh
-1086,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,51 Tahun,Positif - Sembuh
+1085,Lassang,Polombangkeng Utara,Rekreasi Duta Covid19 SulSel,Perempuan,10 Tahun,Positif - Sembuh
+1086,Bontolebang,Galesong Utara,Rekreasi Duta Covid19 SulSel,Laki-Laki,51 Tahun,Positif - Sembuh
 1087,Pallantikang,Pattallassang,Kabupaten Gowa,Perempuan,23 Tahun,Positif - Sembuh
 1088,Bontoala,Pallangga,Kabupaten Gowa,Perempuan,27 Tahun,Positif - Sembuh
 1089,Pallantikang,Pattallassang,Kabupaten Gowa,Perempuan,27 Tahun,Positif - Sembuh
@@ -1093,12 +1093,12 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1092,Tompo Balang,Bontoala,Kota Makassar,Perempuan,69 Tahun,Positif - Sembuh
 1093,Ujung Pandang Baru,Tallo,Kota Makassar,Laki-Laki,74 Tahun,Positif - Dirawat Pasien Positif
 1094,Lette,Mariso,Kota Makassar,Perempuan,27 Tahun,Positif - Dirawat Pasien Positif
-1095,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,21 Tahun,Positif - Sembuh
+1095,Bontoa,Mandai,Rekreasi Duta Covid19 SulSel,Perempuan,21 Tahun,Positif - Sembuh
 1096,Tallo,Tallo,Kota Makassar,Perempuan,65 Tahun,Positif - Dirawat Pasien Positif
 1097,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
-1098,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,60 Tahun,Positif - Sembuh
+1098,Bone,Masamba,Rekreasi Duta Covid19 SulSel,Perempuan,60 Tahun,Positif - Sembuh
 1099,Bone,Masamba,Rekreasi Duta Covid19 SulSel,Perempuan,50 Tahun,Positif - Sembuh
-1100,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Dirawat Pasien Positif
+1100,Rompu,Masamba,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Dirawat Pasien Positif
 1101,Kassi-Kassi,Rappocini,Kota Makassar,Perempuan,41 Tahun,Positif - Dirawat Pasien Positif
 1102,Pannampu,Tallo,Kota Makassar,Laki-Laki,63 Tahun,Positif - Sembuh
 1103,Paropo,Panakkukang,Kota Makassar,Laki-Laki,60 Tahun,Positif - Sembuh
@@ -1109,30 +1109,30 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1108,Jeppee,Tanete Riattang Barat,Rekreasi Duta Covid19 SulSel,Perempuan,68 Tahun,Positif - Sembuh
 1109,Jeppee,Tanete Riattang Barat,Rekreasi Duta Covid19 SulSel,Perempuan,55 Tahun,Positif - Sembuh
 1110,Bara-Baraya Selatan,Makassar,Kota Makassar,Laki-Laki,34 Tahun,Positif - Sembuh
-1111,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,54 Tahun,Positif - Sembuh
-1112,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,39 Tahun,Positif - Sembuh
-1113,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,37 Tahun,Positif - Sembuh
+1111,Barana,Makassar,Rekreasi Duta Covid19 SulSel,Perempuan,54 Tahun,Positif - Sembuh
+1112,Suwangga,Tallo,Rekreasi Duta Covid19 SulSel,Perempuan,39 Tahun,Positif - Sembuh
+1113,Suwangga,Tallo,Rekreasi Duta Covid19 SulSel,Laki-Laki,37 Tahun,Positif - Sembuh
 1114,Puncak Indah,Malili,Kabupaten Luwu Timur,Perempuan,31 Tahun,Positif - Sembuh
-1115,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,29 Tahun,Positif - Sembuh
+1115,Mandiri,Tomoni,Rekreasi Duta Covid19 SulSel,Perempuan,29 Tahun,Positif - Sembuh
 1116,Magani,Nuha,Kabupaten Luwu Timur,Laki-Laki,41 Tahun,Positif - Dirawat Pasien Positif
 1117,Tarengge,Wotu,Kabupaten Luwu Timur,Perempuan,32 Tahun,Positif - Sembuh
 1118,Tarengge,Wotu,Kabupaten Luwu Timur,Perempuan,29 Tahun,Positif - Sembuh
-1119,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,56 Tahun,Positif - Sembuh
+1119,Baraya,Bontoala,Rekreasi Duta Covid19 SulSel,Perempuan,56 Tahun,Positif - Sembuh
 1120,Baraya,Bontoala,Kota Makassar,Laki-Laki,34 Tahun,Positif - Sembuh
-1121,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,20 Tahun,Positif - Sembuh
-1122,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,29 Tahun,Positif - Sembuh
-1123,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,47 Tahun,Positif - Sembuh
+1121,Barana,Makassar,Rekreasi Duta Covid19 SulSel,Laki-Laki,20 Tahun,Positif - Sembuh
+1122,Barana,Makassar,Rekreasi Duta Covid19 SulSel,Laki-Laki,29 Tahun,Positif - Sembuh
+1123,Barana,Makassar,Rekreasi Duta Covid19 SulSel,Perempuan,47 Tahun,Positif - Sembuh
 1124,-,-,RS Lain-lain,Laki-Laki,46 Tahun,Positif - Sembuh
 1125,Pampang,Panakkukang,Kota Makassar,Laki-Laki,70 Tahun,Positif - Dirawat Pasien Positif
 1126,Taeng,Pallangga,Kabupaten Gowa,Perempuan,16 Tahun,Positif - Sembuh
-1127,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,-,Positif - Sembuh
-1128,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,10 Tahun,Positif - Sembuh
+1127,Bontoa,Mandai,Rekreasi Duta Covid19 SulSel,Laki-Laki,-,Positif - Sembuh
+1128,Baraya,Bontoala,Rekreasi Duta Covid19 SulSel,Laki-Laki,10 Tahun,Positif - Sembuh
 1129,Totaka,Ujung Tanah,Kota Makassar,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
 1130,Pattingalloang,Ujung Tanah,Kota Makassar,Perempuan,74 Tahun,Positif - Dirawat Pasien Positif
 1131,Maccini Sombala,Tamalate,Kota Makassar,Perempuan,36 Tahun,Positif - Dirawat Pasien Positif
 1132,Panaikang,Panakkukang,Kota Makassar,Perempuan,39 Tahun,Positif - Sembuh
 1133,Pabatang,Mamajang,Kota Makassar,Perempuan,32 Tahun,Positif - Dirawat Pasien Positif
-1134,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,32 Tahun,Positif - Sembuh
+1134,Bajo,Bajo,Rekreasi Duta Covid19 SulSel,Perempuan,32 Tahun,Positif - Sembuh
 1135,Bunga Ejaya,Bontoala,Kota Makassar,Laki-Laki,26 Tahun,Positif - Sembuh
 1136,Bunga Ejaya,Bontoala,Kota Makassar,Perempuan,24 Tahun,Positif - Sembuh
 1137,Tabaringan,Ujung Tanah,Kota Makassar,Perempuan,48 Tahun,Positif - Sembuh
@@ -1144,12 +1144,12 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1143,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,34 Tahun,Positif - Sembuh
 1144,Nikkel,Nuha,Kabupaten Luwu Timur,Laki-Laki,34 Tahun,Positif - Sembuh
 1145,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,25 Tahun,Positif - Sembuh
-1146,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,56 Tahun,Positif - Sembuh
-1147,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,19 Tahun,Positif - Sembuh
-1148,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,16 Tahun,Positif - Sembuh
-1149,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,17 Tahun,Positif - Sembuh
-1150,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,60 Tahun,Positif - Sembuh
-1151,Tomoni,-,Rekreasi Duta Covid19 SulSel,Perempuan,31 Tahun,Positif - Sembuh
+1146,Malili,Malili,Rekreasi Duta Covid19 SulSel,Perempuan,56 Tahun,Positif - Sembuh
+1147,Malili,Malili,Rekreasi Duta Covid19 SulSel,Laki-Laki,19 Tahun,Positif - Sembuh
+1148,Malili,Malili,Rekreasi Duta Covid19 SulSel,Laki-Laki,16 Tahun,Positif - Sembuh
+1149,Maliwowo,Angkona,Rekreasi Duta Covid19 SulSel,Laki-Laki,17 Tahun,Positif - Sembuh
+1150,Harapan,Malili,Rekreasi Duta Covid19 SulSel,Perempuan,60 Tahun,Positif - Sembuh
+1151,Tomoni,Tomoni,Rekreasi Duta Covid19 SulSel,Perempuan,31 Tahun,Positif - Sembuh
 1152,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,27 Tahun,Positif - Sembuh
 1153,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,51 Tahun,Positif - Dirawat Pasien Positif
 1154,Masale,Panakkukang,Kota Makassar,Perempuan,30 Tahun,Positif - Dirawat Pasien Positif
@@ -1217,11 +1217,11 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1216,Gunung Sari,Rappocini,Kota Makassar,Perempuan,42 Tahun,Positif - Dirawat Pasien Positif
 1217,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,33 Tahun,Positif - Dirawat Pasien Positif
 1218,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,53 Tahun,Positif - Dirawat Pasien Positif
-1219,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,17 Tahun,Positif - Sembuh
+1219,Mangasa,Tamalate,Rekreasi Duta Covid19 SulSel,Perempuan,17 Tahun,Positif - Sembuh
 1220,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,34 Tahun,Positif - Dirawat Pasien Positif
-1221,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,28 Tahun,Positif - Sembuh
+1221,Karampuang,Panakkukang,Rekreasi Duta Covid19 SulSel,Perempuan,28 Tahun,Positif - Sembuh
 1222,Lembo,Tallo,Kota Makassar,Perempuan,30 Tahun,Positif - Sembuh
-1223,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,3 Tahun,Positif - Sembuh
+1223,Wala,Maritengngae,Rekreasi Duta Covid19 SulSel,Laki-Laki,3 Tahun,Positif - Sembuh
 1224,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,31 Tahun,Positif - Sembuh
 1225,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,35 Tahun,Positif - Sembuh
 1226,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,1 Tahun,Positif - Dirawat Pasien Positif
@@ -1240,17 +1240,17 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1239,Magani,Nuha,Kabupaten Luwu Timur,Laki-Laki,42 Tahun,Positif - Sembuh
 1240,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,38 Tahun,Positif - Sembuh
 1241,Lioka,Towuti,Kabupaten Luwu Timur,Laki-Laki,42 Tahun,Positif - Sembuh
-1242,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,55 Tahun,Positif - Sembuh
+1242,Rompu,Masamba,Rekreasi Duta Covid19 SulSel,Perempuan,55 Tahun,Positif - Sembuh
 1243,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,22 Tahun,Positif - Sembuh
 1244,Bontorannu,Mariso,Kota Makassar,Laki-Laki,33 Tahun,Positif - Dirawat Pasien Positif
 1245,Tamarunang,Somba Opu,Kabupaten Gowa,Laki-Laki,39 Tahun,Positif - Dirawat Pasien Positif
 1246,Banta-Bantaeng,Rappocini,Kota Makassar,Perempuan,26 Tahun,Positif - Sembuh
 1247,-,-,Kota Makassar,Laki-Laki,50 Tahun,Positif - Sembuh
 1248,Mannuruki,Tamalate,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
-1249,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,32 Tahun,Positif - Sembuh
+1249,Pannampu,Tallo,Rekreasi Duta Covid19 SulSel,Perempuan,32 Tahun,Positif - Sembuh
 1250,Totaka,Ujung Tanah,Kota Makassar,Perempuan,17 Tahun,Positif - Sembuh
 1251,-,-,RS Lain-lain,Perempuan,31 Tahun,Positif - Sembuh
-1252,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,2 Tahun,Positif - Sembuh
+1252,Tamparang Keke,Mamajang,Rekreasi Duta Covid19 SulSel,Laki-Laki,2 Tahun,Positif - Sembuh
 1253,Rappokalling,Tallo,Kota Makassar,Perempuan,59 Tahun,Positif - Sembuh
 1254,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,27 Tahun,Positif - Sembuh
 1255,Kaluku Bodoa,Tallo,Kota Makassar,Perempuan,65 Tahun,Positif - Sembuh
@@ -1263,9 +1263,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1262,Maccini Sombala,Tamalate,Kota Makassar,Perempuan,43 Tahun,Positif - Sembuh
 1263,Antang,Manggala,Kota Makassar,Perempuan,50 Tahun,Positif - Sembuh
 1264,Tidung,Rappocini,Kota Makassar,Perempuan,37 Tahun,Positif - Sembuh
-1265,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,3 Tahun,Positif - Sembuh
+1265,Rumaju,Bajo,Rekreasi Duta Covid19 SulSel,Laki-Laki,3 Tahun,Positif - Sembuh
 1266,Barana,Makassar,Kota Makassar,Perempuan,46 Tahun,Positif - Dirawat Pasien Positif
-1267,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,27 Tahun,Positif - Sembuh
+1267,Banta-Bantaeng,Rappocini,Rekreasi Duta Covid19 SulSel,Perempuan,27 Tahun,Positif - Sembuh
 1268,Tidung,Rappocini,Kota Makassar,Perempuan,34 Tahun,Positif - Sembuh
 1269,Totaka,Ujung Tanah,Kota Makassar,Perempuan,37 Tahun,Positif - Sembuh
 1270,Tidung,Rappocini,Kota Makassar,Perempuan,37 Tahun,Positif - Sembuh
@@ -1274,32 +1274,32 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1273,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,55 Tahun,Positif - Dirawat Pasien Positif
 1274,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,31 Tahun,Positif - Sembuh
 1275,Paccerakang,Biring Kanaya,Kota Makassar,Laki-Laki,55 Tahun,Positif - Sembuh
-1276,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,61 Tahun,Positif - Sembuh
-1277,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,15 Tahun,Positif - Sembuh
-1278,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,24 Tahun,Positif - Sembuh
+1276,Pallantikang,Pattallassang,Rekreasi Duta Covid19 SulSel,Perempuan,61 Tahun,Positif - Sembuh
+1277,Bone,Masamba,Rekreasi Duta Covid19 SulSel,Perempuan,15 Tahun,Positif - Sembuh
+1278,Timungan Lompoa,Bontoala,Rekreasi Duta Covid19 SulSel,Perempuan,24 Tahun,Positif - Sembuh
 1279,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,20 Tahun,Positif - Sembuh
-1280,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,16 Tahun,Positif - Sembuh
-1281,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,43 Tahun,Positif - Sembuh
-1282,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,46 Tahun,Positif - Sembuh
+1280,Maccini Gusung,Makassar,Rekreasi Duta Covid19 SulSel,Perempuan,16 Tahun,Positif - Sembuh
+1281,Maccini Gusung,Makassar,Rekreasi Duta Covid19 SulSel,Laki-Laki,43 Tahun,Positif - Sembuh
+1282,Kaluku Bodoa,Tallo,Rekreasi Duta Covid19 SulSel,Laki-Laki,46 Tahun,Positif - Sembuh
 1283,Panaikang,Panakkukang,Rekreasi Duta Covid19 SulSel,Laki-Laki,30 Tahun,Positif - Sembuh
-1284,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,53 Tahun,Positif - Sembuh
-1285,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,60 Tahun,Positif - Dirawat Pasien Positif
-1286,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,60 Tahun,Positif - Sembuh
-1287,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Sembuh
-1288,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,15 Tahun,Positif - Sembuh
-1289,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,19 Tahun,Positif - Sembuh
-1290,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
-1291,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,9 Tahun,Positif - Sembuh
-1292,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,38 Tahun,Positif - Sembuh
-1293,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,55 Tahun,Positif - Sembuh
-1294,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,73 Tahun,Positif - Sembuh
+1284,Pattingalloang,Ujung Tanah,Rekreasi Duta Covid19 SulSel,Perempuan,53 Tahun,Positif - Sembuh
+1285,Barana,Makassar,Rekreasi Duta Covid19 SulSel,Laki-Laki,60 Tahun,Positif - Dirawat Pasien Positif
+1286,Pampang,Panakkukang,Rekreasi Duta Covid19 SulSel,Perempuan,60 Tahun,Positif - Sembuh
+1287,Maccini Gusung,Makassar,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Sembuh
+1288,Timungan Lompoa,Bontoala,Rekreasi Duta Covid19 SulSel,Laki-Laki,15 Tahun,Positif - Sembuh
+1289,Suwangga,Tallo,Rekreasi Duta Covid19 SulSel,Perempuan,19 Tahun,Positif - Sembuh
+1290,Wasuponda,Wasuponda,Rekreasi Duta Covid19 SulSel,Laki-Laki,37 Tahun,Positif - Dirawat Pasien Positif
+1291,Panaikang,Panakkukang,Rekreasi Duta Covid19 SulSel,Laki-Laki,9 Tahun,Positif - Sembuh
+1292,Maccini Gusung,Makassar,Rekreasi Duta Covid19 SulSel,Perempuan,38 Tahun,Positif - Sembuh
+1293,Timungan Lompoa,Bontoala,Rekreasi Duta Covid19 SulSel,Perempuan,55 Tahun,Positif - Sembuh
+1294,Bone,Masamba,Rekreasi Duta Covid19 SulSel,Laki-Laki,73 Tahun,Positif - Sembuh
 1295,Tompo Balang,Bontoala,Kota Makassar,Perempuan,55 Tahun,Positif - Dirawat Pasien Positif
 1296,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,26 Tahun,Positif - Sembuh
 1297,-,-,RS Lain-lain,Perempuan,38 Tahun,Positif - Sembuh
 1298,Tabaringan,Ujung Tanah,Kota Makassar,Laki-Laki,35 Tahun,Positif - Sembuh
 1299,Sawerigading,Ujung Pandang,Kota Makassar,Laki-Laki,7 Tahun,Positif - Sembuh
 1300,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,8 Tahun,Positif - Sembuh
-1301,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,32 Tahun,Positif - Dirawat Pasien Positif
+1301,Pannampu,Tallo,Rekreasi Duta Covid19 SulSel,Laki-Laki,32 Tahun,Positif - Dirawat Pasien Positif
 1302,Tidung,Rappocini,Kota Makassar,Laki-Laki,17 Tahun,Positif - Sembuh
 1303,Tidung,Rappocini,Kota Makassar,Laki-Laki,14 Tahun,Positif - Sembuh
 1304,Tidung,Rappocini,Kota Makassar,Laki-Laki,13 Tahun,Positif - Sembuh
@@ -1357,12 +1357,12 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 1356,Melayu,Wajo,Kota Makassar,Laki-Laki,42 Tahun,Positif - Sembuh
 1357,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,62 Tahun,Positif - Dirawat Pasien Positif
 1358,Parang Layang,Bontoala,Kota Makassar,Perempuan,46 Tahun,Positif - Sembuh
-1359,-,-,Rekreasi Duta Covid19 SulSel,Laki-Laki,57 Tahun,Positif - Sembuh
+1359,Jenetallasa,Pallangga,Rekreasi Duta Covid19 SulSel,Laki-Laki,57 Tahun,Positif - Sembuh
 1360,-,-,RS Lain-lain,Perempuan,53 Tahun,Positif - Dirawat Pasien Positif
 1361,-,-,RS Lain-lain,Perempuan,61 Tahun,Positif - Sembuh
 1362,-,-,RS Lain-lain,Perempuan,50 Tahun,Positif - Dirawat Pasien Positif
 1363,-,-,RS Lain-lain,Perempuan,46 Tahun,Positif - Sembuh
-1364,-,-,Rekreasi Duta Covid19 SulSel,Perempuan,33 Tahun,Positif - Sembuh
+1364,Bulurokeng,Biring Kanaya,Rekreasi Duta Covid19 SulSel,Perempuan,33 Tahun,Positif - Sembuh
 1365,Wasuponda,Wasuponda,Kabupaten Luwu Timur,Perempuan,26 Tahun,Positif - Sembuh
 1366,Tomoni,Tomoni,Kabupaten Luwu Timur,Perempuan,33 Tahun,Positif - Sembuh
 1367,Balo Balo,Wotu,Kabupaten Luwu Timur,Perempuan,29 Tahun,Positif - Dirawat Pasien Positif
@@ -3957,7 +3957,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 3956,Turikale,Turikale,Kabupaten Maros,Laki-Laki,62 Tahun,Positif - Sembuh
 3957,Masale,Panakkukang,Kota Makassar,Perempuan,12 Tahun,Positif - Sembuh
 3958,Jenebatu,Bungaya,Kabupaten Gowa,Perempuan,24 Tahun,Positif - Dirawat Pasien Positif
-3959,-,Somba Opu,Kabupaten Gowa,Perempuan,30 Tahun,Positif - Sembuh
+3959,Tombolo,Somba Opu,Kabupaten Gowa,Perempuan,30 Tahun,Positif - Sembuh
 3960,Bontomanai,Bontomarannu,Kabupaten Gowa,Perempuan,27 Tahun,Positif - Dirawat Pasien Positif
 3961,Karuwisi,Panakkukang,Kota Makassar,Perempuan,21 Tahun,Positif - Sembuh
 3962,Maccini Gusung,Makassar,Kota Makassar,Perempuan,44 Tahun,Positif - Dirawat Pasien Positif
@@ -5031,7 +5031,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 5030,Kapasa,Tamalanrea,Kota Makassar,Laki-Laki,25 Tahun,Positif - Dirawat Pasien Positif
 5031,Jenetallasa,Pallangga,RS Lain-lain,Laki-Laki,40 Tahun,Positif - Dirawat Pasien Positif
 5032,Mawang,Somba Opu,Rekreasi Duta Covid19 SulSel,Perempuan,35 Tahun,Positif - Dirawat Pasien Positif
-5033,-,Rappocini,Rekreasi Duta Covid19 SulSel,Perempuan,30 Tahun,Positif - Sembuh
+5033,Tombolo,Somba Opu,Rekreasi Duta Covid19 SulSel,Perempuan,30 Tahun,Positif - Sembuh
 5034,Tammua,Tallo,Rekreasi Duta Covid19 SulSel,Perempuan,24 Tahun,Positif - Sembuh
 5035,Jenetallasa,Pallangga,Rekreasi Duta Covid19 SulSel,Laki-Laki,10 Tahun,Positif - Dirawat Pasien Positif
 5036,Sudiang Raya,Biring Kanaya,Rekreasi Duta Covid19 SulSel,Perempuan,24 Tahun,Positif - Dirawat Pasien Positif
@@ -6802,7 +6802,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6801,Ballaparang,Rappocini,Rekreasi Duta Covid19 SulSel,Laki-Laki,24 Tahun,Positif - Dirawat Pasien Positif
 6802,Bontoala,Pallangga,Kabupaten Gowa,Perempuan,57 Tahun,Positif - Dirawat Pasien Positif
 6803,Taeng,Pallangga,Rekreasi Duta Covid19 SulSel,Perempuan,48 Tahun,Positif - Dirawat Pasien Positif
-6804,Gunung Sari,Rappocini,Rekreasi Duta Covid19 SulSel,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
+6804,Tombolo,Somba Opu,Rekreasi Duta Covid19 SulSel,Laki-Laki,52 Tahun,Positif - Dirawat Pasien Positif
 6805,Toddotoa,Pallangga,Kabupaten Gowa,Perempuan,18 Tahun,Positif - Dirawat Pasien Positif
 6806,Karampuang,Panakkukang,Rekreasi Duta Covid19 SulSel,Laki-Laki,24 Tahun,Positif - Dirawat Pasien Positif
 6807,Romangpolong,Somba Opu,Kabupaten Gowa,Perempuan,5 Tahun,Positif - Dirawat Pasien Positif
@@ -7145,7 +7145,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7144,Lapadde,Ujung,Rekreasi Duta Covid19 SulSel,Laki-Laki,35 Tahun,Positif - Dirawat Pasien Positif
 7145,Lembang,Bantaeng,Kabupaten Bantaeng,Perempuan,51 Tahun,Positif - Dirawat Pasien Positif
 7146,Tampinna,Angkona,Kabupaten Luwu Timur,Laki-Laki,53 Tahun,Positif - Dirawat Pasien Positif
-7147,-,-,Kabupaten Gowa,Laki-Laki,19 Tahun,Positif - Dirawat Pasien Positif
+7147,Tombolo,Somba Opu,Kabupaten Gowa,Laki-Laki,19 Tahun,Positif - Dirawat Pasien Positif
 7148,Mamajang Luar,Mamajang,Kota Makassar,Perempuan,18 Tahun,Positif - Dirawat Pasien Positif
 7149,Kapasa,Tamalanrea,Kota Makassar,Laki-Laki,56 Tahun,Positif - Dirawat Pasien Positif
 7150,Paropo,Panakkukang,Kota Makassar,Perempuan,37 Tahun,Positif - Dirawat Pasien Positif
