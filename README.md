@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 22-07-2020 10:04:18
+## Data diupdate pada : 22-07-2020 21:33:37
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -20,7 +20,7 @@
 |6|Kabupaten Bone|322|22|20|364|https://anci.web.id/cor/kabupaten_bone|
 |7|Kabupaten Bulukumba|365|54|193|612|https://anci.web.id/cor/kabupaten_bulukumba|
 |8|Kabupaten Enrekang|290|23|35|348|https://anci.web.id/cor/kabupaten_enrekang|
-|9|Kabupaten Gowa|560|324|716|1600|https://anci.web.id/cor/kabupaten_gowa|
+|9|Kabupaten Gowa|560|324|715|1599|https://anci.web.id/cor/kabupaten_gowa|
 |10|Kabupaten Jeneponto|529|38|126|693|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|84|7|21|112|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|239|3|12|254|https://anci.web.id/cor/kabupaten_luwu|
@@ -38,7 +38,7 @@
 |24|Kabupaten Wajo|71|25|14|110|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|859|867|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|270|270|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|8299|2550|8254|19103|https://anci.web.id/cor/jumlah_sulsel|
+|27|Jumlah Sulsel|8299|2550|8253|19102|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
@@ -46,8 +46,8 @@
 | ---- | -------- | ---- | ---- |  ---- | ---- |
 | ODP | 297 | 8002 | 0 | 8299 | https://anci.web.id/cor/odp_detail.html |
 | PDP | 341 | 2002 | 209 | 2550 | https://anci.web.id/cor/pdp_detail.html |
-| POSITIF | 3934 | 4046 | 274 | 8254 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 4572 | 14050 | 483 | 19103 | https://anci.web.id/cor/jumlah_sulsel/ |
+| POSITIF | 3933 | 4046 | 274 | 8253 | https://anci.web.id/cor/positif_detail.html |
+| JUMLAH | 4571 | 14050 | 483 | 19102 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
