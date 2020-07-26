@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 25-07-2020 23:33:43
+## Data diupdate pada : 26-07-2020 14:33:39
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -28,7 +28,7 @@
 |14|Kabupaten Luwu Utara|278|40|15|333|https://anci.web.id/cor/kabupaten_luwu_utara|
 |15|Kabupaten Maros|275|79|275|629|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|140|68|70|278|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
-|17|Kabupaten Pinrang|569|33|29|631|https://anci.web.id/cor/kabupaten_pinrang|
+|17|Kabupaten Pinrang|568|33|29|630|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|96|54|54|204|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
 |19|Kabupaten Sinjai|268|23|105|396|https://anci.web.id/cor/kabupaten_sinjai|
 |20|Kabupaten Soppeng|82|40|86|208|https://anci.web.id/cor/kabupaten_soppeng|
@@ -38,16 +38,16 @@
 |24|Kabupaten Wajo|71|25|15|111|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|869|877|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|271|271|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|8465|2551|8740|19756|https://anci.web.id/cor/jumlah_sulsel|
+|27|Jumlah Sulsel|8464|2551|8740|19755|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
 | PASIEN | DIRAWAT | SEHAT | MENINGGAL | TOTAL | LINK |
 | ---- | -------- | ---- | ---- |  ---- | ---- |
-| ODP | 284 | 8181 | 0 | 8465 | https://anci.web.id/cor/odp_detail.html |
+| ODP | 283 | 8181 | 0 | 8464 | https://anci.web.id/cor/odp_detail.html |
 | PDP | 342 | 2002 | 209 | 2551 | https://anci.web.id/cor/pdp_detail.html |
 | POSITIF | 3636 | 4804 | 300 | 8740 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 4262 | 14987 | 509 | 19756 | https://anci.web.id/cor/jumlah_sulsel/ |
+| JUMLAH | 4261 | 14987 | 509 | 19755 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
