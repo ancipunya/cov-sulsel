@@ -5937,8 +5937,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 5936,Jenetallasa,Pallangga,Kabupaten Gowa,Perempuan,29 Tahun,Positif - Sembuh
 5937,Paropo,Panakkukang,Kota Makassar,Perempuan,28 Tahun,Positif - Sembuh
 5938,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,23 Tahun,Positif - Sembuh
-5939,Pakatto,Bontomarannu,RS Lain-lain,Laki-Laki,57 Tahun,Positif - Konfirmasi Aktif
-5940,Masale,Panakkukang,Kota Makassar,Perempuan,67 Tahun,Positif - Konfirmasi Aktif
+5939,Pakatto,Bontomarannu,RS Lain-lain,Laki-Laki,57 Tahun,Positif - Sembuh
+5940,Masale,Panakkukang,Kota Makassar,Perempuan,67 Tahun,Positif - Sembuh
 5941,Bara-Baraya Timur,Makassar,Kota Makassar,Perempuan,36 Tahun,Positif - Sembuh
 5942,Batua,Manggala,Kota Makassar,Laki-Laki,31 Tahun,Positif - Sembuh
 5943,Timbuseng,Pattallassang,Kabupaten Gowa,Perempuan,33 Tahun,Positif - Sembuh
@@ -5952,7 +5952,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 5951,Timbuseng,Pattallassang,Kabupaten Gowa,Perempuan,22 Tahun,Positif - Sembuh
 5952,Timbuseng,Pattallassang,Kabupaten Gowa,Perempuan,21 Tahun,Positif - Sembuh
 5953,Timbuseng,Pattallassang,Kabupaten Gowa,Perempuan,24 Tahun,Positif - Sembuh
-5954,Buntu Datu,Bara,RS Lain-lain,Perempuan,44 Tahun,Positif - Konfirmasi Aktif
+5954,Buntu Datu,Bara,RS Lain-lain,Perempuan,44 Tahun,Positif - Sembuh
 5955,Timbuseng,Pattallassang,Kabupaten Gowa,Perempuan,27 Tahun,Positif - Sembuh
 5956,Surutanga,Wara Timur,Kota Palopo,Laki-Laki,55 Tahun,Positif - Sembuh
 5957,Timbuseng,Pattallassang,Kabupaten Gowa,Laki-Laki,26 Tahun,Positif - Sembuh
@@ -5967,7 +5967,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 5966,Kelurahan Sandabalik,Makale Selatan,Kabupaten Tana Toraja,Laki-Laki,55 Tahun,Positif - Sembuh
 5967,Antang,Manggala,Rekreasi Duta Covid19 SulSel,Perempuan,38 Tahun,Positif - Sembuh
 5968,Katangka,Somba Opu,Kabupaten Gowa,Laki-Laki,23 Tahun,Positif - Sembuh
-5969,Pisang Utara,Ujung Pandang,Kota Makassar,Perempuan,33 Tahun,Positif - Konfirmasi Aktif
+5969,Pisang Utara,Ujung Pandang,Kota Makassar,Perempuan,33 Tahun,Positif - Sembuh
 5970,Karunrung,Rappocini,Kota Makassar,Perempuan,45 Tahun,Positif - Sembuh
 5971,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,73 Tahun,Positif - Konfirmasi Aktif
 5972,Tamalanrea Indah,Tamalanrea,Rekreasi Duta Covid19 SulSel,Perempuan,33 Tahun,Positif - Sembuh
@@ -6065,7 +6065,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6064,Galonta,Enrekang,Kabupaten Enrekang,Laki-Laki,16 Tahun,Positif - Sembuh
 6065,Bamba Puang,Anggeraja,Kabupaten Enrekang,Perempuan,70 Tahun,Positif - Sembuh
 6066,-,-,Kabupaten Bantaeng,Laki-Laki,21 Tahun,Positif - Sembuh
-6067,Antang,Manggala,Kota Makassar,Laki-Laki,56 Tahun,Positif - Konfirmasi Aktif
+6067,Antang,Manggala,Kota Makassar,Laki-Laki,56 Tahun,Positif - Sembuh
 6068,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
 6069,Paccinongan,Somba Opu,Kabupaten Gowa,Laki-Laki,34 Tahun,Positif - Sembuh
 6070,Borong,Manggala,Kota Makassar,Laki-Laki,39 Tahun,Positif - Sembuh
@@ -6074,38 +6074,38 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6073,Masale,Panakkukang,Kota Makassar,Laki-Laki,28 Tahun,Positif - Sembuh
 6074,Bonto Sunggu,Bissappu,Kabupaten Bantaeng,Laki-Laki,27 Tahun,Positif - Sembuh
 6075,Mangasa,Tamalate,Kota Makassar,Laki-Laki,29 Tahun,Positif - Sembuh
-6076,Antang,Manggala,Kota Makassar,Laki-Laki,47 Tahun,Positif - Konfirmasi Aktif
+6076,Antang,Manggala,Kota Makassar,Laki-Laki,47 Tahun,Positif - Sembuh
 6077,Borong,Manggala,Kota Makassar,Laki-Laki,19 Tahun,Positif - Sembuh
 6078,Tello Baru,Panakkukang,Kota Makassar,Perempuan,28 Tahun,Positif - Sembuh
 6079,Sering,Donri Donri,Kabupaten Soppeng,Perempuan,13 Tahun,Positif - Sembuh
 6080,Rappocini,Rappocini,Kota Makassar,Laki-Laki,37 Tahun,Positif - Sembuh
-6081,Moncongloe,Moncongloe,Kabupaten Maros,Perempuan,42 Tahun,Positif - Konfirmasi Aktif
-6082,Baji Mappakasunggu,Mamajang,Kota Makassar,Perempuan,54 Tahun,Positif - Konfirmasi Aktif
+6081,Moncongloe,Moncongloe,Kabupaten Maros,Perempuan,42 Tahun,Positif - Sembuh
+6082,Baji Mappakasunggu,Mamajang,Kota Makassar,Perempuan,54 Tahun,Positif - Sembuh
 6083,Sudiang Raya,Biring Kanaya,Kota Makassar,Perempuan,34 Tahun,Positif - Sembuh
 6084,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,28 Tahun,Positif - Sembuh
 6085,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,26 Tahun,Positif - Sembuh
 6086,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,27 Tahun,Positif - Sembuh
 6087,Adatongeng,Turikale,Kabupaten Maros,Laki-Laki,8 Tahun,Positif - Sembuh
 6088,Antang,Manggala,Kota Makassar,Laki-Laki,27 Tahun,Positif - Sembuh
-6089,Biring Ere,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Perempuan,56 Tahun,Positif - Konfirmasi Aktif
-6090,Antang,Manggala,Kota Makassar,Perempuan,55 Tahun,Positif - Konfirmasi Aktif
+6089,Biring Ere,Bungoro,Kabupaten Pangkajene Dan Kepulauan,Perempuan,56 Tahun,Positif - Sembuh
+6090,Antang,Manggala,Kota Makassar,Perempuan,55 Tahun,Positif - Sembuh
 6091,Antang,Manggala,Kota Makassar,Perempuan,22 Tahun,Positif - Sembuh
 6092,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,44 Tahun,Positif - Sembuh
 6093,Asuli,Towuti,Kabupaten Luwu Timur,Perempuan,55 Tahun,Positif - Sembuh
-6094,Amassangan,Wara,Kota Palopo,Perempuan,48 Tahun,Positif - Konfirmasi Aktif
+6094,Amassangan,Wara,Kota Palopo,Perempuan,48 Tahun,Positif - Sembuh
 6095,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,28 Tahun,Positif - Sembuh
 6096,Amassangan,Wara,Kota Palopo,Perempuan,55 Tahun,Positif - Sembuh
 6097,Pisang Selatan,Ujung Pandang,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
-6098,Malimongan,Wajo,Kota Makassar,Laki-Laki,41 Tahun,Positif - Konfirmasi Aktif
+6098,Malimongan,Wajo,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
 6099,Bara-Baraya,Makassar,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
-6100,-,-,Kota Makassar,-,-,Positif - Konfirmasi Aktif
-6101,Biru,Tanete Riattang,Kabupaten Bone,Perempuan,47 Tahun,Positif - Konfirmasi Aktif
+6100,-,-,Kota Makassar,-,-,Positif - Sembuh
+6101,Biru,Tanete Riattang,Kabupaten Bone,Perempuan,47 Tahun,Positif - Sembuh
 6102,Tompobalang,Somba Opu,Rekreasi Duta Covid19 SulSel,Perempuan,54 Tahun,Positif - Sembuh
-6103,Biru,Tanete Riattang,Kabupaten Bone,Laki-Laki,49 Tahun,Positif - Konfirmasi Aktif
+6103,Biru,Tanete Riattang,Kabupaten Bone,Laki-Laki,49 Tahun,Positif - Sembuh
 6104,Tanjung Merdeka,Tamalate,Rekreasi Duta Covid19 SulSel,Perempuan,27 Tahun,Positif - Sembuh
-6105,Pattunuang,Wajo,Kota Makassar,Laki-Laki,54 Tahun,Positif - Konfirmasi Aktif
+6105,Pattunuang,Wajo,Kota Makassar,Laki-Laki,54 Tahun,Positif - Sembuh
 6106,Bulogading,Ujung Pandang,Rekreasi Duta Covid19 SulSel,Perempuan,16 Tahun,Positif - Sembuh
-6107,Tidung,Rappocini,Kota Makassar,Laki-Laki,45 Tahun,Positif - Konfirmasi Aktif
+6107,Tidung,Rappocini,Kota Makassar,Laki-Laki,45 Tahun,Positif - Sembuh
 6108,Tidung,Rappocini,Kota Makassar,Perempuan,40 Tahun,Positif - Sembuh
 6109,Julukanaya,Pallangga,Rekreasi Duta Covid19 SulSel,Perempuan,28 Tahun,Positif - Sembuh
 6110,Sawerigading,Ujung Pandang,Kota Makassar,Laki-Laki,39 Tahun,Positif - Sembuh
@@ -6141,7 +6141,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6140,Kapasa,Tamalanrea,Kota Makassar,Perempuan,1 Tahun,Positif - Sembuh
 6141,Buloa,Tallo,Kota Makassar,Laki-Laki,25 Tahun,Positif - Sembuh
 6142,Parang Tambung,Tamalate,Kota Makassar,Perempuan,34 Tahun,Positif - Sembuh
-6143,Tidung,Rappocini,Kota Makassar,Laki-Laki,61 Tahun,Positif - Konfirmasi Aktif
+6143,Tidung,Rappocini,Kota Makassar,Laki-Laki,61 Tahun,Positif - Sembuh
 6144,Batua,Manggala,Kota Makassar,Perempuan,39 Tahun,Positif - Sembuh
 6145,Karunrung,Rappocini,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
 6146,Bontoa,Mandai,Kabupaten Maros,Laki-Laki,41 Tahun,Positif - Sembuh
@@ -6166,7 +6166,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6165,-,-,Kota Makassar,Laki-Laki,36 Tahun,Positif - Sembuh
 6166,Citta,Citta,Kabupaten Soppeng,Laki-Laki,64 Tahun,Positif - Sembuh
 6167,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Perempuan,24 Tahun,Positif - Sembuh
-6168,Citta,Citta,Kabupaten Soppeng,Perempuan,55 Tahun,Positif - Konfirmasi Aktif
+6168,Citta,Citta,Kabupaten Soppeng,Perempuan,55 Tahun,Positif - Sembuh
 6169,Kelurahan Lamunan,Makale,Kabupaten Tana Toraja,Perempuan,47 Tahun,Positif - Sembuh
 6170,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,48 Tahun,Positif - Sembuh
 6171,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Perempuan,17 Tahun,Positif - Sembuh
@@ -6185,14 +6185,14 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6184,Lamunre,Belopa Utara,Kabupaten Luwu,Laki-Laki,8 Tahun,Positif - Sembuh
 6185,Lalabata Rilau,Lalabata,Kabupaten Soppeng,Perempuan,4 Tahun,Positif - Sembuh
 6186,Bulogading,Ujung Pandang,Kota Makassar,Laki-Laki,38 Tahun,Positif - Sembuh
-6187,-,-,Kota Makassar,Laki-Laki,48 Tahun,Positif - Konfirmasi Aktif
+6187,-,-,Kota Makassar,Laki-Laki,48 Tahun,Positif - Sembuh
 6188,Labokong,Donri Donri,Kabupaten Soppeng,Laki-Laki,27 Tahun,Positif - Sembuh
 6189,Antang,Manggala,Kota Makassar,Laki-Laki,22 Tahun,Positif - Sembuh
-6190,Melayu,Wajo,Kota Makassar,Laki-Laki,51 Tahun,Positif - Konfirmasi Aktif
-6191,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,80 Tahun,Positif - Konfirmasi Aktif
-6192,Wajo Baru,Bontoala,Kota Makassar,Laki-Laki,75 Tahun,Positif - Konfirmasi Aktif
+6190,Melayu,Wajo,Kota Makassar,Laki-Laki,51 Tahun,Positif - Sembuh
+6191,Sungguminasa,Somba Opu,Kabupaten Gowa,Laki-Laki,80 Tahun,Positif - Sembuh
+6192,Wajo Baru,Bontoala,Kota Makassar,Laki-Laki,75 Tahun,Positif - Sembuh
 6193,Sering,Donri Donri,Kabupaten Soppeng,Perempuan,64 Tahun,Positif - Sembuh
-6194,-,-,Kota Makassar,Perempuan,41 Tahun,Positif - Konfirmasi Aktif
+6194,-,-,Kota Makassar,Perempuan,41 Tahun,Positif - Sembuh
 6195,Gaddong,Bontoala,Kota Makassar,Laki-Laki,23 Tahun,Positif - Sembuh
 6196,Belo,Ganra,Kabupaten Soppeng,Laki-Laki,37 Tahun,Positif - Sembuh
 6197,Tammua,Tallo,Kota Makassar,Laki-Laki,30 Tahun,Positif - Sembuh
@@ -6205,16 +6205,16 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6204,Labokong,Donri Donri,Kabupaten Soppeng,Perempuan,49 Tahun,Positif - Sembuh
 6205,Labokong,Donri Donri,Kabupaten Soppeng,Perempuan,69 Tahun,Positif - Sembuh
 6206,Pising,Donri Donri,Kabupaten Soppeng,Laki-Laki,17 Tahun,Positif - Sembuh
-6207,Rappojawa,Tallo,Kota Makassar,Laki-Laki,42 Tahun,Positif - Konfirmasi Aktif
-6208,Batua,Manggala,Kota Makassar,Laki-Laki,45 Tahun,Positif - Konfirmasi Aktif
+6207,Rappojawa,Tallo,Kota Makassar,Laki-Laki,42 Tahun,Positif - Sembuh
+6208,Batua,Manggala,Kota Makassar,Laki-Laki,45 Tahun,Positif - Sembuh
 6209,Amassangan,Wara,Kota Palopo,Perempuan,37 Tahun,Positif - Sembuh
 6210,Amassangan,Wara,Kota Palopo,Perempuan,13 Tahun,Positif - Sembuh
 6211,Amassangan,Wara,Kota Palopo,Perempuan,72 Tahun,Positif - Sembuh
 6212,Rampoang,Bara,Kota Palopo,Laki-Laki,28 Tahun,Positif - Sembuh
 6213,Kaluku,Sukamaju,Kabupaten Luwu Utara,Laki-Laki,24 Tahun,Positif - Sembuh
-6214,Amassangan,Wara,Kota Palopo,Laki-Laki,75 Tahun,Positif - Konfirmasi Aktif
+6214,Amassangan,Wara,Kota Palopo,Laki-Laki,75 Tahun,Positif - Sembuh
 6215,-,-,Kota Makassar,Laki-Laki,32 Tahun,Positif - Sembuh
-6216,Tamalabba,Ujung Tanah,Kota Makassar,Perempuan,46 Tahun,Positif - Konfirmasi Aktif
+6216,Tamalabba,Ujung Tanah,Kota Makassar,Perempuan,46 Tahun,Positif - Sembuh
 6217,Maricaya Selatan,Mamajang,Kota Makassar,Laki-Laki,50 Tahun,Positif - Sembuh
 6218,Ujung Pandang Baru,Tallo,Kota Makassar,Perempuan,19 Tahun,Positif - Sembuh
 6219,Bontoala,Bontoala,Kota Makassar,Perempuan,26 Tahun,Positif - Sembuh
@@ -6230,7 +6230,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6229,Masale,Panakkukang,Kota Makassar,Laki-Laki,1 Tahun,Positif - Sembuh
 6230,-,-,Kota Makassar,Perempuan,48 Tahun,Positif - Sembuh
 6231,Tello Baru,Panakkukang,Kota Makassar,Laki-Laki,68 Tahun,Positif - Sembuh
-6232,Kassi-Kassi,Rappocini,Kota Makassar,Perempuan,47 Tahun,Positif - Konfirmasi Aktif
+6232,Kassi-Kassi,Rappocini,Kota Makassar,Perempuan,47 Tahun,Positif - Sembuh
 6233,Maricaya Selatan,Mamajang,Kota Makassar,Perempuan,18 Tahun,Positif - Sembuh
 6234,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,50 Tahun,Positif - Sembuh
 6235,Tidung,Rappocini,Kota Makassar,Perempuan,59 Tahun,Positif - Sembuh
@@ -6241,22 +6241,22 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6240,Bara-Baraya,Makassar,Kota Makassar,Laki-Laki,56 Tahun,Positif - Sembuh
 6241,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,23 Tahun,Positif - Sembuh
 6242,Sambung Jawa,Mamajang,Kota Makassar,Laki-Laki,22 Tahun,Positif - Sembuh
-6243,Pannampu,Tallo,Kota Makassar,Laki-Laki,39 Tahun,Positif - Konfirmasi Aktif
+6243,Pannampu,Tallo,Kota Makassar,Laki-Laki,39 Tahun,Positif - Sembuh
 6244,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,36 Tahun,Positif - Sembuh
 6245,Tamamaung,Panakkukang,Kota Makassar,Perempuan,30 Tahun,Positif - Sembuh
 6246,Tetebatu,Pallangga,Kabupaten Gowa,Laki-Laki,55 Tahun,Positif - Sembuh
-6247,Tamamaung,Panakkukang,Kota Makassar,Perempuan,79 Tahun,Positif - Konfirmasi Aktif
-6248,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,43 Tahun,Positif - Konfirmasi Aktif
+6247,Tamamaung,Panakkukang,Kota Makassar,Perempuan,79 Tahun,Positif - Sembuh
+6248,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,43 Tahun,Positif - Sembuh
 6249,Mangkura,Ujung Pandang,Kota Makassar,Perempuan,58 Tahun,Positif - Sembuh
 6250,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,57 Tahun,Positif - Sembuh
 6251,Parang Banoa,Pallangga,Kabupaten Gowa,Laki-Laki,29 Tahun,Positif - Sembuh
 6252,Kanjilo,Barombong,Kabupaten Gowa,Laki-Laki,32 Tahun,Positif - Sembuh
 6253,Pannampu,Tallo,Kota Makassar,Laki-Laki,38 Tahun,Positif - Sembuh
 6254,Pandang,Panakkukang,Kota Makassar,Perempuan,19 Tahun,Positif - Sembuh
-6255,Maricaya,Makassar,Kota Makassar,Laki-Laki,57 Tahun,Positif - Konfirmasi Aktif
-6256,Masale,Panakkukang,Kota Makassar,Perempuan,54 Tahun,Positif - Konfirmasi Aktif
-6257,Mamajang Dalam,Mamajang,Kota Makassar,Perempuan,63 Tahun,Positif - Konfirmasi Aktif
-6258,Sambung Jawa,Mamajang,Kota Makassar,Perempuan,65 Tahun,Positif - Konfirmasi Aktif
+6255,Maricaya,Makassar,Kota Makassar,Laki-Laki,57 Tahun,Positif - Sembuh
+6256,Masale,Panakkukang,Kota Makassar,Perempuan,54 Tahun,Positif - Sembuh
+6257,Mamajang Dalam,Mamajang,Kota Makassar,Perempuan,63 Tahun,Positif - Sembuh
+6258,Sambung Jawa,Mamajang,Kota Makassar,Perempuan,65 Tahun,Positif - Sembuh
 6259,Masale,Panakkukang,Kota Makassar,Laki-Laki,13 Tahun,Positif - Sembuh
 6260,Pandang,Panakkukang,Kota Makassar,Laki-Laki,16 Tahun,Positif - Sembuh
 6261,Soroako,Nuha,Kabupaten Luwu Timur,Laki-Laki,19 Tahun,Positif - Sembuh
@@ -6335,7 +6335,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6334,Asuli,Towuti,Kabupaten Luwu Timur,Laki-Laki,21 Tahun,Positif - Sembuh
 6335,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,40 Tahun,Positif - Sembuh
 6336,Wawondula,Towuti,Kabupaten Luwu Timur,Laki-Laki,46 Tahun,Positif - Sembuh
-6337,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,50 Tahun,Positif - Konfirmasi Aktif
+6337,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,50 Tahun,Positif - Sembuh
 6338,-,-,Kabupaten Gowa,Laki-Laki,47 Tahun,Positif - Sembuh
 6339,Parang Tambung,Tamalate,Kota Makassar,Perempuan,48 Tahun,Positif - Sembuh
 6340,Pakatto,Bontomarannu,Kabupaten Gowa,Perempuan,54 Tahun,Positif - Sembuh
@@ -6348,7 +6348,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6347,Parang Tambung,Tamalate,Kota Makassar,Perempuan,27 Tahun,Positif - Sembuh
 6348,-,-,Kota Makassar,Perempuan,42 Tahun,Positif - Sembuh
 6349,-,-,Kabupaten Gowa,Perempuan,30 Tahun,Positif - Sembuh
-6350,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,44 Tahun,Positif - Konfirmasi Aktif
+6350,Kunjung Mae,Mariso,Kota Makassar,Laki-Laki,44 Tahun,Positif - Sembuh
 6351,Bontoala Parang,Bontoala,Kota Makassar,Laki-Laki,43 Tahun,Positif - Sembuh
 6352,Pandang,Panakkukang,Kota Makassar,Laki-Laki,45 Tahun,Positif - Sembuh
 6353,Tubajeng,Bajeng,Kabupaten Gowa,Laki-Laki,61 Tahun,Positif - Sembuh
@@ -6393,7 +6393,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6392,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,30 Tahun,Positif - Sembuh
 6393,Borong,Manggala,Kota Makassar,Perempuan,14 Tahun,Positif - Sembuh
 6394,Borong,Manggala,Kota Makassar,Perempuan,24 Tahun,Positif - Sembuh
-6395,Pampang,Panakkukang,Kota Makassar,Laki-Laki,53 Tahun,Positif - Konfirmasi Aktif
+6395,Pampang,Panakkukang,Kota Makassar,Laki-Laki,53 Tahun,Positif - Sembuh
 6396,Borong,Manggala,Kota Makassar,Perempuan,36 Tahun,Positif - Sembuh
 6397,Borong,Manggala,Kota Makassar,Laki-Laki,31 Tahun,Positif - Sembuh
 6398,Bara-Baraya,Makassar,Kota Makassar,Perempuan,23 Tahun,Positif - Sembuh
@@ -6412,7 +6412,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6411,Manggala,Manggala,Kota Makassar,Laki-Laki,21 Tahun,Positif - Sembuh
 6412,Antang,Manggala,Kota Makassar,Laki-Laki,36 Tahun,Positif - Sembuh
 6413,Pabaeng-Baeng,Tamalate,Kota Makassar,Perempuan,43 Tahun,Positif - Sembuh
-6414,Bonto Bontoa,Somba Opu,Kabupaten Gowa,Laki-Laki,50 Tahun,Positif - Konfirmasi Aktif
+6414,Bonto Bontoa,Somba Opu,Kabupaten Gowa,Laki-Laki,50 Tahun,Positif - Sembuh
 6415,Ekatiro,Bontotiro,Kabupaten Bulukumba,Perempuan,30 Tahun,Positif - Sembuh
 6416,Pacongang,Paleteang,Kabupaten Pinrang,Perempuan,32 Tahun,Positif - Sembuh
 6417,Kasimpureng,Ujung Bulu,Kabupaten Bulukumba,Perempuan,32 Tahun,Positif - Sembuh
@@ -6429,9 +6429,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6428,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,51 Tahun,Positif - Sembuh
 6429,Tidung,Rappocini,Kota Makassar,Perempuan,30 Tahun,Positif - Sembuh
 6430,Tamamaung,Panakkukang,Kota Makassar,Laki-Laki,16 Tahun,Positif - Sembuh
-6431,Barana,Makassar,Kota Makassar,Perempuan,51 Tahun,Positif - Konfirmasi Aktif
+6431,Barana,Makassar,Kota Makassar,Perempuan,51 Tahun,Positif - Sembuh
 6432,Tamamaung,Panakkukang,Kota Makassar,Perempuan,39 Tahun,Positif - Sembuh
-6433,Barana,Makassar,Kota Makassar,Laki-Laki,53 Tahun,Positif - Konfirmasi Aktif
+6433,Barana,Makassar,Kota Makassar,Laki-Laki,53 Tahun,Positif - Sembuh
 6434,Bangkala,Manggala,Kota Makassar,Perempuan,26 Tahun,Positif - Sembuh
 6435,-,-,Kota Makassar,Laki-Laki,26 Tahun,Positif - Sembuh
 6436,Mangalli,Pallangga,Kabupaten Gowa,Perempuan,41 Tahun,Positif - Sembuh
@@ -6439,51 +6439,51 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6438,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,39 Tahun,Positif - Sembuh
 6439,Losari,Ujung Pandang,Kota Makassar,Perempuan,19 Tahun,Positif - Sembuh
 6440,Ujung Pandang Baru,Tallo,Kota Makassar,Perempuan,21 Tahun,Positif - Sembuh
-6441,Antang,Manggala,Kota Makassar,Laki-Laki,39 Tahun,Positif - Konfirmasi Aktif
+6441,Antang,Manggala,Kota Makassar,Laki-Laki,39 Tahun,Positif - Sembuh
 6442,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,30 Tahun,Positif - Sembuh
-6443,-,Ujung Pandang,Kota Makassar,Perempuan,43 Tahun,Positif - Konfirmasi Aktif
+6443,-,Ujung Pandang,Kota Makassar,Perempuan,43 Tahun,Positif - Sembuh
 6444,Baji Mappakasunggu,Mamajang,Kota Makassar,Perempuan,31 Tahun,Positif - Sembuh
-6445,Mangasa,Tamalate,Kota Makassar,Laki-Laki,58 Tahun,Positif - Konfirmasi Aktif
+6445,Mangasa,Tamalate,Kota Makassar,Laki-Laki,58 Tahun,Positif - Sembuh
 6446,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,51 Tahun,Positif - Sembuh
 6447,Manggala,Manggala,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
 6448,-,Makassar,Kota Makassar,Perempuan,30 Tahun,Positif - Sembuh
 6449,Balang Baru,Tamalate,Kota Makassar,Perempuan,32 Tahun,Positif - Sembuh
 6450,Balang Baru,Tamalate,Kota Makassar,Laki-Laki,32 Tahun,Positif - Sembuh
-6451,Kelurahan Ariang,Makale,Kabupaten Tana Toraja,Laki-Laki,60 Tahun,Positif - Konfirmasi Aktif
-6452,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,58 Tahun,Positif - Konfirmasi Aktif
+6451,Kelurahan Ariang,Makale,Kabupaten Tana Toraja,Laki-Laki,60 Tahun,Positif - Sembuh
+6452,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,58 Tahun,Positif - Sembuh
 6453,Tidung,Rappocini,Kota Makassar,Perempuan,30 Tahun,Positif - Sembuh
 6454,Tamangapa,Manggala,Kota Makassar,Laki-Laki,40 Tahun,Positif - Sembuh
-6455,-,-,Kota Makassar,Laki-Laki,55 Tahun,Positif - Konfirmasi Aktif
+6455,-,-,Kota Makassar,Laki-Laki,55 Tahun,Positif - Sembuh
 6456,Bontoala Tua,Bontoala,Kota Makassar,Perempuan,70 Tahun,Positif - Sembuh
 6457,Bontokio,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,21 Tahun,Positif - Sembuh
 6458,Bonto Lebang,Mamajang,Kota Makassar,Laki-Laki,31 Tahun,Positif - Sembuh
 6459,Rappocini,Rappocini,Kota Makassar,Perempuan,28 Tahun,Positif - Sembuh
 6460,Mattoangin,Mariso,Kota Makassar,Laki-Laki,56 Tahun,Positif - Sembuh
-6461,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,60 Tahun,Positif - Konfirmasi Aktif
+6461,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,60 Tahun,Positif - Sembuh
 6462,Malimongan Tua,Wajo,Kota Makassar,Perempuan,20 Tahun,Positif - Sembuh
-6463,Mata Allo,Bontomarannu,Kabupaten Gowa,Perempuan,43 Tahun,Positif - Konfirmasi Aktif
-6464,Mappala,Rappocini,Kota Makassar,Laki-Laki,75 Tahun,Positif - Konfirmasi Aktif
+6463,Mata Allo,Bontomarannu,Kabupaten Gowa,Perempuan,43 Tahun,Positif - Sembuh
+6464,Mappala,Rappocini,Kota Makassar,Laki-Laki,75 Tahun,Positif - Sembuh
 6465,Pettuadae,Turikale,Kabupaten Maros,Perempuan,44 Tahun,Positif - Sembuh
-6466,Bulurokeng,Biring Kanaya,Kota Makassar,Laki-Laki,52 Tahun,Positif - Konfirmasi Aktif
+6466,Bulurokeng,Biring Kanaya,Kota Makassar,Laki-Laki,52 Tahun,Positif - Sembuh
 6467,Tamarunang,Somba Opu,Kabupaten Gowa,Perempuan,30 Tahun,Positif - Sembuh
-6468,Panambungan,Mariso,Kota Makassar,Laki-Laki,49 Tahun,Positif - Konfirmasi Aktif
+6468,Panambungan,Mariso,Kota Makassar,Laki-Laki,49 Tahun,Positif - Sembuh
 6469,Tamarunang,Somba Opu,Kabupaten Gowa,Laki-Laki,35 Tahun,Positif - Sembuh
 6470,Tenrigangkae,Mandai,Kabupaten Maros,Perempuan,42 Tahun,Positif - Sembuh
 6471,Bontomanai,Bontomarannu,Kabupaten Gowa,Perempuan,34 Tahun,Positif - Sembuh
-6472,Mariso,Mariso,Kota Makassar,Laki-Laki,65 Tahun,Positif - Konfirmasi Aktif
+6472,Mariso,Mariso,Kota Makassar,Laki-Laki,65 Tahun,Positif - Sembuh
 6473,Kelurahan Tondon Mamulu,Makale,Kabupaten Tana Toraja,Laki-Laki,22 Tahun,Positif - Sembuh
-6474,Bara-Baraya,Makassar,Kota Makassar,Perempuan,39 Tahun,Positif - Konfirmasi Aktif
+6474,Bara-Baraya,Makassar,Kota Makassar,Perempuan,39 Tahun,Positif - Sembuh
 6475,Tamarunang,Somba Opu,Kabupaten Gowa,Laki-Laki,7 Tahun,Positif - Sembuh
 6476,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,26 Tahun,Positif - Sembuh
-6477,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,63 Tahun,Positif - Konfirmasi Aktif
+6477,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,63 Tahun,Positif - Sembuh
 6478,Balang Pesoang,Bulukumpa,Kabupaten Bulukumba,Laki-Laki,25 Tahun,Positif - Sembuh
 6479,Bara-Baraya,Makassar,Kota Makassar,Perempuan,37 Tahun,Positif - Sembuh
 6480,Sudiang Raya,Biring Kanaya,Kota Makassar,Perempuan,33 Tahun,Positif - Sembuh
-6481,Masale,Panakkukang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Konfirmasi Aktif
+6481,Masale,Panakkukang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Sembuh
 6482,Benteng,Patampanua,Kabupaten Pinrang,Laki-Laki,27 Tahun,Positif - Sembuh
 6483,Tamalanrea Indah,Tamalanrea,Kota Makassar,Perempuan,24 Tahun,Positif - Sembuh
 6484,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
-6485,Bulurokeng,Biring Kanaya,Kota Makassar,Perempuan,43 Tahun,Positif - Konfirmasi Aktif
+6485,Bulurokeng,Biring Kanaya,Kota Makassar,Perempuan,43 Tahun,Positif - Sembuh
 6486,-,-,Kota Makassar,Laki-Laki,17 Tahun,Positif - Sembuh
 6487,Tamangapa,Manggala,Kota Makassar,Perempuan,35 Tahun,Positif - Sembuh
 6488,Tamalanrea Jaya,Tamalanrea,Rekreasi Duta Covid19 SulSel,Perempuan,25 Tahun,Positif - Sembuh
@@ -6491,22 +6491,22 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6490,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,38 Tahun,Positif - Sembuh
 6491,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,34 Tahun,Positif - Sembuh
 6492,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,30 Tahun,Positif - Sembuh
-6493,Manggala,Manggala,Kota Makassar,Laki-Laki,50 Tahun,Positif - Konfirmasi Aktif
+6493,Manggala,Manggala,Kota Makassar,Laki-Laki,50 Tahun,Positif - Sembuh
 6494,Moncongloe,Moncongloe,Kabupaten Maros,Perempuan,26 Tahun,Positif - Sembuh
-6495,P A I,Biring Kanaya,Kota Makassar,Laki-Laki,51 Tahun,Positif - Konfirmasi Aktif
+6495,P A I,Biring Kanaya,Kota Makassar,Laki-Laki,51 Tahun,Positif - Sembuh
 6496,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,34 Tahun,Positif - Sembuh
 6497,Tamalanrea,Tamalanrea,Kota Makassar,Laki-Laki,37 Tahun,Positif - Sembuh
-6498,Wala-Walaya,Tallo,Kota Makassar,Laki-Laki,65 Tahun,Positif - Konfirmasi Aktif
-6499,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,42 Tahun,Positif - Konfirmasi Aktif
+6498,Wala-Walaya,Tallo,Kota Makassar,Laki-Laki,65 Tahun,Positif - Sembuh
+6499,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,42 Tahun,Positif - Sembuh
 6500,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,-,Positif - Sembuh
 6501,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,26 Tahun,Positif - Sembuh
 6502,Banta-Bantaeng,Rappocini,Kota Makassar,Laki-Laki,31 Tahun,Positif - Sembuh
 6503,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,31 Tahun,Positif - Sembuh
 6504,Bunga Eja Beru,Tallo,Kota Makassar,Laki-Laki,29 Tahun,Positif - Sembuh
-6505,Ujung Pandang Baru,Tallo,Kota Makassar,Laki-Laki,43 Tahun,Positif - Konfirmasi Aktif
+6505,Ujung Pandang Baru,Tallo,Kota Makassar,Laki-Laki,43 Tahun,Positif - Sembuh
 6506,Daya,Biring Kanaya,Kota Makassar,Perempuan,34 Tahun,Positif - Sembuh
-6507,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,60 Tahun,Positif - Konfirmasi Aktif
-6508,Manggala,Manggala,Kota Makassar,Perempuan,39 Tahun,Positif - Konfirmasi Aktif
+6507,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,60 Tahun,Positif - Sembuh
+6508,Manggala,Manggala,Kota Makassar,Perempuan,39 Tahun,Positif - Sembuh
 6509,Tamalanrea Indah,Tamalanrea,Kota Makassar,Laki-Laki,35 Tahun,Positif - Sembuh
 6510,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
 6511,Paccinongan,Somba Opu,Kabupaten Gowa,Perempuan,22 Tahun,Positif - Sembuh
@@ -6539,7 +6539,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6538,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,49 Tahun,Positif - Konfirmasi Aktif
 6539,Binturu,Wara Selatan,Kota Palopo,Laki-Laki,40 Tahun,Positif - Sembuh
 6540,Jenetallasa,Pallangga,Kabupaten Gowa,Laki-Laki,56 Tahun,Positif - Konfirmasi Aktif
-6541,Sambung Jawa,Mamajang,Kota Makassar,Laki-Laki,57 Tahun,Positif - Konfirmasi Aktif
+6541,Sambung Jawa,Mamajang,Kota Makassar,Laki-Laki,57 Tahun,Positif - Sembuh
 6542,Labukkang,Ujung,Kota Parepare,Perempuan,31 Tahun,Positif - Sembuh
 6543,Antang,Manggala,Kota Makassar,Perempuan,37 Tahun,Positif - Sembuh
 6544,Ujung Pandang Baru,Tallo,Rekreasi Duta Covid19 SulSel,Perempuan,72 Tahun,Positif - Sembuh
@@ -6547,7 +6547,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6546,Pampang,Panakkukang,Kota Makassar,Laki-Laki,30 Tahun,Positif - Sembuh
 6547,P A I,Biring Kanaya,Kota Makassar,Perempuan,16 Tahun,Positif - Sembuh
 6548,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,32 Tahun,Positif - Sembuh
-6549,Bangkala,Manggala,Kota Makassar,Perempuan,39 Tahun,Positif - Konfirmasi Aktif
+6549,Bangkala,Manggala,Kota Makassar,Perempuan,39 Tahun,Positif - Sembuh
 6550,Pampang,Panakkukang,Kota Makassar,Perempuan,42 Tahun,Positif - Sembuh
 6551,Bara-Baraya,Makassar,Kota Makassar,Perempuan,-,Positif - Sembuh
 6552,Pabatang,Mamajang,Kota Makassar,Perempuan,43 Tahun,Positif - Sembuh
@@ -6565,7 +6565,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6564,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,46 Tahun,Positif - Sembuh
 6565,Paropo,Panakkukang,Kota Makassar,Perempuan,67 Tahun,Positif - Sembuh
 6566,Pallantikang,Maros Baru,RS Lain-lain,Perempuan,22 Tahun,Positif - Sembuh
-6567,Lariang Bangi,Makassar,Kota Makassar,Laki-Laki,68 Tahun,Positif - Konfirmasi Aktif
+6567,Lariang Bangi,Makassar,Kota Makassar,Laki-Laki,68 Tahun,Positif - Sembuh
 6568,Pallantikang,Maros Baru,RS Lain-lain,Perempuan,-,Positif - Sembuh
 6569,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Laki-Laki,37 Tahun,Positif - Sembuh
 6570,Tamamaung,Panakkukang,Kota Makassar,Perempuan,25 Tahun,Positif - Sembuh
@@ -6574,7 +6574,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6573,Lembo,Tallo,Kota Makassar,Perempuan,25 Tahun,Positif - Sembuh
 6574,Pabatang,Mamajang,Kota Makassar,Laki-Laki,51 Tahun,Positif - Sembuh
 6575,Paccerakang,Biring Kanaya,Kota Makassar,Perempuan,41 Tahun,Positif - Sembuh
-6576,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,41 Tahun,Positif - Konfirmasi Aktif
+6576,Tanjung Merdeka,Tamalate,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
 6577,-,Barru,Kabupaten Barru,Laki-Laki,40 Tahun,Positif - Sembuh
 6578,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,29 Tahun,Positif - Sembuh
 6579,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,13 Tahun,Positif - Sembuh
@@ -6632,7 +6632,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6631,Kassi-Kassi,Rappocini,Kota Makassar,Laki-Laki,3 Tahun,Positif - Sembuh
 6632,Bontotangnga,Tamalatea,Kabupaten Jeneponto,Perempuan,46 Tahun,Positif - Sembuh
 6633,Balang,Binamu,Kabupaten Jeneponto,Perempuan,33 Tahun,Positif - Sembuh
-6634,Katangka,Somba Opu,Kabupaten Gowa,Perempuan,71 Tahun,Positif - Konfirmasi Aktif
+6634,Katangka,Somba Opu,Kabupaten Gowa,Perempuan,71 Tahun,Positif - Sembuh
 6635,Tonrokassi Timur,Tamalatea,Kabupaten Jeneponto,Laki-Laki,20 Tahun,Positif - Sembuh
 6636,Taman Roya,Tamalatea,Kabupaten Jeneponto,Perempuan,56 Tahun,Positif - Sembuh
 6637,Beroanging,Bangkala Barat,Kabupaten Jeneponto,Perempuan,33 Tahun,Positif - Sembuh
@@ -6646,7 +6646,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6645,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,51 Tahun,Positif - Sembuh
 6646,Taman Roya,Tamalatea,Kabupaten Jeneponto,Perempuan,24 Tahun,Positif - Sembuh
 6647,Balang,Binamu,Kabupaten Jeneponto,Laki-Laki,23 Tahun,Positif - Sembuh
-6648,Lembo,Tallo,Kota Makassar,Laki-Laki,79 Tahun,Positif - Konfirmasi Aktif
+6648,Lembo,Tallo,Kota Makassar,Laki-Laki,79 Tahun,Positif - Sembuh
 6649,Kayuloe Timur,Turatea,Kabupaten Jeneponto,Laki-Laki,51 Tahun,Positif - Sembuh
 6650,Bontoa,Binamu,Kabupaten Jeneponto,Laki-Laki,28 Tahun,Positif - Sembuh
 6651,-,-,RS Lain-lain,Laki-Laki,-,Positif - Sembuh
@@ -6671,9 +6671,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6670,-,Bangkala Barat,Kabupaten Jeneponto,Laki-Laki,61 Tahun,Positif - Sembuh
 6671,Nikkel,Nuha,Kabupaten Luwu Timur,Perempuan,62 Tahun,Positif - Sembuh
 6672,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,40 Tahun,Positif - Sembuh
-6673,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,65 Tahun,Positif - Konfirmasi Aktif
-6674,Mangasa,Tamalate,Kota Makassar,Laki-Laki,40 Tahun,Positif - Konfirmasi Aktif
-6675,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,44 Tahun,Positif - Konfirmasi Aktif
+6673,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,65 Tahun,Positif - Sembuh
+6674,Mangasa,Tamalate,Kota Makassar,Laki-Laki,40 Tahun,Positif - Sembuh
+6675,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,44 Tahun,Positif - Sembuh
 6676,Pisang Selatan,Ujung Pandang,Kota Makassar,Laki-Laki,42 Tahun,Positif - Sembuh
 6677,-,-,Kota Makassar,Laki-Laki,58 Tahun,Positif - Sembuh
 6678,Ponjalae,Wara Timur,Kota Palopo,Laki-Laki,31 Tahun,Positif - Sembuh
@@ -6691,9 +6691,9 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6690,-,-,Kota Makassar,Laki-Laki,52 Tahun,Positif - Konfirmasi Aktif
 6691,-,-,Kota Makassar,Laki-Laki,41 Tahun,Positif - Konfirmasi Aktif
 6692,Pattunuang,Wajo,Kota Makassar,Laki-Laki,73 Tahun,Positif - Konfirmasi Aktif
-6693,Mario,Mariso,Kota Makassar,Laki-Laki,49 Tahun,Positif - Konfirmasi Aktif
+6693,Mario,Mariso,Kota Makassar,Laki-Laki,49 Tahun,Positif - Sembuh
 6694,Paropo,Panakkukang,Kota Makassar,Laki-Laki,8 Tahun,Positif - Sembuh
-6695,Sibatua,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,47 Tahun,Positif - Konfirmasi Aktif
+6695,Sibatua,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,47 Tahun,Positif - Sembuh
 6696,Bontoa,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,38 Tahun,Positif - Sembuh
 6697,Minasatene,Minasatene,Kabupaten Pangkajene Dan Kepulauan,Perempuan,2 Tahun,Positif - Sembuh
 6698,Corawali,Tanete Rilau,Kabupaten Barru,Perempuan,42 Tahun,Positif - Sembuh
@@ -6717,8 +6717,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6716,Pattallassang,Pattallassang,Kabupaten Takalar,Perempuan,38 Tahun,Positif - Sembuh
 6717,Soreang,Mappakasunggu,Kabupaten Takalar,Perempuan,47 Tahun,Positif - Sembuh
 6718,Lumpue,Bacukiki Barat,Kota Parepare,Perempuan,32 Tahun,Positif - Sembuh
-6719,Bunga Ejaya,Bontoala,Kota Makassar,Perempuan,77 Tahun,Positif - Konfirmasi Aktif
-6720,Bunga Ejaya,Bontoala,Kota Makassar,Perempuan,48 Tahun,Positif - Konfirmasi Aktif
+6719,Bunga Ejaya,Bontoala,Kota Makassar,Perempuan,77 Tahun,Positif - Sembuh
+6720,Bunga Ejaya,Bontoala,Kota Makassar,Perempuan,48 Tahun,Positif - Sembuh
 6721,Romanglompoa,Bontomarannu,Kabupaten Gowa,Laki-Laki,9 Tahun,Positif - Sembuh
 6722,Bontoala,Pallangga,Kabupaten Gowa,Perempuan,27 Tahun,Positif - Sembuh
 6723,Maradekaya,Bajeng,Kabupaten Gowa,Perempuan,29 Tahun,Positif - Sembuh
@@ -6777,7 +6777,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6776,Borong,Manggala,Kota Makassar,Perempuan,52 Tahun,Positif - Sembuh
 6777,Romangpolong,Somba Opu,Kabupaten Gowa,Perempuan,2 Tahun,Positif - Sembuh
 6778,Mannuruki,Tamalate,Rekreasi Duta Covid19 SulSel,Perempuan,2 Tahun,Positif - Sembuh
-6779,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,47 Tahun,Positif - Konfirmasi Aktif
+6779,Paddoang Doangan,Pangkajene,Kabupaten Pangkajene Dan Kepulauan,Laki-Laki,47 Tahun,Positif - Sembuh
 6780,Romangpolong,Somba Opu,Kabupaten Gowa,Laki-Laki,7 Tahun,Positif - Sembuh
 6781,Paropo,Panakkukang,Rekreasi Duta Covid19 SulSel,Perempuan,39 Tahun,Positif - Sembuh
 6782,-,-,Kabupaten Gowa,Perempuan,-,Positif - Sembuh
@@ -6847,13 +6847,13 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6846,Bonto Lempangan,Bontoa,RS Lain-lain,Laki-Laki,3 Tahun,Positif - Sembuh
 6847,Bontomarannu,Bontomanai,Kabupaten Kepulauan Selayar,Perempuan,54 Tahun,Positif - Sembuh
 6848,Lakatong,Mangara Bombang,Kabupaten Takalar,Laki-Laki,24 Tahun,Positif - Sembuh
-6849,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,67 Tahun,Positif - Konfirmasi Aktif
+6849,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,67 Tahun,Positif - Sembuh
 6850,Tangkebajeng,Bajeng,Kabupaten Gowa,Perempuan,19 Tahun,Positif - Sembuh
 6851,Layang,Bontoala,Kota Makassar,Perempuan,31 Tahun,Positif - Sembuh
-6852,Mandala,Mamajang,Kota Makassar,Laki-Laki,48 Tahun,Positif - Konfirmasi Aktif
+6852,Mandala,Mamajang,Kota Makassar,Laki-Laki,48 Tahun,Positif - Sembuh
 6853,Lakatong,Mangara Bombang,Kabupaten Takalar,Perempuan,22 Tahun,Positif - Sembuh
-6854,Mata Allo,Bontomarannu,Kabupaten Gowa,Perempuan,40 Tahun,Positif - Konfirmasi Aktif
-6855,Panambungan,Mariso,Kota Makassar,Laki-Laki,56 Tahun,Positif - Konfirmasi Aktif
+6854,Mata Allo,Bontomarannu,Kabupaten Gowa,Perempuan,40 Tahun,Positif - Sembuh
+6855,Panambungan,Mariso,Kota Makassar,Laki-Laki,56 Tahun,Positif - Sembuh
 6856,Mappala,Rappocini,Kota Makassar,Laki-Laki,51 Tahun,Positif - Konfirmasi Aktif
 6857,Monro-Monro,Binamu,Kabupaten Jeneponto,Laki-Laki,72 Tahun,Positif - Konfirmasi Aktif
 6858,Pallantikang,Bantaeng,Kabupaten Bantaeng,Laki-Laki,37 Tahun,Positif - Sembuh
@@ -6986,7 +6986,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 6985,Batua,Manggala,Kota Makassar,Perempuan,22 Tahun,Positif - Sembuh
 6986,-,-,Kota Makassar,Perempuan,36 Tahun,Positif - Sembuh
 6987,-,-,Kota Makassar,Laki-Laki,33 Tahun,Positif - Sembuh
-6988,-,-,Kota Makassar,Perempuan,57 Tahun,Positif - Konfirmasi Aktif
+6988,-,-,Kota Makassar,Perempuan,57 Tahun,Positif - Sembuh
 6989,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,52 Tahun,Positif - Sembuh
 6990,Masale,Panakkukang,Kota Makassar,Perempuan,60 Tahun,Positif - Sembuh
 6991,Karuwisi,Panakkukang,Kota Makassar,Laki-Laki,29 Tahun,Positif - Sembuh
@@ -7011,21 +7011,21 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7010,Pattalassang,Pattallassang,Kabupaten Gowa,Perempuan,25 Tahun,Positif - Sembuh
 7011,Gunung Sari,Rappocini,Kota Makassar,Perempuan,22 Tahun,Positif - Sembuh
 7012,Kaluku Bodoa,Tallo,Kota Makassar,Laki-Laki,13 Tahun,Positif - Sembuh
-7013,Gunung Sari,Rappocini,Kota Makassar,Perempuan,58 Tahun,Positif - Konfirmasi Aktif
+7013,Gunung Sari,Rappocini,Kota Makassar,Perempuan,58 Tahun,Positif - Sembuh
 7014,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
 7015,Kampili,Pallangga,Kabupaten Gowa,Laki-Laki,49 Tahun,Positif - Sembuh
 7016,Tidung,Rappocini,Kota Makassar,Perempuan,38 Tahun,Positif - Sembuh
 7017,Maradekaya,Bajeng,Kabupaten Gowa,Perempuan,60 Tahun,Positif - Sembuh
 7018,Maradekaya,Bajeng,Kabupaten Gowa,Laki-Laki,26 Tahun,Positif - Sembuh
-7019,Tidung,Rappocini,Kota Makassar,Perempuan,54 Tahun,Positif - Konfirmasi Aktif
+7019,Tidung,Rappocini,Kota Makassar,Perempuan,54 Tahun,Positif - Sembuh
 7020,Kanjilo,Barombong,Kabupaten Gowa,Perempuan,57 Tahun,Positif - Sembuh
 7021,-,-,Kabupaten Gowa,Perempuan,47 Tahun,Positif - Sembuh
-7022,Mamajang Dalam,Mamajang,Kota Makassar,Laki-Laki,65 Tahun,Positif - Konfirmasi Aktif
+7022,Mamajang Dalam,Mamajang,Kota Makassar,Laki-Laki,65 Tahun,Positif - Sembuh
 7023,Batangkaluku,Somba Opu,Kabupaten Gowa,Perempuan,40 Tahun,Positif - Sembuh
-7024,Mamajang Dalam,Mamajang,Kota Makassar,Perempuan,62 Tahun,Positif - Konfirmasi Aktif
-7025,Lariang Bangi,Makassar,Kota Makassar,Laki-Laki,73 Tahun,Positif - Konfirmasi Aktif
+7024,Mamajang Dalam,Mamajang,Kota Makassar,Perempuan,62 Tahun,Positif - Sembuh
+7025,Lariang Bangi,Makassar,Kota Makassar,Laki-Laki,73 Tahun,Positif - Sembuh
 7026,Pabaeng-Baeng,Tamalate,Kota Makassar,Laki-Laki,27 Tahun,Positif - Sembuh
-7027,Gunung Sari,Rappocini,Kota Makassar,Perempuan,61 Tahun,Positif - Konfirmasi Aktif
+7027,Gunung Sari,Rappocini,Kota Makassar,Perempuan,61 Tahun,Positif - Sembuh
 7028,Balang Baru,Tamalate,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
 7029,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,44 Tahun,Positif - Sembuh
 7030,Losari,Ujung Pandang,Kota Makassar,Perempuan,31 Tahun,Positif - Sembuh
@@ -7495,7 +7495,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7494,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,25 Tahun,Positif - Sembuh
 7495,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,35 Tahun,Positif - Sembuh
 7496,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,35 Tahun,Positif - Sembuh
-7497,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,44 Tahun,Positif - Konfirmasi Aktif
+7497,Sudiang,Biring Kanaya,Kota Makassar,Laki-Laki,44 Tahun,Positif - Sembuh
 7498,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,8 Tahun,Positif - Sembuh
 7499,Soroako,Nuha,Kabupaten Luwu Timur,Perempuan,25 Tahun,Positif - Sembuh
 7500,Rappocini,Rappocini,Kota Makassar,Perempuan,52 Tahun,Positif - Sembuh
@@ -7505,8 +7505,8 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7504,Nikkel,Nuha,Kabupaten Luwu Timur,Laki-Laki,41 Tahun,Positif - Sembuh
 7505,Patengko,Tomoni Timur,Kabupaten Luwu Timur,Laki-Laki,70 Tahun,Positif - Sembuh
 7506,Teromu,Mangkutana,Kabupaten Luwu Timur,Perempuan,26 Tahun,Positif - Sembuh
-7507,Bontolebang,Galesong Utara,Kabupaten Takalar,Perempuan,34 Tahun,Positif - Konfirmasi Aktif
-7508,Tamalate,Galesong Utara,Kabupaten Takalar,Perempuan,34 Tahun,Positif - Konfirmasi Aktif
+7507,Bontolebang,Galesong Utara,Kabupaten Takalar,Perempuan,34 Tahun,Positif - Sembuh
+7508,Tamalate,Galesong Utara,Kabupaten Takalar,Perempuan,34 Tahun,Positif - Sembuh
 7509,Kasimpureng,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,59 Tahun,Positif - Sembuh
 7510,Kasimpureng,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,59 Tahun,Positif - Sembuh
 7511,L O K A,Ujung Bulu,Kabupaten Bulukumba,Laki-Laki,34 Tahun,Positif - Sembuh
@@ -7637,14 +7637,14 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7636,Sudiang,Biring Kanaya,Kota Makassar,Perempuan,21 Tahun,Positif - Sembuh
 7637,Baju Bodoa,Maros Baru,Kabupaten Maros,Laki-Laki,40 Tahun,Positif - Sembuh
 7638,Bori Bellaya,Turikale,Kabupaten Maros,Laki-Laki,39 Tahun,Positif - Sembuh
-7639,Kelurahan Bombongan,Makale,Kabupaten Tana Toraja,Perempuan,48 Tahun,Positif - Konfirmasi Aktif
-7640,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,50 Tahun,Positif - Konfirmasi Aktif
+7639,Kelurahan Bombongan,Makale,Kabupaten Tana Toraja,Perempuan,48 Tahun,Positif - Sembuh
+7640,Tamalanrea Jaya,Tamalanrea,Kota Makassar,Perempuan,50 Tahun,Positif - Sembuh
 7641,Turikale,Turikale,Kabupaten Maros,Perempuan,43 Tahun,Positif - Sembuh
 7642,Pampang,Panakkukang,Kota Makassar,Perempuan,28 Tahun,Positif - Sembuh
 7643,Sudiang Raya,Biring Kanaya,Kota Makassar,Laki-Laki,67 Tahun,Positif - Sembuh
-7644,Sambung Jawa,Mamajang,Kota Makassar,Perempuan,51 Tahun,Positif - Konfirmasi Aktif
+7644,Sambung Jawa,Mamajang,Kota Makassar,Perempuan,51 Tahun,Positif - Sembuh
 7645,Turikale,Turikale,Kabupaten Maros,Laki-Laki,43 Tahun,Positif - Sembuh
-7646,Batua,Manggala,Kota Makassar,Perempuan,50 Tahun,Positif - Konfirmasi Aktif
+7646,Batua,Manggala,Kota Makassar,Perempuan,50 Tahun,Positif - Sembuh
 7647,Turikale,Turikale,Kabupaten Maros,Laki-Laki,32 Tahun,Positif - Sembuh
 7648,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,28 Tahun,Positif - Konfirmasi Aktif
 7649,Baju Bodoa,Maros Baru,Kabupaten Maros,Laki-Laki,41 Tahun,Positif - Sembuh
@@ -7736,7 +7736,7 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7735,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,30 Tahun,Positif - Sembuh
 7736,Tanjung Merdeka,Tamalate,Kota Makassar,Perempuan,34 Tahun,Positif - Konfirmasi Aktif
 7737,Mannuruki,Tamalate,Kota Makassar,Laki-Laki,31 Tahun,Positif - Konfirmasi Aktif
-7738,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,31 Tahun,Positif - Konfirmasi Aktif
+7738,Parang Tambung,Tamalate,Kota Makassar,Laki-Laki,31 Tahun,Positif - Sembuh
 7739,Gunung Sari,Rappocini,Kota Makassar,Perempuan,25 Tahun,Positif - Sembuh
 7740,Bontoa,Mandai,Kabupaten Maros,Laki-Laki,29 Tahun,Positif - Sembuh
 7741,Mangalli,Pallangga,Kabupaten Gowa,Perempuan,25 Tahun,Positif - Sembuh
@@ -7894,20 +7894,20 @@ No,Kelurahan,Kecamatan,Kabupaten,Jenis Kelamin,Umur,Status
 7893,Bontoramba,Somba Opu,RS Lain-lain,Perempuan,-,Positif - Sembuh
 7894,-,-,Kota Makassar,Perempuan,64 Tahun,Positif - Konfirmasi Aktif
 7895,Tidung,Rappocini,Kota Makassar,Laki-Laki,60 Tahun,Positif - Konfirmasi Aktif
-7896,Manggala,Manggala,Kota Makassar,Perempuan,16 Tahun,Positif - Konfirmasi Aktif
-7897,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,65 Tahun,Positif - Konfirmasi Aktif
+7896,Manggala,Manggala,Kota Makassar,Perempuan,16 Tahun,Positif - Sembuh
+7897,Tamalanrea,Tamalanrea,Kota Makassar,Perempuan,65 Tahun,Positif - Sembuh
 7898,Sumpang Minangae,Bacukiki Barat,Kota Parepare,Perempuan,33 Tahun,Positif - Konfirmasi Aktif
-7899,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,23 Tahun,Positif - Konfirmasi Aktif
+7899,Panaikang,Panakkukang,Kota Makassar,Laki-Laki,23 Tahun,Positif - Sembuh
 7900,Karampuang,Panakkukang,Kota Makassar,Laki-Laki,23 Tahun,Positif - Sembuh
 7901,-,Sinjai Utara,Kabupaten Sinjai,Perempuan,23 Tahun,Positif - Sembuh
 7902,Bongki,Sinjai Utara,Kabupaten Sinjai,Perempuan,28 Tahun,Positif - Sembuh
 7903,-,-,Kota Makassar,Perempuan,28 Tahun,Positif - Konfirmasi Aktif
-7904,Mario,Mariso,Kota Makassar,Laki-Laki,41 Tahun,Positif - Konfirmasi Aktif
+7904,Mario,Mariso,Kota Makassar,Laki-Laki,41 Tahun,Positif - Sembuh
 7905,Balangnipa,Sinjai Utara,Kabupaten Sinjai,Perempuan,9 Tahun,Positif - Sembuh
 7906,-,-,Kota Makassar,Perempuan,40 Tahun,Positif - Konfirmasi Aktif
 7907,-,-,Kota Makassar,Perempuan,44 Tahun,Positif - Konfirmasi Aktif
 7908,Kampala,Sinjai Timur,Kabupaten Sinjai,Perempuan,46 Tahun,Positif - Sembuh
-7909,Panaikang,Pattallassang,Kabupaten Gowa,Perempuan,27 Tahun,Positif - Konfirmasi Aktif
+7909,Panaikang,Pattallassang,Kabupaten Gowa,Perempuan,27 Tahun,Positif - Sembuh
 7910,Sudiang Raya,Biring Kanaya,Kota Makassar,Perempuan,32 Tahun,Positif - Konfirmasi Aktif
 7911,-,Tellu Limpoe,Kabupaten Sinjai,Perempuan,34 Tahun,Positif - Sembuh
 7912,Gunung Sari,Rappocini,Kota Makassar,Laki-Laki,39 Tahun,Positif - Konfirmasi Aktif
