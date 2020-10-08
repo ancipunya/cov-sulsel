@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 07-10-2020 18:03:58
+## Data diupdate pada : 08-10-2020 18:05:01
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -24,9 +24,9 @@
 |10|Kabupaten Jeneponto|530|38|317|885|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|84|7|156|247|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|239|3|75|317|https://anci.web.id/cor/kabupaten_luwu|
-|13|Kabupaten Luwu Timur|446|87|1350|1883|https://anci.web.id/cor/kabupaten_luwu_timur|
+|13|Kabupaten Luwu Timur|446|87|1351|1884|https://anci.web.id/cor/kabupaten_luwu_timur|
 |14|Kabupaten Luwu Utara|278|40|243|561|https://anci.web.id/cor/kabupaten_luwu_utara|
-|15|Kabupaten Maros|278|78|521|877|https://anci.web.id/cor/kabupaten_maros|
+|15|Kabupaten Maros|278|78|520|876|https://anci.web.id/cor/kabupaten_maros|
 |16|Kabupaten Pangkajene Dan Kepulauan|173|68|172|413|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
 |17|Kabupaten Pinrang|570|32|125|727|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|119|54|154|327|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
