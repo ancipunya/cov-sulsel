@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 18-10-2020 02:03:56
+## Data diupdate pada : 18-10-2020 22:04:31
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -37,8 +37,8 @@
 |23|Kabupaten Toraja Utara|178|6|32|216|https://anci.web.id/cor/kabupaten_toraja_utara|
 |24|Kabupaten Wajo|74|25|139|238|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|576|584|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
-|26|RS Lain-lain|0|0|449|449|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|9001|2547|17352|28900|https://anci.web.id/cor/jumlah_sulsel|
+|26|RS Lain-lain|0|0|448|448|https://anci.web.id/cor/rs_lain-lain|
+|27|Jumlah Sulsel|9001|2547|17351|28899|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
@@ -46,8 +46,8 @@
 | ---- | -------- | ---- | ---- |  ---- | ---- |
 | ODP | 682 | 8319 | 0 | 9001 | https://anci.web.id/cor/odp_detail.html |
 | PDP | 339 | 2001 | 209 | 2547 | https://anci.web.id/cor/pdp_detail.html |
-| POSITIF | 2080 | 14828 | 444 | 17352 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 3101 | 25148 | 653 | 28900 | https://anci.web.id/cor/jumlah_sulsel/ |
+| POSITIF | 2079 | 14828 | 444 | 17351 | https://anci.web.id/cor/positif_detail.html |
+| JUMLAH | 3100 | 25148 | 653 | 28899 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
