@@ -1,7 +1,7 @@
 
 # covid19-sulsel (Auto Update)
 
-## Data diupdate pada : 27-11-2020 23:35:08
+## Data diupdate pada : 29-11-2020 11:05:55
 
 #### Sumber data :
 [Sulsel Tanggap COVID-19](https://covid19.sulselprov.go.id)
@@ -12,33 +12,33 @@
 #### Rekap Perkabupaten 
 |No|Kota/Kab|ODP|PDP|Positif|Total|Link|
 | --- | --- | --- | --- | --- | --- | --- |
-|1|Kota Makassar|3102|1441|10029|14572|https://anci.web.id/cor/kota_makassar|
+|1|Kota Makassar|3102|1441|10068|14611|https://anci.web.id/cor/kota_makassar|
 |2|Kota Palopo|179|14|377|570|https://anci.web.id/cor/kota_palopo|
 |3|Kota Parepare|168|109|358|635|https://anci.web.id/cor/kota_parepare|
-|4|Kabupaten Bantaeng|171|3|274|448|https://anci.web.id/cor/kabupaten_bantaeng|
+|4|Kabupaten Bantaeng|171|3|275|449|https://anci.web.id/cor/kabupaten_bantaeng|
 |5|Kabupaten Barru|72|10|111|193|https://anci.web.id/cor/kabupaten_barru|
 |6|Kabupaten Bone|322|22|382|726|https://anci.web.id/cor/kabupaten_bone|
-|7|Kabupaten Bulukumba|389|54|358|801|https://anci.web.id/cor/kabupaten_bulukumba|
+|7|Kabupaten Bulukumba|389|54|363|806|https://anci.web.id/cor/kabupaten_bulukumba|
 |8|Kabupaten Enrekang|321|23|186|530|https://anci.web.id/cor/kabupaten_enrekang|
-|9|Kabupaten Gowa|565|324|1607|2496|https://anci.web.id/cor/kabupaten_gowa|
-|10|Kabupaten Jeneponto|530|38|603|1171|https://anci.web.id/cor/kabupaten_jeneponto|
+|9|Kabupaten Gowa|565|324|1609|2498|https://anci.web.id/cor/kabupaten_gowa|
+|10|Kabupaten Jeneponto|530|38|609|1177|https://anci.web.id/cor/kabupaten_jeneponto|
 |11|Kabupaten Kepulauan Selayar|84|7|178|269|https://anci.web.id/cor/kabupaten_kepulauan_selayar|
 |12|Kabupaten Luwu|239|3|135|377|https://anci.web.id/cor/kabupaten_luwu|
-|13|Kabupaten Luwu Timur|446|87|1586|2119|https://anci.web.id/cor/kabupaten_luwu_timur|
-|14|Kabupaten Luwu Utara|278|40|417|735|https://anci.web.id/cor/kabupaten_luwu_utara|
-|15|Kabupaten Maros|278|78|662|1018|https://anci.web.id/cor/kabupaten_maros|
-|16|Kabupaten Pangkajene Dan Kepulauan|173|68|226|467|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
-|17|Kabupaten Pinrang|570|32|207|809|https://anci.web.id/cor/kabupaten_pinrang|
+|13|Kabupaten Luwu Timur|446|87|1602|2135|https://anci.web.id/cor/kabupaten_luwu_timur|
+|14|Kabupaten Luwu Utara|278|40|421|739|https://anci.web.id/cor/kabupaten_luwu_utara|
+|15|Kabupaten Maros|278|78|672|1028|https://anci.web.id/cor/kabupaten_maros|
+|16|Kabupaten Pangkajene Dan Kepulauan|173|68|227|468|https://anci.web.id/cor/kabupaten_pangkajene_dan_kepulauan|
+|17|Kabupaten Pinrang|570|32|209|811|https://anci.web.id/cor/kabupaten_pinrang|
 |18|Kabupaten Sidenreng Rappang|119|54|185|358|https://anci.web.id/cor/kabupaten_sidenreng_rappang|
-|19|Kabupaten Sinjai|278|23|471|772|https://anci.web.id/cor/kabupaten_sinjai|
+|19|Kabupaten Sinjai|278|23|472|773|https://anci.web.id/cor/kabupaten_sinjai|
 |20|Kabupaten Soppeng|82|40|248|370|https://anci.web.id/cor/kabupaten_soppeng|
-|21|Kabupaten Takalar|126|33|329|488|https://anci.web.id/cor/kabupaten_takalar|
+|21|Kabupaten Takalar|126|33|330|489|https://anci.web.id/cor/kabupaten_takalar|
 |22|Kabupaten Tana Toraja|249|13|116|378|https://anci.web.id/cor/kabupaten_tana_toraja|
-|23|Kabupaten Toraja Utara|178|6|50|234|https://anci.web.id/cor/kabupaten_toraja_utara|
-|24|Kabupaten Wajo|74|25|234|333|https://anci.web.id/cor/kabupaten_wajo|
+|23|Kabupaten Toraja Utara|178|6|52|236|https://anci.web.id/cor/kabupaten_toraja_utara|
+|24|Kabupaten Wajo|74|25|236|335|https://anci.web.id/cor/kabupaten_wajo|
 |25|Rekreasi Duta Covid19 SulSel|8|0|575|583|https://anci.web.id/cor/rekreasi_duta_covid19_sulsel|
 |26|RS Lain-lain|0|0|443|443|https://anci.web.id/cor/rs_lain-lain|
-|27|Jumlah Sulsel|9001|2547|20347|31895|https://anci.web.id/cor/jumlah_sulsel|
+|27|Jumlah Sulsel|9001|2547|20439|31987|https://anci.web.id/cor/jumlah_sulsel|
 
 #### Rekap secara total
 
@@ -46,8 +46,8 @@
 | ---- | -------- | ---- | ---- |  ---- | ---- |
 | ODP | 682 | 8319 | 0 | 9001 | https://anci.web.id/cor/odp_detail.html |
 | PDP | 339 | 2001 | 209 | 2547 | https://anci.web.id/cor/pdp_detail.html |
-| POSITIF | 1581 | 18275 | 491 | 20347 | https://anci.web.id/cor/positif_detail.html |
-| JUMLAH | 2602 | 28595 | 700 | 31895 | https://anci.web.id/cor/jumlah_sulsel/ |
+| POSITIF | 1605 | 18343 | 491 | 20439 | https://anci.web.id/cor/positif_detail.html |
+| JUMLAH | 2626 | 28663 | 700 | 31987 | https://anci.web.id/cor/jumlah_sulsel/ |
 
  
 #### Berisi data dalam format csv, data sebaran sampai dengan tingkat kelurahan
